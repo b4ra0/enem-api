@@ -1,4 +1,5 @@
 import z from '@/lib/zod';
+import { SubjectValues, TopicValues } from '@/lib/zod/schemas/subjects';
 
 export const QuestionIndexPath = z.string().openapi({
     ref: 'index',
@@ -28,6 +29,17 @@ export const QuestionSchema = z
             .nullable()
             .describe('O idioma da questão')
             .openapi({ example: 'ingles' }),
+        subject: z
+            .enum(SubjectValues)
+            .nullable()
+            .default(null)
+            .describe('A matéria da questão')
+            .openapi({ example: 'matematica' }),
+        topics: z
+            .array(z.enum(TopicValues))
+            .default([])
+            .describe('Os tópicos da matéria abordados na questão')
+            .openapi({ example: ['progressao-aritmetica'] }),
     })
     .openapi({
         title: 'Questão',
@@ -149,6 +161,18 @@ export const GetQuestionsQuerySchema = z.object({
         .optional()
         .describe('O idioma desejado das questões')
         .openapi({ example: 'ingles' }),
+    subject: z
+        .enum(SubjectValues)
+        .optional()
+        .describe(
+            'Filtrar por matéria. Com filtros de matéria ou tópico, `offset` é a posição na lista filtrada',
+        )
+        .openapi({ example: 'matematica' }),
+    topic: z
+        .enum(TopicValues)
+        .optional()
+        .describe('Filtrar por tópico')
+        .openapi({ example: 'progressao-aritmetica' }),
 });
 
 export const GetQuestionDetailsQuerySchema = z.object({

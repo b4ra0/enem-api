@@ -1,0 +1,284 @@
+[
+    {
+        "value": "matematica",
+        "label": "Matemática",
+        "discipline": "matematica",
+        "topics": [
+            { "value": "conjuntos-numericos", "label": "Conjuntos numéricos e operações" },
+            { "value": "divisibilidade", "label": "Múltiplos, divisores, MMC e MDC" },
+            { "value": "potencias-notacao-cientifica", "label": "Potências, raízes e notação científica" },
+            { "value": "razao-proporcao", "label": "Razão, proporção e regra de três" },
+            { "value": "porcentagem", "label": "Porcentagem" },
+            { "value": "matematica-financeira", "label": "Matemática financeira e juros" },
+            { "value": "grandezas-medidas", "label": "Grandezas, unidades de medida e conversões" },
+            { "value": "escalas", "label": "Escalas" },
+            { "value": "equacoes-inequacoes", "label": "Equações e inequações" },
+            { "value": "sistemas-lineares", "label": "Sistemas lineares" },
+            { "value": "matrizes-determinantes", "label": "Matrizes e determinantes" },
+            { "value": "funcoes-conceitos", "label": "Funções: conceitos e gráficos" },
+            { "value": "funcao-afim", "label": "Função afim (1º grau)" },
+            { "value": "funcao-quadratica", "label": "Função quadrática (2º grau)" },
+            { "value": "funcao-exponencial", "label": "Função exponencial" },
+            { "value": "logaritmo", "label": "Logaritmo e função logarítmica" },
+            { "value": "sequencias-padroes", "label": "Sequências e padrões" },
+            { "value": "progressao-aritmetica", "label": "Progressão aritmética (PA)" },
+            { "value": "progressao-geometrica", "label": "Progressão geométrica (PG)" },
+            { "value": "geometria-plana", "label": "Geometria plana: áreas, perímetros e Pitágoras" },
+            { "value": "semelhanca-triangulos", "label": "Semelhança, congruência e Teorema de Tales" },
+            { "value": "angulos-poligonos", "label": "Ângulos e polígonos" },
+            { "value": "circunferencia", "label": "Circunferência e círculo" },
+            { "value": "geometria-espacial", "label": "Geometria espacial: sólidos e volumes" },
+            { "value": "projecoes-vistas", "label": "Projeções ortogonais, vistas e planificações" },
+            { "value": "transformacoes-geometricas", "label": "Simetria e transformações geométricas" },
+            { "value": "geometria-analitica", "label": "Geometria analítica" },
+            { "value": "trigonometria", "label": "Trigonometria" },
+            { "value": "analise-combinatoria", "label": "Análise combinatória" },
+            { "value": "probabilidade", "label": "Probabilidade" },
+            { "value": "media-moda-mediana", "label": "Média, moda e mediana" },
+            { "value": "desvio-padrao-variancia", "label": "Desvio padrão e variância" },
+            { "value": "graficos-tabelas", "label": "Leitura e interpretação de gráficos e tabelas" },
+            { "value": "logica-raciocinio", "label": "Lógica e raciocínio" }
+        ]
+    },
+    {
+        "value": "fisica",
+        "label": "Física",
+        "discipline": "ciencias-natureza",
+        "topics": [
+            { "value": "cinematica", "label": "Cinemática" },
+            { "value": "dinamica", "label": "Dinâmica e leis de Newton" },
+            { "value": "trabalho-energia", "label": "Trabalho, energia e potência mecânica" },
+            { "value": "quantidade-movimento", "label": "Impulso e quantidade de movimento" },
+            { "value": "gravitacao", "label": "Gravitação" },
+            { "value": "estatica", "label": "Estática e máquinas simples" },
+            { "value": "hidrostatica", "label": "Hidrostática" },
+            { "value": "termologia", "label": "Termologia, calorimetria e dilatação" },
+            { "value": "termodinamica", "label": "Termodinâmica e máquinas térmicas" },
+            { "value": "ondulatoria", "label": "Ondulatória" },
+            { "value": "acustica", "label": "Acústica" },
+            { "value": "optica", "label": "Óptica" },
+            { "value": "eletrostatica", "label": "Eletrostática" },
+            { "value": "eletrodinamica", "label": "Eletrodinâmica, circuitos e consumo elétrico" },
+            { "value": "eletromagnetismo", "label": "Magnetismo e eletromagnetismo" },
+            { "value": "fisica-moderna", "label": "Física moderna" },
+            { "value": "fontes-energia", "label": "Fontes de energia e seus impactos" }
+        ]
+    },
+    {
+        "value": "quimica",
+        "label": "Química",
+        "discipline": "ciencias-natureza",
+        "topics": [
+            { "value": "separacao-misturas", "label": "Substâncias, misturas e separação" },
+            { "value": "modelos-atomicos", "label": "Modelos atômicos e estrutura atômica" },
+            { "value": "tabela-periodica", "label": "Tabela periódica" },
+            { "value": "ligacoes-quimicas", "label": "Ligações e interações intermoleculares" },
+            { "value": "funcoes-inorganicas", "label": "Funções inorgânicas" },
+            { "value": "reacoes-quimicas", "label": "Reações químicas" },
+            { "value": "estequiometria", "label": "Estequiometria" },
+            { "value": "solucoes", "label": "Soluções e concentração" },
+            { "value": "propriedades-coligativas", "label": "Propriedades coligativas" },
+            { "value": "termoquimica", "label": "Termoquímica" },
+            { "value": "cinetica-quimica", "label": "Cinética química" },
+            { "value": "equilibrio-quimico", "label": "Equilíbrio químico" },
+            { "value": "acidos-bases-ph", "label": "Ácidos, bases e pH" },
+            { "value": "eletroquimica", "label": "Eletroquímica" },
+            { "value": "radioatividade", "label": "Radioatividade" },
+            { "value": "funcoes-organicas", "label": "Química orgânica: funções e nomenclatura" },
+            { "value": "isomeria", "label": "Isomeria" },
+            { "value": "reacoes-organicas", "label": "Reações orgânicas" },
+            { "value": "polimeros", "label": "Polímeros" },
+            { "value": "quimica-ambiental", "label": "Química ambiental" }
+        ]
+    },
+    {
+        "value": "biologia",
+        "label": "Biologia",
+        "discipline": "ciencias-natureza",
+        "topics": [
+            { "value": "bioquimica", "label": "Bioquímica e moléculas da vida" },
+            { "value": "citologia", "label": "Citologia" },
+            { "value": "metabolismo-energetico", "label": "Fotossíntese, respiração e fermentação" },
+            { "value": "histologia", "label": "Histologia" },
+            { "value": "reproducao-embriologia", "label": "Reprodução e embriologia" },
+            { "value": "genetica", "label": "Genética e hereditariedade" },
+            { "value": "biotecnologia", "label": "Biotecnologia e engenharia genética" },
+            { "value": "evolucao", "label": "Evolução" },
+            { "value": "microbiologia", "label": "Vírus, bactérias, protozoários e fungos" },
+            { "value": "botanica", "label": "Botânica" },
+            { "value": "zoologia", "label": "Zoologia" },
+            { "value": "fisiologia-humana", "label": "Fisiologia humana" },
+            { "value": "saude-doencas", "label": "Saúde, doenças e imunologia" },
+            { "value": "ecologia", "label": "Ecologia e ciclos biogeoquímicos" },
+            { "value": "impactos-ambientais", "label": "Impactos ambientais e conservação" }
+        ]
+    },
+    {
+        "value": "historia",
+        "label": "História",
+        "discipline": "ciencias-humanas",
+        "topics": [
+            { "value": "antiguidade", "label": "Antiguidade" },
+            { "value": "idade-media", "label": "Idade Média" },
+            { "value": "idade-moderna", "label": "Idade Moderna: Renascimento, Reformas e Absolutismo" },
+            { "value": "iluminismo-revolucoes", "label": "Iluminismo e revoluções burguesas" },
+            { "value": "revolucao-industrial", "label": "Revolução Industrial e movimento operário" },
+            { "value": "imperialismo", "label": "Imperialismo e colonialismo" },
+            { "value": "guerras-mundiais", "label": "Guerras mundiais e entreguerras" },
+            { "value": "totalitarismos", "label": "Totalitarismos" },
+            { "value": "guerra-fria", "label": "Guerra Fria e descolonização" },
+            { "value": "mundo-contemporaneo", "label": "Mundo contemporâneo" },
+            { "value": "america-latina", "label": "América Latina" },
+            { "value": "historia-africa", "label": "História da África" },
+            { "value": "povos-indigenas", "label": "Povos indígenas" },
+            { "value": "escravidao", "label": "Escravidão e resistência" },
+            { "value": "brasil-colonia", "label": "Brasil Colônia" },
+            { "value": "brasil-imperio", "label": "Brasil Império" },
+            { "value": "primeira-republica", "label": "Primeira República" },
+            { "value": "era-vargas", "label": "Era Vargas" },
+            { "value": "republica-1945-1964", "label": "República de 1945 a 1964" },
+            { "value": "ditadura-militar", "label": "Ditadura militar" },
+            { "value": "nova-republica", "label": "Redemocratização e Nova República" },
+            { "value": "patrimonio-memoria", "label": "Patrimônio, memória e cultura" }
+        ]
+    },
+    {
+        "value": "geografia",
+        "label": "Geografia",
+        "discipline": "ciencias-humanas",
+        "topics": [
+            { "value": "cartografia", "label": "Cartografia" },
+            { "value": "geologia-relevo", "label": "Geologia, relevo e solos" },
+            { "value": "clima", "label": "Clima e fenômenos atmosféricos" },
+            { "value": "hidrografia", "label": "Hidrografia e recursos hídricos" },
+            { "value": "biomas", "label": "Biomas e vegetação" },
+            { "value": "questoes-ambientais", "label": "Questões ambientais" },
+            { "value": "populacao-migracoes", "label": "População e migrações" },
+            { "value": "urbanizacao", "label": "Urbanização" },
+            { "value": "espaco-agrario", "label": "Espaço agrário e agronegócio" },
+            { "value": "industrializacao", "label": "Industrialização" },
+            { "value": "energia-recursos", "label": "Energia e recursos naturais" },
+            { "value": "transportes-circulacao", "label": "Transportes e circulação" },
+            { "value": "globalizacao", "label": "Globalização e economia mundial" },
+            { "value": "geopolitica", "label": "Geopolítica e conflitos" },
+            { "value": "regionalizacao-brasil", "label": "Regionalização do Brasil" }
+        ]
+    },
+    {
+        "value": "filosofia",
+        "label": "Filosofia",
+        "discipline": "ciencias-humanas",
+        "topics": [
+            { "value": "filosofia-antiga", "label": "Filosofia antiga" },
+            { "value": "filosofia-medieval", "label": "Filosofia medieval" },
+            { "value": "filosofia-moderna", "label": "Filosofia moderna: racionalismo e empirismo" },
+            { "value": "filosofia-contemporanea", "label": "Filosofia contemporânea" },
+            { "value": "etica-moral", "label": "Ética e moral" },
+            { "value": "filosofia-politica", "label": "Filosofia política e contratualismo" },
+            { "value": "teoria-conhecimento", "label": "Teoria do conhecimento e ciência" },
+            { "value": "estetica", "label": "Estética" },
+            { "value": "logica", "label": "Lógica" }
+        ]
+    },
+    {
+        "value": "sociologia",
+        "label": "Sociologia",
+        "discipline": "ciencias-humanas",
+        "topics": [
+            { "value": "classicos-sociologia", "label": "Clássicos: Durkheim, Weber e Marx" },
+            { "value": "trabalho-sociedade", "label": "Trabalho e sociedade" },
+            { "value": "cultura-identidade", "label": "Cultura, identidade e diversidade" },
+            { "value": "desigualdade-social", "label": "Desigualdade e estratificação social" },
+            { "value": "movimentos-sociais", "label": "Movimentos sociais" },
+            { "value": "cidadania-direitos", "label": "Cidadania e direitos humanos" },
+            { "value": "estado-poder", "label": "Estado, poder e democracia" },
+            { "value": "meios-comunicacao", "label": "Meios de comunicação e indústria cultural" },
+            { "value": "violencia", "label": "Violência e controle social" }
+        ]
+    },
+    {
+        "value": "portugues",
+        "label": "Língua Portuguesa",
+        "discipline": "linguagens",
+        "topics": [
+            { "value": "interpretacao-texto", "label": "Interpretação e compreensão de texto" },
+            { "value": "generos-textuais", "label": "Gêneros textuais" },
+            { "value": "funcoes-linguagem", "label": "Funções da linguagem" },
+            { "value": "variacao-linguistica", "label": "Variação linguística" },
+            { "value": "figuras-linguagem", "label": "Figuras de linguagem" },
+            { "value": "coesao-coerencia", "label": "Coesão e coerência" },
+            { "value": "intertextualidade", "label": "Intertextualidade" },
+            { "value": "argumentacao", "label": "Argumentação e estratégias persuasivas" },
+            { "value": "morfologia", "label": "Morfologia e classes de palavras" },
+            { "value": "sintaxe", "label": "Sintaxe" },
+            { "value": "semantica", "label": "Semântica e sentido das palavras" },
+            { "value": "tecnologias-informacao", "label": "Tecnologias da informação e comunicação" }
+        ]
+    },
+    {
+        "value": "literatura",
+        "label": "Literatura",
+        "discipline": "linguagens",
+        "topics": [
+            { "value": "generos-literarios", "label": "Gêneros literários e análise de poemas" },
+            { "value": "quinhentismo-barroco", "label": "Quinhentismo e Barroco" },
+            { "value": "arcadismo", "label": "Arcadismo" },
+            { "value": "romantismo", "label": "Romantismo" },
+            { "value": "realismo-naturalismo", "label": "Realismo e Naturalismo" },
+            { "value": "parnasianismo-simbolismo", "label": "Parnasianismo e Simbolismo" },
+            { "value": "pre-modernismo", "label": "Pré-Modernismo" },
+            { "value": "modernismo", "label": "Modernismo" },
+            { "value": "literatura-contemporanea", "label": "Literatura contemporânea" },
+            { "value": "literatura-portuguesa-africana", "label": "Literaturas portuguesa e africanas de língua portuguesa" }
+        ]
+    },
+    {
+        "value": "artes",
+        "label": "Artes",
+        "discipline": "linguagens",
+        "topics": [
+            { "value": "artes-visuais", "label": "Artes visuais" },
+            { "value": "vanguardas-europeias", "label": "Vanguardas europeias" },
+            { "value": "historia-arte", "label": "História da arte" },
+            { "value": "musica", "label": "Música" },
+            { "value": "teatro", "label": "Teatro" },
+            { "value": "danca", "label": "Dança" },
+            { "value": "cinema-fotografia", "label": "Cinema e fotografia" },
+            { "value": "arquitetura-design", "label": "Arquitetura e design" },
+            { "value": "arte-popular", "label": "Arte e cultura popular" }
+        ]
+    },
+    {
+        "value": "educacao-fisica",
+        "label": "Educação Física",
+        "discipline": "linguagens",
+        "topics": [
+            { "value": "esportes", "label": "Esportes" },
+            { "value": "praticas-corporais", "label": "Lutas, ginásticas, danças e jogos" },
+            { "value": "saude-qualidade-vida", "label": "Saúde e qualidade de vida" },
+            { "value": "corpo-sociedade", "label": "Corpo, mídia e sociedade" }
+        ]
+    },
+    {
+        "value": "ingles",
+        "label": "Inglês",
+        "discipline": "linguagens",
+        "topics": [
+            { "value": "interpretacao-texto", "label": "Interpretação e compreensão de texto" },
+            { "value": "generos-textuais", "label": "Gêneros textuais" },
+            { "value": "vocabulario-contexto", "label": "Vocabulário e expressões em contexto" },
+            { "value": "aspectos-culturais", "label": "Aspectos culturais" }
+        ]
+    },
+    {
+        "value": "espanhol",
+        "label": "Espanhol",
+        "discipline": "linguagens",
+        "topics": [
+            { "value": "interpretacao-texto", "label": "Interpretação e compreensão de texto" },
+            { "value": "generos-textuais", "label": "Gêneros textuais" },
+            { "value": "vocabulario-contexto", "label": "Vocabulário e expressões em contexto" },
+            { "value": "aspectos-culturais", "label": "Aspectos culturais" }
+        ]
+    }
+]

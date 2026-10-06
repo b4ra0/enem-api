@@ -27,9 +27,10 @@ export async function GET(
 
         const searchParams = request.nextUrl.searchParams;
 
-        let { limit, offset, language } = GetQuestionsQuerySchema.parse(
-            getSearchParamsAsObject(searchParams),
-        );
+        let { limit, offset, language, subject, topic } =
+            GetQuestionsQuerySchema.parse(
+                getSearchParamsAsObject(searchParams),
+            );
 
         if (Number(limit) > 50) {
             throw new EnemApiError({
@@ -58,15 +59,34 @@ export async function GET(
             language = exam.languages[0].value;
         }
 
-        const questionsToFetch = exam.questions
+        const isFiltered = Boolean(subject || topic);
+
+        const matchingQuestions = exam.questions
             .filter(
                 question =>
                     question.language === language || !question.language,
             )
-            .filter(question => question.index >= Number(offset))
-            .filter(
-                question => question.index <= Number(offset) + Number(limit),
-            );
+            .filter(question => !subject || question.subject === subject)
+            .filter(question => !topic || question.topics.includes(topic));
+
+        // Sem filtros, `offset` continua sendo o número da questão na prova.
+        // Com filtros, a numeração deixa de ser contínua, então `offset`
+        // passa a ser a posição na lista filtrada.
+        const questionsToFetch = isFiltered
+            ? matchingQuestions.slice(
+                  Number(offset),
+                  Number(offset) + Number(limit),
+              )
+            : matchingQuestions
+                  .filter(question => question.index >= Number(offset))
+                  .filter(
+                      question =>
+                          question.index <= Number(offset) + Number(limit),
+                  );
+
+        const total = isFiltered
+            ? matchingQuestions.length
+            : exam.questions.length;
 
         const questions: Array<z.infer<typeof QuestionDetailSchema>> = [];
 
@@ -92,9 +112,8 @@ export async function GET(
                 metadata: {
                     limit: Number(limit),
                     offset: Number(offset),
-                    total: exam.questions.length,
-                    hasMore:
-                        Number(offset) + Number(limit) < exam.questions.length,
+                    total,
+                    hasMore: Number(offset) + Number(limit) < total,
                 },
                 questions,
             }),

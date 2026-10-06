@@ -1,6 +1,7 @@
 import { createDocument } from 'zod-openapi';
 import { examsPaths } from './exams';
 import { questionsPaths } from './questions';
+import { subjectsPaths } from './subjects';
 
 export const document = createDocument({
     openapi: '3.0.3',
@@ -22,5 +23,6 @@ export const document = createDocument({
     paths: {
         ...examsPaths,
         ...questionsPaths,
+        ...subjectsPaths,
     },
 });

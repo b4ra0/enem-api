@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write \"**/*.{ts,tsx}\"",
-    "docs": "cd docs && mintlify dev --port 3001"
+    "docs": "cd docs && mintlify dev --port 3001",
+    "classify": "node scripts/classify-questions.mjs"
   },
   "dependencies": {
     "@prisma/client": "5.18.0",
@@ -33,6 +34,7 @@
     "zod-openapi": "^2.19.0"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.129.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
