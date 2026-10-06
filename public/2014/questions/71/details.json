@@ -3,7 +3,12 @@
     "index": 71,
     "year": 2014,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "equilibrio-quimico",
+        "quimica-ambiental"
+    ],
     "context": "Parte do gás carbônico da atmosfera é absorvida pela água do mar. O esquema representa reações que ocorrem naturalmente, em equilíbrio, no sistema ambiental marinho. O excesso de dióxido de carbono na atmosfera pode afetar os recifes de corais.\n\n![](https://enem.dev/2014/questions/71/e948057c-b97b-4224-872f-475907a0faeb.png)",
     "files": [
         "https://enem.dev/2014/questions/71/e948057c-b97b-4224-872f-475907a0faeb.png"

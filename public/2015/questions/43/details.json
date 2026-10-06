@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cultura-identidade",
+        "classicos-sociologia"
+    ],
     "context": "Só num sentido muito restrito, o indivíduo cria com seus próprios recursos o modo de falar e de pensar que lhe são atribuídos. Fala o idioma de seu grupo; pensa à maneira de seu grupo. Encontra a sua disposição apenas determinadas palavras e significados. Estas não só determinam, em grau considerável, as vias de acesso mental ao mundo circundante, mas também mostram, ao mesmo tempo, sob que ângulo e em que contexto de atividade os objetos foram até agora perceptíveis ao grupo ou ao indivíduo.\n\nMANNHEIM, K. **Ideologia e utopia**. Porto Alegre: Globo 1950 (adaptado)",
     "files": [],
     "correctAlternative": "A",

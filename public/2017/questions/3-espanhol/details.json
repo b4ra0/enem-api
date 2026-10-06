@@ -4,6 +4,11 @@
     "year": 2017,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "Aquí estoy establecido,  \nEn los Estados Unidos,  \nDiez años pasaron ya,  \nEn que crucé de mojado,  \nPapeles no he arreglado,  \nSigo siendo un ilegal.  \nTengo mi esposa y mis hijos,  \nQue me los traje muy chicos,  \nY se han olvidado ya,  \nDe mi México querido,  \nDel que yo nunca me olvido,  \nY no puedo regresar.  \n\\[…\\]  \nMis hijos no hablan conmigo,  \nOtro idioma han aprendido,  \nY olvidado el español,  \nPiensan como americanos,  \nNiegan que son mexicanos,  \nAunque tengan mi color.\n\nLOS TIGRES DEL NORTE. **Jaula de oro**. Woodland Hills, Califórnia: Fonovisa, 1986 (fragmento).",
     "files": [],
     "correctAlternative": "B",

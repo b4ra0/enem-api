@@ -3,7 +3,11 @@
     "index": 30,
     "year": 2023,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "literatura-contemporanea"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

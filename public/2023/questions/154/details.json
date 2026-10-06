@@ -3,7 +3,12 @@
     "index": 154,
     "year": 2023,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "geometria-plana"
+    ],
     "context": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.\n\n![](https://enem.dev/2023/questions/154/d39268bf-82aa-4063-8bcf-dfdafa4a3aa8.png)",
     "files": [
         "https://enem.dev/2023/questions/154/d39268bf-82aa-4063-8bcf-dfdafa4a3aa8.png"

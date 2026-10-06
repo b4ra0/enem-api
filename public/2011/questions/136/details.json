@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas"
+    ],
     "context": "Para colocar o pistão no motor que está sendo consertado, o dono da oficina terá de adquirir aquele que tenha o diâmetro mais próximo do que precisa.",
     "files": [],
     "correctAlternative": "E",

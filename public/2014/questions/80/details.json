@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "separacao-misturas",
+        "reacoes-organicas"
+    ],
     "context": "![](https://enem.dev/2014/questions/80/9dca1d8e-381f-4b07-ba36-17afcccfb4ad.png)",
     "files": [
         "https://enem.dev/2014/questions/80/9dca1d8e-381f-4b07-ba36-17afcccfb4ad.png"

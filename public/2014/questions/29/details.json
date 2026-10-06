@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "idade-moderna"
+    ],
     "context": "A filosofia encontra-se escrita neste grande livro que continuamente se abre perante nossos olhos (isto é, o universo), que não se pode compreender antes de entender a língua e conhecer os caracteres com os quais está escrito. Ele está escrito em língua matemática, os caracteres são triângulos, circunferências e outras figuras geométricas, sem cujos meios é impossível entender humanamente as palavras; sem eles, vagamos perdidos dentro de um obscuro labirinto.\n\n_GALILEI, G. O ensaiador. Os pensadores. São Paulo: Abril Cultural, 1978._",
     "files": [],
     "correctAlternative": "C",

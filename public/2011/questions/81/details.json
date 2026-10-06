@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria",
+        "solucoes"
+    ],
     "context": "![](https://enem.dev/2011/questions/81/821b4e4b-ae24-40d1-a0fd-149f6b8ce34a.jpg)",
     "files": [
         "https://enem.dev/2011/questions/81/821b4e4b-ae24-40d1-a0fd-149f6b8ce34a.jpg"

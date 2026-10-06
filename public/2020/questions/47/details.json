@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "populacao-migracoes"
+    ],
     "context": "As estatísticas mais recentes do Brasil rural revelam um paradoxo que interessa a toda sociedade: o emprego de natureza agrícola definha em praticamente todo o país, mas a população residente no campo voltou a crescer; ou pelo menos parou de cair. Esses sinais trocados sugerem que a dinâmica agrícola, embora fundamental, já não determina sozinha os rumos da demografia no campo. Esse novo cenário é explicado em parte pelo incremento do emprego não agrícola no campo. Ao mesmo tempo, aumentou a massa de desempregados, inativos e aposentados que mantêm residência rural.\n\nSILVA, J.G. Velhos e novos mitos do rural brasileiro. **Estudos Avançados**, n. 43, dez. 2001.",
     "files": [],
     "correctAlternative": "A",

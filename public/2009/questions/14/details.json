@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia",
+        "trabalho-energia"
+    ],
     "context": "![](https://enem.dev/2009/questions/14/524ed514-1e24-42fe-9a5f-efebf0ce3c6d.png)",
     "files": [
         "https://enem.dev/2009/questions/14/524ed514-1e24-42fe-9a5f-efebf0ce3c6d.png"

@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "microbiologia",
+        "saude-doencas"
+    ],
     "context": "Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias.",
     "files": [],
     "correctAlternative": "E",

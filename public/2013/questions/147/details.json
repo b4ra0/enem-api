@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "grandezas-medidas"
+    ],
     "context": "![](https://enem.dev/2013/questions/147/3167f5c3-7c37-42fc-9abf-e5b01abc1bea.png)",
     "files": [
         "https://enem.dev/2013/questions/147/3167f5c3-7c37-42fc-9abf-e5b01abc1bea.png"

@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas",
+        "razao-proporcao"
+    ],
     "context": "![](https://enem.dev/2016/questions/164/6be55162-4edb-4b05-9826-2502c11e4f14.png)\n\nComo o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.",
     "files": [
         "https://enem.dev/2016/questions/164/6be55162-4edb-4b05-9826-2502c11e4f14.png"

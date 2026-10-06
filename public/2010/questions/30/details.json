@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica",
+        "filosofia-moderna"
+    ],
     "context": "O príncipe, portanto, não deve se incomodar com a reputação de cruel, se seu propósito é manter o povo unido e leal. De fato, com uns poucos exemplos duros poderá ser mais clemente do que outros que, por muita piedade, permitem os distúrbios que levem ao assassínio e ao roubo.\n\nMAQUIAVEL, N. O Príncipe, São Paulo: Martin Claret, 2009.",
     "files": [],
     "correctAlternative": "E",

@@ -3,7 +3,12 @@
     "index": 94,
     "year": 2023,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "solucoes",
+        "quimica-ambiental"
+    ],
     "context": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seauintes parâmetros:\n\n![](https://enem.dev/2023/questions/94/429989c0-d615-4e19-a5e6-838e81a6039c.png)",
     "files": [
         "https://enem.dev/2023/questions/94/429989c0-d615-4e19-a5e6-838e81a6039c.png"

@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo"
+    ],
     "context": "As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da atmosfera e da hidrosfera, contoladas pelo calor do Sol, produzem tempestades,  \ninundações, geleiras e outros agentes de erosão.\n\n**PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2002 (adaptado).**",
     "files": [],
     "correctAlternative": "A",

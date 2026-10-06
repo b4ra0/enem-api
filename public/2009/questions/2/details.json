@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana"
+    ],
     "context": "Analise a figura.\n\n![](https://enem.dev/2009/questions/2/7af3247b-4580-4b52-8d5a-b64887db9b0e.png)",
     "files": [
         "https://enem.dev/2009/questions/2/7af3247b-4580-4b52-8d5a-b64887db9b0e.png"

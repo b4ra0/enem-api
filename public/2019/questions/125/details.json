@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "botanica",
+        "evolucao"
+    ],
     "context": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.\n\n![](https://enem.dev/2019/questions/125/b5c83454-33b7-446f-968d-3992812178ee.png)",
     "files": [
         "https://enem.dev/2019/questions/125/b5c83454-33b7-446f-968d-3992812178ee.png"

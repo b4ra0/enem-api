@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "antiguidade"
+    ],
     "context": "Ao abrigo do teto, sua jornada de fé começava na sala de jantar. Na pequena célula cristã, dividia-se a refeição e durante elas os crentes conversavam, rezavam e liam cartas de correligionários residentes em locais diferentes do Império Romano (século II da Era Cristã). Esse ambiente garantia peculiar apoio emocional às experiências intensamente individuais que abrigava.\n\nSENNET, R. **Carne e pedra**. Rio de Janeiro. Record, 2008.",
     "files": [],
     "correctAlternative": "D",

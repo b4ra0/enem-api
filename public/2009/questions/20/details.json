@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termodinamica",
+        "fontes-energia"
+    ],
     "context": "![](https://enem.dev/2009/questions/20/a5b76cbb-b0e8-42a4-ba0f-ca81b7abdcb7.png)",
     "files": [
         "https://enem.dev/2009/questions/20/a5b76cbb-b0e8-42a4-ba0f-ca81b7abdcb7.png"

@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-organicas",
+        "polimeros"
+    ],
     "context": "Uma das técnicas de reciclagem química do polímero PET \\[poli(tereftalato de etileno)\\] gera o tereftalato de metila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.\n\n![](https://enem.dev/2019/questions/124/24b5f137-a249-4cc7-aad5-0cfb8b5c94f9.png)",
     "files": [
         "https://enem.dev/2019/questions/124/24b5f137-a249-4cc7-aad5-0cfb8b5c94f9.png"

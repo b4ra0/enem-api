@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "equilibrio-quimico",
+        "acidos-bases-ph"
+    ],
     "context": "![](https://enem.dev/2011/questions/75/a7c29aaa-ca64-4653-91eb-743dfea2cf2f.jpg)",
     "files": [
         "https://enem.dev/2011/questions/75/a7c29aaa-ca64-4653-91eb-743dfea2cf2f.jpg"

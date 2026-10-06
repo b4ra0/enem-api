@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas"
+    ],
     "context": "Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250.",
     "files": [],
     "correctAlternative": "C",

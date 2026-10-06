@@ -3,7 +3,11 @@
     "index": 177,
     "year": 2015,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "![](https://enem.dev/2015/questions/177/b816c051-5903-47d1-9b6d-4a005c997bb1.png)",
     "files": [
         "https://enem.dev/2015/questions/177/b816c051-5903-47d1-9b6d-4a005c997bb1.png"

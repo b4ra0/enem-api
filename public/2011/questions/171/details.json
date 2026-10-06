@@ -3,7 +3,12 @@
     "index": 171,
     "year": 2011,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2011/questions/171/98aac117-ec69-4337-8b51-b97af4d14763.png)",
     "files": [
         "https://enem.dev/2011/questions/171/98aac117-ec69-4337-8b51-b97af4d14763.png"

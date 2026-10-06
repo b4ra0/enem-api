@@ -4,6 +4,11 @@
     "year": 2016,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2016/questions/92-ingles/6ca4335b-6800-4f05-8d18-bee5cc7d068b.png)\n\nDisponível em: www.ct.gov. Acesso em: 30 jul. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2016/questions/92-ingles/6ca4335b-6800-4f05-8d18-bee5cc7d068b.png"

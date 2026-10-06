@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "estatica"
+    ],
     "context": "![](https://enem.dev/2016/questions/82/d1fcf538-6917-4172-95f2-3c3e2f874aa5.png)",
     "files": [
         "https://enem.dev/2016/questions/82/d1fcf538-6917-4172-95f2-3c3e2f874aa5.png"

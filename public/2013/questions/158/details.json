@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).",
     "files": [],
     "correctAlternative": "B",

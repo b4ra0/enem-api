@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "evolucao"
+    ],
     "context": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações Dl e D2.\n\n![](https://enem.dev/2020/questions/101/aa85fb73-5f76-41ff-958e-c194b4a9a3eb.png)",
     "files": [
         "https://enem.dev/2020/questions/101/aa85fb73-5f76-41ff-958e-c194b4a9a3eb.png"

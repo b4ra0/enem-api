@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "progressao-geometrica"
+    ],
     "context": "Torneios de tênis, em geral, são disputados em sistema de eliminatória simples. Nesse sistema, são disputadas partidas entre dois competidores, com a eliminação do perdedor e promoção do vencedor para a fase seguinte. Dessa forma, se na 1ª fase o torneio conta com 2_n_ competidores, então na 2ª fase restarão _n_ competidores, e assim sucessivamente até a partida final.  \nEm um torneio de tênis, disputado nesse sistema, participam 128 tenistas.",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "equacoes-inequacoes"
+    ],
     "context": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n\n![](https://enem.dev/2021/questions/172/604532ed-546c-43dc-a7eb-3b0b3bfca440.png)\n\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx), que, por sua vez, é determinada pela fórmula:\n\nFc máx. = 220 – idades,\n\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).",
     "files": [
         "https://enem.dev/2021/questions/172/604532ed-546c-43dc-a7eb-3b0b3bfca440.png"

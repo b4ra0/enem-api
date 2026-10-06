@@ -3,7 +3,12 @@
     "index": 104,
     "year": 2009,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "generos-textuais"
+    ],
     "context": "Diferentemente do texto escrito, que em geral compele os leitores a lerem numa onda linear – da esquerda para a direita e de cima para baixo, na página  \nimpressa – hipertextos encorajam os leitores a moverem-se de um bloco de texto a outro, rapidamente e não sequencialmente. Considerando que o hipertexto oferece uma multiplicidade de caminhos a seguir, podendo ainda o leitor incorporar seus caminhos e suas decisões como novos caminhos, inserindo informações novas, o leitor-navegador passa a ter um papel mais ativo e uma oportunidade diferente da de um leitor de texto impresso. Dificilmente dois leitores de hipertextos farão os mesmos caminhos e tomarão as mesmas decisões.\n\nMARCUSCHI, L. A. **Cognição, linguagem e práticas interacionais.**  \nRio: Lucerna, 2007.",
     "files": [],
     "correctAlternative": "A",

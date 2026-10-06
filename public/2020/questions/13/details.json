@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "esportes",
+        "corpo-sociedade"
+    ],
     "context": "**Deu vontade de jogar, mas não sabe como reunir**  \n**os amigos…**\n\nMuitas vezes é difícil encontrar grupos para bater uma bola. Em função disso, estão sendo disponibilizados aplicativos que reúnem times e reservam espaços para os adeptos da paixão nacional. Num exemplo dessas iniciativas, é possível organizar uma partida de futebol, se inscrever para participar de um jogo, alugar campos e quadras, convidar jogadores. O aplicativo tem dois tipos  \nde usuários: um que o usa como ferramenta de gestão do grupo, convidando amigos para jogar, vendo quem confirmou e avaliando os jogos. Outro usuário é o que busca partidas perto de onde ele está, caso de pessoas que estão de passagem numa cidade.\n\nBENEDICTO. M.; MARLI, M. Bola na rede. **Retratos: a revista do IBGE**, n. 2, 2017 (adaptado).",
     "files": [],
     "correctAlternative": "E",

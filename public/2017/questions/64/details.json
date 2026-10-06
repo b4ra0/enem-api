@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica"
+    ],
     "context": "Uma sociedade é uma associação mais ou menos autossuficiente de pessoas que em suas relações mútuas reconhecem certas regras de conduto com obrigatórias e que, na maioria das vezes, agem de acordo com elas. Uma sociedade é bom ordenada não apenas quando está planejada para promover o bem de seus membros, mas quando é também efetivamente regulada por uma concepção pública de justiça. Isto é, trata-se de uma sociedade na qual todos aceitam, e sabem que os outros aceitam, o mesmo princípio de justiça.\n\nRAWLS, J. **Uma teoria da justiça**. São Paulo: Martins Fontes, 1997. Adaptado.",
     "files": [],
     "correctAlternative": "A",

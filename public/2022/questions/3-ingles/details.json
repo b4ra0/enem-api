@@ -4,6 +4,11 @@
     "year": 2022,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png)",
     "files": [
         "https://enem.dev/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png"

@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "optica"
+    ],
     "context": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as figuras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.\n\n![](https://enem.dev/2022/questions/135/c20e9e98-446f-4342-bf88-a8069abe0fb9.png)\n\nZOBEL, G. Brasileiro inventor de “Iuz engarrafada” tem ideia espalhada pelo mundo.  \nDisponível em: www.bbc.com. Acesso em 23 jun. 2022 (adaptado)",
     "files": [
         "https://enem.dev/2022/questions/135/c20e9e98-446f-4342-bf88-a8069abe0fb9.png"

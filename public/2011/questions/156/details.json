@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim"
+    ],
     "context": "O saldo de contratações no mercado formal no setor varejista da região metropolitana de São Paulo registrou alta. Comparando as contratações deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de 4 300 vagas no setor, totalizando 880 605 trabalhadores com carteira assinada.\n\nDisponível em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).",
     "files": [],
     "correctAlternative": "C",

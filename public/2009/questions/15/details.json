@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "eletroquimica"
+    ],
     "context": "![](https://enem.dev/2009/questions/15/a4e6a5bb-5a91-4e8a-86f2-b4775c56178f.jpg)",
     "files": [
         "https://enem.dev/2009/questions/15/a4e6a5bb-5a91-4e8a-86f2-b4775c56178f.jpg"

@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastaria ir à França num minuto para assistir ao pôr do sol.\n\nSAINT-EXUPÉRY, A. **O Pequeno Príncipe.** Rio de Janeiro: Agir, 1996.",
     "files": [],
     "correctAlternative": "B",

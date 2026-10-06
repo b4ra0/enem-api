@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-organicas",
+        "funcoes-organicas"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

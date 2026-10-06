@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-inorganicas"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cidadania-direitos",
+        "cultura-identidade"
+    ],
     "context": "Muitos países se caracterizam por terem populações multiétnicas. Com frequência, evoluíram desse modo ao longo de séculos. Outras sociedades se tornaram multiétnicas mais rapidamente, como resultado de políticas incentivando a migração, ou por conta de legados coloniais e imperiais.\n\nGIDDENS,A. **Sociologia**. Porto Alegre: Penso, 2012 (adaptado)",
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "geometria-plana"
+    ],
     "context": "![](https://enem.dev/2013/questions/141/3cf638d1-7d15-4696-b092-de676c4e6701.png)",
     "files": [
         "https://enem.dev/2013/questions/141/3cf638d1-7d15-4696-b092-de676c4e6701.png"

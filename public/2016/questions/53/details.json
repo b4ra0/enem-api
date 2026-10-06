@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia",
+        "bioquimica"
+    ],
     "context": "![](https://enem.dev/2016/questions/53/f5c532a3-9d64-4230-bdb5-98b3db576752.jpg)",
     "files": [
         "https://enem.dev/2016/questions/53/f5c532a3-9d64-4230-bdb5-98b3db576752.jpg"

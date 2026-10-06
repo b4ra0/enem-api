@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria",
+        "reacoes-quimicas"
+    ],
     "context": "As mobilizações para promover um planeta melhor para as futuras gerações são cada vez frequentes. A maior parte dos meios de transporte de massa é atualmente movida pela queima de um combustível fóssil. A título de exemplificação do ônus causado por essa prática, basta saber que um carro produz, em média, cerca de 200g de dióxido de carbono por km percorrido.\n\nRevista Aquecimento Global. Ano 2, no 8. Publicação do Instituto Brasileiro de Cultura Ltda.",
     "files": [],
     "correctAlternative": "D",

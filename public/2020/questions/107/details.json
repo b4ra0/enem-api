@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "hidrostatica"
+    ],
     "context": "A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real).  Considere que a torre real tenha uma massa Mtorre e exerça na fundação sobre a qual foi erguida uma pressão Ptorre. O modelo construído pelo arquiteto terá uma massa Mmodelo e exercerá uma pressão Pmodelo .\n\n![](https://enem.dev/2020/questions/107/c7f2aee2-29a9-4890-a8ac-7e5b0a2c774d.png)",
     "files": [
         "https://enem.dev/2020/questions/107/c7f2aee2-29a9-4890-a8ac-7e5b0a2c774d.png"

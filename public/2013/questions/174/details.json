@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas"
+    ],
     "context": "![](https://enem.dev/2013/questions/174/058b1a19-673e-41e2-864f-585fb4405de3.png)\n\nHá interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.",
     "files": [
         "https://enem.dev/2013/questions/174/058b1a19-673e-41e2-864f-585fb4405de3.png"

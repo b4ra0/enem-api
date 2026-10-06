@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "**BONS DIAS!**  \n_14 de junho de 1889_\n\nÓ doce, ó longa, ó inexprimível melancolia dos jornais velhos! Conhece-se um homem diante de um deles. Pessoa que não sentir alguma coisa ao ler folhas de meio século, bem pode crer que não terá nunca uma das mais profundas sensações da vida, – igual ou quase igual à que dá a vista das ruínas de uma civilização. Não é a saudade piegas, mas a recomposição do extinto, a revivescência do passado.\n\nASSIS, M. **Bons dias! (Crônicas 1888-1889)**. Campinas: Editora da Unicamp; São Paulo: Hucitec, 1990.",
     "files": [],
     "correctAlternative": "C",

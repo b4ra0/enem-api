@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcoes-conceitos",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2014/questions/143/7bcb5fac-8918-4e78-8ef7-d6e64ee5a6a4.png)\n\nNo topo da escultura foi ligada uma torneira que verte água, para dentro dela, com vazão constante.",
     "files": [
         "https://enem.dev/2014/questions/143/7bcb5fac-8918-4e78-8ef7-d6e64ee5a6a4.png"

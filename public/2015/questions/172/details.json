@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-analitica"
+    ],
     "context": "![](https://enem.dev/2015/questions/172/d163cf5f-97a0-47e9-a6ab-c11c84e0e5c9.png)\n\nOs estudos indicam que o novo ponto _T_ deverá ser instalado, nesse percurso, entre as paradas já existentes _P_ e _Q_, de modo que as distâncias percorridas pelo ônibus entre os pontos _P_ e _T_ e entre os pontos _T_ e _Q_ sejam iguais.",
     "files": [
         "https://enem.dev/2015/questions/172/d163cf5f-97a0-47e9-a6ab-c11c84e0e5c9.png"

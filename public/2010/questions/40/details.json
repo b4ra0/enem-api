@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "revolucao-industrial"
+    ],
     "context": "Homens da Inglaterra, por que arar para os senhores que  \nvos mantêm na miséria?\n\nPor que tecer com esforços e cuidado as ricas roupas que  \nvossos tiranos vestem?\n\nPor que alimentar, vestir e poupar do berço até o túmulo  \nesses parasitas ingratos que exploram vosso suor — ah,  \nque bebem vosso sangue?\n\nSHELLEY. Os homens da Inglaterra. Apud HUBERMAN, L.  \nHistória da Riqueza do Homem. Rio de Janeiro: Zahar, 1982.",
     "files": [],
     "correctAlternative": "E",

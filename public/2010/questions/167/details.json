@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "O gráfico apresenta a quantidade de gols marcados pelos artilheiros das Copas do Mundo desde a Copa de 1930 até a de 2006.\n\n![](https://enem.dev/2010/questions/167/62dd2345-60b2-49ba-af99-ee935344a42d.jpg)",
     "files": [
         "https://enem.dev/2010/questions/167/62dd2345-60b2-49ba-af99-ee935344a42d.jpg"

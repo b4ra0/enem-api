@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "escalas"
+    ],
     "context": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.\n\n![](https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png)",
     "files": [
         "https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png"

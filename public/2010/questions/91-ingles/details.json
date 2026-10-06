@@ -4,6 +4,11 @@
     "year": 2010,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2010/questions/91-ingles/ce7cb3d4-77f9-454b-b3a1-435aa731d27e.png)\n\nDisponível em: http://www.fool.com. Acesso em: 21 jul. 2010.",
     "files": [
         "https://enem.dev/2010/questions/91-ingles/ce7cb3d4-77f9-454b-b3a1-435aa731d27e.png"

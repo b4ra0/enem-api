@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas"
+    ],
     "context": "![](https://enem.dev/2011/questions/58/d80676e3-424b-494d-bbf9-eac96350b56b.jpg)",
     "files": [
         "https://enem.dev/2011/questions/58/d80676e3-424b-494d-bbf9-eac96350b56b.jpg"

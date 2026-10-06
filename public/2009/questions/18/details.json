@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termologia",
+        "eletrodinamica"
+    ],
     "context": "![](https://enem.dev/2009/questions/18/984c1d41-ccbd-4532-b8aa-b39dfefb0649.png)",
     "files": [
         "https://enem.dev/2009/questions/18/984c1d41-ccbd-4532-b8aa-b39dfefb0649.png"

@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletromagnetismo"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "B",

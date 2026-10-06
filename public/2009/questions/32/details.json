@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fisica-moderna"
+    ],
     "context": "![](https://enem.dev/2009/questions/32/2f78c8cf-ff4d-40a1-ad8a-fd513f7001c3.png)",
     "files": [
         "https://enem.dev/2009/questions/32/2f78c8cf-ff4d-40a1-ad8a-fd513f7001c3.png"

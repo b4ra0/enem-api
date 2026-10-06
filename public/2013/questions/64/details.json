@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "equilibrio-quimico"
+    ],
     "context": "Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a ser desinfectada. As equações das reações químicas envolvidas são:\n\nCl2(g) + 2 H2O (l) ⇌ HClO (aq) + H3O+ (aq) + Cl− (aq)\n\nHClO (aq) + H2O (l) ⇌  H3O+(aq) + ClO−(aq)      pKa= − log Ka= 7,53\n\nA ação desinfetante é controlada pelo ácido hipocloroso, que possui um potencial de desinfecção cerca de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque influencia na extensão com que o ácido hipocloroso se ioniza.",
     "files": [],
     "correctAlternative": "B",

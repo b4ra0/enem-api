@@ -3,7 +3,12 @@
     "index": 106,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "danca",
+        "arte-popular"
+    ],
     "context": "O folclore é o retrato da cultura de um povo. A dança popular e folclórica é uma forma de representar a cultura regional, pois retrata seus valores, crenças, trabalho conhecê-la, é de alguma forma se apropriar dela, é enriquecer a própria cultura.\n\nBREGOLATO, R. A. **Cultura Corporal da Dança**. São Paulo: Ícone, 2007.",
     "files": [],
     "correctAlternative": "D",

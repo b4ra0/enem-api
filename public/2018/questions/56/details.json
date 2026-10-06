@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "Anamorfose é a transformação cartográfica espacial em que a forma dos objetos é distorcida, de forma a realçar o tema. A área das unidades espaciais às quais o tema se refere é alterada de forma proporcional ao respectivo valor.\n\nGASPAR, A. J. **Dicionário de ciências cartográficas.** Lisboa: Lidei, 2004",
     "files": [],
     "correctAlternative": "C",

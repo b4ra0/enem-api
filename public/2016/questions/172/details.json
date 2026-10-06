@@ -4,6 +4,12 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "circunferencia",
+        "trigonometria"
+    ],
     "context": "![](https://enem.dev/2016/questions/172/3fe1c831-6ce3-4efe-babc-02de4a8381b4.png)",
     "files": [
         "https://enem.dev/2016/questions/172/3fe1c831-6ce3-4efe-babc-02de4a8381b4.png"

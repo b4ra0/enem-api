@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-colonia",
+        "povos-indigenas"
+    ],
     "context": "Em geral, os nossos tupinambás ficam bem admirados ao ver os franceses e os outros dos países longínquos terem tanto trabalho para buscar o seu arabotã, isto é, pau-brasil. Houve uma vez um ancião da tribo que me fez esta pergunta: “Por que vindes vós outros, mairs e perós (franceses e portugueses), buscar lenha de tão longe para vos aquecer? Não tendes madeira em vossa terra?”\n\nLÉRY, J. Viagem à Terra do Brasil. In: FERNANDES, F. Mudanças Sociais no Brasil. São Paulo: Difel, 1974.",
     "files": [],
     "correctAlternative": "A",

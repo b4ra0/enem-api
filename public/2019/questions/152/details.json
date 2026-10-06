@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Para contratar três máquinas que farão o reparo de vias rurais de um município, a prefeitura elaborou um edital que, entre outras cláusulas, previa:\n\n• Cada empresa interessada só pode cadastrar uma única máquina para concorrer ao edital;\n\n• O total de recursos destinados para contratar o conjunto das três máquinas é de R$ 31 000,00;\n\n• O valor a ser pago a cada empresa será inversamente proporcional à idade de uso da máquina cadastrada pela empresa para o presente edital.\n\nAs três empresas vencedoras do edital cadastraram máquinas com 2, 3 e 5 anos de idade de uso.",
     "files": [],
     "correctAlternative": "B",

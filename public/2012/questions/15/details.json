@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "ditadura-militar"
+    ],
     "context": "Diante dessas inconsistências e de outras que ainda preocupam a opinião pública, nós, jornalistas, estamos encaminhando este documento ao Sindicato dos Jornalistas Profissionais no Estado de São Paulo, para que o entregue à Justiça; e da Justiça esperamos a realização de novas diligências capazes de levar à completa elucidação desses fatos e de outros que porventura vierem a ser levantados.\n\nEm nome da verdade. In: O Estado de São Paulo, 3 fev. 1976. Apud. FILHO, I. A. Brasil, 500 anos em documentos. Rio de Janeiro: Mauad, 1999.",
     "files": [],
     "correctAlternative": "E",

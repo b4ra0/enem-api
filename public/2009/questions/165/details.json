@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria"
+    ],
     "context": "Doze times se inscreveram em um torneio de futebol amador. O jogo de abertura do torneio foi escolhido da seguinte forma: primeiro foram sorteados 4 times para compor o Grupo A. Em seguida, entre os times do Grupo A, foram sorteados 2 times para realizar o jogo de abertura do torneio, sendo que o primeiro deles jogaria em seu próprio campo, e o segundo seria o time visitante.",
     "files": [],
     "correctAlternative": "A",

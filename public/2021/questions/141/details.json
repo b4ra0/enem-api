@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "equacoes-inequacoes",
+        "porcentagem"
+    ],
     "context": "Aplicativos que gerenciam serviços de hospedagem  \ntêm ganhado espaço no Brasil e no mundo por oferecer  \nopções diferenciadas em termos de localização e valores  \nde hospedagem. Em um desses aplicativos, o preço P a  \nser pago pela hospedagem é calculado considerando um  \npreço por diária d, acrescido de uma taxa fixa de limpeza L  \ne de uma taxa de serviço. Essa taxa de serviço é um valor  \npercentual s calculado sobre o valor pago pelo total das  \ndiárias.",
     "files": [],
     "correctAlternative": "A",

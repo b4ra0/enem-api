@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "semantica"
+    ],
     "context": "Chiquito tinha quase trinta quando conheceu Mariana num baile de casamento na Forquilha, onde moravam uns parentes dele. Por lá foi ficando, remanchando. Fez mal à moça, como costumavam dizer, tiveram de casar às pressas. Morou uns tempos com o sogro, descombinaram. Foi só conta de colher o milho e vender. Mudou pra casa do velho Chico Lourenço \\[seu pai\\]. Fumaça própria só viu subir um par de anos depois, quando o pai repartiu as terras. De tão parecidos, pai e filho nunca combinaram direito. Cada qual mais topetudo, muitas vezes dona Aparecida ouvia o marido reclamar da natureza forte do filho. Ela escutava com paciência e respondia dum jeito sempre igual:\n\n– “Quem herda, não rouba”.\n\nVinha um brilho nos olhos, o velho se acalmava.\n\nROMANO, O. **Casos de Minas**. Rio de Janeiro: Paz e Terra, 1982.",
     "files": [],
     "correctAlternative": "B",

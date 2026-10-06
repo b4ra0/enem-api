@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "separacao-misturas"
+    ],
     "context": "Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.",
     "files": [],
     "correctAlternative": "A",

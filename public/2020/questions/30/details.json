@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2020/questions/30/bc547f7a-bd4f-429d-b888-d64bbd7fbd0b.png)\n\nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
     "files": [
         "https://enem.dev/2020/questions/30/bc547f7a-bd4f-429d-b888-d64bbd7fbd0b.png"

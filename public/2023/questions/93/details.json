@@ -3,7 +3,11 @@
     "index": 93,
     "year": 2023,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria",
+        "optica"
+    ],
     "context": "![](https://enem.dev/2015/questions/53/f6577ff9-b0f3-41b3-9e2a-43ab4aa243a7.png)",
     "files": [
         "https://enem.dev/2015/questions/53/f6577ff9-b0f3-41b3-9e2a-43ab4aa243a7.png"

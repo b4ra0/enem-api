@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termologia"
+    ],
     "context": "Considere a tirinha, na situação em que a temperatura do ambiente é inferior à temperatura corporal dos personagens.\n\n![](https://enem.dev/2021/questions/125/b977d1f8-d938-495f-9ead-68872c377b37.png)",
     "files": [
         "https://enem.dev/2021/questions/125/b977d1f8-d938-495f-9ead-68872c377b37.png"

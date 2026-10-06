@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logica-raciocinio",
+        "grandezas-medidas"
+    ],
     "context": "Joana frequenta uma academia de ginástica onde faz exercícios de musculação. O programa de Joana requer que ela faça 3 séries de exercícios em 6 aparelhos diferentes, gastando 30 segundos em cada série. No aquecimento, ela caminha durante 10 minutos na esteira e descansa durante 60 segundos para começar o primeiro exercício no primeiro aparelho. Entre uma série e outra, assim como ao mudar de aparelho, Joana descansa por 60 segundos.",
     "files": [],
     "correctAlternative": "B",

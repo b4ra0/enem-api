@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas",
+        "geometria-plana"
+    ],
     "context": "A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2.\n\n![](https://enem.dev/2020/questions/177/08467fa4-373b-4fdf-911d-7354e2aab602.png)",
     "files": [
         "https://enem.dev/2020/questions/177/08467fa4-373b-4fdf-911d-7354e2aab602.png"

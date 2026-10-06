@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "impactos-ambientais"
+    ],
     "context": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.",
     "files": [],
     "correctAlternative": "D",

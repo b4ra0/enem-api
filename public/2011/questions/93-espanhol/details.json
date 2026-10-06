@@ -4,6 +4,10 @@
     "year": 2011,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**Bienvenido a Brasília**\n\nEl Gobierno de Brasil, por medio del Ministerio de la Cultura y del Instituto del Patrimonio Histórico y Artístico Nacional (IPHAN), da la bienvenida a los participantes de la 34a Sesión del Comité del Patrimonio Mundial, encuentro realizado poria Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO).\n\nRespaldado por la Convención del Patrimonio Mundial, de 1972, el Comité reúne en su 34a sesión más de 180 delegaciones nacionales para deliberar sobre las nuevas candidaturas y el estado de conservación y de riesgo de los bienes ya declarados Patrimonio Mundial, con base en los análisis del Consejo Internacional de Monumentos y Sitios (Icomos), del Centro Internacional para el Estudio de la Preservación y la Restauración del Patrimonio Cultural (ICCROM) y de la Union Internacional para la Conservación de la Naturaleza (IUCN).\n\nDisponivel em: http://www.34whc.brasilia2010.oig.br. Acesso em: 28 jul. 2010.",
     "files": [],
     "correctAlternative": "D",

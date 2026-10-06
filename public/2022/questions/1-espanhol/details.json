@@ -4,6 +4,11 @@
     "year": 2022,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "![](https://enem.dev/2022/questions/1-espanhol/b8e76f18-f22d-4401-bf90-fd34c74e07e5.jpg)\n\nDisponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.",
     "files": [
         "https://enem.dev/2022/questions/1-espanhol/b8e76f18-f22d-4401-bf90-fd34c74e07e5.jpg"

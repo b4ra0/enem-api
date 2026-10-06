@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "musica",
+        "arte-popular"
+    ],
     "context": "No Brasil, a origem do _funk_ e do _hip-hop_ remonta aos anos 1970, quando da proliferação dos chamados “bailes _black_” nas periferias dos grandes centros urbanos. Embalados pela _black music_ americana, milhares de jovens encontravam nos bailes de final de semana uma alternativa de lazer antes inexistente. Em cidades como o Rio de Janeiro ou São Paulo, formavam-se equipes de som que promoviam bailes onde foi se disseminando um estilo que buscava a valorização da cultura negra, tanto na música como nas roupas e nos penteados. No Rio de Janeiro ficou conhecido como “_Black_ Rio”. A indústria fonográfica descobriu o filão e, lançando discos de “equipe” com as músicas de sucesso nos bailes, difundia a moda pelo restante do país.\n\nDAYRELL, J. **A música entra em cena**: o _rap_ e o _funk_ na socialização da juventude.Belo Horizonte: UFMG, 2005.",
     "files": [],
     "correctAlternative": "D",

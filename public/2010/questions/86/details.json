@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia",
+        "saude-doencas"
+    ],
     "context": "![](https://enem.dev/2010/questions/86/ca1e9c9f-e762-49d8-aa6e-724bdbd3ae78.png)\n\nTrês dos quatro tipos de testes atualmente empregados para a detecção de príons patogênicos, em tecidos cerebrais do gado morto, são mostrados nas figuras a seguir. Uma vez identificados um animal morto infectado, funcionários das agências de saúde pública e fazendeiros podem removê-lo do suprimento alimentar ou rastrear os alimentos infectados que o animal possa ter consumido.",
     "files": [
         "https://enem.dev/2010/questions/86/ca1e9c9f-e762-49d8-aa6e-724bdbd3ae78.png"

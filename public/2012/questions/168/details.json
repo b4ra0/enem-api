@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "potencias-notacao-cientifica",
+        "razao-proporcao"
+    ],
     "context": "Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = _k_⋅m2/3, em que _k_ é uma constante positiva.",
     "files": [],
     "correctAlternative": "B",

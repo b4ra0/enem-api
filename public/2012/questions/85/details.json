@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "botanica",
+        "evolucao"
+    ],
     "context": "A imagem representa o processo de evolução das plantas e algumas de suas estruturas. Para o sucesso desse processo, a partir de um ancestral simples, os diferentes grupos vegetais desenvolveram estruturas adaptativas que lhes permitiram sobreviver em diferentes ambientes.\n\n![](https://enem.dev/2012/questions/85/d609b7fd-86d4-4b06-aec6-313e47ec4bba.png)",
     "files": [
         "https://enem.dev/2012/questions/85/d609b7fd-86d4-4b06-aec6-313e47ec4bba.png"

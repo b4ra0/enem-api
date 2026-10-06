@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "mundo-contemporaneo"
+    ],
     "context": "O New Deal visa restabelecer o equilíbrio entre o custo de produção e o preço, entre a cidade e o campo, entre os preços agrícolas e os preços industriais, reativar o mercado interno — o único que é importante —, pelo controle de preços e da produção, pela revalorização dos salários e do poder aquisitivo das massas, isto é, dos lavradores e operários, e pela regulamentação das condições de emprego.\n\nCROUZET,M. Os Estados perante a crise. In: História geral das civilizações.São Paulo: Difel, 1966(adaptado).",
     "files": [],
     "correctAlternative": "E",

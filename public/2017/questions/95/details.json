@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "eletroquimica"
+    ],
     "context": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n\n![](https://enem.dev/2017/questions/95/e4765f64-939a-40ef-a345-e9ca0d1a3c8b.png)",
     "files": [
         "https://enem.dev/2017/questions/95/e4765f64-939a-40ef-a345-e9ca0d1a3c8b.png"

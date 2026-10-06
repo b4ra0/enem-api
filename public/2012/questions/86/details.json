@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "propriedades-coligativas"
+    ],
     "context": "Osmose é um processo espontâneo que ocorre em todos os organismos vivos e é essencial à manutenção da vida. Uma solução 0,15 mol/L de NaCℓ (cloreto de sódio) possui a mesma pressão osmótica das soluções presentes nas células humanas.",
     "files": [],
     "correctAlternative": "E",

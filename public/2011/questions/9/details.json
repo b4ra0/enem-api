@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao",
+        "clima"
+    ],
     "context": "O fenômeno de ilha de calor é o exemplo mais marcante da modificação das condições iniciais do clima pelo processo de urbanização, caracterizado pela modificação do solo e pelo calor antropogênico, o qual inclui todas as atividades humanas inerentes à sua vida na cidade.\n\nBARBOSA, R. V. R. **Áreas verdes e qualidade térmica em ambientes urbanos**:  \nestudo em microclimas em Maceió. São Paulo: EdUSP, 2005.",
     "files": [],
     "correctAlternative": "D",

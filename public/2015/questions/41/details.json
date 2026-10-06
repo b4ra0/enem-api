@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cidadania-direitos"
+    ],
     "context": "Diante de ameaças surgidas com a engenharia genética de alimentos, vários grupos da sociedade civil conceberam o chamado “princípio da precaução”. O fundamento desse princípio é: quando uma tecnologia ou produto comporta alguma ameaça à saúde ou ao ambiente, ainda que não se possa avaliar a natureza precisa ou a magnitude do dano que venha a ser causado por eles, deve-se evitá-los ou deixá-los de quarentena para maiores estudos e avaliações antes de sua liberação.\n\nSEVCENKO, N. **A corrida para o século XXI**: no _loop_ da montanha-russa. São Paulo: Cia. das Letras, 2001 (adaptado).",
     "files": [],
     "correctAlternative": "C",

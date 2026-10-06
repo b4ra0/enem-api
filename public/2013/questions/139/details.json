@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "graficos-tabelas"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

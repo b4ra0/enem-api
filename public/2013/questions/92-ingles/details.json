@@ -4,6 +4,10 @@
     "year": 2013,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**National Geographic News**\n\nChristine Dell’Amore  \nPublished April 26, 2010\n\nOur bodies produce a small steady amount of natural morphine, a new study suggests. Traces of the chemical are often found in mouse and human urine, leading scientists to wonder whether the drug is being made naturally or being delivered by something the subjects consumed. The new research shows that mice produce the “incredible painkiller” — and that humans and ther mammals possess the same chemical road map for making it, said study co-author Meinhart Zenk, who studies plant-based pharmaceuticals at the Donald Danforth Plant Science Center in St. Louis, Missouri.\n\nDisponível em: www.nationalgeographic.com. Acesso em: 27 jul. 2010.",
     "files": [],
     "correctAlternative": "B",

@@ -3,7 +3,11 @@
     "index": 179,
     "year": 2015,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

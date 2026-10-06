@@ -3,7 +3,12 @@
     "index": 114,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "argumentacao"
+    ],
     "context": "**A Herança Cultural da Inquisição**\n\nA Inquisição gerou uma série de comportamentos humanos defensivos na população da época, especialmente por ter perdurado na Espanha e em Portugal durante quase 300 anos, ou no mínimo quinze gerações.\n\nEmbora a Inquisição tenha terminado há mais de um e psicólogos era se alguns desses comportamentos culturais não poderiam ter-se perpetuado entre nós.\n\nNa maioria, as respostas foram negativas, ou seja, embora alterasse sem dúvida o comportamento da época, nenhum comportamento permanece tanto tempo depois, sem reforço ou estímulo continuado.\n\nNão sou psicólogo nem sociólogo para discordar, mas tenho a impressão de que existem alguns comportamentos estranhos na sociedade brasileira, e que fazem sentido se você os considerar resquícios da era da Inquisição.\n\n\\[…\\] KANITZ, S. A Herança Cultural da Inquisição. In: **Revista Veja**. Ano 38, no 5, 2 fev. 2005 (fragmento).",
     "files": [],
     "correctAlternative": "B",

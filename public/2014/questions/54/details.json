@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas",
+        "quimica-ambiental"
+    ],
     "context": "![](https://enem.dev/2014/questions/54/3da2f565-bc79-400a-89b0-b96ba4968f7e.png)",
     "files": [
         "https://enem.dev/2014/questions/54/3da2f565-bc79-400a-89b0-b96ba4968f7e.png"

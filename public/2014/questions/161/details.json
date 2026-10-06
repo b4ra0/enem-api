@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas",
+        "logica-raciocinio"
+    ],
     "context": "![](https://enem.dev/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png)",
     "files": [
         "https://enem.dev/2014/questions/161/46f3d644-43b0-4dfc-9d1e-e688725abdaa.png"

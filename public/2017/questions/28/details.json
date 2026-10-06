@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "argumentacao"
+    ],
     "context": "![](https://enem.dev/2017/questions/28/de217b18-c918-4279-a59c-131b0d8f4276.jpg)",
     "files": [
         "https://enem.dev/2017/questions/28/de217b18-c918-4279-a59c-131b0d8f4276.jpg"

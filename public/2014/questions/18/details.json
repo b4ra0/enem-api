@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "idade-moderna"
+    ],
     "context": "Todo homem de bom juízo, depois que tiver realizado sua viagem, reconhecerá que é um milagre manifesto ter podido **escapar de todos os perigos que se apresentam em sua peregrinação**; tanto mais que há tantos outros acidentes que diariamente podem aí ocorrer que seria coisa pavorosa àqueles que aí navegam querer pô-los todos diante dos olhos quando querem empreender suas viagens.\n\nJ. P. T. Histoire de plusieurs voyages aventureux. 1600. In: DELUMEAU, J. História do medo no Ocidente: 1300·1800. São Paulo: Cia. das Letras, 2009 (adaptado).",
     "files": [],
     "correctAlternative": "C",

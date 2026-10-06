@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "optica",
+        "ondulatoria"
+    ],
     "context": "A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.\n\nUm arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.\n\n![](https://enem.dev/2017/questions/101/0e9fcc06-6aa7-443d-bfaa-0485813ea263.jpg)",
     "files": [
         "https://enem.dev/2017/questions/101/0e9fcc06-6aa7-443d-bfaa-0485813ea263.jpg"

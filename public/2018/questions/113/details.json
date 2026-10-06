@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia",
+        "impactos-ambientais"
+    ],
     "context": "Companhias que fabricam jeans usam cloro para o clareamento, seguido de lavagem. Algumas estão substituindo o cloro por substâncias ambientalmente mais seguras como peróxidos, que podem ser degradados por enzimas chamadas peroxidases. Pensando nisso, pesquisadores inseriram genes codificadores de peroxidases em leveduras cultivadas nas condições de clareamento e lavagem dos _jeans_ e selecionaram as sobreviventes para produção dessas enzimas.\n\nTORTORA, G. J.; FUNKE, B. R.; CASE, C. L. **Microbiologia**. Rio de Janeiro: Artmed, 2016 (adaptado).",
     "files": [],
     "correctAlternative": "A",

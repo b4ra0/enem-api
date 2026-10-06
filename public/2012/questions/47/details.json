@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "hidrostatica"
+    ],
     "context": "Um dos problemas ambientais vivenciados pela agricultura hoje em dia é a compactação do solo, devida ao intenso tráfego de máquinas cada vez mais pesadas, reduzindo a produtividade das culturas.",
     "files": [],
     "correctAlternative": "A",

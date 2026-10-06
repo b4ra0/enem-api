@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "funcoes-linguagem"
+    ],
     "context": "A biosfera, que reúne todos os ambientes onde se desenvolvem os seres vivos, se divide em unidades menores chamadas ecossistemas, que podem ser uma tem múltiplos mecanismos que regulam o número de organismos dentro dele, controlando sua reprodução, crescimento e migrações.\n\nDUARTE, M. **O guia dos curiosos.** São Paulo: Companhia das Letras, 1995.",
     "files": [],
     "correctAlternative": "E",

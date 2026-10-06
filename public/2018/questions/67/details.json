@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao",
+        "hidrografia"
+    ],
     "context": "![](https://enem.dev/2018/questions/67/cac2696c-8f19-4f55-8af9-6e4b75e686a6.png)",
     "files": [
         "https://enem.dev/2018/questions/67/cac2696c-8f19-4f55-8af9-6e4b75e686a6.png"

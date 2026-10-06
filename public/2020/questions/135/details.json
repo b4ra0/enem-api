@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica"
+    ],
     "context": "Os diferentes tipos de café que consumimos nem sempre vêm da mesma espécie de planta. As duas espécies de café mais utilizadas são _Coffea canephora_ e _Coffea arabica_. A primeira é diploide (2n = 22) e a segunda é tetraploide (2n  \n\\= 44). Acredita-se que a espécie tetraploide surgiu de um cruzamento natural entre _C. canephora_ e _C. eugenioides_, ambas diploides, há milhões de anos. De fato, as análises genéticas atuais nos cromossomos de _C. arabica_ detectam os alelos de ambas as origens.",
     "files": [],
     "correctAlternative": "A",

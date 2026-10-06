@@ -3,7 +3,11 @@
     "index": 32,
     "year": 2017,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais"
+    ],
     "context": "Segundo quadro  \nUma sala da prefeitura. O ambiente é modesto. Durante a mutação, ouve-se um dobrado e vivas a Odorico, “viva o prefeito” etc. Estão em cena Dorotéa, Juju, Dirceu, Dulcinéa, o vigário e Odorico. Este último, à janela, discursa.\n\nODORICO – povo sucupirano! Agoramente já investido no cargo de Prefeito, aqui estou para receber a confirmação, a ratificação, a autenticação e por que não dizer a sagração do povo que me elegeu.\n\nAplausos vêm de fora.\n\nODORICO – eu prometi que meu primeiro ato como prefeito seria ordenar a construção do cemitério.\n\nAplausos, aos quais se incorporam as personagens em cena.\n\nODORICO – (continuando o discurso:) Botando de lado os entretantos e partindo pros finalmente, é uma alegria poder anunciar que prafrentemente vocês já poderão morrer descansados, tranquilos e desconstrangidos, na certeza de que vão ser sepultados aqui mesmo, nesta terra morna e cheirosa de Sucupira. E quem votou em mim, basta dizer isso ao padre na hora da extrema-unção, que tem enterro e cova de graça, conforme o prometido.\n\nGOMES, D. **O bem amado**, Rio de Janeiro, Ediouro, 2012",
     "files": [],
     "correctAlternative": "A",

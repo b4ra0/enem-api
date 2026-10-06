@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "![](https://enem.dev/2016/questions/173/fdf8c101-992d-4af6-8a5a-fa7bb406d400.png)\n\nConsidere que o padrão apresentado no resultado do exame, no período analisado, se repita para os dias subsequentes.",
     "files": [
         "https://enem.dev/2016/questions/173/fdf8c101-992d-4af6-8a5a-fa7bb406d400.png"

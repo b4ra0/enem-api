@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica"
+    ],
     "context": "Não ignoro a opinião antiga e muito difundida de que o que acontece no mundo é decidido por Deus e pelo acaso. Essa opinião é muito aceita em nossos dias, devido às grandes transformações ocorridas, e que ocorrem diariamente, as quais escapam à conjectura humana. Não obstante, para não ignorar inteiramente o nosso livre-arbítrio, creio que se pode aceitar que a sorte decida metade dos nossos atos, mas \\[o livre-arbítrio\\] nos permite o controle sobre a outra metade.\n\n_MAQUIAVEL, N. O Príncipe. Brasília: EdUnB, 1979 (adaptado)._",
     "files": [],
     "correctAlternative": "C",

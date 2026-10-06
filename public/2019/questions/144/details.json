@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "matrizes-determinantes"
+    ],
     "context": "Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.\n\nNessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.\n\n![](https://enem.dev/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png)",
     "files": [
         "https://enem.dev/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png"

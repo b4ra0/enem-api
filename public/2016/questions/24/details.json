@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica"
+    ],
     "context": "A democracia deliberativa afirma que as partes do Conflito político devem deliberar entre si e, por meio de argumentação razoável, tentar chegar a um acordo sobre as políticas que seja satisfatório para todos. A democracia ativista desconfia das exortações à deliberação por acreditar que, no mundo real da política, onde as desigualdades estruturais influenciam procedimentos e resultados, processos democráticos que parecem cumprir as normas de deliberação geralmente tendem a beneficiar os agentes mais poderosos. Ela recomenda, portanto, que aqueles que se preocupam com a promoção de mais justiça devem realizar principalmente a atividade de oposição crítica, em vez de tentar chegar a um acordo com quem sustenta estruturas de poder existentes ou delas se beneficia.\n\nYOUNG, I. M. Desafios ativistas à democracia deliberativa **Revista Brasileira de Ciência Política**, n. 13, jan-abr. 2014.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica",
+        "interpretacao-texto"
+    ],
     "context": "**Entre ideia e tecnologia**\n\nO grande conceito por trás do Museu da Língua é apresentar o idioma como algo vivo e fundamental para o entendimento do que é ser brasileiro. Se nada nos define com clareza, a forma como falamos o português nas mais diversas situações cotidianas é talvez a melhor expressão da brasilidade.\n\nSCARDOVELI, E. **Revista Língua Portuguesa**. São Paulo: Segmento, Ano II, n° 6, 2006.",
     "files": [],
     "correctAlternative": "B",

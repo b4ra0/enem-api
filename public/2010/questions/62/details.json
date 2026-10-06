@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana",
+        "histologia"
+    ],
     "context": "Para explicar a absorção de nutrientes, bem como a função das microvilosidades das membranas das células que revestem as paredes internas do intestino delgado, um estudante realizou o seguinte experimento:\n\nColocou 200 ml de água em dois recipientes. No primeiro recipiente, mergulhou, por 5 segundos, um pedaço de papel liso, como na FIGURA 1; no segundo recipiente, fez o mesmo com um pedaço de papel com dobras simulando as microvilosidades, conforme FIGURA 2. Os dados obtidos foram: a quantidade de água absorvida pelo papel liso foi de 8 ml, enquanto pelo papel dobrado foi de 12 ml.\n\n![](https://enem.dev/2010/questions/62/f2824040-a108-45f8-abec-1428dd63cba7.png)",
     "files": [
         "https://enem.dev/2010/questions/62/f2824040-a108-45f8-abec-1428dd63cba7.png"

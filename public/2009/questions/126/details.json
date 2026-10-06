@@ -3,7 +3,12 @@
     "index": 126,
     "year": 2009,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "tecnologias-informacao"
+    ],
     "context": "![](https://enem.dev/2009/questions/126/b72a01dc-1bf6-4dea-96b7-31e38144d132.jpg)",
     "files": [
         "https://enem.dev/2009/questions/126/b72a01dc-1bf6-4dea-96b7-31e38144d132.jpg"

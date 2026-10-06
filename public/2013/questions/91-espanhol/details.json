@@ -4,6 +4,11 @@
     "year": 2013,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2013/questions/91-espanhol/5cc207cf-2740-4f04-987b-3b7edb313999.png)\n\nTUTE. **Tutelandia**. Disponível em: www.gocomics.com. Acesso em: 20 fev. 2012",
     "files": [
         "https://enem.dev/2013/questions/91-espanhol/5cc207cf-2740-4f04-987b-3b7edb313999.png"

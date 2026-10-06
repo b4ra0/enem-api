@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "globalizacao",
+        "populacao-migracoes"
+    ],
     "context": "Dados recentes mostram que muitos são os países periféricos que dependem dos recursos enviados pelos imigrantes que estão nos países centrais. Grande parte dos países da América Latina, por exemplo, depende hoje das remessas de seus imigrantes. Para se ter uma ideia mais concreta, recentes dados divulgados pela ONU revelaram que somente os indianos recebem 10 bilhões de dólares de seus compatriotas no exterior. No México, segundo maior volume de divisas, esse valor chega a 9,9 bilhões de dólares e nas Filipinas, o terceiro, a 8,4 bilhões.\n\nHAESBAERT, R.; PORTO-GONÇALVES, C. W. **A nova des-ordem mundial**. São Paulo: Edunesp, 2006.",
     "files": [],
     "correctAlternative": "B",

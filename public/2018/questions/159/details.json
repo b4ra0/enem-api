@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "projecoes-vistas"
+    ],
     "context": "_Minecraft_ é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma. É possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento de cubinhos.  \nUm jogador deseja construir um cubo com dimensões 4 x 4 x 4. Ele já empilhou alguns dos cubinhos necessários, conforme a figura.\n\n![](https://enem.dev/2018/questions/159/3165700a-a712-45c3-9e96-cbcc942d98e7.png)\n\nOs cubinhos que ainda faltam empilhar para finalizar a construção do cubo, juntos, formam uma peça única, capaz de completar a tarefa.",
     "files": [
         "https://enem.dev/2018/questions/159/3165700a-a712-45c3-9e96-cbcc942d98e7.png"

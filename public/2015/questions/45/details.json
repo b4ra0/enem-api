@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais"
+    ],
     "context": "A questão ambiental, uma das principais pautas contemporâneas, possibilitou o surgimento de concepções políticas diversas, dentre as quais se destaca a preservação ambiental, que sugere uma ideia de intocabilidade da natureza e impede o seu aproveitamento econômico sob qualquer justificativa.\n\nPORTO-GONÇALVES, C. W. **A globalização da natureza e a natureza da globalização**. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).",
     "files": [],
     "correctAlternative": "D",

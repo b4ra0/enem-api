@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "Em uma fábrica de refrigerantes, é necessário que se faça periodicamente o controle no processo de engarrafamento para evitar que sejam envasadas garrafas fora da especificação do volume escrito no rótulo.\n\nDiariamente, durante 60 dias, foram anotadas as quantidades de garrafas fora dessas especificações. O resultado está apresentado no quadro.\n\n![](https://enem.dev/2019/questions/161/c315e1f9-d185-4689-9452-7113ed739e0e.jpg)",
     "files": [
         "https://enem.dev/2019/questions/161/c315e1f9-d185-4689-9452-7113ed739e0e.jpg"

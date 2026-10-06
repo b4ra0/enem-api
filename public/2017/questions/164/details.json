@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "porcentagem"
+    ],
     "context": "A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre “às cegas” (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (_X_ e _Y_) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista _X_ olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista _Y_ para executar a mesma tarefa.\n\nDisponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "B",

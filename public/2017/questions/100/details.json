@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana",
+        "saude-doencas"
+    ],
     "context": "Pesquisadores criaram um tipo de plaqueta artificial, feita com um polímero gelatinoso coberto de anticorpos, que promete agilizar o processo de coagulação quando injetada no corpo. Se houver sangramento, esses anticorpos fazem com que a plaqueta mude sua forma e se transforme em uma espécie de rede que gruda nas lesões dos vasos sanguíneos e da pele.\n\nMOUTINHO, S. **Coagulação acelerada.** Disponível em: http://cienciahoje.uol.com.br.  \nAcesso em: 19 fev. 2013 (adaptado).",
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "dinamica",
+        "cinematica"
+    ],
     "context": "O Brasil pode se transformar no primeiro país das Américas a entrar no seleto grupo das nações que dispõem de trens-bala. O Ministério dos Transportes prevê o lançamento do edital de licitação internacional para a construção da ferrovia de alta velocidade Rio-São Paulo. A viagem ligará os 403 quilômetros entre a Central do Brasil, no Rio, e a Estação da Luz, no centro da capital paulista, em uma hora e 25 minutos.\n\nDisponível em: http://oglobo.globo.com. Acesso em: 14 jul. 2009",
     "files": [],
     "correctAlternative": "E",

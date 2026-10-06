@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2009/questions/105/d37499f0-6363-4d99-8d33-c682027d79d7.jpg)",
     "files": [
         "https://enem.dev/2009/questions/105/d37499f0-6363-4d99-8d33-c682027d79d7.jpg"

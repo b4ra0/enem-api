@@ -4,6 +4,11 @@
     "year": 2023,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/broken-image.svg)\n\nDisponivel em: www.cartoonstock.com. Acesso em: 25 out. 2021",
     "files": [],
     "correctAlternative": "B",

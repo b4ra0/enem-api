@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia",
+        "gravitacao"
+    ],
     "context": "O eixo de rotação da Terra apresenta uma inclinação  \nem relação ao plano de sua órbita em torno do Sol,  \ninterferindo na duração do dia e da noite ao longo do ano.\n\n![](https://enem.dev/2022/questions/111/12bd97ef-3334-4258-aec9-17981bd0b299.png)\n\nUma pessoa instala em sua residência uma placa  \nfotovoltaica, que transforma energia solar em elétrica.  \nEla monitora a energia total produzida por essa placa  \nem 4 dias do ano, ensolarados e sem nuvens, e lança os  \nresultados no gráfico.\n\n![](https://enem.dev/2022/questions/111/b90aa72c-e072-4867-955a-bb795396fd8e.png)\n\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado)",
     "files": [
         "https://enem.dev/2022/questions/111/12bd97ef-3334-4258-aec9-17981bd0b299.png",

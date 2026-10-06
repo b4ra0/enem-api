@@ -4,6 +4,11 @@
     "year": 2018,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "Don’t write in English, they said,  \nEnglish is not your mother tongue…  \n…The language I speak  \nBecomes mine, its distortions, its queerness  \nAll mine, mine alone, it is half English, half  \nIndian, funny perhaps, but it is honest,  \nIt is as human as I am human…  \n…It voices my joys, my longings my  \nHopes…  \n(Kamala Das, 1965:10)\n\nGARGESH, R. South Asian Englishes. In: KACHRU, B. B.; KACHRU, Y.; NELSON, C. L.  \n(Eds.). **The Handbook of World Englishes.** Singapore: Blackwell, 2006.",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "morfologia",
+        "sintaxe"
+    ],
     "context": "Toca a sirene na fábrica,\n\ne o apito como um chicote\n\nbate na manhã nascente\n\ne bate na tua cama\n\nno sono da madrugada.\n\nTernuras da áspera lona\n\npelo corpo adolescente.\n\nÉ o trabalho que te chama.\n\nÀs pressas tomas o banho,\n\ntomas teu café com pão,\n\ntomas teu lugar no bote\n\nno cais do Capibaribe.\n\nDeixas chorando na esteira\n\nteu filho de mãe solteira.\n\nLevas ao lado a marmita,\n\ncontendo a mesma ração\n\ndo meio de todo o dia,\n\na carne-seca e o feijão.\n\nDe tudo quanto ele pede\n\ndás só bom-dia ao patrão,\n\ne recomeças a luta\n\nna engrenagem da fiação.\n\nMOTA, M. **Canto ao meio**. Rio de Janeiro: Civilização Brasileira, 1964.",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "movimentos-sociais",
+        "cidadania-direitos"
+    ],
     "context": "Ninguém nasce mulher: torna-se mulher. Nenhum destino biológico, psíquico, econômico define a forma que a fêmea humana assume no seio da sociedade; é o conjunto da civilização que elabora esse produto intermediário entre o macho e o castrado que qualificam o feminino.\n\nBEAUVOIR, S. **O segundo sexo**. Rio de Janeiro: Nova Fronteira, 1980",
     "files": [],
     "correctAlternative": "C",

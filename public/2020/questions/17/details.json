@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "saude-qualidade-vida",
+        "corpo-sociedade"
+    ],
     "context": "Uma das mais contundentes críticas ao discurso da aptidão física relacionada à saúde está no caráter eminentemente individual de suas propostas, o que serve  \npara obscurecer outros determinantes da saúde. Ou seja, costuma-se apresentar o indivíduo como o problema e a mudança do estilo de vida como a solução. Argumenta-se ainda que o movimento da aptidão física relacionada à  \nsaúde considera a existência de uma cultura homogênea na qual todos seriam livres para escolher seus estilos de vida, o que não condiz com a realidade. O fato é que vivemos numa sociedade dividida em classes sociais, na qual nem todas as pessoas têm condições econômicas para adotar um estilo de vida ativo e saudável. Há desigualdades estruturais com raízes políticas, econômicas e sociais que dificultam a adoção desses estilos de vida.\n\nFERREIRA. M. S. Aptidão física e saúde na educação física escolar; ampliando o enfoque. **RBCE**, n. 2. jan. 2001 (adaptado).",
     "files": [],
     "correctAlternative": "D",

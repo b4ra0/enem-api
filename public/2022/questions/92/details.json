@@ -3,7 +3,11 @@
     "index": 92,
     "year": 2022,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas"
+    ],
     "context": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças  \ntropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.",
     "files": [],
     "correctAlternative": "D",

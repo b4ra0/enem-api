@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "![](https://enem.dev/2013/questions/176/38cb8424-5409-40d1-bed1-ccff111fb5ea.png)\n\nNela identifica-se a representação de duas figuras geométricas tridimensionais.",
     "files": [
         "https://enem.dev/2013/questions/176/38cb8424-5409-40d1-bed1-ccff111fb5ea.png"

@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "![](https://enem.dev/2016/questions/61/0ebdcee7-9e70-490b-90de-f5702770667f.jpg)\n\nO pesquisador concluiu corretamente que os peixes controlam a densidade dos(as)",
     "files": [
         "https://enem.dev/2016/questions/61/0ebdcee7-9e70-490b-90de-f5702770667f.jpg"

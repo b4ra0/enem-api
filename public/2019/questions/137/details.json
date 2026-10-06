@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logaritmo",
+        "conjuntos-numericos"
+    ],
     "context": "A _Hydrangea macrophyila_ é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a _Hydrangea_ cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8.\n\nSabe-se que pH = – log10x, em que x é a concentração de íon hidrogênio (H+).",
     "files": [],
     "correctAlternative": "E",

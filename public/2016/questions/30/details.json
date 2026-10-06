@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "biomas",
+        "espaco-agrario"
+    ],
     "context": "O bioma Cerrado foi considerado recentemente um dos 25 _hotspots_ de biodiversidade do mundo segundo uma análise em escala mundial das regiões biogeográficas sobre áreas globais prioritárias para conservação. O conceito de hotspot foi criado tendo em vista a escassez de recursos direcionados para conservação, com o objetivo de apresentar os chamados “pontos quentes”, ou seja, locais para os quais existe maior necessidade de direcionamento de esforços, buscando evitar a extinção de muitas espécies que estão altamente ameaçadas por ações antrópicas.\n\nPINTO, PP: DINIZ-FILHO, J. A. F. In: ALMEIDA, M. G. (Org.). **Tantos cerrados: múltiplas abordagens sobre a biogeodiversidade e singularidade Cultural Goiânia**: Vieira, 2005 (adaptado).",
     "files": [],
     "correctAlternative": "E",

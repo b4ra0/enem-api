@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "funcoes-linguagem"
+    ],
     "context": "![](https://enem.dev/2014/questions/135/c04407d3-3472-434a-8fc2-9537ea41856c.png)\n\nDisponível em: www.portaldapropaganda.com.br. Acesso em: 28 jul. 2013.",
     "files": [
         "https://enem.dev/2014/questions/135/c04407d3-3472-434a-8fc2-9537ea41856c.png"

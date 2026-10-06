@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png)",
     "files": [
         "https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png"

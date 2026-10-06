@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "graficos-tabelas"
+    ],
     "context": "A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem as estímulos dos neurotransmissores.  \nOs remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.\n\n![](https://enem.dev/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png)",
     "files": [
         "https://enem.dev/2021/questions/150/76a52739-74da-4cbd-9cf8-c62522ed889f.png"

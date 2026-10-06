@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo"
+    ],
     "context": "Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.\n\nBIGARELLA, J. J. **Estrutura e origem das paisagens tropicais e subtropicais**. Florianópolis: UFSC, 2003 (adaptado).",
     "files": [],
     "correctAlternative": "B",

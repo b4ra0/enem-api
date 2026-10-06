@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "teoria-conhecimento",
+        "filosofia-moderna"
+    ],
     "context": "Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos filósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias.\n\nDESCARTES, R. **Regras para a orientação do espírito**. São Paulo: Martins Fontes, 1999.",
     "files": [],
     "correctAlternative": "D",

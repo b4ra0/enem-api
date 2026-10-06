@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "progressao-aritmetica"
+    ],
     "context": "O Salto Triplo é uma modalidade do atletismo em que o atleta dá um salto em um só pé, uma passada e um salto, nessa ordem. Sendo que o salto com impulsão em um só pé será feito de modo que o atleta caia primeiro sobre o mesmo pé que deu a implusão; na passada ele cairá com o outro pé, do qual o salto é realizado.\n\nDisponível em: www.cbat.org.br (adaptado).",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2012/questions/97/d2cbf9da-51c9-46aa-af58-bcc2e998418d.png)\n\nDisponível em: www.assine.abril.com.br. Acesso em: 29 fev. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2012/questions/97/d2cbf9da-51c9-46aa-af58-bcc2e998418d.png"

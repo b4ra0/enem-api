@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph"
+    ],
     "context": "![](https://enem.dev/2012/questions/69/1244206c-a1ed-4211-82c2-11fbd57ae05b.jpg)",
     "files": [
         "https://enem.dev/2012/questions/69/1244206c-a1ed-4211-82c2-11fbd57ae05b.jpg"

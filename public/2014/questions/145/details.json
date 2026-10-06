@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-quadratica"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

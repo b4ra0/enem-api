@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "Em 2006, a produção mundial de etanol foi de 40 bilhões de litros e a de biodiesel, de 6,5 bilhões. Neste mesmo ano, a produção brasileira de etanol correspondeu a 43% da produção mundial, ao passo que a produção dos Estados Unidos da América, usando milho, foi de 45%.\n\nDisponível em: planetasustentavel.abril.com.br.Acesso em: 02 maio 2009.",
     "files": [],
     "correctAlternative": "C",

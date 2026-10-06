@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "citologia"
+    ],
     "context": "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula ã autodestruição.\n\nALBERTS, B. et ai. **Fundamentos da biologia celular.** Porto Alegre: Artmed, 2011 (adaptado).",
     "files": [],
     "correctAlternative": "E",

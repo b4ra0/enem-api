@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "ditadura-militar"
+    ],
     "context": "![](https://enem.dev/2013/questions/20/77cde162-61ef-4993-b7d9-b1f1f97ef523.png)\n\nFORTUNA. Correio da Manhã, ano 65, n. 22 264, 2 nov. 1965.",
     "files": [
         "https://enem.dev/2013/questions/20/77cde162-61ef-4993-b7d9-b1f1f97ef523.png"

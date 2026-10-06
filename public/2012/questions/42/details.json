@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "hidrografia"
+    ],
     "context": "O uso da água aumenta de acordo com as necessidades da população no mundo. Porém, diferentemente do que se possa imaginar, o aumento do consumo de água superou em duas vezes o crescimento populacional durante o século XX.\n\nTEIXEIRA, W. et al. **Decifrando a Terra**. São Paulo: Cia. Editora Nacional, 2009.",
     "files": [],
     "correctAlternative": "A",

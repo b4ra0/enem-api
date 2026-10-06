@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "primeira-republica",
+        "era-vargas"
+    ],
     "context": "A definição de eleitor foi tema de artigos nas Constituições brasileiras de 1891 e de 1934. Diz a Constituição da República dos Estados Unidos do Brasil de 1891:\n\nArt. 70. São eleitores os cidadãos maiores de 21 anos que se alistarem na forma da lei.\n\nA Constituição da República dos Estados Unidos do Brasil de 1934, por sua vez, estabelece que:\n\nArt. 180. São eleitores os brasileiros de um e de outro sexo, maiores de 18 anos, que se alistarem na forma da lei.",
     "files": [],
     "correctAlternative": "E",

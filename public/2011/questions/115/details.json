@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "argumentacao"
+    ],
     "context": "No Brasil, a condição cidadã, embora dependa da leitura e da escrita, não se basta pela enunciação do direito, nem pelo domínio desses instrumentos, o que, sem dúvida, viabiliza melhor participação social. A condição cidadã depende, seguramente, da ruptura com o ciclo da pobreza, que penaliza um largo contingente populacional.\n\n**Formação de leitores e construção da cidadania, memória e presença do PROLER**. Rio de Janeiro: FBN, 2008.",
     "files": [],
     "correctAlternative": "D",

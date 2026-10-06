@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletromagnetismo"
+    ],
     "context": "![](https://enem.dev/2013/questions/85/9fd5468f-a0c7-485b-896d-1abdc758e911.png)",
     "files": [
         "https://enem.dev/2013/questions/85/9fd5468f-a0c7-485b-896d-1abdc758e911.png"

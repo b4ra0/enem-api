@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "equacoes-inequacoes"
+    ],
     "context": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.  \nCinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.\n\n![](https://enem.dev/2022/questions/177/fb1d11e4-76d3-4657-b78f-84e7bcd81f6c.png)",
     "files": [
         "https://enem.dev/2022/questions/177/fb1d11e4-76d3-4657-b78f-84e7bcd81f6c.png"

@@ -3,7 +3,11 @@
     "index": 157,
     "year": 2009,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "Uma empresa que fabrica esferas de aço, de 6 cm de raio, utiliza caixas de madeira, na forma de um cubo, para transportá-las.",
     "files": [],
     "correctAlternative": "B",

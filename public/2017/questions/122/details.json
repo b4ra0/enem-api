@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": "O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a equação química:\n\n![](https://enem.dev/2017/questions/122/49f07218-d755-44c2-90b2-00ce72f5f81e.jpg)\n\nApós a síntese, o AAS é purificado e o rendimento flnal é de aproximadamente 50%. Devido às suas propriedades farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.",
     "files": [
         "https://enem.dev/2017/questions/122/49f07218-d755-44c2-90b2-00ce72f5f81e.jpg"

@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "divisibilidade",
+        "analise-combinatoria"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

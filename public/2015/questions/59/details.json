@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas"
+    ],
     "context": "![](https://enem.dev/2015/questions/59/8782c1ff-fc00-4401-a984-cac653c6c3a2.png)",
     "files": [
         "https://enem.dev/2015/questions/59/8782c1ff-fc00-4401-a984-cac653c6c3a2.png"

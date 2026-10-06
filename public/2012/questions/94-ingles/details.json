@@ -4,6 +4,11 @@
     "year": 2012,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "![](https://enem.dev/2012/questions/94-ingles/8d552d2f-7ca9-4f3e-b85c-91df056345eb.png)\n\nDONAR. Disponível em: http://politicalgraffiti.wordpress.com. Acesso em: 17 ago. 2011.",
     "files": [
         "https://enem.dev/2012/questions/94-ingles/8d552d2f-7ca9-4f3e-b85c-91df056345eb.png"

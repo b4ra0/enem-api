@@ -3,7 +3,11 @@
     "index": 130,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia"
+    ],
     "context": "O Flamengo começou a partida no ataque, **enquanto** o Botafogo procurava fazer uma forte marcação no meio campo e tentar lançamentos para Victor Simões, isolado entre os zagueiros rubro-negros. **Mesmo** com mais posse de bola, o time dirigido por Cuca tinha grande dificuldade de chegar à área alvinegra **por causa do** bloqueio montado pelo Botafogo na frente da sua área.\n\n**No entanto**, na primeira chance rubro-negra, saiu o gol. **Após** cruzamento da direita de Ibson, a zaga alvinegra rebateu a bola de cabeça para o meio da área. Kléberson apareceu na jogada e cabeceou por cima do goleiro Renan. Ronaldo Angelim apareceu nas costas da defesa e empurrou para o fundo da rede quase que em cima da linha: Flamengo 1 a 0.\n\nDisponível em: http://momentodofutebol.blogspot.com (adaptado).",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "idade-moderna",
+        "iluminismo-revolucoes"
+    ],
     "context": "**TEXTO I**\n\nA centralização econômica, o protecionismo e a expansão ultramarina engrandeceram o Estado, embora beneficias sem a burguesia incipiente.\n\n**ANDERSON, P. In: DEYON, P. O mercantilismo. Lisboa: Gradiva, 1989 (adaptado).**\n\n**TEXTO II**\n\nAs interferências da legislação e das práticas exclusivistas restringem a operação benéfica da lei natural na esfera das relações econômicas.\n\n**SMITH, A. A riqueza das Nações. São Paulo: Abril Cultural, 1983 (adaptado).**",
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio",
+        "brasil-colonia"
+    ],
     "context": "A linhagem dos primeiros críticos ambientais brasileiros não praticou o elogio laudatório da beleza e da grandeza do meio natural brasileiro. O meio natural foi elogiado por sua riqueza e potencial econômico, sendo sua destruição interpretada como um signo de atraso, ignorância e falta de cuidado.\n\nPADUA, J. A. **Um sopro de destruição: pensamento político e crítica ambiental no Brasil escravista (1786-1888)**. Rio de Janeiro:Zahar, 2002 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "termoquimica",
+        "estequiometria"
+    ],
     "context": "Por meio de reações químicas que envolvem carboidratos, lipídeos e proteínas, nossas células obtêm energia e produzem gás carbônico e água. A oxidação da glicose no organismo humano libera energia, conforme ilustra a equação química, sendo que aproximadamente 40% dela é disponibilizada para atividade muscular.\n\n![](https://enem.dev/2018/questions/114/b62114db-3b79-4fb5-a23e-59488db9d92c.png)",
     "files": [
         "https://enem.dev/2018/questions/114/b62114db-3b79-4fb5-a23e-59488db9d92c.png"

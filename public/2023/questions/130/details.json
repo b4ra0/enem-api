@@ -3,7 +3,11 @@
     "index": 130,
     "year": 2023,
     "language": null,
-    "discipline": "matematica",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "polimeros"
+    ],
     "context": "Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.\n\n**Cafeteria adota copo reutilizável feito com casca de café.** Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "radioatividade"
+    ],
     "context": "Pesquisadores recuperaram DNA de ossos de mamute (_Mammuthus primigenius_) encontrados na Sibéria, que tiveram sua idade de cerca de 28 mil anos confirmada pela técnica do carbono-14.\n\nFAPESP. **DNA de mamute é revelado**. Disponível em: http://agencia.fapesp.br. Acesso em: 13 ago. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "A",

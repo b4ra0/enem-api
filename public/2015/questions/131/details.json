@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais",
+        "historia-arte"
+    ],
     "context": "![](https://enem.dev/2015/questions/131/0aef8dd3-3d60-4f4f-8923-703821fae1a8.jpg)\n\n**TEXTO II**\n\nLucian Freud é, como ele próprio gosta de relembrar às pessoas, um biólogo. Mais propriamente, tem querido registrar verdades muito específicas sobre como é tomar posse deste determinado corpo nesta situação particular, neste específico espaço de tempo.\n\nSMEE, S. **Freud**. Köln: Taschen, 2010.",
     "files": [
         "https://enem.dev/2015/questions/131/0aef8dd3-3d60-4f4f-8923-703821fae1a8.jpg"

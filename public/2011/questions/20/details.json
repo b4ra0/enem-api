@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cidadania-direitos",
+        "violencia"
+    ],
     "context": "Embora o Brasil seja signatário das convenções e tratados internacionais contra a tortura e tenha incorporado em seu ordenamento jurídico uma lei tipificando o crime, ele continua a ocorrer em larga escala. Mesmo que a lei que tipifica a tortura esteja vigente desde 1997, até o ano 2000 não se conhece nenhum caso de condenação de torturadores julgado em última instância, embora tenham sido registrados nesse período centenas de casos, além de numerosos outros presumíveis mas não registrados.\n\nDisponível em: http://www.dhnet.org.br. Acesso em: 16 jun 2010 (adaptado).",
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Uma casa tem um cabo elétrico mal dimensionado, de resistência igual a 10, que a conecta à rede elétrica de 120V. Nessa casa, cinco lâmpadas, de resistência igual a 200, estão conectadas ao mesmo circuito que uma televisão de resistência igual a 50, conforme ilustrado no esquema. A televisão funciona apenas com tensão entre 90V e 130V.\n\n![](https://enem.dev/2019/questions/126/cd4b4ead-40f5-4d46-9f98-a30a4849cd5e.png)",
     "files": [
         "https://enem.dev/2019/questions/126/cd4b4ead-40f5-4d46-9f98-a30a4849cd5e.png"

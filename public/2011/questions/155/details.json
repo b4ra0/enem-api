@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "trigonometria"
+    ],
     "context": "![](https://enem.dev/2011/questions/155/815b3733-1da7-4631-adc8-21e12190790b.png)\n\nSuponha que o navegante tenha medido o ângulo α = 30°  e, ao chegar ao ponto B, verificou que o barco havia percorrido a distância AB = 2 000 m.",
     "files": [
         "https://enem.dev/2011/questions/155/815b3733-1da7-4631-adc8-21e12190790b.png"

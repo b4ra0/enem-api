@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-quadratica",
+        "funcao-afim"
+    ],
     "context": "Nos processos industriais, como na indústria de cerâmica, é necessário o uso de fornos capazes de produzir elevadas temperaturas e, em muitas situações, o tempo de elevação dessa temperatura deve ser controlado, para garantir a qualidade do produto final e a economia no processo. Em uma indústria de cerâmica, o forno é programado para elevar a temperatura ao longo do tempo de acordo com a função\n\n![](https://enem.dev/2010/questions/165/fc2955c9-9732-4344-8658-ce88f7aba999.jpg)\n\nem que T é o valor da temperatura atingida pelo forno, em graus Celsius, e t é o tempo, em minutos, decorrido desde o instante em que o forno é ligado.  \nUma peça deve ser colocada nesse forno quando a temperatura for 48°C e retirada quando a temperatura for  \n200°C.",
     "files": [
         "https://enem.dev/2010/questions/165/fc2955c9-9732-4344-8658-ce88f7aba999.jpg"

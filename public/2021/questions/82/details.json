@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-antiga"
+    ],
     "context": "Sócrates: “Quem não sabe o que uma coisa é, como poderia saber de que tipo de coisa ela é? Ou te parece ser possível alguém que não conhece absolutamente quem é Mênon, esse alguém saber se ele é belo, se é rico e ainda se é nobre? Parece-te ser isso possível? Assim, Mênon, que coisa afirmas ser a virtude?”.\n\nPLATÃO. Mênon. Rio de Janeiro: PUC-RIO; São Paulo: Loyola, 2001 (adaptado).",
     "files": [],
     "correctAlternative": "B",

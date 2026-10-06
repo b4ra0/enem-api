@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "eletroquimica"
+    ],
     "context": "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\n![](https://enem.dev/2021/questions/133/7c6e4c3d-7d86-480f-9b8d-7724ac2f3928.png)\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\n![](https://enem.dev/2021/questions/133/4e5f2e9f-79d3-4a10-a4dc-cbff60aaa875.png)",
     "files": [
         "https://enem.dev/2021/questions/133/7c6e4c3d-7d86-480f-9b8d-7724ac2f3928.png",

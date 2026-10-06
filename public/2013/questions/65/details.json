@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria"
+    ],
     "context": "![](https://enem.dev/2013/questions/65/bae12c44-190a-4788-bdaa-922272848928.png)\n\nCalcula-se que a velocidade de propagação dessa “onda humana” é 45 km/h, e que cada período de oscilação contém 16 pessoas, que se levantam e sentam organizadamente e distanciadas entre si por 80 cm.\n\nDisponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2013/questions/65/bae12c44-190a-4788-bdaa-922272848928.png"

@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "dinamica"
+    ],
     "context": "![](https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png)",
     "files": [
         "https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png"

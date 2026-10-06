@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "equacoes-inequacoes"
+    ],
     "context": "Um grupo de 50 pessoas fez um orçamento inicial para organizar uma festa, que seria dividido entre elas em cotas iguais. Verificou-se ao final que, para arcar com todas as despesas, faltavam R$ 510,00, e que 5 novas pessoas haviam ingressado no grupo. No acerto foi decidido que a despesa total seria dividida em partes iguais pelas 55 pessoas. Quem não havia ainda contribuído pagaria a sua parte, e cada uma das 50 pessoas do grupo inicial deveria contribuir com mais R$ 7,00.",
     "files": [],
     "correctAlternative": "D",

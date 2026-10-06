@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas",
+        "grandezas-medidas"
+    ],
     "context": "Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1: 400, e que seu volume é de 25 cm3.",
     "files": [],
     "correctAlternative": "C",

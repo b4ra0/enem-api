@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-quimicas"
+    ],
     "context": "Durante um teste de controle para o desenvolvimento de novas lentes fotocromáticas, foram analisadas cinco amostras, que utilizam reagentes químicos diferentes. No quadro, são apresentados os resultados.\n\n![](https://enem.dev/2014/questions/90/6f80414f-5fcb-4eac-8dac-2c6c829c91fe.png)",
     "files": [
         "https://enem.dev/2014/questions/90/6f80414f-5fcb-4eac-8dac-2c6c829c91fe.png"

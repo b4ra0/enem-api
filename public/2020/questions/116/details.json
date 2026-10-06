@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada.\n\n![](https://enem.dev/2020/questions/116/179bf71d-7af2-4a58-856b-2504c192636d.png)\n\nEle tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ.",
     "files": [
         "https://enem.dev/2020/questions/116/179bf71d-7af2-4a58-856b-2504c192636d.png"

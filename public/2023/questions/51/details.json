@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "guerras-mundiais",
+        "mundo-contemporaneo"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

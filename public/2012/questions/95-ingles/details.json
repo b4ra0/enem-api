@@ -4,6 +4,10 @@
     "year": 2012,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2012/questions/95-ingles/4a09496e-5f17-4287-a877-c2879e5f9a41.png)",
     "files": [
         "https://enem.dev/2012/questions/95-ingles/4a09496e-5f17-4287-a877-c2879e5f9a41.png"

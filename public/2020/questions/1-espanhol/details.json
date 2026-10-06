@@ -4,6 +4,11 @@
     "year": 2020,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "**Pablo Pueblo**\n\nRegresa un hombre en silencio  \nDe su trabajo cansado  \nSu paso no lleva prisa  \nSu sombra nunca lo alcanza\n\nLo espera el barrio de siempre  \nCon el farol en la esquina  \nCon la basura allá en frente  \nY el ruido de la cantina\n\nPablo Pueblo  \nllega hasta el zaguán oscuro  \nY vuelve a ver las paredes  \nCon las viejas papeletas  \nQue prometían futuros  \nen lides politiqueras  \nY en su cara se dibuja  \nla decepción de la espera.\n\n**BLADES. R.** DisponíveI em: http://rubenblades.com. _Acesso em: 26 jun. 2012 (fragmento)_",
     "files": [],
     "correctAlternative": "A",

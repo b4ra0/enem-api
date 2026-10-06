@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "biomas",
+        "questoes-ambientais"
+    ],
     "context": "![](https://enem.dev/2015/questions/1/5fd3c732-a4f4-4efc-b03e-a7971724d87f.jpg)",
     "files": [
         "https://enem.dev/2015/questions/1/5fd3c732-a4f4-4efc-b03e-a7971724d87f.jpg"

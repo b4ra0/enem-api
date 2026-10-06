@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2016/questions/151/b9e723b5-a63c-4c11-b026-d686e0c3c807.png)\n\nUma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50.",
     "files": [
         "https://enem.dev/2016/questions/151/b9e723b5-a63c-4c11-b026-d686e0c3c807.png"

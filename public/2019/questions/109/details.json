@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "gravitacao",
+        "cinematica"
+    ],
     "context": "Na madrugada de 11 de março de 1978, partes de um foguete soviético reentraram na atmosfera acima da cidade do Rio de Janeiro e caíram no Oceano Atlântico. Foi um belo espetáculo, os inúmeros fragmentos entrando em ignição devido ao atrito com a atmosfera brilharam intensamente, enquanto “cortavam o céu”. Mas se a reentrada tivesse acontecido alguns minutos depois, teríamos uma tragédia, pois a queda seria na área urbana do Rio de Janeiro e não no oceano.\n\n![](https://enem.dev/2019/questions/109/5d498d28-3127-485c-996e-67b04ab7be50.png)",
     "files": [
         "https://enem.dev/2019/questions/109/5d498d28-3127-485c-996e-67b04ab7be50.png"

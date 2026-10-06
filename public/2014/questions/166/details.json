@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2014/questions/166/9eb6c121-ac40-452b-b439-1b2261d6e950.png)\n\nEssa pessoa pretende gastar exatamente R$ 30,00 por mês com telefone.",
     "files": [
         "https://enem.dev/2014/questions/166/9eb6c121-ac40-452b-b439-1b2261d6e950.png"

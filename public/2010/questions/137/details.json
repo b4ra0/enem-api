@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "potencias-notacao-cientifica"
+    ],
     "context": "No monte de Cerro Armazones, no deserto de Atacama, no Chile, ficará o maior telescópio da superfície terrestre, o Telescópio Europeu Extremamente Grande (E-ELT). O E-ELT terá um espelho primário de 42 m de diâmetro, “o maior olho do mundo voltado para o céu”.\n\nDisponível em: http://www.estadao.com.br. Acesso em: 27 abr. 2010 (adaptado).\n\nAo ler esse texto em uma sala de aula, uma professora fez uma suposição de que o diâmetro do olho humano mede aproximadamente 2,1 cm.",
     "files": [],
     "correctAlternative": "E",

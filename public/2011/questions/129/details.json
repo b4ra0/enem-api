@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "sintaxe",
+        "morfologia"
+    ],
     "context": "![](https://enem.dev/2011/questions/129/5e1eed51-8dca-463c-8587-c0578dda1639.png)\n\nVERÍSSIMO, L. F. **As cobras em: Se Deus existe que eu seja atingido por um raio**. Porto Alegre: L&PM, 1997.",
     "files": [
         "https://enem.dev/2011/questions/129/5e1eed51-8dca-463c-8587-c0578dda1639.png"

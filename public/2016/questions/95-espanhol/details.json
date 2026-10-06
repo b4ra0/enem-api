@@ -4,6 +4,11 @@
     "year": 2016,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "vocabulario-contexto",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg)\n\nACCIÓN POÉTICA LIMA. Disponível em: https://twitter.com. Acesso em: 30 maio 2016.",
     "files": [
         "https://enem.dev/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg"

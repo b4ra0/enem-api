@@ -3,7 +3,11 @@
     "index": 153,
     "year": 2011,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Observe as dicas para calcular a quantidade certa de alimentos e bebidas para as festas de fim de ano:\n\n*   Para o prato principal, estime 250 gramas de carne para cada pessoa.\n*   Um copo americano cheio de arroz rende o suficiente para quatro pessoas.\n*   Para a farofa, calcule quatro colheres de sopa por convidado.\n*   Uma garrafa de vinho serve seis pessoas.\n*    Uma garrafa de cerveja serve duas.\n*    Uma garrafa de espumante serve três convidados.\n\nQuem organiza festas faz esses cálculos em cima do total de convidados, independente do gosto de cada um.\n\nQuantidade certa de alimentos e bebidas evita o desperdício da ceia.  \n**Jornal Hoje** 17 dez. 2010 (adaptado).",
     "files": [],
     "correctAlternative": "E",

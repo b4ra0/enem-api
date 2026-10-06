@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "figuras-linguagem",
+        "argumentacao"
+    ],
     "context": "![](https://enem.dev/2014/questions/105/c3c3913e-0f62-4c09-ba7f-702ab87e0c31.png)\n\nOs meios de comunicação podem contribuir para a resolução de problemas sociais, entre os quais o da violência sexual infantil.",
     "files": [
         "https://enem.dev/2014/questions/105/c3c3913e-0f62-4c09-ba7f-702ab87e0c31.png"

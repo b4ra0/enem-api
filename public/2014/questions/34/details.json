@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos"
+    ],
     "context": "![](https://enem.dev/2014/questions/34/619ab96f-baec-4f4c-b9e6-8eb8fe6adf54.jpg)",
     "files": [
         "https://enem.dev/2014/questions/34/619ab96f-baec-4f4c-b9e6-8eb8fe6adf54.jpg"

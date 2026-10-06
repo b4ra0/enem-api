@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "circunferencia"
+    ],
     "context": "![](https://enem.dev/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png)\n\nEm seguida, retira-se o cilindro de madeira do meio do papel enrolado, finalizando a confecção do diploma. Considere que a espessura da folha de papel original seja desprezível.",
     "files": [
         "https://enem.dev/2014/questions/170/3ce1ab6e-11a1-45d0-a43f-cf84e9fc4e79.png"

@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "evolucao",
+        "impactos-ambientais"
+    ],
     "context": "Não é de hoje que o homem cria, artificialmente, variedades de peixes por meio da hibridação. Esta é uma técnica muito usada pelos cientistas e pelos piscicultores porque os híbridos resultantes, em geral, apresentam maior valor comercial do que a média de ambas as espécies parentais, além de reduzir a sobrepesca no ambiente natural.\n\nTerra da Gente, ano 4, n. 47, mar. 2008 (adaptado).",
     "files": [],
     "correctAlternative": "B",

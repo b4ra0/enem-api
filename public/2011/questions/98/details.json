@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "O hipertexto refere-se à escritura eletrônica não sequencial e não linear, que se bifurca e permite ao leitor o acesso a um número praticamente ilimitado de outros textos a partir de escolhas locais e sucessivas, em tempo real. Assim, o leitor tem condições de definir interativamente o fluxo de sua leitura a partir de assuntos tratados no texto sem se prender a uma sequência fixa ou a tópicos estabelecidos por um autor. Trata-se de uma forma de estruturação textual que faz do leitor simultaneamente coautor do texto final. O hipertexto se caracteriza, pois, como um processo de escritura/leitura eletrônica multilinearizado, multisequencial e indeterminado, realizado em um novo espaço de escrita. Assim, ao permitir vários níveis de tratamento de um tema, o hipertexto oferece a possibilidade de múltiplos graus de profundidade simultaneamente, já que não tem sequência definida, mas liga textos não necessariamente correlacionados.\n\nMARCUSCHI, L. A. Disponível em: http://www.pucsp.br. Acesso em: 29 jun. 2011.",
     "files": [],
     "correctAlternative": "E",

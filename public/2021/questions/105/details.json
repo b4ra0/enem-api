@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletromagnetismo"
+    ],
     "context": "Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão ligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob ação da gravidade numa região que tem um campo magnético horizontal uniforme  ![](https://enem.dev/2021/questions/105/81f45a24-eda2-40b3-8e46-768ee75a8807.jpg), da esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo, no mesmo sentido da aceleração da gravidade ![](https://enem.dev/2021/questions/105/57f95cd7-65b6-4b83-8f6d-f86599749ee5.jpg) que atua na região.\n\n![](https://enem.dev/2021/questions/105/6e9bf09f-092e-49cf-b2f9-2885d0f29c26.jpg)",
     "files": [
         "https://enem.dev/2021/questions/105/81f45a24-eda2-40b3-8e46-768ee75a8807.jpg",

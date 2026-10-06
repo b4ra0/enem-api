@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria",
+        "termoquimica"
+    ],
     "context": "![](https://enem.dev/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg)",
     "files": [
         "https://enem.dev/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg"

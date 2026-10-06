@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "populacao-migracoes"
+    ],
     "context": "![](https://enem.dev/2016/questions/45/ba036fce-0675-43b4-805e-3ad9e5131264.png)",
     "files": [
         "https://enem.dev/2016/questions/45/ba036fce-0675-43b4-805e-3ad9e5131264.png"

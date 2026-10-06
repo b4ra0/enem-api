@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas",
+        "quimica-ambiental"
+    ],
     "context": "Tensoativos são compostos orgânicos que possuem comportamento anfifílico. Isto é, possuem duas regiões,  \numa hidrofóbica e outra hidrofílica. O principal tensoativo aniônico sintético surgiu na década de 1940 e teve grande  \naceitação no mercado de detergentes em razão do melhor desempenho comparado ao do sabão. No entanto, o uso desse produto provocou grandes problemas ambientais, dentre eles a resistência ã degradação biológica, por causa dos diversos carbonos terciários na cadela que compõe a porção hidrofóbica desse tensoativo aniônico. As ramificações na cadela dificultam sua degradação, levando ã persistência no melo ambiente por longos períodos. Isso levou a sua substituição na maioria dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas lineares.\n\nPENTEADO, J. C. P.; EL SEOUD, O. A.; CARVALHO, L. R. F. \\[…\\]: uma abordagem ambiental e analítica. **Química Nova**, n. 5, 2006 (adaptado).",
     "files": [],
     "correctAlternative": "B",

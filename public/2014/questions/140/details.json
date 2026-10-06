@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas",
+        "media-moda-mediana"
+    ],
     "context": "![](https://enem.dev/2014/questions/140/4c998d12-4067-468b-8789-037afc8b6503.png)",
     "files": [
         "https://enem.dev/2014/questions/140/4c998d12-4067-468b-8789-037afc8b6503.png"

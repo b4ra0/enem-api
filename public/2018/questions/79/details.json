@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-antiga",
+        "etica-moral"
+    ],
     "context": "A quem não basta pouco, nada basta.\n\nEPICURO. **Os pensadores.** São Paulo: Abril Cultural, 1985.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,11 @@
     "year": 2017,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2017/questions/3-ingles/0933a50a-d739-44ba-b540-de42213e3fcf.png)\n\n**Reader’s Digest**, set. 1993.",
     "files": [
         "https://enem.dev/2017/questions/3-ingles/0933a50a-d739-44ba-b540-de42213e3fcf.png"

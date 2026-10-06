@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-moderna",
+        "filosofia-contemporanea"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

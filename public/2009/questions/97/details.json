@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2009/questions/97/21bc16d2-a579-454e-ade1-28f57b52d15d.jpg)",
     "files": [
         "https://enem.dev/2009/questions/97/21bc16d2-a579-454e-ade1-28f57b52d15d.jpg"

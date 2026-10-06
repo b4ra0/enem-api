@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas",
+        "solucoes"
+    ],
     "context": "O aquecimento de um material por irradiação com micro-ondas ocorre por causa da interação da onda eletromagnética com o dipolo elétrico da molécula. Um importante atributo do aquecimento por micro-ondas é a absorção direta da energia pelo material a ser aquecido. Assim, esse aquecimento é seletivo e dependerá, principalmente, da constante dielétrica e da frequência de relaxação do material. O gráfico mostra a taxa de aquecimento de cinco solventes sob irradiação de micro-ondas.\n\nBARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de alguns conceitos fundamentais. **Química Nova**, n. 6, 2001 (adaptado).\n\n![](https://enem.dev/2016/questions/89/89686e55-7f2b-41cc-9c53-3c0f26b581a6.png)",
     "files": [
         "https://enem.dev/2016/questions/89/89686e55-7f2b-41cc-9c53-3c0f26b581a6.png"

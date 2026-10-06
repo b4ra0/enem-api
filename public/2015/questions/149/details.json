@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

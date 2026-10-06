@@ -4,6 +4,11 @@
     "year": 2016,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "aspectos-culturais",
+        "interpretacao-texto"
+    ],
     "context": "**Agua**\n\nal soñar que un cántaro  \nen la cabeza acarreas,  \nserá éxito y triunfo lo que tú veas.  \nBañarse en un río  \ndonde el agua escalda,  \nes augurio de enemigos  \ny de cuchillo en la espalda.  \nBañarse en un río de agua puerca,  \nes perder a alguien cerca.\n\nORTIZ, A.; FLORES FARFÁN, J. A. **Sueños mexicanos**. **México: Artes de México**, 2012",
     "files": [],
     "correctAlternative": "B",

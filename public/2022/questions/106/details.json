@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "funcoes-organicas"
+    ],
     "context": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n\n![](https://enem.dev/2022/questions/106/836c6396-bd57-477b-b379-b509c4b99242.png)",
     "files": [
         "https://enem.dev/2022/questions/106/836c6396-bd57-477b-b379-b509c4b99242.png"

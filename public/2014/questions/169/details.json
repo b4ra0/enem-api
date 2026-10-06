@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas"
+    ],
     "context": "![](https://enem.dev/2014/questions/169/b44d9617-dc63-4685-b986-350085211e6d.png)\n\nDeseja-se reproduzi-la numa folha de papel retangular com 42 cm de comprimento e 30 cm de altura, deixando livres 3 cm em cada margem, conforme a Figura 2.\n\n![](https://enem.dev/2014/questions/169/763670f1-6c10-4db7-bc89-5871441c12b6.png)\n\nA reprodução da gravura deve ocupar o máximo possível da região disponível, mantendo-se as proporções da Figura 1\n\nPRADO, A. C. **Superinteressante**, ed. 301, fev. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2014/questions/169/b44d9617-dc63-4685-b986-350085211e6d.png",

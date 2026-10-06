@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.\n\n![](https://enem.dev/2021/questions/102/17f47198-3b4c-42ca-bedf-c8b41c41b0d6.jpg)",
     "files": [
         "https://enem.dev/2021/questions/102/17f47198-3b4c-42ca-bedf-c8b41c41b0d6.jpg"

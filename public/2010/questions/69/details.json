@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "termoquimica"
+    ],
     "context": "![](https://enem.dev/2010/questions/69/41751926-6bcd-405d-ad63-38c328db607d.jpg)",
     "files": [
         "https://enem.dev/2010/questions/69/41751926-6bcd-405d-ad63-38c328db607d.jpg"

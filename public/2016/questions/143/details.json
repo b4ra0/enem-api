@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "equacoes-inequacoes"
+    ],
     "context": "![](https://enem.dev/2016/questions/143/ed2f51dd-ec06-4496-8180-b5b75383fd27.png)",
     "files": [
         "https://enem.dev/2016/questions/143/ed2f51dd-ec06-4496-8180-b5b75383fd27.png"

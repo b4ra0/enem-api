@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "classicos-sociologia"
+    ],
     "context": "A crescente intelectualização e racionalização _não_ indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, _poderíamos_ ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.\n\nWEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). **Max Weber**: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).",
     "files": [],
     "correctAlternative": "D",

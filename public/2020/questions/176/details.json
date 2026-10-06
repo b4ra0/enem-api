@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas"
+    ],
     "context": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura\n\n![](https://enem.dev/2020/questions/176/a2a0721b-5aab-4802-a096-4da3fd68828b.png)\n\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida.",
     "files": [
         "https://enem.dev/2020/questions/176/a2a0721b-5aab-4802-a096-4da3fd68828b.png"

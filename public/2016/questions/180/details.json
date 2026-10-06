@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logaritmo"
+    ],
     "context": "![](https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png)\n\nsendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real positiva. Considere que E1 e E2 representam as energias liberadas nos terremotos ocorridos no Japão e na China, respectivamente.",
     "files": [
         "https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png"

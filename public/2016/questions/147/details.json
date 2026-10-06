@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

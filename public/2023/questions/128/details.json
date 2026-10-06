@@ -3,7 +3,11 @@
     "index": 128,
     "year": 2023,
     "language": null,
-    "discipline": "matematica",
+    "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria"
+    ],
     "context": "É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.",
     "files": [],
     "correctAlternative": "C",

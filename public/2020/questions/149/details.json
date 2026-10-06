@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logaritmo",
+        "funcao-afim"
+    ],
     "context": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (_f_) de uma palavra em um dado texto com o seu ranking (_r_). Ela é dada por\n\n![](https://enem.dev/2020/questions/149/2d8babc0-0742-463e-81ce-b59315ecfef6.png)\n\nO ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, _r_ = 1 para a palavra mais frequente, _r_ = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.\n\nDisponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).",
     "files": [
         "https://enem.dev/2020/questions/149/2d8babc0-0742-463e-81ce-b59315ecfef6.png"

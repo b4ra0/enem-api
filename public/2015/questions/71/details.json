@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "equilibrio-quimico"
+    ],
     "context": "![](https://enem.dev/2015/questions/71/92259437-a0d4-4aef-89fb-239bfdf8d060.png)",
     "files": [
         "https://enem.dev/2015/questions/71/92259437-a0d4-4aef-89fb-239bfdf8d060.png"

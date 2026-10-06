@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas"
+    ],
     "context": "O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:\n\n![](https://enem.dev/2017/questions/114/edc31bcf-bb5f-438b-8349-9b5eb2945835.jpg)",
     "files": [
         "https://enem.dev/2017/questions/114/edc31bcf-bb5f-438b-8349-9b5eb2945835.jpg"

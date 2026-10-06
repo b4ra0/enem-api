@@ -3,7 +3,11 @@
     "index": 123,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "vanguardas-europeias"
+    ],
     "context": "“Todas as manhãs quando acordo, experimento um prazer supremo: o de ser Salvador Dalí.”\n\nNÉRET, G. **Salvador Dalí.** Taschen, 1996.",
     "files": [],
     "correctAlternative": "B",

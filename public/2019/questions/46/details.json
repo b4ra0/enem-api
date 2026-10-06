@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo",
+        "questoes-ambientais"
+    ],
     "context": "A pegada ecológica gigante que estamos a deixar no planeta está a transformá-to de tal forma que os especialistas consideram que já entramos numa nova época geológica, o Antropoceno. E muitos defendem que, se não travarmos a crise ambiental, mais rapidamente transformaremos a Terra em Vênus do que iremos a Marte. A expressão “Antropoceno” é atribuída ao químico e prêmio Nobel Paul Crutzen, que a propôs durante uma conferência em 2000, ao mesmo tempo que anunciou o fim do Holoceno – a época geológica em que os seres humanos se encontram há cerca de 12 mil anos, segundo a União Internacional das Ciências Geológicas (UICG), a entidade que define as unidades de tempo geológicas.\n\nSILVA, R. D. **Antropoceno: e se formos os últimos seres vivos a alterar a Terra?** Disponível em: www.publico.pt. Acesso em: 5 dez. 2017 (adaptado).",
     "files": [],
     "correctAlternative": "B",

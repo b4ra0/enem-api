@@ -3,7 +3,11 @@
     "index": 113,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia"
+    ],
     "context": "Os filhos de Anna eram bons, uma coisa verdadeira e sumarenta. Cresciam, tomavam banho, exigiam para si, malcriados, instantes cada vez mais completos. A estouros. O calor era forte no apartamento que estavam aos poucos pagando. **Mas** o vento batendo nas cortinas que ela mesma cortara lembrava-lhe que se quisesse podia parar e enxugar a testa, olhando o calmo horizonte. Como um lavrador. Ela plantara as sementes que tinha na mão, não outras, **mas** essas apenas.\n\nLISPECTOR, C. Laços de família. Rio de Janeiro: Rocco, 1998.",
     "files": [],
     "correctAlternative": "E",

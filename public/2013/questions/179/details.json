@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "semelhanca-triangulos"
+    ],
     "context": "![](https://enem.dev/2013/questions/179/b89b41c4-9cdd-4858-8d4d-69e4efbcf1cc.png)",
     "files": [
         "https://enem.dev/2013/questions/179/b89b41c4-9cdd-4858-8d4d-69e4efbcf1cc.png"

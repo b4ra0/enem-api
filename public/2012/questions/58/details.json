@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-organicas",
+        "funcoes-organicas"
+    ],
     "context": "A própolis é um produto natural conhecido por suas propriedades anti-inflamatórias e cicatrizantes. Esse material contém mais de 200 compostos identificados até o momento. Dentre eles, alguns são de estrutura simples,  \ncomo é o caso do C6H5CO2CH2CH3, cuja estrutura está mostrada a seguir.\n\n![](https://enem.dev/2012/questions/58/2bf52513-1616-418a-ac16-9297567f554c.jpg)",
     "files": [
         "https://enem.dev/2012/questions/58/2bf52513-1616-418a-ac16-9297567f554c.jpg"

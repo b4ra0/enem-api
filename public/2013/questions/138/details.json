@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria",
+        "razao-proporcao"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

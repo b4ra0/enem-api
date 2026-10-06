@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2014/questions/157/0036f173-2e12-4c90-9b1b-9eb2fb4de45b.png)\n\nPara quantificar os sapatos pela cor, os donos representaram a cor branca pelo número 0 e a cor preta pelo número 1. Sabe-se que a média da distribuição desses zeros e uns é igual a 0,45.\n\nOs donos da loja decidiram que a numeração dos sapatos com maior número de reclamações e a cor com maior número de reclamações não serão mais vendidas.",
     "files": [
         "https://enem.dev/2014/questions/157/0036f173-2e12-4c90-9b1b-9eb2fb4de45b.png"

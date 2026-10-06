@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao"
+    ],
     "context": "Embora haja dados comuns que dão unidade ao fenômeno da urbanização na África, na Ásia e na América Latina, os impactos são distintos em cada continente e mesmo dentro de cada país, ainda que as modernizações se deem com o mesmo conjunto de inovações.\n\nELIAS, D. Fim do século e urbanização no Brasil. **Revista Ciência Geográfica**, ano IV, n. 11, set./dez. 1988.",
     "files": [],
     "correctAlternative": "C",

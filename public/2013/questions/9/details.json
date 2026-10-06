@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "transportes-circulacao"
+    ],
     "context": "De todas as transformações impostas pelo meio técnico-científico-informacional à logística de transportes, interessa-nos mais de perto a intermodalidade. E por uma razão muito simples: o potencial que tal “ferramenta logística” ostenta permite que haja, de fato, um sistema de transportes condizente com a escala geográfica do Brasil.\n\nHUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. **Revista Transporte y Territorio**, Universidade de Buenos Aires, n. 3, 2010 (adaptado).",
     "files": [],
     "correctAlternative": "B",

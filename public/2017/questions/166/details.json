@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "trigonometria",
+        "funcoes-conceitos"
+    ],
     "context": "![](https://enem.dev/2017/questions/166/41a14ec3-8c43-4dc3-b116-be74098827c0.png)",
     "files": [
         "https://enem.dev/2017/questions/166/41a14ec3-8c43-4dc3-b116-be74098827c0.png"

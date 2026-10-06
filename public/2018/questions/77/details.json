@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima",
+        "geologia-relevo"
+    ],
     "context": "A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é corroborada pelo fato de que ela é coberta por acumulações  \nsuperficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica, denominada “canga”.\n\nWEIBEL, L. Disponível em: http://biblioteca.ibge.gov.br. Acesso em: 8jul. 2015 (adaptado).",
     "files": [],
     "correctAlternative": "D",

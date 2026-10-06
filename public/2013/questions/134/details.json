@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "tecnologias-informacao"
+    ],
     "context": "**O que é _bullying_ virtual ou _cyberbullying_?**\n\nÉ o _bullying_ que ocorre em meios eletrônicos, com mensagens difamatórias ou ameaçadoras circulando por _e-mails, sites, blogs_ (os diários virtuais), redes sociais e celulares. É quase uma extensão do que dizem e fazem na escola, mas com o agravante de que as pessoas envolvidas não estão cara a cara. Dessa forma, o anonimato pode aumentar a crueldade dos comentários e das ameaças e os efeitos podem ser tão graves ou piores. “O autor, assim como o alvo, tem dificuldade de sair de seu papel e retomar valores esquecidos ou formar novos”, explica Luciene Tognetta, doutora em Psicologia Escolar e pesquisadora da Faculdade de Educação da Universidade Estadual de Campinas (Unicamp).\n\nDisponível em: http://revistaescola.abril.com.br. Acesso em: 3 ago. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "B",

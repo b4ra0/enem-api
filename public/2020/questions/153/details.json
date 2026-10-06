@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "razao-proporcao"
+    ],
     "context": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n\n*   seguir num ônibus, percorrendo 2,0 km;\n*   alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade.\n\n![](https://enem.dev/2020/questions/153/e577551e-7571-4872-83d0-5cecc4a4d79d.jpeg)",
     "files": [
         "https://enem.dev/2020/questions/153/e577551e-7571-4872-83d0-5cecc4a4d79d.jpeg"

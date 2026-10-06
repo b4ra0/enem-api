@@ -3,7 +3,12 @@
     "index": 85,
     "year": 2014,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "fisiologia-humana"
+    ],
     "context": "![](https://enem.dev/2014/questions/85/115d18ee-069d-4b89-9d94-9ce280c41de8.png)",
     "files": [
         "https://enem.dev/2014/questions/85/115d18ee-069d-4b89-9d94-9ce280c41de8.png"

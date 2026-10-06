@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2009/questions/114/210b6d6d-83b0-4ea3-9e5e-f132e9192614.jpg)\n\nVocê sabia que as metrópoles são as grandes consumidoras dos produtos feitos com recursos naturais da Amazônia? Você pode diminuir os impactos à floresta adquirindo produtos com selos de certificação. Eles são encontrados em itens que vão desde lápis e embalagens de papelão até móveis, cosméticos e materiais de construção. Para receber os selos esses produtos devem ser fabricados sob 10 princípios éticos, entre eles o respeito à legislação ambiental e aos direitos de povos indígenas e populações que vivem em nossas matas nativas.\n\n**Vida simples**. Ed. 74, dez. 2008.",
     "files": [
         "https://enem.dev/2009/questions/114/210b6d6d-83b0-4ea3-9e5e-f132e9192614.jpg"

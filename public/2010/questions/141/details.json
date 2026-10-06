@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2010/questions/141/97f889c7-0bdb-4cc7-9148-5a7d0623d977.png)",
     "files": [
         "https://enem.dev/2010/questions/141/97f889c7-0bdb-4cc7-9148-5a7d0623d977.png"

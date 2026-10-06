@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "razao-proporcao"
+    ],
     "context": "![](https://enem.dev/2013/questions/178/402e3690-ae8e-4967-a6fb-169619428b3a.png)",
     "files": [
         "https://enem.dev/2013/questions/178/402e3690-ae8e-4967-a6fb-169619428b3a.png"

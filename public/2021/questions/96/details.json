@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica"
+    ],
     "context": "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um fungo, constituída de sete códons, está escrita a seguir\n\n![](https://enem.dev/2021/questions/96/5b6529ba-c1eb-4122-b4de-a281d26d7c5c.png)\n\nPesquisadores submeteram a sequência a mutações independentes. Sabe-se que os códons UAG e UAA são terminais, ou seja, indicam a interrupção da tradução.",
     "files": [
         "https://enem.dev/2021/questions/96/5b6529ba-c1eb-4122-b4de-a281d26d7c5c.png"

@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas"
+    ],
     "context": "![](https://enem.dev/2010/questions/151/87ef13a2-eec3-4dfb-9324-6f25f45690e7.png)\n\nCom o objetivo de não desperdiçar café, a diarista deseja colocar a quantidade mínima de água na leiteira para encher os vinte copinhos pela metade.",
     "files": [
         "https://enem.dev/2010/questions/151/87ef13a2-eec3-4dfb-9324-6f25f45690e7.png"

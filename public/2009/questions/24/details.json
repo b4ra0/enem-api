@@ -3,7 +3,11 @@
     "index": 24,
     "year": 2009,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termologia"
+    ],
     "context": "Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de água contido na atmosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma parcela de ar e a quantidade de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local.\n\n![](https://enem.dev/2009/questions/24/53ebbcea-15f9-494b-9426-72808957e3f9.jpg)",
     "files": [
         "https://enem.dev/2009/questions/24/53ebbcea-15f9-494b-9426-72808957e3f9.jpg"

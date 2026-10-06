@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "geometria-plana"
+    ],
     "context": "Uma metalúrgica recebeu uma encomenda para fabricar, em grande quantidade, uma peça com o formato de um prisma reto com base triangular, cujas dimensões da base são 6 cm, 8 cm e 10 cm e cuja altura é 10 cm. Tal peça deve ser vazada de tal maneira que a perfuração na forma de um cilindro circular reto seja tangente às suas faces laterais, conforme mostra a figura.\n\n![](https://enem.dev/2010/questions/164/d7f10275-2a88-4791-b723-59fdae4f26d0.jpg)",
     "files": [
         "https://enem.dev/2010/questions/164/d7f10275-2a88-4791-b723-59fdae4f26d0.jpg"

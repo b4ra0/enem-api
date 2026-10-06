@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Muitos _smartphones_ e _tablets_ não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque.\n\nA imagem é uma simplificação do circuito formado pelas placas, em que **A** e **B** representam pontos onde o circuito pode ser fechado por meio do toque\n\n![](https://enem.dev/2018/questions/112/fe59e8fd-4175-4ab2-b2f5-3928a9780c42.png)",
     "files": [
         "https://enem.dev/2018/questions/112/fe59e8fd-4175-4ab2-b2f5-3928a9780c42.png"

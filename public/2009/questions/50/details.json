@@ -4,6 +4,12 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "guerras-mundiais",
+        "totalitarismos",
+        "imperialismo"
+    ],
     "context": "A primeira metade do século XX foi marcada por conflitos e processos que a inscreveram como um dos mais violentos períodos da história humana.",
     "files": [],
     "correctAlternative": "A",

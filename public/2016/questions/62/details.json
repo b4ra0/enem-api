@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "zoologia"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

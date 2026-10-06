@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termodinamica",
+        "trabalho-energia"
+    ],
     "context": "![](https://enem.dev/2011/questions/46/47ffbebd-35fe-40ff-b7f6-c1ede9958539.png)",
     "files": [
         "https://enem.dev/2011/questions/46/47ffbebd-35fe-40ff-b7f6-c1ede9958539.png"

@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana"
+    ],
     "context": "Um paciente deu entrada em um pronto-socorro apresentando os seguintes sintomas: cansaço, dificuldade em respirar e sangramento nasal. O médico solicitou um hemograma ao paciente para definir um diagnóstico. Os resultados estão dispostos na tabela:\n\n![](https://enem.dev/2011/questions/49/f89f293e-0067-4618-80d8-facffa61b33e.jpg)",
     "files": [
         "https://enem.dev/2011/questions/49/f89f293e-0067-4618-80d8-facffa61b33e.jpg"

@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais"
+    ],
     "context": "O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem.\n\nROSA, J. G. **Grande sertão: veredas**. Rio de Janeiro: Nova Fronteira, 1986.\n\nNo romance _Grande sertão: veredas_, o protagonista Riobaldo narra sua trajetória de jagunço.",
     "files": [],
     "correctAlternative": "D",

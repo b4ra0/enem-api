@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2020/questions/26/8abef0c5-b053-4973-9ace-4fa17bf73d53.png)\n\nA realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
     "files": [
         "https://enem.dev/2020/questions/26/8abef0c5-b053-4973-9ace-4fa17bf73d53.png"

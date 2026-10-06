@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-contemporanea",
+        "filosofia-politica"
+    ],
     "context": "A lei não nasce da natureza, junto das fontes frequentadas pelos primeiros pastores: a lei nasce das batalhas reais, das vitórias, dos massacres, das conquistas que têm sua data e seus heróis de horror: a lei nasce das cidades incendiadas, das terras devastadas; ela nasce com os famosos inocentes que agonizam no dia que está amanhecendo.\n\nFOUCAULT. M. Aula de 14 de janeiro de 1976. In. Em defesa da  \nsociedade. São Paulo: Martins Fontes. 1999",
     "files": [],
     "correctAlternative": "E",

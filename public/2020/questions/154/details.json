@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "potencias-notacao-cientifica"
+    ],
     "context": "Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada.\n\n![](https://enem.dev/2020/questions/154/6dd0ecd2-2d2d-4039-88e5-9f2728158724.png)\n\nA escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro.",
     "files": [
         "https://enem.dev/2020/questions/154/6dd0ecd2-2d2d-4039-88e5-9f2728158724.png"

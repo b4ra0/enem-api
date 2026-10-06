@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "eletroquimica"
+    ],
     "context": "Grupos de pesquisa em todo o mundo vêm buscando soluções inovadoras, visando à produção de dispositivos para a geração de energia elétrica. Dentre eles, pode-se destacar as baterias de zinco-ar, que combinam o oxigênio atmosférico e o metal zinco em um eletrólito aquoso de caráter alcalino. O esquema de funcionamento da bateria zinco-ar está apresentado na figura.\n\n![](https://enem.dev/2019/questions/118/eaf08f30-2189-4cb7-8b6c-2ecbc7e1d9d8.png)",
     "files": [
         "https://enem.dev/2019/questions/118/eaf08f30-2189-4cb7-8b6c-2ecbc7e1d9d8.png"

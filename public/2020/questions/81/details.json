@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "escravidao",
+        "brasil-colonia"
+    ],
     "context": "Porque todos confessamos não se poder viver sem alguns escravos, que busquem a lenha e a água, e façam cada dia o pão que se come, e outros serviços que não são possíveis poderem-se fazer pelos Irmãos Jesuítas, máxime sendo tão poucos, que seria necessário deixar as confissões e tudo mais. Parece-me que a Companhia de Jesus deve ter e adquirir escravos, justamente, por meios que as Constituições permitem, quando puder para nossos colégios e casas de meninos.\n\nLEITE, S. História da Companhia de Jesus no Brasil. Rio de Janeiro: Civilização Brasileira. 1938 (adaptado).",
     "files": [],
     "correctAlternative": "C",

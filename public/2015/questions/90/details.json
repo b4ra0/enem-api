@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "quimica-ambiental"
+    ],
     "context": "![](https://enem.dev/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png)",
     "files": [
         "https://enem.dev/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png"

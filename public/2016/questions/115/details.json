@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica",
+        "semantica"
+    ],
     "context": "O nome do inseto pirilampo (vaga-lume) tem uma interessante certidão de nascimento. De repente, no fim do século XVII, os poetas de Lisboa repararam que não podiam cantar o inseto luminoso, apesar de ele ser um manancial de metáforas, pois possuía um nome “indecoroso” que não podia ser “usado em papéis sérios”: caga-lume. Foi então que o dicionarista Raphael Bluteau inventou a nova palavra, pirilampo, a partir do grego **pyr**, significando “fogo”, e **lampas**, “candeia”.\n\nFERREIRA, M. B. **Caminhos do português**: exposição comemorativa do Ano Europeu das Linguas. Portugal: Biblioteca Nacional, 2001 (adaptado).",
     "files": [],
     "correctAlternative": "E",

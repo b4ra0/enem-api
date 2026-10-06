@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores, como ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB, abre BC e vice-versa.\n\n![](https://enem.dev/2021/questions/126/0628bf6f-7d5c-4dc6-befa-149ef1567926.png)",
     "files": [
         "https://enem.dev/2021/questions/126/0628bf6f-7d5c-4dc6-befa-149ef1567926.png"

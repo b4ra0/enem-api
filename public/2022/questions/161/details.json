@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas",
+        "geometria-plana"
+    ],
     "context": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída, cujas medidas, indicadas em centímetro, representam os valores das dimensões da varanda na escala de 1 : 50.\n\n![](https://enem.dev/2022/questions/161/e1e86e81-76dc-4763-a118-273941076831.png)",
     "files": [
         "https://enem.dev/2022/questions/161/e1e86e81-76dc-4763-a118-273941076831.png"

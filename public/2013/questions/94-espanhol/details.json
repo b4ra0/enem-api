@@ -4,6 +4,11 @@
     "year": 2013,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "vocabulario-contexto"
+    ],
     "context": "**Cabra sola**\n\nHay quien dice que soy como la cabra;  \nLo dicen lo repiten, ya lo creo;  \nPero soy una cabra muy extraña  \nQue lleva una medalla y siete cuernos.  \n¡Cabra! Em vez de mala leche yo doy llanto.  \n¡Cabra! Por lo más peligroso me paseo.  \n¡Cabra! Me llevo bien con alimañas todas,  \n¡Cabra! Y escribo en los tebeos.  \nVivo sola, cabra sola,  \n— que no quise cabrito en compañía —  \ncuando subo a lo alto de este valle  \nsiempre encuentro un lirio de alegría.  \nY vivo por mi cuenta, cabra sola;  \nQue yo a ningún rebaño pertenezco.  \nSi sufrir es estar como una cabra,  \nEntonces sí lo estoy, no dudar de ello.\n\nFUERTES, G. **Poeta de guardia.** Barcelona; Lumen, 1990.",
     "files": [],
     "correctAlternative": "E",

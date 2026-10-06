@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "espaco-agrario"
+    ],
     "context": "A irrigação da agricultura é responsável pelo consumo de mais de 2/3 de toda a água retirada dos rios, lagos e lençóis freáticos do mundo. Mesmo no Brasil, onde achamos que temos muita água, os agricultores que tentam produzir alimentos também enfrentam secas periódicas e uma competição crescente por água.\n\nMARAFON, G. J. et al. **O desencanto da terra**: produção de alimentos, ambiente e sociedade. Rio de Janeiro: Garamond, 2011.",
     "files": [],
     "correctAlternative": "E",

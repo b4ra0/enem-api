@@ -4,6 +4,11 @@
     "year": 2021,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "vocabulario-contexto"
+    ],
     "context": "En el suelo, apoyado en el mostrador, se acurrucaba, inmóvil como una cosa, un hombre muy viejo. Los muchos años lo habían reducido y pulido como las aguas a una piedra o las generaciones de los hombres a una sentencia. Era oscuro, chico y reseco, y estaba como fuera del tiempo, en una eternidad.\n\nBORGES, J. L. Artificios. Madri: Alianza Cien, 1995",
     "files": [],
     "correctAlternative": "A",

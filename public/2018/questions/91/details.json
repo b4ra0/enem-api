@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "isomeria",
+        "ligacoes-quimicas"
+    ],
     "context": "Pesquisas demonstram que nanodispositivos baseados em movimentos de dimensões atômicas, induzidos por luz, poderão ter aplicações em tecnologias futuras, substituindo micromotores, sem a necessidade de componentes mecânicos. Exemplo de movimento molecular induzido pela luz pode ser observado pela flexão de uma lâmina delgada de silício, ligado a um polímero de azobenzeno e a um material suporte, em dois comprimentos de onda, conforme ilustrado na figura. Com a aplicação de luz ocorrem reações reversíveis da cadeia do polímero, que promovem o movimento observado:\n\nTOMA, H. E. A nanotecnologia das moléculas. **Química Nova na Escola**, n.21, maio 2005 (adaptado).\n\n![](https://enem.dev/2018/questions/91/5fcb47b9-374a-479e-9eee-75f09cad44e0.png)",
     "files": [
         "https://enem.dev/2018/questions/91/5fcb47b9-374a-479e-9eee-75f09cad44e0.png"

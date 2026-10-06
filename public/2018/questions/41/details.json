@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "morfologia"
+    ],
     "context": "![](https://enem.dev/2018/questions/41/a991a226-d7fd-4f72-8e96-b32ce8bb0036.png)\n\nDisponível em: www.sul21.com.br. Acesso em: 1 dez. 2017 (adaptado).",
     "files": [
         "https://enem.dev/2018/questions/41/a991a226-d7fd-4f72-8e96-b32ce8bb0036.png"

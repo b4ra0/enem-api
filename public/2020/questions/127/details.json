@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto.\n\n(BLUM, C. T. Lista preliminar de espécies vegetais pioneiras nativas do Paraná – versão 2005. Disponível em: www.chaua.org.br. Acesso em: 10 fev. 2015.)",
     "files": [],
     "correctAlternative": "C",

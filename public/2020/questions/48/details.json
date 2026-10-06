@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "trabalho-sociedade",
+        "desigualdade-social"
+    ],
     "context": "Nas últimas décadas, uma acentuada feminização no mundo do trabalho vem ocorrendo. Se a participação masculina pouco cresceu no período pós-1970, a intensificação da inserção das mulheres foi o traço marcante. Entretanto, essa presença feminina se dá mais no espaço dos empregos precários, onde a exploração, em grande medida, se encontra mais acentuada.\n\nNOGUEIRA, C. M. As trabalhadoras do telemarketing: uma nova divisão sexual do trabalho? In: ANTUNES, R. _et al_. **Infoproletários**: degradação real do trabalho virtual. São Paulo: Boitempo, 2009.",
     "files": [],
     "correctAlternative": "B",

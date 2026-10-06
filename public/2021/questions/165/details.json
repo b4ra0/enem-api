@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "razao-proporcao"
+    ],
     "context": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 10 km percorridos.",
     "files": [],
     "correctAlternative": "D",

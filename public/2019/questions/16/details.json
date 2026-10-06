@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "coesao-coerencia"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "generos-textuais"
+    ],
     "context": "**Os tipos cheios de si**\n\nO difícil é encontrar quem nunca cruzou com (ou se passou por) um desses on-line.\n\n![](https://enem.dev/2019/questions/17/e0118f53-9f2d-472e-b5ff-8fe239c78125.png)\n\nDisponível em: http://epoca.globo.com. Acesso em: 20 mar. 2014.",
     "files": [
         "https://enem.dev/2019/questions/17/e0118f53-9f2d-472e-b5ff-8fe239c78125.png"

@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo"
+    ],
     "context": "![](https://enem.dev/2010/questions/5/0507e0cd-2002-4267-8a14-b1061254b765.jpg)\n\nTEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.",
     "files": [
         "https://enem.dev/2010/questions/5/0507e0cd-2002-4267-8a14-b1061254b765.jpg"

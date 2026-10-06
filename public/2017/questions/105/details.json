@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia"
+    ],
     "context": "A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.\n\n![](https://enem.dev/2017/questions/105/fdcdfdb2-4a95-45ce-910c-fe237a92283a.jpg)",
     "files": [
         "https://enem.dev/2017/questions/105/fdcdfdb2-4a95-45ce-910c-fe237a92283a.jpg"

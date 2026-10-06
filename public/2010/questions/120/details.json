@@ -3,7 +3,11 @@
     "index": 120,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "esportes"
+    ],
     "context": "![](https://enem.dev/2010/questions/120/905db2b8-b492-4c3a-873c-0193480807bf.jpg)",
     "files": [
         "https://enem.dev/2010/questions/120/905db2b8-b492-4c3a-873c-0193480807bf.jpg"

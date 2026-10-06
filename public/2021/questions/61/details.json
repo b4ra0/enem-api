@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao",
+        "globalizacao"
+    ],
     "context": "Desde 2009, a área portuária carioca vem sofrendo grandes transformações realizadas no escopo da operação urbana consorciada conhecida como Porto Maravilha. Parte importante na tentativa de tomar o Rio de Janeiro um polo de serviços internacional, a “revitalização” urbana deveria deixar para trás uma paisagem geográfica que ainda recordava a cidade do início do século passado para abrir espaço, em seu lugar, à instalação de modernas torres comerciais, espaços de consumo e lazer inéditos e cerca de cem mil novos moradores, uma nova configuração socioespacial capaz de alçar a área portuária do Rio de Janeiro ao patamar dos _waterfronts_ de Baltimore, Barcelona e Buenos Aires.\n\nLACERDA, L; WERNECK. M; RIBEIRO, N. Cortiços de hoje na cidade do amanhã. **E-metropolis**, n. 30, set; 2017.",
     "files": [],
     "correctAlternative": "A",

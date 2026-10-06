@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "funcoes-linguagem"
+    ],
     "context": "**Canção do vento e da minha vida**\n\nO vento varria as folhas,  \nO vento varria os frutos,  \nO vento varria as flores…  \n E a minha vida ficava  \n Cada vez mais cheia  \n De frutos, de flores, de folhas.  \n\\[…\\]  \nO vento varria os sonhos  \nE varria as amizades…  \nO vento varria as mulheres…  \n E a minha vida ficava  \n Cada vez mais cheia  \n De afetos e de mulheres.\n\nO vento varria os meses  \nE varria os teus sorrisos…  \nO vento varria tudo!  \n E a minha vida ficava  \n Cada vez mais cheia  \n De tudo.\n\nBANDEIRA, M. **Poesia completa e prosa.** Rio de Janeiro: José Aguilar, 1967.",
     "files": [],
     "correctAlternative": "E",

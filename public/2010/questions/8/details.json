@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo"
+    ],
     "context": "![](https://enem.dev/2010/questions/8/a4c1596f-3cc7-4a97-966e-ccc2d1b0db88.jpg)",
     "files": [
         "https://enem.dev/2010/questions/8/a4c1596f-3cc7-4a97-966e-ccc2d1b0db88.jpg"

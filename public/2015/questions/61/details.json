@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas.\n\nADUAN, R. E. et al. **Os grandes ciclos biogeoquímicos do planeta**. Planaltina: Embrapa, 2004 (adaptado).",
     "files": [],
     "correctAlternative": "D",

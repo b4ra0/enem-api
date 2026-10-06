@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "semantica",
+        "intertextualidade"
+    ],
     "context": "**TEXTO I**  \nA língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada, ela é que classifica a realidade. No léxico, percebe-se, de maneira mais imediata, o fato de que a língua condensa as experiências de um dado povo.\n\nFIORIN, J. L Língua, modernidade e tradição. **Diversitas**, n. 2. mar-set 2014\n\n**TEXTO II**  \nAs expressões coloquiais ainda estão impregnadas de discriminação contra os negros. Basta recordar algumas delas, como passar um “dia negro”, ter um “lado negro”, ser a “ovelha negra” da família ou praticar “magia negra”.\n\nDisponível em: https://brasil.elpais.com Acesso em: 22 maio 2018.",
     "files": [],
     "correctAlternative": "D",

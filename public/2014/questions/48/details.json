@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "quimica-ambiental",
+        "cinetica-quimica"
+    ],
     "context": "![](https://enem.dev/2014/questions/48/4b2624ac-087f-43e1-8654-e47e9593c1e0.png)",
     "files": [
         "https://enem.dev/2014/questions/48/4b2624ac-087f-43e1-8654-e47e9593c1e0.png"

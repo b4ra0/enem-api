@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "graficos-tabelas"
+    ],
     "context": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro.\n\n![](https://enem.dev/2020/questions/159/e08bbc57-85b1-4682-92b2-26297de393f7.png)\n\nA pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção.",
     "files": [
         "https://enem.dev/2020/questions/159/e08bbc57-85b1-4682-92b2-26297de393f7.png"

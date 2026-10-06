@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "musica",
+        "arte-popular"
+    ],
     "context": "Por onde houve colonização portuguesa, a música popular se desenvolveu basicamente com o mesmo instrumental. Podemos ver cavaquinho e violão atuarem juntos aqui, em Cabo Verde, em Jacarta, na Indonésia, ou em Goa. O caráter nostálgico, sentimental, é outro ponto comum da música das colônias portuguesas em todo o mundo. O kronjong, a música típica de Jacarta, é uma espécie de lundu mais lento, tocado comumente com flauta, cavaquinho e violão. Em Goa não é muito diferente.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "quantidade-movimento"
+    ],
     "context": "![](https://enem.dev/2016/questions/77/49b1ba7f-e030-4a6f-a45b-904746c94fec.png)\n\n![](https://enem.dev/2016/questions/77/e6446caa-3305-4442-841d-2fd1af3e86d0.png)",
     "files": [
         "https://enem.dev/2016/questions/77/49b1ba7f-e030-4a6f-a45b-904746c94fec.png",

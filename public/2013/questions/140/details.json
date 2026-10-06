@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas",
+        "razao-proporcao"
+    ],
     "context": "![](https://enem.dev/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png)",
     "files": [
         "https://enem.dev/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png"

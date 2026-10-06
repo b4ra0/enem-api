@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "intertextualidade"
+    ],
     "context": "![](https://enem.dev/2022/questions/15/8319bd69-f738-464b-bf9b-14f73e03df8f.png)\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
     "files": [
         "https://enem.dev/2022/questions/15/8319bd69-f738-464b-bf9b-14f73e03df8f.png"

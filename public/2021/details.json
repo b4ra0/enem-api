@@ -34,1111 +34,1935 @@
             "title": "Questão 1 - ENEM 2021",
             "index": 1,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 1 - ENEM 2021",
             "index": 1,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 2 - ENEM 2021",
             "index": 2,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto",
+                "aspectos-culturais"
+            ]
         },
         {
             "title": "Questão 2 - ENEM 2021",
             "index": 2,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 3 - ENEM 2021",
             "index": 3,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "vocabulario-contexto",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 3 - ENEM 2021",
             "index": 3,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "vocabulario-contexto",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 4 - ENEM 2021",
             "index": 4,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "vocabulario-contexto",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 4 - ENEM 2021",
             "index": 4,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto",
+                "vocabulario-contexto"
+            ]
         },
         {
             "title": "Questão 5 - ENEM 2021",
             "index": 5,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 5 - ENEM 2021",
             "index": 5,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 6 - ENEM 2021",
             "index": 6,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 7 - ENEM 2021",
             "index": 7,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 8 - ENEM 2021",
             "index": 8,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 9 - ENEM 2021",
             "index": 9,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "linguagens",
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 10 - ENEM 2021",
             "index": 10,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 11 - ENEM 2021",
             "index": 11,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 12 - ENEM 2021",
             "index": 12,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 13 - ENEM 2021",
             "index": 13,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 14 - ENEM 2021",
             "index": 14,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 15 - ENEM 2021",
             "index": 15,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "intertextualidade",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 16 - ENEM 2021",
             "index": 16,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 17 - ENEM 2021",
             "index": 17,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "argumentacao"
+            ]
         },
         {
             "title": "Questão 18 - ENEM 2021",
             "index": 18,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "romantismo"
+            ]
         },
         {
             "title": "Questão 19 - ENEM 2021",
             "index": 19,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "saude-qualidade-vida",
+                "corpo-sociedade"
+            ]
         },
         {
             "title": "Questão 20 - ENEM 2021",
             "index": 20,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "danca",
+                "cinema-fotografia"
+            ]
         },
         {
             "title": "Questão 21 - ENEM 2021",
             "index": 21,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "intertextualidade"
+            ]
         },
         {
             "title": "Questão 22 - ENEM 2021",
             "index": 22,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 23 - ENEM 2021",
             "index": 23,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "danca",
+                "arte-popular"
+            ]
         },
         {
             "title": "Questão 24 - ENEM 2021",
             "index": 24,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 25 - ENEM 2021",
             "index": 25,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 26 - ENEM 2021",
             "index": 26,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "coesao-coerencia"
+            ]
         },
         {
             "title": "Questão 27 - ENEM 2021",
             "index": 27,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "arquitetura-design"
+            ]
         },
         {
             "title": "Questão 28 - ENEM 2021",
             "index": 28,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "linguagens",
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "tecnologias-informacao"
+            ]
         },
         {
             "title": "Questão 29 - ENEM 2021",
             "index": 29,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "tecnologias-informacao"
+            ]
         },
         {
             "title": "Questão 30 - ENEM 2021",
             "index": 30,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 31 - ENEM 2021",
             "index": 31,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "esportes",
+                "corpo-sociedade"
+            ]
         },
         {
             "title": "Questão 32 - ENEM 2021",
             "index": 32,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "funcoes-linguagem"
+            ]
         },
         {
             "title": "Questão 33 - ENEM 2021",
             "index": 33,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 34 - ENEM 2021",
             "index": 34,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 35 - ENEM 2021",
             "index": 35,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "realismo-naturalismo"
+            ]
         },
         {
             "title": "Questão 36 - ENEM 2021",
             "index": 36,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais",
+                "arte-popular"
+            ]
         },
         {
             "title": "Questão 37 - ENEM 2021",
             "index": 37,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "linguagens",
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "figuras-linguagem"
+            ]
         },
         {
             "title": "Questão 38 - ENEM 2021",
             "index": 38,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "linguagens",
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 39 - ENEM 2021",
             "index": 39,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 40 - ENEM 2021",
             "index": 40,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 41 - ENEM 2021",
             "index": 41,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "parnasianismo-simbolismo"
+            ]
         },
         {
             "title": "Questão 42 - ENEM 2021",
             "index": 42,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "corpo-sociedade"
+            ]
         },
         {
             "title": "Questão 43 - ENEM 2021",
             "index": 43,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais",
+                "historia-arte"
+            ]
         },
         {
             "title": "Questão 44 - ENEM 2021",
             "index": 44,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "linguagens",
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "figuras-linguagem"
+            ]
         },
         {
             "title": "Questão 45 - ENEM 2021",
             "index": 45,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 46 - ENEM 2021",
             "index": 46,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "trabalho-sociedade"
+            ]
         },
         {
             "title": "Questão 47 - ENEM 2021",
             "index": 47,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "desigualdade-social"
+            ]
         },
         {
             "title": "Questão 48 - ENEM 2021",
             "index": 48,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "espaco-agrario",
+                "biomas"
+            ]
         },
         {
             "title": "Questão 49 - ENEM 2021",
             "index": 49,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "patrimonio-memoria"
+            ]
         },
         {
             "title": "Questão 50 - ENEM 2021",
             "index": 50,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "globalizacao",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 51 - ENEM 2021",
             "index": 51,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "questoes-ambientais",
+                "hidrografia"
+            ]
         },
         {
             "title": "Questão 52 - ENEM 2021",
             "index": 52,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "escravidao",
+                "brasil-imperio"
+            ]
         },
         {
             "title": "Questão 53 - ENEM 2021",
             "index": 53,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cultura-identidade"
+            ]
         },
         {
             "title": "Questão 54 - ENEM 2021",
             "index": 54,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "trabalho-sociedade"
+            ]
         },
         {
             "title": "Questão 55 - ENEM 2021",
             "index": 55,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cidadania-direitos",
+                "cultura-identidade"
+            ]
         },
         {
             "title": "Questão 56 - ENEM 2021",
             "index": 56,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "desigualdade-social",
+                "cultura-identidade"
+            ]
         },
         {
             "title": "Questão 57 - ENEM 2021",
             "index": 57,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 58 - ENEM 2021",
             "index": 58,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 59 - ENEM 2021",
             "index": 59,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "clima"
+            ]
         },
         {
             "title": "Questão 60 - ENEM 2021",
             "index": 60,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "movimentos-sociais"
+            ]
         },
         {
             "title": "Questão 61 - ENEM 2021",
             "index": 61,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao",
+                "globalizacao"
+            ]
         },
         {
             "title": "Questão 62 - ENEM 2021",
             "index": 62,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "industrializacao",
+                "globalizacao"
+            ]
         },
         {
             "title": "Questão 63 - ENEM 2021",
             "index": 63,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "questoes-ambientais",
+                "energia-recursos"
+            ]
         },
         {
             "title": "Questão 64 - ENEM 2021",
             "index": 64,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "desigualdade-social"
+            ]
         },
         {
             "title": "Questão 65 - ENEM 2021",
             "index": 65,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "classicos-sociologia"
+            ]
         },
         {
             "title": "Questão 66 - ENEM 2021",
             "index": 66,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "violencia",
+                "desigualdade-social"
+            ]
         },
         {
             "title": "Questão 67 - ENEM 2021",
             "index": 67,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "idade-media"
+            ]
         },
         {
             "title": "Questão 68 - ENEM 2021",
             "index": 68,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "movimentos-sociais",
+                "meios-comunicacao"
+            ]
         },
         {
             "title": "Questão 69 - ENEM 2021",
             "index": 69,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "era-vargas"
+            ]
         },
         {
             "title": "Questão 70 - ENEM 2021",
             "index": 70,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "biomas",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 71 - ENEM 2021",
             "index": 71,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "geologia-relevo"
+            ]
         },
         {
             "title": "Questão 72 - ENEM 2021",
             "index": 72,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 73 - ENEM 2021",
             "index": 73,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "republica-1945-1964"
+            ]
         },
         {
             "title": "Questão 74 - ENEM 2021",
             "index": 74,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-colonia"
+            ]
         },
         {
             "title": "Questão 75 - ENEM 2021",
             "index": 75,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-colonia",
+                "povos-indigenas"
+            ]
         },
         {
             "title": "Questão 76 - ENEM 2021",
             "index": 76,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "idade-media"
+            ]
         },
         {
             "title": "Questão 77 - ENEM 2021",
             "index": 77,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "america-latina"
+            ]
         },
         {
             "title": "Questão 78 - ENEM 2021",
             "index": 78,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "iluminismo-revolucoes"
+            ]
         },
         {
             "title": "Questão 79 - ENEM 2021",
             "index": 79,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "industrializacao"
+            ]
         },
         {
             "title": "Questão 80 - ENEM 2021",
             "index": 80,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "estado-poder"
+            ]
         },
         {
             "title": "Questão 81 - ENEM 2021",
             "index": 81,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "era-vargas"
+            ]
         },
         {
             "title": "Questão 82 - ENEM 2021",
             "index": 82,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-antiga"
+            ]
         },
         {
             "title": "Questão 83 - ENEM 2021",
             "index": 83,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "historia-africa"
+            ]
         },
         {
             "title": "Questão 84 - ENEM 2021",
             "index": 84,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cultura-identidade"
+            ]
         },
         {
             "title": "Questão 85 - ENEM 2021",
             "index": 85,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "escravidao"
+            ]
         },
         {
             "title": "Questão 86 - ENEM 2021",
             "index": 86,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-moderna",
+                "teoria-conhecimento"
+            ]
         },
         {
             "title": "Questão 87 - ENEM 2021",
             "index": 87,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 88 - ENEM 2021",
             "index": 88,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-medieval"
+            ]
         },
         {
             "title": "Questão 89 - ENEM 2021",
             "index": 89,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "cartografia"
+            ]
         },
         {
             "title": "Questão 90 - ENEM 2021",
             "index": 90,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "escravidao"
+            ]
         },
         {
             "title": "Questão 91 - ENEM 2021",
             "index": 91,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "acidos-bases-ph",
+                "solucoes"
+            ]
         },
         {
             "title": "Questão 92 - ENEM 2021",
             "index": 92,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "ondulatoria",
+                "acustica"
+            ]
         },
         {
             "title": "Questão 93 - ENEM 2021",
             "index": 93,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "evolucao"
+            ]
         },
         {
             "title": "Questão 94 - ENEM 2021",
             "index": 94,
-            "discipline": "matematica",
-            "language": null
+            "discipline": "ciencias-natureza",
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "cinematica"
+            ]
         },
         {
             "title": "Questão 95 - ENEM 2021",
             "index": 95,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "radioatividade"
+            ]
         },
         {
             "title": "Questão 96 - ENEM 2021",
             "index": 96,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "genetica"
+            ]
         },
         {
             "title": "Questão 97 - ENEM 2021",
             "index": 97,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "reacoes-organicas"
+            ]
         },
         {
             "title": "Questão 98 - ENEM 2021",
             "index": 98,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "zoologia",
+                "fisiologia-humana"
+            ]
         },
         {
             "title": "Questão 99 - ENEM 2021",
             "index": 99,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "termologia"
+            ]
         },
         {
             "title": "Questão 100 - ENEM 2021",
             "index": 100,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "ciencias-natureza",
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "dinamica"
+            ]
         },
         {
             "title": "Questão 101 - ENEM 2021",
             "index": 101,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "estequiometria"
+            ]
         },
         {
             "title": "Questão 102 - ENEM 2021",
             "index": 102,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 103 - ENEM 2021",
             "index": 103,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "acidos-bases-ph",
+                "funcoes-organicas"
+            ]
         },
         {
             "title": "Questão 104 - ENEM 2021",
             "index": 104,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "ecologia",
+                "impactos-ambientais"
+            ]
         },
         {
             "title": "Questão 105 - ENEM 2021",
             "index": 105,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletromagnetismo"
+            ]
         },
         {
             "title": "Questão 106 - ENEM 2021",
             "index": 106,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "ciencias-natureza",
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "isomeria"
+            ]
         },
         {
             "title": "Questão 107 - ENEM 2021",
             "index": 107,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "trabalho-energia"
+            ]
         },
         {
             "title": "Questão 108 - ENEM 2021",
             "index": 108,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "gravitacao"
+            ]
         },
         {
             "title": "Questão 109 - ENEM 2021",
             "index": 109,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 110 - ENEM 2021",
             "index": 110,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "metabolismo-energetico"
+            ]
         },
         {
             "title": "Questão 111 - ENEM 2021",
             "index": 111,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "impactos-ambientais"
+            ]
         },
         {
             "title": "Questão 112 - ENEM 2021",
             "index": 112,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "biotecnologia",
+                "genetica"
+            ]
         },
         {
             "title": "Questão 113 - ENEM 2021",
             "index": 113,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "reacoes-quimicas",
+                "eletroquimica"
+            ]
         },
         {
             "title": "Questão 114 - ENEM 2021",
             "index": 114,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "fisiologia-humana"
+            ]
         },
         {
             "title": "Questão 115 - ENEM 2021",
             "index": 115,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "termologia"
+            ]
         },
         {
             "title": "Questão 116 - ENEM 2021",
             "index": 116,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "acidos-bases-ph",
+                "funcoes-organicas"
+            ]
         },
         {
             "title": "Questão 117 - ENEM 2021",
             "index": 117,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "quimica-ambiental"
+            ]
         },
         {
             "title": "Questão 118 - ENEM 2021",
             "index": 118,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "zoologia",
+                "saude-doencas"
+            ]
         },
         {
             "title": "Questão 119 - ENEM 2021",
             "index": 119,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "botanica"
+            ]
         },
         {
             "title": "Questão 120 - ENEM 2021",
             "index": 120,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "ciencias-natureza",
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "optica",
+                "ondulatoria"
+            ]
         },
         {
             "title": "Questão 121 - ENEM 2021",
             "index": 121,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "evolucao",
+                "saude-doencas"
+            ]
         },
         {
             "title": "Questão 122 - ENEM 2021",
             "index": 122,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "separacao-misturas"
+            ]
         },
         {
             "title": "Questão 123 - ENEM 2021",
             "index": 123,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "botanica"
+            ]
         },
         {
             "title": "Questão 124 - ENEM 2021",
             "index": 124,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "eletroquimica"
+            ]
         },
         {
             "title": "Questão 125 - ENEM 2021",
             "index": 125,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "termologia"
+            ]
         },
         {
             "title": "Questão 126 - ENEM 2021",
             "index": 126,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 127 - ENEM 2021",
             "index": 127,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "ecologia"
+            ]
         },
         {
             "title": "Questão 128 - ENEM 2021",
             "index": 128,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 129 - ENEM 2021",
             "index": 129,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "botanica",
+                "reproducao-embriologia"
+            ]
         },
         {
             "title": "Questão 130 - ENEM 2021",
             "index": 130,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "funcoes-organicas"
+            ]
         },
         {
             "title": "Questão 131 - ENEM 2021",
             "index": 131,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "fisiologia-humana"
+            ]
         },
         {
             "title": "Questão 132 - ENEM 2021",
             "index": 132,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "genetica"
+            ]
         },
         {
             "title": "Questão 133 - ENEM 2021",
             "index": 133,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "eletroquimica"
+            ]
         },
         {
             "title": "Questão 134 - ENEM 2021",
             "index": 134,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "termologia"
+            ]
         },
         {
             "title": "Questão 135 - ENEM 2021",
             "index": 135,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "polimeros"
+            ]
         },
         {
             "title": "Questão 136 - ENEM 2021",
             "index": 136,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "equacoes-inequacoes",
+                "sequencias-padroes"
+            ]
         },
         {
             "title": "Questão 137 - ENEM 2021",
             "index": 137,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "projecoes-vistas",
+                "geometria-espacial"
+            ]
         },
         {
             "title": "Questão 138 - ENEM 2021",
             "index": 138,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "matematica",
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "analise-combinatoria"
+            ]
         },
         {
             "title": "Questão 139 - ENEM 2021",
             "index": 139,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 140 - ENEM 2021",
             "index": 140,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "matematica",
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 141 - ENEM 2021",
             "index": 141,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "equacoes-inequacoes",
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 142 - ENEM 2021",
             "index": 142,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "probabilidade",
+                "logaritmo"
+            ]
         },
         {
             "title": "Questão 143 - ENEM 2021",
             "index": 143,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 144 - ENEM 2021",
             "index": 144,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 145 - ENEM 2021",
             "index": 145,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 146 - ENEM 2021",
             "index": 146,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "desvio-padrao-variancia",
+                "media-moda-mediana"
+            ]
         },
         {
             "title": "Questão 147 - ENEM 2021",
             "index": 147,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "graficos-tabelas",
+                "logica-raciocinio"
+            ]
         },
         {
             "title": "Questão 148 - ENEM 2021",
             "index": 148,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana"
+            ]
         },
         {
             "title": "Questão 149 - ENEM 2021",
             "index": 149,
-            "discipline": "ciencias-humanas",
-            "language": null
+            "discipline": "matematica",
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 150 - ENEM 2021",
             "index": 150,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 151 - ENEM 2021",
             "index": 151,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "graficos-tabelas",
+                "media-moda-mediana"
+            ]
         },
         {
             "title": "Questão 152 - ENEM 2021",
             "index": 152,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "equacoes-inequacoes",
+                "funcoes-conceitos"
+            ]
         },
         {
             "title": "Questão 153 - ENEM 2021",
             "index": 153,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "escalas"
+            ]
         },
         {
             "title": "Questão 154 - ENEM 2021",
             "index": 154,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 155 - ENEM 2021",
             "index": 155,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 156 - ENEM 2021",
             "index": 156,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "trigonometria",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 157 - ENEM 2021",
             "index": 157,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "matrizes-determinantes"
+            ]
         },
         {
             "title": "Questão 158 - ENEM 2021",
             "index": 158,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem",
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 159 - ENEM 2021",
             "index": 159,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 160 - ENEM 2021",
             "index": 160,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "logica-raciocinio",
+                "equacoes-inequacoes"
+            ]
         },
         {
             "title": "Questão 161 - ENEM 2021",
             "index": 161,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "funcao-quadratica",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 162 - ENEM 2021",
             "index": 162,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "funcoes-conceitos",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 163 - ENEM 2021",
             "index": 163,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "grandezas-medidas",
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 164 - ENEM 2021",
             "index": 164,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "sistemas-lineares"
+            ]
         },
         {
             "title": "Questão 165 - ENEM 2021",
             "index": 165,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "grandezas-medidas",
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 166 - ENEM 2021",
             "index": 166,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial",
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 167 - ENEM 2021",
             "index": 167,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial",
+                "grandezas-medidas"
+            ]
         },
         {
             "title": "Questão 168 - ENEM 2021",
             "index": 168,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial"
+            ]
         },
         {
             "title": "Questão 169 - ENEM 2021",
             "index": 169,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-plana"
+            ]
         },
         {
             "title": "Questão 170 - ENEM 2021",
             "index": 170,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial",
+                "grandezas-medidas"
+            ]
         },
         {
             "title": "Questão 171 - ENEM 2021",
             "index": 171,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-plana"
+            ]
         },
         {
             "title": "Questão 172 - ENEM 2021",
             "index": 172,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem",
+                "equacoes-inequacoes"
+            ]
         },
         {
             "title": "Questão 173 - ENEM 2021",
             "index": 173,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "equacoes-inequacoes"
+            ]
         },
         {
             "title": "Questão 174 - ENEM 2021",
             "index": 174,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 175 - ENEM 2021",
             "index": 175,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-plana"
+            ]
         },
         {
             "title": "Questão 176 - ENEM 2021",
             "index": 176,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "conjuntos-numericos",
+                "logica-raciocinio"
+            ]
         },
         {
             "title": "Questão 177 - ENEM 2021",
             "index": 177,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "conjuntos-numericos"
+            ]
         },
         {
             "title": "Questão 178 - ENEM 2021",
             "index": 178,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "grandezas-medidas",
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 179 - ENEM 2021",
             "index": 179,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "analise-combinatoria"
+            ]
         },
         {
             "title": "Questão 180 - ENEM 2021",
             "index": 180,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "matematica-financeira"
+            ]
         }
     ]
 }

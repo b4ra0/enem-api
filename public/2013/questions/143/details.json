@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas",
+        "grandezas-medidas"
+    ],
     "context": "![](https://enem.dev/2013/questions/143/99ee084f-6759-467b-b6fc-c898787ae9c4.png)",
     "files": [
         "https://enem.dev/2013/questions/143/99ee084f-6759-467b-b6fc-c898787ae9c4.png"

@@ -4,6 +4,11 @@
     "year": 2014,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2014/questions/91-espanhol/8daa6152-26c6-4606-8a28-1f0bb37dffe3.jpg)\n\nDisponível em: http://azaral-canarias.blogspot.com. Acesso em: 28 maio 2014 (adaptado)",
     "files": [
         "https://enem.dev/2014/questions/91-espanhol/8daa6152-26c6-4606-8a28-1f0bb37dffe3.jpg"

@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "biomas"
+    ],
     "context": "![](https://enem.dev/2011/questions/11/bcc2c6b7-572b-4b88-9071-d9769f02e339.jpg)\n\nDisponível em: http://www.ra-bugio.org.br. Acesso em: 28 jul. 2010.",
     "files": [
         "https://enem.dev/2011/questions/11/bcc2c6b7-572b-4b88-9071-d9769f02e339.jpg"

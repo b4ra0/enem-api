@@ -4,6 +4,11 @@
     "year": 2018,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2018/questions/2-ingles/f4434a7e-99ec-4eab-ad7a-4a3bc6d94c74.png)\n\nGLASBERGEN, R. Disponível em: www.glasbergen.com. Acesso em: 3 jul. 2015 (adaptado).",
     "files": [
         "https://enem.dev/2018/questions/2-ingles/f4434a7e-99ec-4eab-ad7a-4a3bc6d94c74.png"

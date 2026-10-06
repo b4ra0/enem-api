@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "![](https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg)",
     "files": [
         "https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg"

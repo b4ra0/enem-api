@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "clima"
+    ],
     "context": "Em 1872, Robert Angus Smith criou o termo “chuva ácida”, descrevendo precipitações ácidas em Manchester após a Revolução Industrial. Trata-se do acúmulo demasiado de dióxido de carbono e enxofre na atmosfera que, ao reagirem com compostos dessa camada, formam gotículas de chuva ácida e partículas de aerossóis. A chuva ácida não necessariamente ocorre no local poluidor, pois tais poluentes, ao serem lançados na atmosfera, são levados pelos ventos, podendo provocar a reação em regiões distantes. A água de forma pura apresenta pH 7, e, ao contatar agentes poluidores, reage modificando seu pH para 5,6 e até menos que isso, o que provoca reações, deixando consequências.\n\nDisponível em: http://www.brasilescola.com. Acesso em: 18 maio 2010 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2011/questions/97/bd1b0936-b39f-42aa-a4ea-0744b73dc320.png)\n\nCOSTA, C. **Superinteressante**. Fev. 2011 (adaptado).",
     "files": [
         "https://enem.dev/2011/questions/97/bd1b0936-b39f-42aa-a4ea-0744b73dc320.png"

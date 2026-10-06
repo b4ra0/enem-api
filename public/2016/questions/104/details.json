@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia"
+    ],
     "context": "Quem procura a essência de um conto no espaço que fica entre a obra e seu autor comete um erro: é muito melhor procurar não no terreno que fica entre o escritor e sua obra, mas justamente no terreno que fica entre o texto e seu leitor.\n\nOZ, A. **De amor e trevas**. São Paulo: Cia. das Letras, 2005 (fragmento).",
     "files": [],
     "correctAlternative": "D",

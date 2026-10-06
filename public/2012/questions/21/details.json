@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "mundo-contemporaneo"
+    ],
     "context": "**Texto I**\n\nA Europa entrou em estado de exceção, personificado por obscuras forças econômicas sem rosto ou localização física conhecida que não prestam contas a ninguém e se espalham pelo globo por meio de milhões de transações diárias no ciberespaço.\n\nROSSI, C. Nem fim do mundo nem mundo novo. **Folha de São Paulo**, 11 dez. 2011 (adaptado).\n\n**Texto II**\n\nEstamos imersos numa crise financeira como nunca tínhamos visto desde a Grande Depressão iniciada em 1929 nos Estados Unidos.\n\nEntrevista de George Soros. Disponível em: www.nybooks.com. Acesso em: 17 ago. 2011 (adaptado).",
     "files": [],
     "correctAlternative": "B",

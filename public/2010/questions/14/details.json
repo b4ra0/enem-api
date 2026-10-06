@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos",
+        "transportes-circulacao"
+    ],
     "context": "No dia 28 de fevereiro de 1985, era inaugurada a Estrada de Ferro Carajás, pertencente e diretamente operada pela Companhia Vale do Rio Doce (CVRD), na região Norte do país, ligando o interior ao principal porto da região, em São Luís. Por seus, aproximadamente, 900 quilômetros de linha, passam, hoje, 5353 vagões e 100 locomotivas.\n\nDísponivel em: http://www.transportes.gov.br. Acesso em 27 jul. 2010 (adaptado).",
     "files": [],
     "correctAlternative": "C",

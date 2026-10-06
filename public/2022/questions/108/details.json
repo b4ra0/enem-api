@@ -3,7 +3,13 @@
     "index": 108,
     "year": 2022,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "solucoes",
+        "estequiometria",
+        "acidos-bases-ph"
+    ],
     "context": "O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L−1, consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela equação química:\n\n![](https://enem.dev/2022/questions/108/9210b1e4-7666-4817-9757-f1642ea64a91.jpg)",
     "files": [
         "https://enem.dev/2022/questions/108/9210b1e4-7666-4817-9757-f1642ea64a91.jpg"

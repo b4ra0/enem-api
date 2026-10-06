@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geopolitica"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "B",

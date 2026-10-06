@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "grandezas-medidas"
+    ],
     "context": "![](https://enem.dev/2017/questions/171/3bb8824e-3a19-4855-a081-9cc594573f03.png)\n\nUm pivô de três torres (T1, T2 e T3) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T1 são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.",
     "files": [
         "https://enem.dev/2017/questions/171/3bb8824e-3a19-4855-a081-9cc594573f03.png"

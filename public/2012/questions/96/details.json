@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "saude-qualidade-vida"
+    ],
     "context": "![](https://enem.dev/2012/questions/96/89e6740d-2faf-459f-a737-135fad99b641.png)\n\nNIEMAN, D. Exercício e saúde. São Paulo: Manole, 1999 (adaptado).",
     "files": [
         "https://enem.dev/2012/questions/96/89e6740d-2faf-459f-a737-135fad99b641.png"

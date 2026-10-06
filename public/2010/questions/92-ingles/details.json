@@ -4,6 +4,10 @@
     "year": 2010,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**Viva la Vida**\n\nI used to rule the world  \nSeas would rise when I gave the word  \nNow in the morning and I sleep alone  \nSweep the streets I used to own\n\nI used to roll the dice  \nFeel the fear in my enemy’s eyes  \nListen as the crowd would sing  \n“Now the old king is dead! Long live the king!”\n\nOne minute I held the key  \nNext the walls were closed on me  \nAnd I discovered that my castles stand  \nUpon pillars of salt and pillars of sand  \n\\[…\\]\n\nMARTIN, C. Viva la vida, Coldplay. In: **Viva la vida or Death and all his friends**. Parlophone, 2008.",
     "files": [],
     "correctAlternative": "A",

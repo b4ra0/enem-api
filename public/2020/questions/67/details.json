@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo"
+    ],
     "context": "![](https://enem.dev/2020/questions/67/c384d31a-87b1-4653-882b-ffa66c2643be.png)\n\nDisponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
     "files": [
         "https://enem.dev/2020/questions/67/c384d31a-87b1-4653-882b-ffa66c2643be.png"

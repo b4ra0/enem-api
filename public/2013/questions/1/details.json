@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "populacao-migracoes"
+    ],
     "context": "![](https://enem.dev/2013/questions/1/6e8acb98-430b-4f01-b22a-6b616a3c0651.jpg)",
     "files": [
         "https://enem.dev/2013/questions/1/6e8acb98-430b-4f01-b22a-6b616a3c0651.jpg"

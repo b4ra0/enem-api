@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "funcoes-linguagem"
+    ],
     "context": "![](https://enem.dev/2012/questions/114/0e1c5ddc-b61a-440e-823d-d96e6a614c3f.png)\n\nCartaz afixado nas bibliotecas centrais e setoriais da Universidade Federal de Goiás (UFG), 2011.",
     "files": [
         "https://enem.dev/2012/questions/114/0e1c5ddc-b61a-440e-823d-d96e6a614c3f.png"

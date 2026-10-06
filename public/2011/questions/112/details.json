@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais",
+        "historia-arte"
+    ],
     "context": "**TEXTO I**\n\n![](https://enem.dev/2011/questions/112/0c0d18b7-d2f7-473a-b14a-84793118256f.png)\n\nToca do Salitre – Piauí  \nDisponível em: http://www.fumdham.org.br. Acesso em: 27 jul. 2010.\n\n**TEXTO II**\n\n![](https://enem.dev/2011/questions/112/afb1243e-488a-4092-a586-01e503a45818.png)\n\nArte Urbana. Foto: Diego Singh  \nDisponível em: http://www.diaadia.pr.gov.br. Acesso em: 27 jul. 2010.",
     "files": [
         "https://enem.dev/2011/questions/112/0c0d18b7-d2f7-473a-b14a-84793118256f.png",

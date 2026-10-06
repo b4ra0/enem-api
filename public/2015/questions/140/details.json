@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2015/questions/140/b83a0d54-9959-4218-96b9-3b44ec7d745e.png)\n\nUma empresa vai lançar uma promoção utilizando apenas uma categoria nas classes A e B (A/B) e uma categoria nas classes C e D (C/D).",
     "files": [
         "https://enem.dev/2015/questions/140/b83a0d54-9959-4218-96b9-3b44ec7d745e.png"

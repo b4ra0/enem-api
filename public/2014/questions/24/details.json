@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-antiga",
+        "etica-moral"
+    ],
     "context": "Alguns dos desejos são naturais e necessários; outros, naturais e não necessários; outros, nem naturais nem necessários, mas nascidos de vã opinião. Os desejos que não nos trazem dor se não satisfeitos não são necessários, mas o seu impulso pode ser facilmente desfeito, quando é difícil obter sua satisfação ou parecem geradores de dano.\n\nEPICURO DE SAMOS. Doutrinas principais. In: SANSON, V F. Textos de filosofia. Rio de Janeiro: Eduff, 1974.",
     "files": [],
     "correctAlternative": "A",

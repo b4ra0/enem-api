@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas",
+        "funcoes-organicas"
+    ],
     "context": "O armazenamento de certas vitaminas no organismo apresenta grande dependência de sua solubilidade. Por exemplo, vitaminas hidrossolúveis devem ser incluídas na dieta diária, enquanto vitaminas lipossolúveis são armazenadas em quantidades suficientes para evitar doenças causadas pela sua carência. A seguir são apresentadas as estruturas químicas de cinco vitaminas necessárias ao organismo.\n\n![](https://enem.dev/2012/questions/79/07bb88f5-01ce-431c-9e9b-5e32e2fe9938.jpg)",
     "files": [
         "https://enem.dev/2012/questions/79/07bb88f5-01ce-431c-9e9b-5e32e2fe9938.jpg"

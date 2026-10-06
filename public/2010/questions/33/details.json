@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "republica-1945-1964"
+    ],
     "context": "Não é difícil entender o que ocorreu no Brasil nos anos imediatamente anteriores ao golpe militar de 1964. A diminuição da oferta de empregos e a desvalorização dos salários, provocadas pela inflação, levaram a uma intensa mobilização política popular, marcada por sucessivas ondas grevistas de várias categorias profissionais, o que aprofundou as tensões sociais. Dessa vez, as classes trabalhadoras se recusaram a pagar o pato pelas sobras” do modelo econômico juscelinista.\n\nMENDONÇA, S. R. A industrialização Brasileira. São  \nPaulo: Moderna, 2002 (adaptado)",
     "files": [],
     "correctAlternative": "B",

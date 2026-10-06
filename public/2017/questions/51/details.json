@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "escravidao",
+        "brasil-imperio"
+    ],
     "context": "![](https://enem.dev/2017/questions/51/5a5e8107-449f-49a6-84c0-67a4db52eb4f.jpg)",
     "files": [
         "https://enem.dev/2017/questions/51/5a5e8107-449f-49a6-84c0-67a4db52eb4f.jpg"

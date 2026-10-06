@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "era-vargas"
+    ],
     "context": "A Justiça Eleitoral foi criada em 1932, como parte de uma ampla reforma no processo eleitoral incentivada pela Revolução de 1930. Sua criação foi um grande avanço institucional, garantindo que as eleições tivessem o aval de um órgão teoricamente imune à influência dos mandatários.\n\nTAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. **Reforma política no Brasil**. Belo Horizonte: UFMG, 2006 (adaptado).",
     "files": [],
     "correctAlternative": "B",

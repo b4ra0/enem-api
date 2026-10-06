@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "urbanizacao"
+    ],
     "context": "Os lixões são o pior tipo de disposição final dos resíduos sólidos de uma cidade, representando um grave problema ambiental e de saúde pública. Nesses locais, o lixo é jogado diretamente no solo e a céu aberto, sem nenhuma norma de controle, o que causa, entre outros problemas, a contaminação do solo e das águas pelo chorume (líquido escuro com alta carga poluidora, proveniente da decomposição da matéria orgânica presente no lixo).\n\nRICARDO, B.; CANPANILLI, M. **Almanaque Brasil**  \n**Socioambiental 2008.**  \nSão Paulo, Instituto Socioambiental, 2007.",
     "files": [],
     "correctAlternative": "B",

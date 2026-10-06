@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-exponencial",
+        "logaritmo"
+    ],
     "context": "A temperatura T de um forno (em graus centígrados) é reduzida por um sistema a partir do instante de seu desligamento (t = 0) e varia de acordo com a expressão ![](https://enem.dev/2013/questions/172/d05feb96-582b-4f24-8173-87c59a15ee16.png)com t em minutos. Por motivos de segurança, a trava do forno só é liberada para  \nabertura quando o forno atinge a temperatura de 39 ºC.",
     "files": [
         "https://enem.dev/2013/questions/172/d05feb96-582b-4f24-8173-87c59a15ee16.png"

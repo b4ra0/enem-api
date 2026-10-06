@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria",
+        "acustica"
+    ],
     "context": "![](https://enem.dev/2011/questions/84/743d09d0-e545-4055-8c2b-210fe3d75118.png)",
     "files": [
         "https://enem.dev/2011/questions/84/743d09d0-e545-4055-8c2b-210fe3d75118.png"

@@ -3,7 +3,11 @@
     "index": 134,
     "year": 2017,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-organicas"
+    ],
     "context": "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O3), em presença de água e zinco metálico, e a reação produz aldeídos e/ou cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissubstituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.\n\n![](https://enem.dev/2017/questions/134/473049c4-f31e-4efc-b18b-e808378bc090.png)\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\n\n![](https://enem.dev/2017/questions/134/4ebacf49-d6c6-4b9d-a586-ed1b1cadd538.png)\n\nMARTINO, A. **Química, a ciência global.** Goiânia: Editora W, 2014 (adaptado)",
     "files": [
         "https://enem.dev/2017/questions/134/473049c4-f31e-4efc-b18b-e808378bc090.png",

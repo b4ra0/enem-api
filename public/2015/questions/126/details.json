@@ -3,7 +3,12 @@
     "index": 126,
     "year": 2015,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "literatura-contemporanea",
+        "quinhentismo-barroco"
+    ],
     "context": "**Casa dos Contos**\n\n& em cada conto te cont  \no & em cada enquanto me enca  \nnto & em cada arco te a  \nbarco & em cada porta m  \ne perco & em cada lanço t  \ne alcanço & em cada escad  \na me escapo & em cada pe  \ndra te prendo & em cada g  \nrade me escravo & em ca  \nda sótão te sonho & em cada  \nesconso me affonso & em  \ncada claúdio te canto & e  \nm cada fosso me enforco &\n\nÁVILA, A. **Discurso da difamação do poeta**. São Paulo: Summus, 1978.",
     "files": [],
     "correctAlternative": "E",

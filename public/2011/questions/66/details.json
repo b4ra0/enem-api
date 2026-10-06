@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termodinamica"
+    ],
     "context": "Um motor só poderá realizar trabalho se receber uma quantidade de energia de outro sistema. No caso, a energia armazenada no combustível é, em parte, liberada durante a combustão para que o aparelho possa funcionar. Quando o motor funciona, parte da energia convertida ou transformada na combustão não pode ser utilizado para a realização de trabalho. Isso significa dizer que há vazamento da energia em outra forma.\n\nCARVALHO, A. X. Z. Física Térmica. Belo Horizonte: Pax, 2009 (adaptado).",
     "files": [],
     "correctAlternative": "C",

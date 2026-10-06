@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "semantica",
+        "sintaxe"
+    ],
     "context": "![](https://enem.dev/2012/questions/109/b14d5915-3369-4982-bc3e-820b65efe31e.png)\n\nBROWNE, D. **Folha de S. Paulo**, 13 ago. 2011.",
     "files": [
         "https://enem.dev/2012/questions/109/b14d5915-3369-4982-bc3e-820b65efe31e.png"

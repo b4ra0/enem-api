@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "desvio-padrao-variancia",
+        "media-moda-mediana"
+    ],
     "context": "![](https://enem.dev/2016/questions/140/ae197a69-68db-46c4-9321-f4fd03e424dc.png)",
     "files": [
         "https://enem.dev/2016/questions/140/ae197a69-68db-46c4-9321-f4fd03e424dc.png"

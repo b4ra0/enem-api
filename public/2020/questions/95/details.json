@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "impactos-ambientais"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

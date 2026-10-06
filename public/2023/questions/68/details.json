@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

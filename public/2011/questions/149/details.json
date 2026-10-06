@@ -3,7 +3,12 @@
     "index": 149,
     "year": 2011,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "razao-proporcao"
+    ],
     "context": "![](https://enem.dev/2011/questions/149/3101cf12-cad5-44db-ba34-f0fb54e3143d.png)",
     "files": [
         "https://enem.dev/2011/questions/149/3101cf12-cad5-44db-ba34-f0fb54e3143d.png"

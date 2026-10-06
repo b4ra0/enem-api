@@ -4,6 +4,11 @@
     "year": 2020,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2020/questions/2-ingles/8e5b5b09-625b-47fd-9b17-64de0b957c7d.png)",
     "files": [
         "https://enem.dev/2020/questions/2-ingles/8e5b5b09-625b-47fd-9b17-64de0b957c7d.png"

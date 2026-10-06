@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.\n\nLOPES, R. J. O novo mapa da floresta. **Folha de S. Paulo**, 7 maio 2011 (adaptado).",
     "files": [],
     "correctAlternative": "D",

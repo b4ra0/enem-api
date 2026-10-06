@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais"
+    ],
     "context": "Na exposição “A Artista Está Presente”, no MoMA, em Nova Iorque, a _performer_ Marina Abramovic fez uma retrospectiva de sua carreira. No meio desta, protagonizou uma _performance_ marcante. Em 2010, de 14 de março a 31 de maio, seis dias por semana, num total de 736 horas, ela repetia a mesma postura. Sentada numa sala, recebia os visitantes, um a um, e trocava com cada um deles um longo olhar sem palavras. Ao redor, o público assistia a essas cenas recorrentes.\n\nZANIN, L. **Marina Abramovic, ou a força do olhar.** Disponível em: http://blogs.estadao.com.br. Acesso em: 4 nov. 2013.",
     "files": [],
     "correctAlternative": "D",

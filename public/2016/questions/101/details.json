@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia",
+        "sintaxe"
+    ],
     "context": "O senso comum é que só os seres humanos são capazes de rir. Isso não é verdade?\n\nNão. O riso básico – o da brincadeira, da diversão, da expressão física do riso, do movimento da face e da vocalização — nós compartilhamos com diversos animais. Em ratos, já foram observadas vocalizações ultrassônicas – que nós não somos capazes de perceber – e que eles emitem quando estão brincando de “rolar no chão”. Acontecendo de o cientista provocar um dano em um local específico no cérebro, o rato deixa de fazer essa vocalização e a brincadeira vira briga séria. Sem o riso, o outro pensa que está sendo atacado. O que nos diferencia dos animais é que não temos apenas esse mecanismo básico. Temos um outro mais evoluído. Os animais têm o senso de brincadeira, como nós, mas não têm senso de humor. O córtex, a parte superficial do cérebro deles, não é tão evoluído como o nosso. Temos mecanismos corticais que nos permitem, por exemplo, interpretar uma piada.\n\nDisponível em http://globonews.globo.com. Acesso em 31 maio 2012 (adaptado)",
     "files": [],
     "correctAlternative": "C",

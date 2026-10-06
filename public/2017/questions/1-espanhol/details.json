@@ -4,6 +4,11 @@
     "year": 2017,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "vocabulario-contexto"
+    ],
     "context": "**El carpintero**\n\nOrlando Goicoechea reconoce las maderas por el olor, de qué árboles vienen, qué edad tienen, y oliéndolas sabe si fueron cortadas a tiempo o a destiempo y les adivina los posibles contratiempos.\n\nAl cabo de tantos años de trabajo, Orlando se ha dado el lujo de comprarse un video, y ve una película tras otra.\n\nNo sabía que eras loco por cine le dice el vecino.\n\nY Orlando le explica que no, que a él ni le va ni le viene, pero gracias al video puede detener las películas para estudiar los muebles.\n\nGALEANO, E. Disponivel em: http://elcajondesastre.blogcindarrio.com. Acesso em: 18 abr. 2012.",
     "files": [],
     "correctAlternative": "E",

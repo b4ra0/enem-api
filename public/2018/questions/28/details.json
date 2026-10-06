@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2018/questions/28/63a801c5-ebb7-4094-8bac-6c625e98f18d.png)\n\nDisponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017 (adaptado).",
     "files": [
         "https://enem.dev/2018/questions/28/63a801c5-ebb7-4094-8bac-6c625e98f18d.png"

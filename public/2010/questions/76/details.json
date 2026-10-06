@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica",
+        "saude-doencas"
+    ],
     "context": "Investigadores das Universidades de Oxford e da Califórnia desenvolveram uma variedade de Aedes aegypti geneticamente modificada que é candidata para uso na busca de redução na transmissão do vírus da dengue. Nessa nova variedade de mosquito, as fêmeas não conseguem voar devido à interrupção do desenvolvimento do músculo das asas. A modificação genética introduzida é um gene dominante condicional, isso é, o gene tem  \nexpressão dominante (basta apenas uma cópia do alelo) e este só atua nas fêmeas.\n\nFU, G. et al. Female-specific flightless phenotype for mosquito control.  \nPNAS 107 (10): 4550-4554, 2010.",
     "files": [],
     "correctAlternative": "C",

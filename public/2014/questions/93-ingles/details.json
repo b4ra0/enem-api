@@ -4,6 +4,10 @@
     "year": 2014,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**The Road Not Taken (by Robert Frost)**\n\nTwo roads diverged in a wood, and I —  \nI took the one less traveled by,  \nAnd that has made all the difference.\n\nDisponível em: www.poetryfoundation.org. Acesso em: 29 nov. 2011 (fragmento).",
     "files": [],
     "correctAlternative": "A",

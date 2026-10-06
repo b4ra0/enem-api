@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "cinematica"
+    ],
     "context": "![](https://enem.dev/2011/questions/77/66d5c063-86bf-470d-b505-2ad354f815c2.png)",
     "files": [
         "https://enem.dev/2011/questions/77/66d5c063-86bf-470d-b505-2ad354f815c2.png"

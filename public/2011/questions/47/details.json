@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "Os personagens da figura estão representando uma situação hipotética de cadeia alimentar.\n\n![](https://enem.dev/2011/questions/47/c2d2193d-4cda-4ab5-864f-e67b401f83d9.jpg)",
     "files": [
         "https://enem.dev/2011/questions/47/c2d2193d-4cda-4ab5-864f-e67b401f83d9.jpg"

@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria",
+        "acustica"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

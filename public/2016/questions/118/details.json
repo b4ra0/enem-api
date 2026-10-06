@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais"
+    ],
     "context": "O livro _A fórmula Secreta_ conta a história de um episódio fundamental para o nascimento da matemática moderna e retrata uma das disputas mais virulentas da ciência renascentista. Fórmulas misteriosas, duelos públicos, traições, genialidade, ambição – e matemática! Esse é o instigante universo apresentado no livro, que resgata a história dos italianos Tartaglia e Cardano e da fórmula revolucionária para resolução de equações de terceiro grau. A obra reconstitui um episódio polêmico que marca, para muitos, o início do período moderno da matemática.  \nEm última análise, A fórmula secreta apresenta-se como uma ótima opção para conhecer um pouco mais sobre a história da matemática e acompanhar um dos debates científicos mais inflamados do século XVI no campo. Mais do que isso, é uma obra de fácil leitura e uma boa mostra de que é possível abordar temas como álgebra de forma interessante, inteligente e acessível ao grande público.\n\nGARCIA, M. **Duelos, segredos e matemática**. Disponível em: http://cienciahoje.uol.com.br, Acesso em: 6 Out 2015 (adaptado).",
     "files": [],
     "correctAlternative": "C",

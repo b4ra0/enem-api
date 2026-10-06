@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "trigonometria",
+        "graficos-tabelas"
+    ],
     "context": "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição _P_ (em cm) da massa m em função do tempo _t_ (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ![](https://enem.dev/2021/questions/156/22072ec1-3b3b-4ad6-a4b6-dffd6253a376.png) ou P(t) = ![](https://enem.dev/2021/questions/156/86b2ce7b-d131-40db-9629-e618470679c7.png), em que A>0 é a amplitude de deslocamento máximo e ![](https://enem.dev/2021/questions/156/f1cfe3fa-6396-47ed-b60b-48d48194225e.png) é a frequência, que se relaciona com o período T pela fórmula ![](https://enem.dev/2021/questions/156/38bd8acb-9ed5-402c-a6df-271fb1614213.png).\n\nConsidere a ausência de quaisquer forças dissipativas.\n\n![](https://enem.dev/2021/questions/156/9e69ba46-7bc0-40c9-b81e-bdae664b1ae1.png)",
     "files": [
         "https://enem.dev/2021/questions/156/22072ec1-3b3b-4ad6-a4b6-dffd6253a376.png",

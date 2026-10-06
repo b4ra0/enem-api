@@ -3,7 +3,11 @@
     "index": 56,
     "year": 2015,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "evolucao"
+    ],
     "context": "Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).",
     "files": [],
     "correctAlternative": "E",

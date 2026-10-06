@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "trabalho-energia"
+    ],
     "context": "Um projetista deseja construir um brinquedo que lance um pequeno cubo ao longo de um trilho horizontal, e o dispositivo precisa oferecer a opção de mudar a velocidade de lançamento. Para isso, ele utiliza uma mola e um trilho onde o atrito pode ser desprezado, conforme a figura.\n\n![](https://enem.dev/2018/questions/131/03a1218e-507e-4616-ab2e-207b26d46671.png)",
     "files": [
         "https://enem.dev/2018/questions/131/03a1218e-507e-4616-ab2e-207b26d46671.png"

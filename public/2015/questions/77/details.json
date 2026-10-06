@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "eletroquimica",
+        "reacoes-organicas"
+    ],
     "context": "![](https://enem.dev/2015/questions/77/2fec988d-d23e-404a-bcb4-f887791f9436.png)",
     "files": [
         "https://enem.dev/2015/questions/77/2fec988d-d23e-404a-bcb4-f887791f9436.png"

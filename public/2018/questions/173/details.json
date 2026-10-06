@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcoes-conceitos",
+        "geometria-plana"
+    ],
     "context": "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um  guindaste iça uma viga de aço que se encontra inicialmente no solo.\n\n![](https://enem.dev/2018/questions/173/ace966fb-7b1a-431d-9b54-2c57b1e78d0d.png)\n\nNa figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no ![](https://enem.dev/2018/questions/173/a57ff676-4fd7-4821-b75c-cf675966c899.png) (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.\n\n![](https://enem.dev/2018/questions/173/a776c7e1-aebd-4f91-b40e-861331c1db77.png)",
     "files": [
         "https://enem.dev/2018/questions/173/ace966fb-7b1a-431d-9b54-2c57b1e78d0d.png",

@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2016/questions/153/5ba13490-30b2-456d-9bd4-754e04e288c3.png)\n\nA prefeitura optou pela seguinte distribuição dos funcionários a serem contratados:\n\nI. 10 funcionários para cada região da cidade cujo número de casos seja maior que a média dos casos confirmados.  \nII. 7 funcionários para cada região da cidade cujo número de casos seja menor ou igual à média dos casos confirmados.",
     "files": [
         "https://enem.dev/2016/questions/153/5ba13490-30b2-456d-9bd4-754e04e288c3.png"

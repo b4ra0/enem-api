@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "![](https://enem.dev/2009/questions/19/ce14eccd-b5dd-4dde-a5a6-2e163d72fec9.png)\n\nA escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada deverá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação entre as áreas dos cômodos (em m²) e as potências das lâmpadas (em W), e foi utilizado como referência para o primeiro pavimento de uma residência.\n\n![](https://enem.dev/2009/questions/19/9747c953-2a43-411f-b7ee-49a4e4fd6429.png)",
     "files": [
         "https://enem.dev/2009/questions/19/ce14eccd-b5dd-4dde-a5a6-2e163d72fec9.png",

@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "sequencias-padroes"
+    ],
     "context": "Ronaldo é um garoto que adora brincar com números. Numa dessas brincadeiras, empilhou caixas numeradas de acordo com a sequência conforme mostrada no esquema a seguir.\n\n![](https://enem.dev/2010/questions/179/0fc82f4a-dc92-411f-8f14-995159be0c16.jpg)\n\nEle percebeu que a soma dos números em cada linha tinha uma propriedade e que, por meio dessa propriedade, era possível prever a soma de qualquer linha posterior às já construídas.",
     "files": [
         "https://enem.dev/2010/questions/179/0fc82f4a-dc92-411f-8f14-995159be0c16.jpg"

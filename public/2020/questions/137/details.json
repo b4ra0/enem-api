@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras.\n\nNa imagem tem-se a informação dos assentos já vendidos e dos assentos ainda disponíveis em um determinado instante.\n\n![](https://enem.dev/2020/questions/137/ff9b404e-91ec-42e5-af3a-e9aa62f10112.png)",
     "files": [
         "https://enem.dev/2020/questions/137/ff9b404e-91ec-42e5-af3a-e9aa62f10112.png"

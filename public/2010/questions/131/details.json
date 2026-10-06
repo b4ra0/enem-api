@@ -3,7 +3,12 @@
     "index": 131,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "historia-arte",
+        "artes-visuais"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

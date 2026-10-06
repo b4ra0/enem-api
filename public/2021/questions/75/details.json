@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-colonia",
+        "povos-indigenas"
+    ],
     "context": "De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica indígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do exercício de uma medicina híbrida que se tornou marca do Brasil colonial. Alguns religiosos vinham de Portugal já versados nas artes de curar, mas a maioria aprendeu na prática diária as funções que deveriam ser atribuídas a um físico, cirurgião, barbeiro ou boticário.\n\nGurgel, C. **Doenças e curas**: o Brasil nos primeiros séculos.  \nSão Paulo: Contexto, 2010 (adaptado).",
     "files": [],
     "correctAlternative": "E",

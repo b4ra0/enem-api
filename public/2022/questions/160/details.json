@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas",
+        "geometria-espacial"
+    ],
     "context": "Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um cubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de arestas e centros de faces. Ele inicia seu deslocamento no ponto **P**, centro da face superior do cubo, segue para o centro da próxima face, converte à esquerda e segue para o centro da face seguinte, converte à direita e continua sua movimentação, sempre alternando entre conversões à esquerda e à direita quando alcança o centro de uma face. O robô só termina sua movimentação quando retorna ao ponto **P**. A figura apresenta os deslocamentos iniciais desse robô.\n\n![](https://enem.dev/2022/questions/160/c9e8168c-5f91-45a5-82a3-c5a2948bf0a9.png)",
     "files": [
         "https://enem.dev/2022/questions/160/c9e8168c-5f91-45a5-82a3-c5a2948bf0a9.png"

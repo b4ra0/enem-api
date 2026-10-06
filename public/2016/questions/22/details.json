@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "mundo-contemporaneo"
+    ],
     "context": "![](https://enem.dev/2016/questions/22/c25dd95b-e454-4cae-bcaf-3b11492355c7.jpg)",
     "files": [
         "https://enem.dev/2016/questions/22/c25dd95b-e454-4cae-bcaf-3b11492355c7.jpg"

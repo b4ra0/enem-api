@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "![](https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).",
     "files": [
         "https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg"

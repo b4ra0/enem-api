@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "hidrostatica"
+    ],
     "context": "Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observe o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca).\n\n![](https://enem.dev/2014/questions/55/e18f6b82-0ea7-4110-974b-632768f2c555.png)\n\nNessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório.",
     "files": [
         "https://enem.dev/2014/questions/55/e18f6b82-0ea7-4110-974b-632768f2c555.png"

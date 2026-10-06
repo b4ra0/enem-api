@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-contemporanea",
+        "etica-moral"
+    ],
     "context": "O acidente nuclear de Chernobyl revela brutalmente os limites dos poderes técnico-científicos da humanidade e as “marchas-à-ré” que a “natureza” nos pode reservar. É evidente que uma gestão mais coletiva se impõe para orientar as ciências e as técnicas em direção a finalidades mais humanas.\n\nGUATTARI, F. **As três ecologias.** São Paulo: Papirus, 1995 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "geometria-plana"
+    ],
     "context": "![](https://enem.dev/2015/questions/161/f840c071-3522-4f1a-986f-6456acba44c9.png)\n\nEssa indústria recebeu a encomenda de uma malha de proteção solar para ser aplicada em um vidro retangular de 5 m de largura por 9 m de comprimento.",
     "files": [
         "https://enem.dev/2015/questions/161/f840c071-3522-4f1a-986f-6456acba44c9.png"

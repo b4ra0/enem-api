@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "termoquimica"
+    ],
     "context": "![](https://enem.dev/2015/questions/84/f01c8f0e-3be3-4688-9b93-b14f6e4abd76.png)",
     "files": [
         "https://enem.dev/2015/questions/84/f01c8f0e-3be3-4688-9b93-b14f6e4abd76.png"

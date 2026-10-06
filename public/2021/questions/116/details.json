@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "funcoes-organicas"
+    ],
     "context": "As águas subterrâneas têm sido contaminadas pelo uso de pesticidas na agricultura. Entre as várias substâncias usualmente encontradas, algumas são apresentadas na figura. A distinção dessas substâncias pode ser feita por meio de uma análise química qualitativa, ou seja, determinando sua presença mediante a adição de um reagente específico. O hidróxido de sódio é capaz de identificar a presença de um desses pesticidas pela reação ácido-base de Brönsted-Lowry.\n\n![](https://enem.dev/2021/questions/116/203d51e2-8b23-40bc-8962-2a8ad628c649.png)",
     "files": [
         "https://enem.dev/2021/questions/116/203d51e2-8b23-40bc-8962-2a8ad628c649.png"

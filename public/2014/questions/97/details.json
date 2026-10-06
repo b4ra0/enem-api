@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "esportes",
+        "corpo-sociedade"
+    ],
     "context": "O boxe está perdendo cada vez mais espaço para um fenômeno relativamente recente do esporte, o MMA. E o maior evento de Artes Marciais Mistas do planeta é o _Ultimate Fighting Championship_, ou simplesmente UFC. O ringue, com oito cantos, foi desenhado para deixar os lutadores com mais espaço para as lutas. Os atletas podem usar as mãos e aplicar golpes de jiu-jitsu. Muitos podem falar que a modalidade é uma espécie de vale-tudo, mas isso já ficou no passado: agora, a modalidade tem regras e acompanhamento médico obrigatório para que o esporte apague o estigma negativo.\n\nCORREIA, D. UFC: saiba como o MMA nocauteou o boxe em oito golpes. **Veja**, 10 jun. 2011 (fragmento)\n\nO processo de modificação das regras do MMA retrata a tendência de redimensionamento de algumas práticas corporais, visando enquadrá-las em um determinado formato.",
     "files": [],
     "correctAlternative": "E",

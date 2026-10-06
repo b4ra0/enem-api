@@ -3,7 +3,12 @@
     "index": 105,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "historia-arte",
+        "artes-visuais"
+    ],
     "context": "![](https://enem.dev/2010/questions/105/465a663a-3aad-490d-9ea3-f727ebd02358.jpg)",
     "files": [
         "https://enem.dev/2010/questions/105/465a663a-3aad-490d-9ea3-f727ebd02358.jpg"

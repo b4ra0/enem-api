@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "nova-republica",
+        "republica-1945-1964"
+    ],
     "context": "![](https://enem.dev/2011/questions/25/6dffcf26-68e1-4c76-9a0a-d0a5a5ccb33d.png)\n\nGOMES, A. et al. A República no Brasil. Rio de Janeiro: Nova Fronteira, 2002.",
     "files": [
         "https://enem.dev/2011/questions/25/6dffcf26-68e1-4c76-9a0a-d0a5a5ccb33d.png"

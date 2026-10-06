@@ -3,7 +3,11 @@
     "index": 97,
     "year": 2023,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "botanica"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

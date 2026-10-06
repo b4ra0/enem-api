@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade",
+        "analise-combinatoria"
+    ],
     "context": "![](https://enem.dev/2013/questions/169/4edf5f0f-1c12-4b0b-a004-77d4d4835645.png)\n\nCinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções:\n\nArthur: 250 cartelas com 6 números escolhidos;\n\nBruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos;\n\nCaio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos;\n\nDouglas: 4 cartelas com 9 números escolhidos;\n\nEduardo: 2 cartelas com 10 números escolhidos.",
     "files": [
         "https://enem.dev/2013/questions/169/4edf5f0f-1c12-4b0b-a004-77d4d4835645.png"

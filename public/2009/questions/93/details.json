@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "Analise as seguintes avaliações de possíveis resultados de  \num teste na Internet.\n\n![](https://enem.dev/2009/questions/93/78a6b697-0241-4008-8983-636d150e26a1.png)",
     "files": [
         "https://enem.dev/2009/questions/93/78a6b697-0241-4008-8983-636d150e26a1.png"

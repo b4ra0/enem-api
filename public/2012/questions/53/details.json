@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "quimica-ambiental",
+        "reacoes-quimicas"
+    ],
     "context": "O rótulo de um desodorante aerossol informa ao consumidor que o produto possui em sua composição os gases isobutano, butano e propano, dentre outras  \nsubstâncias. Além dessa informação, o rótulo traz, ainda,a inscrição “Não contém CFC”. As reações a seguir, que ocorrem na estratosfera, justificam a não utilização de CFC (clorofluorcarbono ou Freon) nesse desodorante:\n\n![](https://enem.dev/2012/questions/53/4a839552-84aa-48ea-a374-1e2d8fd807cd.jpg)",
     "files": [
         "https://enem.dev/2012/questions/53/4a839552-84aa-48ea-a374-1e2d8fd807cd.jpg"

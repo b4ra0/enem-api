@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana"
+    ],
     "context": "![](https://enem.dev/2015/questions/85/13f729c5-e019-4d2e-84aa-3d1e97532799.png)",
     "files": [
         "https://enem.dev/2015/questions/85/13f729c5-e019-4d2e-84aa-3d1e97532799.png"

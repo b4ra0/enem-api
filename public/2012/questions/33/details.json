@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "globalizacao"
+    ],
     "context": "Uma mesma empresa pode ter sua sede administrativa onde os impostos são menores, as unidades de produção onde os salários são os mais baixos, os capitais onde os juros são os mais altos e seus executivos vivendo onde a qualidade de vida é mais elevada.\n\nSEVCENKO, N. **A corrida para o século XXI**: no loop da montanha russa. São Paulo: Companhia das Letras, 2001 (adaptado).",
     "files": [],
     "correctAlternative": "B",

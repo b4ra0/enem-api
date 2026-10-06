@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png)\n\nDisponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).",
     "files": [
         "https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png"

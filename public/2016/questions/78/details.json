@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "quimica-ambiental"
+    ],
     "context": "![](https://enem.dev/2016/questions/78/07838468-d80e-4417-9c08-a5700e6f32ed.png)",
     "files": [
         "https://enem.dev/2016/questions/78/07838468-d80e-4417-9c08-a5700e6f32ed.png"

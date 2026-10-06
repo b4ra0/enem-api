@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "funcoes-linguagem"
+    ],
     "context": "![](https://enem.dev/2014/questions/115/e13b2d6f-c865-4932-b906-03827868ad82.png)\n\n**Scientific American Brasil**, ano 11, n. 134, jul. 2013 (adaptado).",
     "files": [
         "https://enem.dev/2014/questions/115/e13b2d6f-c865-4932-b906-03827868ad82.png"

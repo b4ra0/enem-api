@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "regionalizacao-brasil"
+    ],
     "context": "O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era praticamente virgem, não possuindo infraestrutura de monta, nem outros investimentos fixos vindos do passado. Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna.\n\nSANTOS, M. **A Urbanização Brasileira**. São Paulo: EdUSP, 2005 (adaptado).",
     "files": [],
     "correctAlternative": "C",

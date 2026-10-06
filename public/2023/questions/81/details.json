@@ -3,7 +3,12 @@
     "index": 81,
     "year": 2023,
     "language": null,
-    "discipline": "linguagens",
+    "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-contemporanea",
+        "filosofia-politica"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

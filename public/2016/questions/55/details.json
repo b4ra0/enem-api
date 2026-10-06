@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "acustica"
+    ],
     "context": "![](https://enem.dev/2016/questions/55/474b0d3e-9bae-4e69-8198-0343720100a1.png)\n\n![](https://enem.dev/2016/questions/55/5a400051-2ebf-4e92-a991-642277965dc2.png)",
     "files": [
         "https://enem.dev/2016/questions/55/474b0d3e-9bae-4e69-8198-0343720100a1.png",

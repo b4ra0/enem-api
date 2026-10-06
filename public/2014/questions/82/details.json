@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "dinamica",
+        "gravitacao"
+    ],
     "context": "![](https://enem.dev/2014/questions/82/6b5305c0-7fe2-4433-93e4-bf49a2641968.png)",
     "files": [
         "https://enem.dev/2014/questions/82/6b5305c0-7fe2-4433-93e4-bf49a2641968.png"

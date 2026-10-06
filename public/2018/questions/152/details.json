@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-analitica",
+        "equacoes-inequacoes"
+    ],
     "context": "Para criar um logotipo, um profissional da área de _design_ gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo,  exatamente como mostra a imagem.\n\n![](https://enem.dev/2018/questions/152/30a16007-c0c0-48d8-afa8-5a4b353de0ab.png)\n\nPara construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico.",
     "files": [
         "https://enem.dev/2018/questions/152/30a16007-c0c0-48d8-afa8-5a4b353de0ab.png"

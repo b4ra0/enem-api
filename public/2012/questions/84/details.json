@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "radioatividade"
+    ],
     "context": "“Uma companhia aérea negou-se a transportar material médico por este portar um certificado de esterilização por irradiação.”\n\nFísica na Escola, v. 8, n. 2, 2007 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "escravidao",
+        "brasil-imperio"
+    ],
     "context": "Negro, filho de escrava e fidalgo português, o baiano Luiz Gama fez da lei e das letras suas armas na luta pela liberdade. Foi vendido ilegalmente como escravo pelo seu pai para cobrir dívidas de jogo. Sabendo ler e escrever, aos 18 anos de idade conseguiu provas de que havia nascido livre. Autodidata, advogado sem diploma, fez do direito o seu ofício e transformou-se, em pouco tempo, em proeminente advogado da causa abolicionista.\n\nAZEVEDO, E. O Orfeu de carapinha. In: Revista de  \nHistória.Ano 1, n.o 3. Rio de Janeiro:  \nBiblioteca Nacional, jan. 2004 (adaptado).",
     "files": [],
     "correctAlternative": "B",

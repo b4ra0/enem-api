@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "globalizacao",
+        "geopolitica"
+    ],
     "context": "![](https://enem.dev/2016/questions/16/23ed1f79-8cf3-491b-ba58-c85768bc2289.png)",
     "files": [
         "https://enem.dev/2016/questions/16/23ed1f79-8cf3-491b-ba58-c85768bc2289.png"

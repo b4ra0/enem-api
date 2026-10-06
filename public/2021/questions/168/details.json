@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "Num octaedro regular, duas faces são consideradas opostas quando não têm nem arestas, nem vértices em comum. Na figura, observa-se um octaedro regular e uma de suas planificações, na qual há uma face colorida na cor cinza escuro e outras quatro faces numeradas.\n\n![](https://enem.dev/2021/questions/168/71fccb41-8caa-485c-b7af-c1c537c4148b.png)",
     "files": [
         "https://enem.dev/2021/questions/168/71fccb41-8caa-485c-b7af-c1c537c4148b.png"

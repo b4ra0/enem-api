@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "equacoes-inequacoes",
+        "media-moda-mediana"
+    ],
     "context": "O Indicador do CadÚnico (ICadÚnico), que compõe o cálculo do Índice de Gestão Descentralizada do Programa Bolsa Família (IGD), é obtido por meio da **média aritmética** entre a taxa de cobertura qualificada de cadastros (TC) e a taxa de atualização de cadastros (TA), em que, _TC= NV/NF, TA= NA/NV, NV_ é o número de cadastros domiciliares válidos no perfil do CadÚnico, _NF_ é o número de famílias estimadas como público alvo do CadÚnico e _NA_ é o número de cadastros domiciliares atualizados no perfil do CadÚnico.\n\n**Portaria n° 148 de 27 de abril de 2006** (adaptado).",
     "files": [],
     "correctAlternative": "C",

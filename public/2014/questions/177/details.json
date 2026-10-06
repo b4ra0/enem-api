@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "geometria-espacial"
+    ],
     "context": "![](https://enem.dev/2014/questions/177/0a4df606-c0a5-4bac-b988-67ea996fa475.png)",
     "files": [
         "https://enem.dev/2014/questions/177/0a4df606-c0a5-4bac-b988-67ea996fa475.png"

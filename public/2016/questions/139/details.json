@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2016/questions/139/c748d750-cec7-42af-8fb1-4690aee8d9a8.png)",
     "files": [
         "https://enem.dev/2016/questions/139/c748d750-cec7-42af-8fb1-4690aee8d9a8.png"

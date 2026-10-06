@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas"
+    ],
     "context": "Uma pessoa ganhou uma pulseira formada por pérolas esféricas, na qual faltava uma das pérolas. A figura indica a posição em que estaria faltando esta pérola.\n\n![](https://enem.dev/2017/questions/157/a3037c5e-69fb-4c42-8587-ba4c6c0f81b4.png)\n\nEla levou a jóia a um joalheiro que verificou que a medida do diâmetro dessas pérolas era 4 milímetros. Em seu estoque, as pérolas do mesmo tipo e formato, disponíveis para reposição, tinham diâmetros iguais a: 4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.\n\nO joalheiro então colocou na pulseira a pérola cujo diâmetro era o mais próximo do diâmetro das pérolas originais.",
     "files": [
         "https://enem.dev/2017/questions/157/a3037c5e-69fb-4c42-8587-ba4c6c0f81b4.png"

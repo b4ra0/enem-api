@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia",
+        "fisiologia-humana"
+    ],
     "context": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1,  \na partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.\n\nJULIÃO, A. **Técnica modifica proteína do veneno de cascavel e permite**  \n**criar fármaco que modula a coagulação sanguínea**. Disponível em:  \nhttps://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "dinamica"
+    ],
     "context": "Em desenhos animados é comum vermos a personagem tentando impulsionar um barco soprando ar contra a vela para compensar a falta de vento. Algumas vezes usam o próprio fôlego, foles ou ventiladores. Estudantes de um laboratório didático resolveram investigar essa possibilidade. Para isso, usaram dois pequenos carros de plástico, **A** e **B**, instalaram sobre estes pequenas ventoinhas e fixaram verticalmente uma cartolina de curvatura  \nparabólica para desempenhar uma função análoga á vela de um barco. No carro **B** inverteu-se o sentido da ventoinha e manteve-se a vela, a fim de manter as características físicas do barco, massa e formato da cartolina. As figuras representam os carros produzidos. A montagem do carro **A** busca simular a situação dos desenhos  \nanimados, pois a ventoinha está direcionada para a vela.\n\n![](https://enem.dev/2018/questions/128/d495fbfc-cf80-4e39-b7c7-6f0535ddac0a.png)\n\nCom os carros orientados de acordo com as figuras, os estudantes ligaram as ventoinhas, aguardaram o fluxo de ar ficar permanente e determinaram os módulos das velocidades médias dos carros ![](https://enem.dev/2018/questions/128/05a5be22-7db9-49d7-bfef-aa2c714bdfad.png) e ![](https://enem.dev/2018/questions/128/db724714-6e79-48e0-b29d-63add6f356cc.png) para o mesmo intervalo de tempo.",
     "files": [
         "https://enem.dev/2018/questions/128/d495fbfc-cf80-4e39-b7c7-6f0535ddac0a.png",

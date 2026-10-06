@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "trabalho-sociedade"
+    ],
     "context": "A introdução de novas tecnologias desencadeou uma série de efeitos sociais que afetaram os trabalhadores e sua organização. O uso de novas tecnologias trouxe a diminuição do trabalho necessário que se traduz na economia líquida do tempo de trabalho, uma vez que, com a presença da automação microeletrônica, começou a ocorrer a diminuição dos coletivos operários e uma mudança na organização dos processos de trabalho.\n\n**Revista Eletrônica de Geografia Y Ciências Sociales.**  \nUniversidad de Barcelona. Nº 170(9), 1 ago. 2004.",
     "files": [],
     "correctAlternative": "C",

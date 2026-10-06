@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "modernismo",
+        "literatura-contemporanea"
+    ],
     "context": "**TEXTO I**\n\n**Alegria, alegria**  \nO sol nas bancas de revista  \nMe enche de alegria e preguiça  \nQuem lê tanta noticia  \nEu vou  \nPor entre fotos e nomes  \nOs olhos cheios de cores  \nO peito cheio de amores vãos  \nEu vou  \nPor que não, por que não?\n\nVELOSO, C. **Alegria, alegria**. Rio de Janeiro: Polygram, 1990 (fragmento)\n\n**ТЕХТО II**\n\n**Anjos tronchos**  \nUns anjos tronchos do Vale do Silício  \nDesses que vivem no escuro em plena luz  \nDisseram vai ser virtuoso no vício  \nDas telas dos azuis mais do que azuis\n\nAgora a minha história é um denso algoritmo  \nQue vende venda a vendedores reais  \nNeurônios meus ganharam novo outro ritmo  \nE mais, e mais, e mais, e mais, e mais\n\nVELOSO, C. **Meu coco**. Rio de Janeiro: Sony, 2021 (fragmento)",
     "files": [],
     "correctAlternative": "B",

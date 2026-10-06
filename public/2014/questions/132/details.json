@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "intertextualidade",
+        "interpretacao-texto"
+    ],
     "context": "**TEXTO I**\n\nDitado popular é uma frase sentenciosa, concisa, de verdade comprovada, baseada na secular experiência do povo, exposta de forma poética, contendo uma norma de conduta ou qualquer outro ensinamento.\n\nWEITZEL, A. H. **Folclore literário e linguístico**. Juiz de Fora: Esdeva, 1984 (fragmento).\n\n**TEXTO II**\n\nRindo brincalhona, dando-lhe tapinhas nas costas, prima Constança disse isto, dorme no assunto, ouça o travesseiro, não tem melhor conselheiro.\n\nEnquanto prima Biela dormia no assunto, toda a casa se alvoroçava.\n\n\\[Prima Constança\\] ia rezar, pedir a Deus para iluminar prima Biela. Mas ia também tomar suas providências. Casamento e mortalha, no céu se talha. Deus escreve direito por linhas tortas. O que for soará. Dizia os ditados todos, procurando interpretar os desígnios de Deus, transformar os seus desejos nos desígnios de Deus. Se achava um instrumento de Deus.\n\nDOURADO, A. **Uma vida em segredo**. Rio de Janeiro: Francisco Alves, 1990 (fragmento).",
     "files": [],
     "correctAlternative": "C",

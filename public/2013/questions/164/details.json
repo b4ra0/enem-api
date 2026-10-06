@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "transformacoes-geometricas"
+    ],
     "context": "![](https://enem.dev/2013/questions/164/b06811f8-91ea-46e6-8a0f-048141c9045b.png)",
     "files": [
         "https://enem.dev/2013/questions/164/b06811f8-91ea-46e6-8a0f-048141c9045b.png"

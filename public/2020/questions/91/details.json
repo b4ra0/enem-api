@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrostatica"
+    ],
     "context": "![](https://enem.dev/2020/questions/91/2b4a24ac-8976-46b5-8eb0-67c6db97515d.png)\n\nDAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015.",
     "files": [
         "https://enem.dev/2020/questions/91/2b4a24ac-8976-46b5-8eb0-67c6db97515d.png"

@@ -4,6 +4,11 @@
     "year": 2022,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "vocabulario-contexto",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2022/questions/5-espanhol/2a1a630d-3c73-4b12-81e5-219ee4f917b7.jpg)\n\nMURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 26 out. 2021(adaptado)",
     "files": [
         "https://enem.dev/2022/questions/5-espanhol/2a1a630d-3c73-4b12-81e5-219ee4f917b7.jpg"

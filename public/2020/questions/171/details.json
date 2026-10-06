@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "angulos-poligonos"
+    ],
     "context": "Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.\n\nDisponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.\n\nAzulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.\n\n![](https://enem.dev/2020/questions/171/ef4071b9-7821-4c7b-a055-4983fdcd1b87.png)\n\nEntre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:\n\n1 — Triângulo retângulo isósceles;\n\n2 — Triângulo equilátero;\n\n3 — Quadrado.",
     "files": [
         "https://enem.dev/2020/questions/171/ef4071b9-7821-4c7b-a055-4983fdcd1b87.png"

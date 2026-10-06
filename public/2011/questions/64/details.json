@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas"
+    ],
     "context": "![](https://enem.dev/2011/questions/64/9d597bbb-7e1e-4be9-8724-a983ffe36ac7.jpg)",
     "files": [
         "https://enem.dev/2011/questions/64/9d597bbb-7e1e-4be9-8724-a983ffe36ac7.jpg"

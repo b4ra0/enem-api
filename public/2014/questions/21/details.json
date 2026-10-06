@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "primeira-republica",
+        "era-vargas"
+    ],
     "context": "**Estatuto da Frente Negra Brasileira (FNB)**\n\nArt. 1.o – Fica fundada nesta cidade de São Paulo, para se irradiar por todo o Brasil, a Frente Negra Brasileira, união política e social da Gente Negra Nacional, para a afirmação dos direitos históricos da mesma, em virtude da sua atividade material e moral no passado e para reivindicação de seus direitos sociais e políticos, atuais, na Comunhão Brasileira.\n\n**Diário Oficial do Estado de São Paulo**. 4 novo 1931.",
     "files": [],
     "correctAlternative": "A",

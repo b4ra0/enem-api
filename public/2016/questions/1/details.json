@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "etica-moral",
+        "filosofia-moderna"
+    ],
     "context": "Sentimos que toda satisfação de nossos desejos advinda do mundo assemelha-se à esmola que mantém hoje o mendigo vivo, porém prolonga amanhã a sua fome. A resignação, ao contrário, assemelha-se à fortuna herdada: livra o herdeiro para sempre de todas as preocupações.\n\nSCHOPENHAUER, A. **Aforismo para a sabedoria da vida.** São Paulo: Martins Fontes, 2005.",
     "files": [],
     "correctAlternative": "B",

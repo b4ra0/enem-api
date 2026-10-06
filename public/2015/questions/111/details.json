@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "historia-arte",
+        "artes-visuais"
+    ],
     "context": "Ao se apossarem do novo território, os europeus ignoraram um universo de antiga sabedoria, povoado por homens e bens unidos por um sistema integrado. A recusa em se inteirar dos valores culturais dos primeiros habitantes levou-os a uma descrição simplista desses grupos e à sua sucessiva destruição.\n\nNa verdade, não existe uma distinção entre a nossa arte e aquela produzida por povos tecnicamente menos desenvolvidos. As duas manifestações devem ser encaradas como expressões diferentes dos modos de sentir e pensar das várias sociedades, mas também como equivalentes, por resultarem de impulsos humanos comuns.\n\nSCATAMACHIA, M. C. M. In: AGUILAR, N. (Org.). **Mostra do redescobrimento: arqueologia**. São Paulo: Fundação Bienal de São Paulo – Associação Brasil 500 anos artes visuais, 2000.",
     "files": [],
     "correctAlternative": "C",

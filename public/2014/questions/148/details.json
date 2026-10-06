@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "funcoes-conceitos"
+    ],
     "context": "![](https://enem.dev/2014/questions/148/925f6a93-dd23-47d0-9176-6aa8754c38dd.png)\n\nNa figura, considere o plano cartesiano que contém a trajetória do assento do balanço, no qual a origem está localizada no topo do suporte do balanço, o eixo _X_ é paralelo ao chão do parque, e o eixo _Y_ tem orientação positiva para cima.",
     "files": [
         "https://enem.dev/2014/questions/148/925f6a93-dd23-47d0-9176-6aa8754c38dd.png"

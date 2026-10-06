@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos",
+        "espaco-agrario"
+    ],
     "context": "Uma empresa norte-americana de bioenergia está expandindo suas operações para o Brasil para explorar o mercado de pinhão manso. Com sede na Califórnia, a empresa desenvolveu sementes híbridas de pinhão manso, oleaginosa utilizada hoje na produção de biodiesel e de querosene de aviação.\n\nMAGOSSI, E. **O Estado de São Paulo.** 19 maio 2011 (adaptado).",
     "files": [],
     "correctAlternative": "A",

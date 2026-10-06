@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos",
+        "geologia-relevo"
+    ],
     "context": "![](https://enem.dev/2022/questions/82/9d037d23-4819-4184-9aab-bb87c3b40c73.png)\n\n**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**",
     "files": [
         "https://enem.dev/2022/questions/82/9d037d23-4819-4184-9aab-bb87c3b40c73.png"

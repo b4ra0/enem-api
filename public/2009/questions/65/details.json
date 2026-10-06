@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio",
+        "escravidao"
+    ],
     "context": "No tempo da independência do Brasil, circulavam nas classes populares do Recife trovas que faziam alusão à revolta escrava do Haiti:\n\nMarinheiros e caiados\n\nTodos devem se acabar,\n\nPorque só pardos e pretos\n\nO país hão de habitar.\n\nAMARAL, F. P. do. Apud CARVALHO, A. Estudos pernambucanos. Recife: Cultura Acadêmica, 1907.",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcoes-conceitos",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2015/questions/138/386a223a-c3a3-4465-9197-ec9ac1d2fc9d.png)",
     "files": [
         "https://enem.dev/2015/questions/138/386a223a-c3a3-4465-9197-ec9ac1d2fc9d.png"

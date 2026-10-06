@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana"
+    ],
     "context": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindo do coração.\n\n![](https://enem.dev/2021/questions/131/a87188b9-ef4f-48a8-bc38-b94443bea787.png)",
     "files": [
         "https://enem.dev/2021/questions/131/a87188b9-ef4f-48a8-bc38-b94443bea787.png"

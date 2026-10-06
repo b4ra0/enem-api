@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "matematica-financeira",
+        "porcentagem"
+    ],
     "context": "![](https://enem.dev/2011/questions/177/3c240114-2bf9-4fc0-a3a7-2c480b27b238.png)",
     "files": [
         "https://enem.dev/2011/questions/177/3c240114-2bf9-4fc0-a3a7-2c480b27b238.png"

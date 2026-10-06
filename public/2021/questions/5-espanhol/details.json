@@ -4,6 +4,11 @@
     "year": 2021,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png)",
     "files": [
         "https://enem.dev/2021/questions/5-espanhol/c966af60-b276-459d-8a9f-d0f78ef25988.png"

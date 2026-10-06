@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima",
+        "questoes-ambientais"
+    ],
     "context": "![](https://enem.dev/2009/questions/86/04d790cc-7221-4d93-a0a7-ea323350509a.jpg)\n\n![](https://enem.dev/2009/questions/86/1dec6a28-9c85-4f2d-a6ca-58d1bd4ead05.jpg)",
     "files": [
         "https://enem.dev/2009/questions/86/04d790cc-7221-4d93-a0a7-ea323350509a.jpg",

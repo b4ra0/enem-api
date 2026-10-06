@@ -408,6 +408,10 @@
             {
                 "label": "Espanhol",
                 "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
             }
         ]
     },

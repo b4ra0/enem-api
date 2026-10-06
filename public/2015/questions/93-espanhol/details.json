@@ -4,6 +4,11 @@
     "year": 2015,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2015/questions/93-espanhol/5c8b13c1-743a-4e2c-b7b5-7f15968359c7.jpg)\n\nDisponível em: www.lacronicadeleon.es. Acesso em: 12 mar. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2015/questions/93-espanhol/5c8b13c1-743a-4e2c-b7b5-7f15968359c7.jpg"

@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "Utilize 3,0 como aproximação para π.",
     "files": [],
     "correctAlternative": "D",

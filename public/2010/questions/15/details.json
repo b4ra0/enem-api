@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos",
+        "questoes-ambientais"
+    ],
     "context": "A usina hidrelétrica de Belo Monte será construída no rio Xingu, no município de Vitória de Xingu, no Pará. A usina será a terceira maior do mundo e a maior totalmente brasileira, com capacidade de 11,2 mil megawatts. Os índios do Xingu tomam a paisagem com seus cocares, arcos e flechas. Em Altamira, no Pará, agricultores fecharam estradas de uma região que será inundada pelas águas da usina.\n\nBACOCCINA, D. QUEIROZ, G.: BORGES, R. Fim do leilão, começo da confusão.  \n**Istoé Dinheiro.** Ano 13, n.o 655, 28 abri 2010 (adaptado).",
     "files": [],
     "correctAlternative": "B",

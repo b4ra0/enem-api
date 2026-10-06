@@ -3,7 +3,12 @@
     "index": 32,
     "year": 2018,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "teatro",
+        "musica"
+    ],
     "context": "![](https://enem.dev/2018/questions/32/b0d35f71-1f3d-48f2-a2d1-cafb796ce307.png)\n\nFotografia: LUCAS HALLEL. Disponível em: www.fiickr.com. Acesso em: 16 abr. 2018 (adaptado)",
     "files": [
         "https://enem.dev/2018/questions/32/b0d35f71-1f3d-48f2-a2d1-cafb796ce307.png"

@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana"
+    ],
     "context": "![](https://enem.dev/2010/questions/152/3b16b42f-5856-499b-a7f7-6512f1c1c219.png)\n\nUm cientista monitora o movimento desse satélite para controlar o seu afastamento do centro da Terra. Para isso, ele precisa calcular a soma dos valores de r, no apogeu e no perigeu, representada por S.",
     "files": [
         "https://enem.dev/2010/questions/152/3b16b42f-5856-499b-a7f7-6512f1c1c219.png"

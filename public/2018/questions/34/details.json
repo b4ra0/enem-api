@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais",
+        "arte-popular"
+    ],
     "context": "**TEXTO I** \n\n![](https://enem.dev/2018/questions/34/130be5aa-d690-4cab-8638-157201849604.png)\n\nDisponível em: www.normagrimberg.com.br. Acesso em: 13 dez. 2017.\n\n**TEXTO II**\n\n![](https://enem.dev/2018/questions/34/4d43079a-6004-4294-8b08-8cf432e941f1.png)\n\nDisponível em: www.museunacional.ufrj.br. Acesso em: 11 dez. 2017",
     "files": [
         "https://enem.dev/2018/questions/34/130be5aa-d690-4cab-8638-157201849604.png",

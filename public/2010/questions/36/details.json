@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "ditadura-militar",
+        "nova-republica"
+    ],
     "context": "A caixa de pandora tecnológica penetra nos lares e libera suas cabeças falantes, astros, novelas, noticiários e as fabulosas, irresistíveis garotas-propaganda, versões modernizadas do tradicional homem-sanduíche.\n\nSEVCENKO, N. (Org). História da Vida Privada no Brasil 3.  \nRepública: da Belle Époque à Era do Rádio.  \nSão Paulo: Cia das Letras, 1998.",
     "files": [],
     "correctAlternative": "B",

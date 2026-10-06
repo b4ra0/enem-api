@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana"
+    ],
     "context": "![](https://enem.dev/2014/questions/147/7d03f38b-d6bf-4e4a-821c-ff2c6d13f8e0.png)",
     "files": [
         "https://enem.dev/2014/questions/147/7d03f38b-d6bf-4e4a-821c-ff2c6d13f8e0.png"

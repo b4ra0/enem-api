@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "equilibrio-quimico"
+    ],
     "context": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:\n\n![](https://enem.dev/2020/questions/112/3a5d84b5-cdc6-4ede-b856-91cf1b9bd52d.png)",
     "files": [
         "https://enem.dev/2020/questions/112/3a5d84b5-cdc6-4ede-b856-91cf1b9bd52d.png"

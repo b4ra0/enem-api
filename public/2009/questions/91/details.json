@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "arte-popular",
+        "historia-arte"
+    ],
     "context": "Os melhores críticos da cultura brasileira trataram-na sempre no plural, isto é, enfatizando a coexistência no Brasil de diversas culturas. Arthur Ramos distingue as culturas não europeias (indígenas, negras) das europeias (portuguesa, italiana, alemã etc.), e Darcy Ribeiro fala de diversos Brasis: crioulo, caboclo, sertanejo, caipira e de Brasis sulinos, a cada um deles correspondendo uma cultura específica.\n\nMORAIS, F. **O Brasil na visão do artista: o país e sua cultura.**  \nSão Paulo: Sudameris, 2003.",
     "files": [],
     "correctAlternative": "A",

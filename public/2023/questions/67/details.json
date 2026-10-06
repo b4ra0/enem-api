@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "espaco-agrario"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "B",

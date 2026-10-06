@@ -3,7 +3,12 @@
     "index": 151,
     "year": 2011,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "transformacoes-geometricas",
+        "angulos-poligonos"
+    ],
     "context": "![](https://enem.dev/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png)",
     "files": [
         "https://enem.dev/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png"

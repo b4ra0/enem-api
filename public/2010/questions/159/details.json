@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "potencias-notacao-cientifica"
+    ],
     "context": "![](https://enem.dev/2010/questions/159/d9f06afe-c730-4e5a-ab08-dfb562d30d85.jpg)",
     "files": [
         "https://enem.dev/2010/questions/159/d9f06afe-c730-4e5a-ab08-dfb562d30d85.jpg"

@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "![](https://enem.dev/2010/questions/138/45398e2b-e687-438b-9e22-6ffeee57f58f.png)",
     "files": [
         "https://enem.dev/2010/questions/138/45398e2b-e687-438b-9e22-6ffeee57f58f.png"

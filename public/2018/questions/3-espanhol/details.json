@@ -4,6 +4,10 @@
     "year": 2018,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**¿Qué es la X Solidaria?**\n\nLa X _Solidaria_ es una equis que ayuda a las personas más vulnerables. Podrás marcarla cuando hagas la declaración de la renta. Es la casilla que se denomina  \n“Fines Sociales”. Nosotros preferimos llamarla X _Solidaria_:\n\n*   porque al marcada haces que se destine un 0,7 de tus impuestos a programas sociales que realizan las ONG.\n*   porque se benefician los colectivos más desfavorecidos, sin ningún coste económico para ti.\n*   porque NO marcarla es tomar una actitud pasiva, y dejar que sea el Estado quien decida el destino de esa parte de tus impuestos.\n*   porque marcándola te conviertes en contribuyente activo solidario.\n\nDisponível em: http://xsolidaria.org. Acesso em: 20 fev. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "C",

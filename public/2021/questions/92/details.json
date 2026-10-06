@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria",
+        "acustica"
+    ],
     "context": "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.\n\n![](https://enem.dev/2021/questions/92/5bb60323-94e3-4bc4-bd57-90725682dd94.png)\n\nConsidere f1 e v1, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f2 e v2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento.",
     "files": [
         "https://enem.dev/2021/questions/92/5bb60323-94e3-4bc4-bd57-90725682dd94.png"

@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "generos-textuais"
+    ],
     "context": "PROPAGANDA – O exame dos textos e mensagens de Propaganda revela que ele apresenta posições parciais, que refletem apenas o pensamento de uma minoria, como se exprimissem, em vez disso a convicção de uma população; trata-se, no fundo, de convencer o ouvinte ou leitor de que, em termos de opinião, está fora do caminho certo, e de induzi-lo a aderir às teses que lhes são apresentadas, por um mecanismo bem conhecido da psicologia social, o do conformismo induzido por pressões do grupo sobre o indivíduo isolado.\n\nBOBBIP, N.; MATTEUCCI, N.; PASQUINO, G. **Dicionário de política.** Brasília: UnB, 1998 (adaptado).",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "impactos-ambientais"
+    ],
     "context": "A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação.\n\n![](https://enem.dev/2014/questions/63/d14dc1bb-045a-4d4f-b45d-546ab27ff980.jpg)",
     "files": [
         "https://enem.dev/2014/questions/63/d14dc1bb-045a-4d4f-b45d-546ab27ff980.jpg"

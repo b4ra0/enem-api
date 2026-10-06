@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2018/questions/39/eabfb56c-3b85-4116-8d13-645cbf5f0a13.png)\n\nDisponível em: www.facebook.com/omeusegredinho.Acesso em: 9 dez. 2017 (adaptado)",
     "files": [
         "https://enem.dev/2018/questions/39/eabfb56c-3b85-4116-8d13-645cbf5f0a13.png"

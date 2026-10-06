@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-quimicas",
+        "eletroquimica"
+    ],
     "context": "O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida. Após uma sequência de reações (I, II, III, IV e V), o cobre retorna ao seu estado inicial ao final do ciclo.\n\n![](https://enem.dev/2021/questions/113/38fbcbee-5f16-4758-a90a-94f670c1f5a0.png)",
     "files": [
         "https://enem.dev/2021/questions/113/38fbcbee-5f16-4758-a90a-94f670c1f5a0.png"

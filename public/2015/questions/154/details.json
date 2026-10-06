@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-quadratica"
+    ],
     "context": "![](https://enem.dev/2015/questions/154/65c7dd7a-2e17-4352-a584-ed42ea5b0559.png)\n\nA forma do vidro foi concebida de modo que o eixo _x_ sempre divida ao meio a altura _h_ do vidro e a base do vidro seja paralela ao eixo _x_. Obedecendo a essas condições, o engenheiro determinou uma expressão que fornece a altura h do vidro em função da medida _n_ de sua base, em metros.",
     "files": [
         "https://enem.dev/2015/questions/154/65c7dd7a-2e17-4352-a584-ed42ea5b0559.png"

@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio",
+        "escravidao"
+    ],
     "context": "No clima das ideias que se seguiram à revolta de São Domingos, o descobrimento de planos para um levante armado dos artífices mulatos na Bahia, no ano de 1798, teve impacto muito especial; esses planos demonstravam aquilo que os brancos conscientes tinham já começado a compreender: as ideias de igualdade social estavam a propagar-se numa sociedade em que só um terço da população era de brancos e iriam inevitavelmente ser interpretados em termos raciais.\n\nMAXWELL, K. Condicionalismos da Independência do Brasil. In: SILVA, M. N. (coord.) O Império luso-brasileiro, 1750-1822. Lisboa: Estampa, 1966.",
     "files": [],
     "correctAlternative": "D",

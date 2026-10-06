@@ -3,7 +3,12 @@
     "index": 104,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia",
+        "argumentacao"
+    ],
     "context": "A gentileza é algo difícil de ser ensinado e vai muito além da palavra educação. Ela é difícil de ser encontrada, generosas e desprendidas, que se interessam em contribuir para o bem do outro e da sociedade. É uma atitude desobrigada, que se manifesta nas situações cotidianas e das maneiras mais prosaicas.\n\nSIMURRO, S. A. B. **Ser gentil é ser saudável.** Disponível em: http://www.abqv.org.br. Acesso em: 22 jun. 2006 (adaptado).",
     "files": [],
     "correctAlternative": "E",

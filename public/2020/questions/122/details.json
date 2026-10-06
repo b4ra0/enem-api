@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "zoologia"
+    ],
     "context": "O exame parasitológico de fezes é utilizado para detectar  \novos de parasitos. Um dos métodos utilizados,  \ndenominado de centrífugo-flutuação, considera a  \ndensidade dos ovos em relação a uma solução de  \ndensidade 1,15 g mL–1. Assim, ovos que flutuam na  \nsuperfície dessa solução são detectados. Os dados de  \ndensidade dos ovos de alguns parasitos estão  \napresentados na tabela.\n\n![](https://enem.dev/2020/questions/122/6d38b272-e416-4b4c-a0cf-ff0b323bd6ae.png)",
     "files": [
         "https://enem.dev/2020/questions/122/6d38b272-e416-4b4c-a0cf-ff0b323bd6ae.png"

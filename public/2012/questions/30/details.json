@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "teoria-conhecimento",
+        "filosofia-moderna"
+    ],
     "context": "Experimentei algumas vezes que os sentidos eram enganosos, e é de prudência nunca se fiar inteiramente em quem já nos enganou uma vez.\n\n_DESCARTES, R. Meditações Metafísicas. São Paulo: Abril Cultural, 1979._\n\nTEXTO II\n\nSempre que alimentarmos alguma suspeita de que uma ideia esteja sendo empregada sem nenhum significado, precisaremos apenas indagar: de que impressão deriva esta suposta ideia? E se for impossível atribuir-lhe qualquer impressão sensorial, isso servirá para confirmar nossa suspeita.\n\n_HUME, D. Uma investigação sobre o entendimento. São Paulo: Unesp, 2004 (adaptado)._",
     "files": [],
     "correctAlternative": "E",

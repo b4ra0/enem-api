@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria"
+    ],
     "context": "![](https://enem.dev/2015/questions/164/143503ba-442f-4e6e-b47f-56b581a76e04.png)\n\nDisponível em: www.gebh.net. Acesso em: 30 out. 2013 (adaptado).",
     "files": [
         "https://enem.dev/2015/questions/164/143503ba-442f-4e6e-b47f-56b581a76e04.png"

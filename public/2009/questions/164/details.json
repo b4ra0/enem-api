@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "porcentagem"
+    ],
     "context": "Ao morrer, o pai de João, Pedro e José deixou como herança um terreno retangular de 3 km x 2 km que contém uma área de extração de ouro delimitada por um quarto de círculo de raio 1 km a partir do canto inferior esquerdo da propriedade. Dado o maior valor da área de extração de ouro, os irmãos acordaram em repartir a propriedade de modo que cada um ficasse com a terça parte da área de extração, conforme mostra a figura.\n\n![](https://enem.dev/2009/questions/164/fbf84d66-498d-4521-8b27-9a164c60237d.jpg)",
     "files": [
         "https://enem.dev/2009/questions/164/fbf84d66-498d-4521-8b27-9a164c60237d.jpg"

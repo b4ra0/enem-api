@@ -3,7 +3,12 @@
     "index": 107,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "morfologia",
+        "semantica"
+    ],
     "context": "**Carnavália**\n\nRepique tocou  \nO surdo escutou  \nE o meu corasamborim  \nCuíca gemeu, será que era meu, quando ela passou por mim?  \n\\[…\\]\n\nANTUNES, A.; BROWN, C.; MONTE, M. **Tribalistas**, 2002 (fragmento).\n\nNo terceiro verso, o vocábulo “_corasamborim_”, que é a junção coração + samba + tamborim, refere-se, ao mesmo tempo, a elementos que compõem uma escola de samba e à situação emocional em que se encontra o autor da mensagem, com o coração no ritmo da percussão.",
     "files": [],
     "correctAlternative": "B",

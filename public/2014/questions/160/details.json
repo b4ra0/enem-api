@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas"
+    ],
     "context": "![](https://enem.dev/2014/questions/160/11f9c9a3-5c62-4447-a760-38bc9e08fad7.png)",
     "files": [
         "https://enem.dev/2014/questions/160/11f9c9a3-5c62-4447-a760-38bc9e08fad7.png"

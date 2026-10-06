@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio"
+    ],
     "context": "Entre os combatentes estava a mais famosa heroína da Independência. Nascida em Feira de Santana, filha de lavradores pobres, Maria Quitéria de Jesus tinha trinta anos quando a Bahia começou a pegar em armas contra os portugueses. Apesar da proibição de mulheres nos batalhões de voluntários, decidiu se alistar às escondidas. Cortou os cabelos, amarrou os seios, vestiu-se de homem e incorporou-se às fileiras brasileiras com o nome de Soldado Medeiros.\n\nGOMES, L. **1822**. Rio de Janeiro: Nova Fronteira, 2010.",
     "files": [],
     "correctAlternative": "A",

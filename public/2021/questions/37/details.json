@@ -3,7 +3,12 @@
     "index": 37,
     "year": 2021,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "figuras-linguagem"
+    ],
     "context": "**Comportamento geral**  \nVocê deve estampar sempre um ar de alegria  \nE dizer: tudo bem melhorado  \nVocê deve rezar pelo bem do patrão  \nE esquecer que está desempregado\n\nVocê merece  \nVocê merece  \nTudo vai bem, tudo legal  \nCerveja, samba, e amanhã, seu Zé  \nSe acabarem com teu carnaval\n\nVocê deve aprender a baixar a cabeça  \nE dizer sempre: muito obrigado  \nSão palavras que ainda te deixam deixar  \nPor ser homem bem disciplinado\n\nDeve pois só fazer pelo bem da nação  \nTudo aquilo que for ordenado  \nPra ganhar um fuscão no juízo final  \nE diploma de bem-comportado\n\nGONZAGUINHA, **Luiz Gonzaga Jr**. Rio de Janeiro: Odeon, 1973 (fragmento).",
     "files": [],
     "correctAlternative": "A",

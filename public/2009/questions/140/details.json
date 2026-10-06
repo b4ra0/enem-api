@@ -3,7 +3,12 @@
     "index": 140,
     "year": 2009,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "geometria-plana"
+    ],
     "context": "O governo cedeu terrenos para que famílias construíssem suas residências com a condição de que no mínimo 94% da área do terreno fosse mantida como área de preservação ambiental. Ao receber o terreno retangular ABCD, em que AB= BC/2 , Antônio demarcou uma área quadrada no vértice A, para a construção de sua residência, de acordo com o desenho, no qual AE = AB/5 é lado do quadrado.\n\n![](https://enem.dev/2009/questions/140/ef5fc6bc-3de0-4ee7-ae4c-cdbca574c187.jpg)",
     "files": [
         "https://enem.dev/2009/questions/140/ef5fc6bc-3de0-4ee7-ae4c-cdbca574c187.jpg"

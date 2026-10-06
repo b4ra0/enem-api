@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima",
+        "biomas"
+    ],
     "context": "![](https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg)\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).",
     "files": [
         "https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg"

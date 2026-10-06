@@ -3,7 +3,11 @@
     "index": 29,
     "year": 2009,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "modelos-atomicos"
+    ],
     "context": "![](https://enem.dev/2009/questions/29/8b64e737-d832-4707-9ffe-9eb28b3f7b1c.jpg)",
     "files": [
         "https://enem.dev/2009/questions/29/8b64e737-d832-4707-9ffe-9eb28b3f7b1c.jpg"

@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas",
+        "geometria-espacial"
+    ],
     "context": "Na figura estão destacadas duas trajetórias sobre a superfície do globo terrestre, descritas ao se percorrer parte dos meridianos 1, 2 e da Linha do Equador, sendo que os meridianos 1 e 2 estão contidos em planos perpendiculares entre si. O plano α é paralelo ao que contém a Linha do Equador.\n\n![](https://enem.dev/2022/questions/180/f3e0feaa-a265-4d9f-894f-63135acff616.png)",
     "files": [
         "https://enem.dev/2022/questions/180/f3e0feaa-a265-4d9f-894f-63135acff616.png"

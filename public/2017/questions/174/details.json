@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2017/questions/174/8da9e00a-e25a-4467-8f2f-53488edb0a1f.png)\n\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2017/questions/174/8da9e00a-e25a-4467-8f2f-53488edb0a1f.png"

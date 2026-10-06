@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico"
+    ],
     "context": "![](https://enem.dev/2015/questions/69/7e6fd44a-5d31-4cbb-a8be-7be6ac68fa7c.png)",
     "files": [
         "https://enem.dev/2015/questions/69/7e6fd44a-5d31-4cbb-a8be-7be6ac68fa7c.png"

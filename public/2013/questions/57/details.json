@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "hidrostatica"
+    ],
     "context": "![](https://enem.dev/2013/questions/57/c6f54e13-8d47-41f4-a0e5-ace29cfe3ee6.png)",
     "files": [
         "https://enem.dev/2013/questions/57/c6f54e13-8d47-41f4-a0e5-ace29cfe3ee6.png"

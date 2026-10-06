@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "eletroquimica"
+    ],
     "context": "Células solares à base de![](https://enem.dev/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png) sensibilizadas por corantes (S) são promissoras e poderão vir a substituir as células de silício. Nessas células, o corante adsorvido sobre o ![](https://enem.dev/2018/questions/116/6e7c4773-4fd4-43cf-baae-47d2e874e74c.png) é responsável por absorver a energia luminosa ![](https://enem.dev/2018/questions/116/9a3c2e7d-6301-4343-bb7c-cd88c3bedc79.png), e o corante excitado (S\\*) é capaz de transferir elétrons para o ![](https://enem.dev/2018/questions/116/c41d5271-b539-48b4-b4b1-118459e8e8e0.png). Um esquema dessa célula e os processos envolvidos estão ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas.\n\n![](https://enem.dev/2018/questions/116/53bc5276-aff8-461d-9dfc-57f3d1fe0731.png)",
     "files": [
         "https://enem.dev/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png",

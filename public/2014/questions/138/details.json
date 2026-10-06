@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas",
+        "porcentagem"
+    ],
     "context": "![](https://enem.dev/2014/questions/138/3fe2669a-4174-4db9-a85e-cee6c877f765.png)\n\nOs resultados obtidos permitiram que estados, municípios e o governo federal estabelecessem as regiões prioritárias do país para a intensificação das campanhas de doação de sangue.\n\nA campanha deveria ser intensificada nas regiões em que o percentual de doadores por habitantes fosse menor ou igual ao do país.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).",
     "files": [
         "https://enem.dev/2014/questions/138/3fe2669a-4174-4db9-a85e-cee6c877f765.png"

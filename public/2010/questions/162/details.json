@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "geometria-plana"
+    ],
     "context": "O jornal de certa cidade publicou em uma página inteira a seguinte divulgação de seu caderno de classificados\n\n![](https://enem.dev/2010/questions/162/3a48f3aa-f9b3-457a-9ffc-a48f280a2e19.jpg)",
     "files": [
         "https://enem.dev/2010/questions/162/3a48f3aa-f9b3-457a-9ffc-a48f280a2e19.jpg"

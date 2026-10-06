@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "circunferencia"
+    ],
     "context": "![](https://enem.dev/2016/questions/166/353d7220-13cd-44e2-b88b-a63acba081cd.png)\n\nEstudos de viabilidade técnica mostraram que, pelas características do solo, a construção de 1 m de galeria via segmento de reta demora 1,0 h, enquanto que 1 m de construção de galeria via semicircunferência demora 0,6 h. Há urgência em disponibilizar água para esse bairro.\n\nUse 3 como aproximação para π e 1,4 como aproximação para √2 .",
     "files": [
         "https://enem.dev/2016/questions/166/353d7220-13cd-44e2-b88b-a63acba081cd.png"

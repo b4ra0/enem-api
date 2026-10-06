@@ -3,7 +3,12 @@
     "index": 180,
     "year": 2013,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas",
+        "geometria-espacial"
+    ],
     "context": "![](https://enem.dev/2013/questions/180/a6d3cee1-2e6e-4bdd-974c-c780c2c728fe.png)",
     "files": [
         "https://enem.dev/2013/questions/180/a6d3cee1-2e6e-4bdd-974c-c780c2c728fe.png"

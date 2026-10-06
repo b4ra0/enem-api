@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "mundo-contemporaneo"
+    ],
     "context": "![](https://enem.dev/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png)\n\n![](https://enem.dev/2018/questions/50/79bbdab3-2886-4f00-ba9a-de587b6816dc.png)",
     "files": [
         "https://enem.dev/2018/questions/50/e604caee-cbe4-44cb-b1f9-5ca8feab0c65.png",

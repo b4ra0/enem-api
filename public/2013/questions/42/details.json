@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais"
+    ],
     "context": "![](https://enem.dev/2013/questions/42/a4babe32-d835-4c37-bba8-6ff084efb4cd.png)",
     "files": [
         "https://enem.dev/2013/questions/42/a4babe32-d835-4c37-bba8-6ff084efb4cd.png"

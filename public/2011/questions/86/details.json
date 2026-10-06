@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "trabalho-energia"
+    ],
     "context": "![](https://enem.dev/2011/questions/86/6df25b83-4479-4e34-8d15-a1beb7082020.png)",
     "files": [
         "https://enem.dev/2011/questions/86/6df25b83-4479-4e34-8d15-a1beb7082020.png"

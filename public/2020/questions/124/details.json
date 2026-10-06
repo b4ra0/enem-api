@@ -3,7 +3,11 @@
     "index": 124,
     "year": 2020,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "quimica-ambiental"
+    ],
     "context": "",
     "files": [],
     "correctAlternative": "D",

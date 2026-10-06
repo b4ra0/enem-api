@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "cinetica-quimica"
+    ],
     "context": "A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio ácido, conforme mostra o esquema:\n\n![](https://enem.dev/2022/questions/107/d19f3bc6-e4ed-4f93-9a0b-55f98ab20380.jpg)\n\nOGEDA, T. L.; PETRI, D. F. S. \\[…\\] **Química Nova**, n. 7, 2010 (adaptado).",
     "files": [
         "https://enem.dev/2022/questions/107/d19f3bc6-e4ed-4f93-9a0b-55f98ab20380.jpg"

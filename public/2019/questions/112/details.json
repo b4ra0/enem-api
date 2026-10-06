@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas",
+        "separacao-misturas"
+    ],
     "context": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperaturas.\n\n![](https://enem.dev/2019/questions/112/ecd7cf64-31bd-4565-9589-443027a3f75b.png)",
     "files": [
         "https://enem.dev/2019/questions/112/ecd7cf64-31bd-4565-9589-443027a3f75b.png"

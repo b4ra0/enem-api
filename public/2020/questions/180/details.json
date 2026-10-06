@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.\n\n![](https://enem.dev/2020/questions/180/8948b408-24e2-478b-85df-5607625e26e8.png)\n\nA agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.",
     "files": [
         "https://enem.dev/2020/questions/180/8948b408-24e2-478b-85df-5607625e26e8.png"

@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

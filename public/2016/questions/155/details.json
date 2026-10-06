@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas",
+        "geometria-espacial"
+    ],
     "context": "![](https://enem.dev/2016/questions/155/bb458c60-9970-4521-a651-92e97767141a.png)",
     "files": [
         "https://enem.dev/2016/questions/155/bb458c60-9970-4521-a651-92e97767141a.png"

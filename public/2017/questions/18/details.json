@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "literatura-contemporanea",
+        "generos-literarios"
+    ],
     "context": "**O mundo revivido**\n\nSobre esta casa e’as árvores que o tempo  \nesqueceu de levar. Sobre o curral  \nde pedra e paz e de outras vacas tristes  \nchorando a lua e a noite sem bezerros.\n\nSobre a parede larga deste açude  \nonde outras cobras verdes se arrastavam,  \ne pondo o sol nos seus olhos parados  \niam colhendo sua safra de sapos.\n\nSob as constelações do sul que a noite  \narmava e desarmava: as Três Marias,  \no Cruzeiro distante e o Sete-Estrelo.\n\nSobre este mundo revivido em vão,  \na lembrança de primos, de cavalos,  \nde silêncio perdido para sempre.\n\nDOBAL, H. **A província deserta** . Rio de Janeiro: Artenova, 1974.",
     "files": [],
     "correctAlternative": "A",

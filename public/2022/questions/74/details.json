@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima",
+        "energia-recursos"
+    ],
     "context": "![](https://enem.dev/2022/questions/74/03a69ed2-9038-4cca-8947-88663cbe1d23.png)\n\n**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**",
     "files": [
         "https://enem.dev/2022/questions/74/03a69ed2-9038-4cca-8947-88663cbe1d23.png"

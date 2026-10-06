@@ -3,7 +3,11 @@
     "index": 146,
     "year": 2017,
     "language": null,
-    "discipline": "ciencias-natureza",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Em um teleférico turístico, bondinhos saem de estações ao nível do mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos se deslocam à mesma velocidade. Quarenta segundos após o bondinho A partir da estação ao nível do mar, ele cruza com o bondinho B, que havia saído do topo da montanha.",
     "files": [],
     "correctAlternative": "B",

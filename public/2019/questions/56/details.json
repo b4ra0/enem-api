@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "industrializacao",
+        "globalizacao"
+    ],
     "context": "A reestruturação global da indústria, condicionada pelas estratégias de gestão global da cadeia de valor dos grandes grupos transnacionais, promoveu um forte deslocamento do processo produtivo, até mesmo de plantas industriais inteiras, e redirecionou os fluxos de produção e de investimento. Entretanto, o aumento da participação dos países em desenvolvimento no produto global deu-se de forma bastante assimétrica quando se compara o dinamismo dos países do leste asiático com o dos demais países, sobretudo os latino-americanos, no período 1980-2000.\n\nSARTI, F.; HIRATUKA, C. **Indústria mundial: mudanças e tendências recentes**. Campinas: Unicamp, n. 186, dez. 2010.",
     "files": [],
     "correctAlternative": "D",

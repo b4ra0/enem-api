@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "regionalizacao-brasil",
+        "industrializacao"
+    ],
     "context": "![](https://enem.dev/2009/questions/73/c8b4cebd-dcd5-4090-b0ea-049c96a392c7.jpg)",
     "files": [
         "https://enem.dev/2009/questions/73/c8b4cebd-dcd5-4090-b0ea-049c96a392c7.jpg"

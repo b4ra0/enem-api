@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas"
+    ],
     "context": "![](https://enem.dev/2011/questions/138/5a4afd15-b676-441f-8758-76185e535a3e.png)",
     "files": [
         "https://enem.dev/2011/questions/138/5a4afd15-b676-441f-8758-76185e535a3e.png"

@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-analitica",
+        "funcao-quadratica"
+    ],
     "context": "Durante uma aula de Matemática, o professor sugere aos alunos que seja fixado um sistema de coordenadas cartesianas (x, y) e representa na lousa a descrição de cinco conjuntos algébricos, I, II, III, IV e V, como se segue:\n\nI — é a circunferência de equação x2 + y2 = 9;  \nII — é a parábola de equação y = − x2 − 1, com x variando de −1 a 1;  \nIII — é o quadrado formado pelos vértices (−2, 1), (−1, 1), (−1, 2) e (−2, 2);  \nIV — é o quadrado formado pelos vértices (1, 1), (2, 1), (2, 2) e (1, 2);  \nV — é o ponto (0, 0).\n\nA seguir, o professor representa corretamente os cinco conjuntos sobre uma mesma malha quadriculada, composta de quadrados com lados medindo uma unidade de comprimento, cada, obtendo uma figura.",
     "files": [],
     "correctAlternative": "E",

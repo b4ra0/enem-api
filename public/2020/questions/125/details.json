@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica"
+    ],
     "context": "Uma população encontra-se em equilíbrio genético  \nquanto ao sistema ABO, em que 25% dos indivíduos  \npertencem ao grupo O e 16%, ao grupo A homozigotos.  \nConsiderando que: p = frequência de 1A; q = frequência  \nde IB; e r = frequência de i, espera-se encontrar:\n\n![](https://enem.dev/2020/questions/125/205529ca-6e5b-49db-880c-6060fec53a4d.png)",
     "files": [
         "https://enem.dev/2020/questions/125/205529ca-6e5b-49db-880c-6060fec53a4d.png"

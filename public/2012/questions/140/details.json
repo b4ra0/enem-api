@@ -3,7 +3,11 @@
     "index": 140,
     "year": 2012,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "matematica-financeira"
+    ],
     "context": "Arthur deseja comprar um terreno de Cléber, que lhe oferece as seguintes possibilidades de pagamento:\n\n• Opção 1: Pagar à vista, por R$ 55 000,00;\n\n• Opção 2: Pagar a prazo, dando uma entrada de R$ 30 000,00, e mais uma prestação de R$ 26 000,00 para dali a 6 meses.\n\n• Opção 3: Pagar a prazo, dando uma entrada de R$ 20 000,00, mais uma prestação de R$ 20 000,00, para dali a 6 meses e outra de R$ 18 000,00 para dali a 12 meses da data da compra.\n\n• Opção 4: Pagar a prazo dando uma entrada de R$ 15 000,00 e o restante em 1 ano da data da compra, pagando R$ 39 000,00.\n\n• Opção 5: pagar a prazo, dali a um ano, o valor de R$ 60 000,00.\n\nArthur tem o dinheiro para pagar à vista, mas avalia se não seria melhor aplicar o dinheiro do valor à vista (ou até um valor menor) em um investimento, com rentabilidade de 10% ao semestre, resgatando os valores à medida que as prestações da opção escolhida fossem vencendo.",
     "files": [],
     "correctAlternative": "D",

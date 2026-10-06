@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "historia-arte",
+        "artes-visuais"
+    ],
     "context": "![](https://enem.dev/2014/questions/122/ff1bfb0f-0911-497a-8a39-2bc0a9741a72.png)\n\nCLARK, L. **Bicho de bolso.** Placas de metal, 1966.",
     "files": [
         "https://enem.dev/2014/questions/122/ff1bfb0f-0911-497a-8a39-2bc0a9741a72.png"

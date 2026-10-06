@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "primeira-republica"
+    ],
     "context": "![](https://enem.dev/2014/questions/1/7ff93437-729f-4032-a3ce-01846f3169bb.png)",
     "files": [
         "https://enem.dev/2014/questions/1/7ff93437-729f-4032-a3ce-01846f3169bb.png"

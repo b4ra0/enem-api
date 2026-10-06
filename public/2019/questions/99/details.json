@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "A cada safra, a quantidade de café beneficiado é igual à quantidade de resíduos gerados pelo seu beneficiamento. O resíduo pode ser utilizado como fertilizante, pois contém cerca de 6,5% de pectina (um polissacarídeo), aproximadamente 25% de açúcares fermentáveis (frutose, sacarose e galactose), bem como resíduos de alcaloides (compostos aminados) que não foram extraídos no processo.\n\nLIMA, L. K. S. et. al. Utilização de resíduo oriundo da torrefação do café na agricultura em substituição à adubação convencional. **ACSA – Agropecuária Científica no Semi-Árido**, v. 10, n. 1, jan.-mar., 2014 (adaptado).",
     "files": [],
     "correctAlternative": "A",

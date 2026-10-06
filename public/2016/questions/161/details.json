@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "grandezas-medidas"
+    ],
     "context": "![](https://enem.dev/2016/questions/161/576da257-907a-462b-98b2-4d67f2679d3d.png)",
     "files": [
         "https://enem.dev/2016/questions/161/576da257-907a-462b-98b2-4d67f2679d3d.png"

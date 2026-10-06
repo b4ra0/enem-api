@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "potencias-notacao-cientifica",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2010/questions/148/210f09db-531d-4eb1-ac47-95d5ef68d963.png)",
     "files": [
         "https://enem.dev/2010/questions/148/210f09db-531d-4eb1-ac47-95d5ef68d963.png"

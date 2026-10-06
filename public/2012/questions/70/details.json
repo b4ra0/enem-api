@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "solucoes",
+        "funcoes-organicas"
+    ],
     "context": "Em uma planície, ocorreu um acidente ambiental em decorrência do derramamento de grande quantidade de um hidrocarboneto que se apresenta na  \nforma pastosa à temperatura ambiente. Um químico ambiental utilizou uma quantidade apropriada de uma solução de para-dodecil-benzenossulfonato de  \nsódio, um agente tensoativo sintético, para diminuir os impactos desse acidente.",
     "files": [],
     "correctAlternative": "D",

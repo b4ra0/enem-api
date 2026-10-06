@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2023/questions/24/78918e1a-00e2-4972-b8f7-9cc17a935ec2.png)",
     "files": [
         "https://enem.dev/2023/questions/24/78918e1a-00e2-4972-b8f7-9cc17a935ec2.png"

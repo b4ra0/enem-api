@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos"
+    ],
     "context": "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.\n\nMATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. **Folha de S. Paulo**, 2 dez. 2012.",
     "files": [],
     "correctAlternative": "C",

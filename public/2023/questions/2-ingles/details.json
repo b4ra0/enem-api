@@ -4,6 +4,11 @@
     "year": 2023,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "vocabulario-contexto"
+    ],
     "context": "No man is an island,  \nEntire of itself;  \nEvery man is a piece of the continent,  \nA part of the main.  \n\\[…\\]  \nAny man’s death diminishes me,  \nBecause I am involved in mankind.\n\nDONNE, J. **The Works of John Donne**. Londres: John W. Parker, 1839 (fragmento).",
     "files": [],
     "correctAlternative": "B",

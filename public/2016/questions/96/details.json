@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "funcoes-linguagem"
+    ],
     "context": "Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer  nele o tipo de  leitura que seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista.\n\n(LAJOLO, M.  **Do mundo  da leitura para a  leitura do  mundo**. São  Paulo:  Ática, 1993)",
     "files": [],
     "correctAlternative": "D",

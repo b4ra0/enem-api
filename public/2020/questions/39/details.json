@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "figuras-linguagem",
+        "interpretacao-texto"
+    ],
     "context": "**Hino à Bandeira**\n\nEm teu seio formoso retratas  \nEste céu de puríssimo azul,  \nA verdura sem par destas matas,  \nE o esplendor do Cruzeiro do Sul.\n\nContemplando o teu vulto sagrado,  \nCompreendemos o nosso dever,  \nE o Brasil por seus filhos amado,  \nPoderoso e feliz há de ser!\n\nSobre a imensa Nação Brasileira,  \nNos momentos de festa ou de dor,  \nPaira sempre sagrada bandeira  \nPavilhão da justiça e do amor!\n\n**BILAC, O**.: **BRAGA, F**. Disponível em: www2.planalto.gov.br. _Acesso em: 10 dez. 2017 (fragmento)_.",
     "files": [],
     "correctAlternative": "C",

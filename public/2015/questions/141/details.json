@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "geometria-espacial"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

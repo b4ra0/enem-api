@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria"
+    ],
     "context": "![](https://enem.dev/2013/questions/165/2d41f715-77e6-4676-a0d0-89a5eca34887.png)",
     "files": [
         "https://enem.dev/2013/questions/165/2d41f715-77e6-4676-a0d0-89a5eca34887.png"

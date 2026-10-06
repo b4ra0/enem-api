@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "zoologia"
+    ],
     "context": "Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos _Aracnídeos_. Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo _Arthropoda_ a habitar a terra seca.",
     "files": [],
     "correctAlternative": "C",

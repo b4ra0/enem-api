@@ -2,8 +2,12 @@
     "title": "Questão 91 - ENEM 2011",
     "index": 91,
     "year": 2011,
-    "language": null,
+    "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "Going to university seems to reduce the risk of dying from coronary heart disease. An American study that involved 10 000 patients from around the world has found that people who leave school before the age of 16 are five times more likely to suffer a heart attack and die than university graduates.\n\nWorld Report News. **Magazine Speak Up**. Ano XIV, n° 170. Editora Camelot, 2001.",
     "files": [],
     "correctAlternative": "E",

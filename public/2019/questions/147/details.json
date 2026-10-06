@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana"
+    ],
     "context": "Uma administração municipal encomendou a pintura de dez placas de sinalização para colocar em seu patio de estacionamento.\n\nO profissional contratado para o serviço inicial pintará o fundo de dez placas e cobrará um valor de acordo com a área total dessas placas. O formato de cada placa é um círculo de diâmetro d = 40 cm, que tangencia lados de um retângulo, sendo que o comprimento total da placa é h = 60 cm, conforme lustrado na figura. Use 3,14 como aproximação para π.\n\n![](https://enem.dev/2019/questions/147/c3302516-c198-425d-8d43-43cc3b344a8c.png)",
     "files": [
         "https://enem.dev/2019/questions/147/c3302516-c198-425d-8d43-43cc3b344a8c.png"

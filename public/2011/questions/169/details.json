@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png)\n\nNo quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos.\n\n![](https://enem.dev/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png)",
     "files": [
         "https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png",

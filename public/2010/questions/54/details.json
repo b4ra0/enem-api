@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "optica"
+    ],
     "context": "![](https://enem.dev/2010/questions/54/c147e274-c7fa-4112-b084-aacf05f6b016.png)\n\nA aparência de Júpiter é tipicamente marcada por duas faixas escuras em sua atmosfera – uma no hemisfério norte e outra no hemisfério sul. Como o gás está constantemente em movimento, o desaparecimento da faixa no planeta relaciona-se ao movimento das diversas camadas de nuvens em sua atmosfera. A luz do Sol, refletida nessas nuvens, gera a imagem que é captada pelos telescópios, no espaço ou na Terra.",
     "files": [
         "https://enem.dev/2010/questions/54/c147e274-c7fa-4112-b084-aacf05f6b016.png"

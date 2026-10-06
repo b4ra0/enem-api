@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "grandezas-medidas"
+    ],
     "context": "Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.\n\n![](https://enem.dev/2021/questions/170/4b81cbbc-0e2d-486f-9a21-2cbe5160b172.png)\n\nSabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além disso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\n\nUtilize 3 como aproximação para π.",
     "files": [
         "https://enem.dev/2021/questions/170/4b81cbbc-0e2d-486f-9a21-2cbe5160b172.png"

@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "saude-qualidade-vida"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

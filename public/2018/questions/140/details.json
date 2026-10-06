@@ -3,7 +3,11 @@
     "index": 140,
     "year": 2018,
     "language": null,
-    "discipline": "ciencias-natureza",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "Um artesão possui potes cilíndricos de tinta cujas medidas externas são 4 cm de diâmetro e 6 cm de altura. Ele pretende adquirir caixas organizadoras para armazenar seus potes de tinta, empilhados verticalmente com tampas voltadas para cima, de forma que as caixas possam ser fechadas. No mercado,  existem cinco opções de caixas organizadoras, com tampa, em formato de  paralelepípedo reto retângulo, vendidas pelo mesmo preço, possuindo as seguintes dimensões internas:\n\n![](https://enem.dev/2018/questions/140/14af8ae1-e147-45e4-85d1-1b26d33a047e.png)",
     "files": [
         "https://enem.dev/2018/questions/140/14af8ae1-e147-45e4-85d1-1b26d33a047e.png"

@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logaritmo",
+        "funcao-exponencial"
+    ],
     "context": "Considere 0,3 como aproximação para log10 2.",
     "files": [],
     "correctAlternative": "E",

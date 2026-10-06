@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logica-raciocinio",
+        "graficos-tabelas"
+    ],
     "context": "Para diminuir os custos, a proposta escolhida deveria ser também aquela que vacinasse a menor quantidade possível de pessoas.\n\nDisponível em: www.virushpv.com.br. Acesso em: 30 ago. 2014 (adaptado).",
     "files": [],
     "correctAlternative": "A",

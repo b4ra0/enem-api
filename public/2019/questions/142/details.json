@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana"
+    ],
     "context": "Em um condomínio, uma área pavimentada, que tem a forma de um círculo com diâmetro medindo 6m, é cercado por grama. A administração do condomínio deseja ampliar essa área, mantendo seu formato circular, e aumentando, em 8m, o diâmetro dessa região, mantendo o revestimento da parte já existente. O condomínio dispõe, em estoque, de material suficiente para pavimentar mais 100 m² de área.\n\nO síndico do condomínio irá avaliar se esse material disponível será suficiente para pavimentar a região a ser ampliada.\n\nUtilize 3 como aproximação para π.",
     "files": [],
     "correctAlternative": "E",

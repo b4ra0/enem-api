@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima"
+    ],
     "context": "![](https://enem.dev/2017/questions/59/6948e245-25f2-4e37-80be-48b113665300.png)\n\n![](https://enem.dev/2017/questions/59/0d9be71d-f646-45e8-b381-585fb13d1613.png)",
     "files": [
         "https://enem.dev/2017/questions/59/6948e245-25f2-4e37-80be-48b113665300.png",

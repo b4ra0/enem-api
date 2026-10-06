@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo"
+    ],
     "context": "![](https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png)",
     "files": [
         "https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png"

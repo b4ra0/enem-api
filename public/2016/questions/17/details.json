@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "![](https://enem.dev/2016/questions/17/b8644ed8-54c6-4a4f-ba85-f21526a2594f.png)",
     "files": [
         "https://enem.dev/2016/questions/17/b8644ed8-54c6-4a4f-ba85-f21526a2594f.png"

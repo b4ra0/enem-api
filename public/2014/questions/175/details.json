@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "conjuntos-numericos"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

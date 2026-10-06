@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "conjuntos-numericos"
+    ],
     "context": "![](https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png)",
     "files": [
         "https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png"

@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logica-raciocinio"
+    ],
     "context": "![](https://enem.dev/2017/questions/163/b4c6dcfc-5f86-46af-9f78-dd94358a2301.png)\n\nO acesso aos elevadores tem os seguintes custos:  \n• Subir pelo elevador 1: R$ 0,15;  \n• Subir pelo elevador 2: R$ 1,80;  \n• Descer pelo elevador 1: R$ 0,10;  \n• Descer pelo elevador 2: R$ 2,30.\n\nO custo da passagem do teleférico partindo do topo do mirante 1 para o topo do mirante 2 é de R$ 2,00, e do topo do mirante 2 para o topo do mirante 1 é de R$ 2,50.",
     "files": [
         "https://enem.dev/2017/questions/163/b4c6dcfc-5f86-46af-9f78-dd94358a2301.png"

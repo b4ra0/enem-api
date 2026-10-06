@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "questoes-ambientais"
+    ],
     "context": "Coube aos Xavante e aos Timbira, povos indígenas do Cerrado, um recente e marcante gesto simbólico: a realização de sua tradicional corrida de toras (de buriti) em plena Avenida Paulista (SP), para denunciar o cerco de suas terras e a degradação de seus entornos pelo avanço do agronegócio.\n\nRICARDO, B.; RICARDO, F. **Povos indígenas do Brasil: 2001-**  \n**2005.** São Paulo: Instituto Socioambiental, 2006 (adaptado).",
     "files": [],
     "correctAlternative": "A",

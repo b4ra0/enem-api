@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Ao pesquisar um resistor feito de um novo tipo de material, um cientista observou o comportamento mostrado no gráico tensão _versus_ corrente.\n\n![](https://enem.dev/2018/questions/108/24817521-13ac-4999-a992-3c2380ec7141.png)",
     "files": [
         "https://enem.dev/2018/questions/108/24817521-13ac-4999-a992-3c2380ec7141.png"

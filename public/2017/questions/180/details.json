@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim",
+        "grandezas-medidas"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "D",

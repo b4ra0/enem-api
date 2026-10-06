@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "movimentos-sociais"
+    ],
     "context": "Os seringueiros amazônicos eram invisíveis no cenário nacional nos anos 1970. Começaram a se articular como um movimento agrário no início dos anos 1980, e na década seguinte conseguiram reconhecimento nacional, obtendo a implantação das primeiras reservas extrativas após o assassinato de Chico Mendes. Assim, em vinte anos, os camponeses da floresta passaram da invisibilidade à posição de paradigma de desenvolvimento sustentável com participação popular.\n\nALMEIRA, M. W. B. Direitos à floresta e ambientalismo: seringueiros e suas lutas. **Revista Brasileira de Ciências Sociais**, n. 55, 2004.",
     "files": [],
     "correctAlternative": "C",

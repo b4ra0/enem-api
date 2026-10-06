@@ -4,6 +4,11 @@
     "year": 2013,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2013/questions/95-ingles/94d1c589-c9f9-4b32-a4e9-cdc21e625368.png)",
     "files": [
         "https://enem.dev/2013/questions/95-ingles/94d1c589-c9f9-4b32-a4e9-cdc21e625368.png"

@@ -3,7 +3,11 @@
     "index": 69,
     "year": 2014,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia"
+    ],
     "context": "Em um laboratório de genética experimental, observou-se que determinada bactéria continha um gene que conferia resistência a pragas específicas de plantas. Em vista disso, os pesquisadores procederam de acordo com a figura.\n\n![](https://enem.dev/2014/questions/69/a976572b-b528-4f80-a6fa-4e28e9f479b3.png)",
     "files": [
         "https://enem.dev/2014/questions/69/a976572b-b528-4f80-a6fa-4e28e9f479b3.png"

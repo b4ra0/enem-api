@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana"
+    ],
     "context": "Em canteiros de obras de construção civil é comum perceber trabalhadores realizando medidas de comprimento e de ângulos e fazendo demarcações por onde a obra deve começar ou se erguer. Em um desses canteiros foram feitas algumas marcas no chão plano. Foi possível perceber que, das seis estacas colocadas, três eram vértices de um triângulo retângulo e as outras três eram os pontos médios dos lados desse triângulo, foram indicadas por letras.\n\n![](https://enem.dev/2010/questions/161/93aaf9bb-8489-4ca4-b226-0029de752d3c.jpg)\n\nA região demarcada pelas estacas A, B, M e N deveria ser calçada com concreto.",
     "files": [
         "https://enem.dev/2010/questions/161/93aaf9bb-8489-4ca4-b226-0029de752d3c.jpg"

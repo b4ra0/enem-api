@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "tecnologias-informacao"
+    ],
     "context": "Até que ponto replicar conteúdo é crime? “A internet e a pirataria são inseparáveis”, diz o diretor do instituto de pesquisas americano Social Science Research Council. “Há uma infraestrutura pequena para controlar quem é o dono dos arquivos que circulam na rede. Isso acabou com o controle sobre a propriedade e tem sido descrito como pirataria, mas é inerente à tecnologia”, afirma o diretor. O ato de distribuir cópias de um trabalho sem a autorização dos seus produtores pode, sim, ser considerado crime, mas nem sempre essa distribuição gratuita lesa os donos dos direitos autorais. Pelo contrário. Veja o caso do livro O alquimista, do escritor Paulo Coelho. Após publicar, para download gratuito, uma versão traduzida da obra em seu blog, Coelho viu as vendas do livro em papel explodirem.\n\nBARRETO, J.; MORAES, M. A internet existe sem pirataria?  \n**Veja**, n. 2 308, 13 fev. 2013 (adaptado).",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica",
+        "semantica"
+    ],
     "context": "**O léxico e a cultura**\n\nPotencialmente, todas as línguas de todos os tempos podem candidatar-se a expressar qualquer conteúdo. A pesquisa linguística do século XX demonstrou que não há diferença qualitativa entre os idiomas do mundo — ou seja, não há idiomas gramaticalmente mais primitivos ou mais desenvolvidos. Entretanto, para que possa ser efetivamente utilizada, essa igualdade potencial precisa realizar-se na prática histórica do idioma, o que nem sempre acontece. Teoricamente, uma língua com pouca tradição escrita (como as línguas indígenas brasileiras) ou uma língua já extinta (como o latim ou o grego clássicos) podem ser empregadas para falar sobre qualquer assunto, como, digamos, física quântica ou biologia molecular. Na prática, contudo, não é possível, de uma hora para outra, expressar tais conteúdos em camaiurá ou latim, simplesmente porque não haveria vocabulário próprio para esses conteúdos. É perfeitamente possível desenvolver esse vocabulário específico, seja por meio de empréstimos de outras línguas, seja por meio da criação de novos termos na língua em questão, mas tal tarefa não se realizaria em pouco tempo nem com pouco esforço.\n\nBEARZOTI FILHO, P. **Miniaurélio**: o dicionário da língua portuguesa. Manual do professor. Curitiba: Positivo, 2004 (fragmento).",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "razao-proporcao"
+    ],
     "context": "Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a _y_  centímetros. Essas placas são vendidas em caixas com _N_ unidades e, na caixa, é  \nespecificada a área máxima _S_ que pode ser coberta pelas _N_ placas.\n\nDevido a uma demanda do mercado por placas maiores, a fábrica triplicou a medida dos lados de suas placas e conseguiu reuni-las em uma nova caixa, de tal forma que a área coberta _S_ não fosse alterada.",
     "files": [],
     "correctAlternative": "A",

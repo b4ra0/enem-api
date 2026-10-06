@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "semantica"
+    ],
     "context": "Um amor desse  \nEra 24 horas lado a lado  \nUm radar na pele, aquele sentimento alucinado  \nCoração batia acelerado  \nBastava um olhar pra eu entender  \nQue era hora de me entregar pra você  \nPalavras não faziam falta mais  \nAh, só de lembrar do seu perfume  \nQue arrepio, que calafrio  \nQue o meu corpo sente  \nNem que eu queira, eu te apago da minha mente  \nAh, esse amor  \nDeixou marcas no meu corpo  \nAh, esse amor  \nSó de pensar, eu grito, eu quase morro\n\n**AZEVEDO, N.; LEÃO, W.; QUADROS, R.** _Coração pede socorro_.  \nRio de Janeiro: Som Livre, 2018 (fragmento).",
     "files": [],
     "correctAlternative": "C",

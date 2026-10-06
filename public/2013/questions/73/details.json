@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "citologia"
+    ],
     "context": "Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas organelas presentes no citoplasma de cada linhagem.\n\n![](https://enem.dev/2013/questions/73/ced028ca-60e0-42fe-a927-257f36b86cf2.png)",
     "files": [
         "https://enem.dev/2013/questions/73/ced028ca-60e0-42fe-a927-257f36b86cf2.png"

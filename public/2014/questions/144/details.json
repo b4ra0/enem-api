@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "projecoes-vistas"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "sequencias-padroes"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-analitica"
+    ],
     "context": "![](https://enem.dev/2013/questions/175/eb855bec-d0a6-4b05-b8d8-fcff4deae0a7.png)\n\nA torre deve estar situada em um local equidistante das três antenas.",
     "files": [
         "https://enem.dev/2013/questions/175/eb855bec-d0a6-4b05-b8d8-fcff4deae0a7.png"

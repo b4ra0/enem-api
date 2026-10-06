@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no  \ndecorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.\n\n![](https://enem.dev/2022/questions/138/d738a15a-a083-4720-af91-80d2b3259c9f.png)",
     "files": [
         "https://enem.dev/2022/questions/138/d738a15a-a083-4720-af91-80d2b3259c9f.png"

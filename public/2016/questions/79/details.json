@@ -3,7 +3,12 @@
     "index": 79,
     "year": 2016,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "microbiologia"
+    ],
     "context": "Vários métodos são empregados para prevenção de infecções por microrganismos. Dois desses métodos utilizam microrganismos vivos e são eles: as vacinas atenuadas, constituidas por patógenos avirulentos, e os probióticos que contém bactérias benéficas. Na figura são apresentados cinco diferentes mecanismos de exclusão de patógenos pela ação dos probióticos no intestino de um animal.\n\n![](https://enem.dev/2016/questions/79/0716200b-a539-4ee2-937d-3ba40b15b4b4.jpg)",
     "files": [
         "https://enem.dev/2016/questions/79/0716200b-a539-4ee2-937d-3ba40b15b4b4.jpg"

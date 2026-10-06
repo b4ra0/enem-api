@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade"
+    ],
     "context": "![](https://enem.dev/2016/questions/152/b9f02657-5528-4c2c-8687-9a8db0f4a232.png)\n\nSuponha que relativamente a cada ramificação, as opções existentes de percurso pelos caminhos apresentem iguais probabilidades de escolha, que a caminhada foi feita escolhendo ao acaso os caminhos existentes e que, ao tomar um caminho que chegue a uma área distinta da IV, o adolescente necessariamente passa por ela ou retorna.",
     "files": [
         "https://enem.dev/2016/questions/152/b9f02657-5528-4c2c-8687-9a8db0f4a232.png"

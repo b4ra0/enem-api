@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "equacoes-inequacoes",
+        "sequencias-padroes"
+    ],
     "context": "Um segmento de reta está dividido em duas partes  \nna proporção áurea quando o todo está para uma das  \npartes na mesma razão em que essa parte está para a  \noutra. Essa constante de proporcionalidade é comumente  \nrepresentada pela letra grega ρ, e seu valor é dado pela  \nsolução positiva da equação ρ²=ρ+1\n\nAssim como a potência ρ², as potências superiores  \nde ρ podem ser expressas da forma aρ + b, em que a e b  \nsão inteiros positivos, como apresentad0o no quadro.\n\n![](https://enem.dev/2021/questions/136/291c6b71-3d02-4e67-af59-81f33cec15f5.png)",
     "files": [
         "https://enem.dev/2021/questions/136/291c6b71-3d02-4e67-af59-81f33cec15f5.png"

@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-contemporanea"
+    ],
     "context": "Minha fórmula para o que há de grande no individuo é amor fati: nada desejar além daquilo que é, nem diante de si, nem atrás de si, nem nos séculos dos séculos. Não se contentar em suportar o inelutável, e ainda menos dissimula-lo, mas amá-lo.\n\nNIETZSCHE apud FERRY, L. Aprender a viver: filosofia para os novos tempos.  \nRio de Janeiro: Objetiva, 2010 (adaptado).",
     "files": [],
     "correctAlternative": "E",

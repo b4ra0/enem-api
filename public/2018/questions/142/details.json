@@ -3,7 +3,12 @@
     "index": 142,
     "year": 2018,
     "language": null,
-    "discipline": "ciencias-natureza",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "graficos-tabelas"
+    ],
     "context": "De acordo com a Lei Universal da Gravitação, proposta por Isaac Newton, a intensidade da força gravitacional _F_ que a Terra exerce sobre um satélite em órbita circular é proporcional à massa _m_ do satélite e inversamente proporcional ao quadrado do raio r da órbita, ou seja,\n\n![](https://enem.dev/2018/questions/142/dc1a457c-9fe4-4646-b999-1da5174f0402.png)\n\nNo plano cartesiano, três satélites, A, B e C, estão representados, cada um, por um ponto (m ; r) cujas coordenadas são, respectivamente, a massa do satélite e o raio da sua órbita em torno da Terra.\n\n![](https://enem.dev/2018/questions/142/e0273eee-f427-4e03-8aba-d467449a753c.png)\n\nCom base nas posições relativas dos pontos no gráfico, deseja-se comparar as intensidades ![](https://enem.dev/2018/questions/142/d3968814-fa4b-40eb-921d-9b874a4e1392.png) da força gravitacional que a Terra exerce sobre os satélites A, B e C, respectivamente.",
     "files": [
         "https://enem.dev/2018/questions/142/dc1a457c-9fe4-4646-b999-1da5174f0402.png",

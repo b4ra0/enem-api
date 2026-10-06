@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia"
+    ],
     "context": "![](https://enem.dev/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png)",
     "files": [
         "https://enem.dev/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png"

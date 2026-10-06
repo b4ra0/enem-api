@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim"
+    ],
     "context": "Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1000,00 por semana.  \nOs outros funcionários são diaristas. Cada um trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.",
     "files": [],
     "correctAlternative": "D",

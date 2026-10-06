@@ -3,7 +3,11 @@
     "index": 96,
     "year": 2023,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "D",

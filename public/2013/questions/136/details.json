@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "trigonometria",
+        "geometria-plana"
+    ],
     "context": "![](https://enem.dev/2013/questions/136/2b7178ab-7991-4b9d-9232-a6f9dadd475c.png)",
     "files": [
         "https://enem.dev/2013/questions/136/2b7178ab-7991-4b9d-9232-a6f9dadd475c.png"

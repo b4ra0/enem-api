@@ -3,7 +3,11 @@
     "index": 112,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais"
+    ],
     "context": "**O dia em que o peixe saiu de graça**\n\nUma operação do Ibama para combater a pesca ilegal na divisa entre os Estados do Pará, Maranhão e Tocantins incinerou 110 quilômetros de redes usadas por pescadores durante o período em que os peixes se reproduzem. Embora tenha um impacto temporário na atividade econômica da região, a medida visa preservá-la ao longo prazo, evitando o risco de extinção dos animais. Cerca de 15 toneladas de peixes foram apreendidas e doadas para instituições de caridade.\n\n**Época,** 23 mar. 2009 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "Com o texto eletrônico, enfim, parece estar ao alcance de nossos olhos e de nossas mãos um sonho muito antigo da humanidade, que se poderia resumir em duas palavras, universalidade e interatividade.  \nAs luzes, que pensavam que Gutenberg tinha propiciado aos homens uma promessa universal, cultivavam um modo de utopia. Elas imaginavam poder, a partir das práticas privadas de cada um, construir um espaço de intercâmbio crítico das ideias e opiniões. O sonho de Kant era que cada um fosse ao mesmo tempo leitor e autor, que emitisse juízos sobre as instituições de seu tempo, quaisquer que elas fossem e que, ao mesmo tempo, pudesse refletir sobre o juízo emitido pelos outros. Aquilo que outrora só era permitido pela comunicação manuscrita ou a circulação dos impressos encontra hoje um suporte poderoso com o texto eletrônico.\n\nCHARTIER, R. **A aventura do livro**: do leitor ao navegador. São Paulo: Imprensa Oficial do Estado de São Paulo; Unesp, 1998.",
     "files": [],
     "correctAlternative": "A",

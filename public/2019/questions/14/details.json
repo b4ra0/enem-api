@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "literatura-contemporanea"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

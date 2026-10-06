@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "A figura representa um dos modelos de um sistema de interações entre seres vivos. Ela apresenta duas propriedades, P1 e P2, que interagem em I, para afetar uma terceira propriedade, P3, quando o sistema é alimentado por uma fonte de energia, E. Essa figura pode simular um sistema de campo em que P1 representa as plantas verdes; P2 um animal herbívoro e P3, um animal onívoro.\n\n![](https://enem.dev/2012/questions/56/82c93acd-892a-4110-8fdb-6dbd060df328.jpg)",
     "files": [
         "https://enem.dev/2012/questions/56/82c93acd-892a-4110-8fdb-6dbd060df328.jpg"

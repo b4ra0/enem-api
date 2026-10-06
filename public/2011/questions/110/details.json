@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais",
+        "historia-arte"
+    ],
     "context": "![](https://enem.dev/2011/questions/110/1fa1d245-9cd8-45d7-a8e9-21cb188c46da.png)\n\nLEIRNER, N. Tronco com cadeira (detalhe), 1964.  \nDisponível em: http://www.itaucultural.org.br. Acesso em: 27 jul. 2010.\n\nNessa estranha dignidade e nesse abandono, o objeto foi exaltado de maneira ilimitada e ganhou um significado que se pode considerar mágico. Daí sua “vida inquietante e absurda”. Tornou-se ídolo e, ao mesmo tempo, objeto de zombaria. Sua realidade intrínseca foi anulada.\n\nJAFFÉ, A. O simbolismo nas artes plásticas. In: JUNG, C.G. (org.). **O homem e os seus símbolos**. Rio de Janeiro: Nova Fronteira, 2008.",
     "files": [
         "https://enem.dev/2011/questions/110/1fa1d245-9cd8-45d7-a8e9-21cb188c46da.png"

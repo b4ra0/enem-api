@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "funcoes-organicas"
+    ],
     "context": "Um técnico analisou um lote de analgésicos que supostamente estava fora das especificações. A composição prevista era 100mg de ácido acetilsalicílico por comprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e da celulosa (componentes inertes). O técnico realizou os seguintes testes:\n\n1) obtenção da massa do comprimido;  \n2) medição da densidade do comprimido;  \n3) verificação do pH com papel indicador;  \n4) determinação da temperatura de fusão do comprimido;  \n5) titulação com solução aquosa de NaOH.\n\nApós a realização dos testes, o lote do medicamento foi reprovado porque a quantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.\n\n![](https://enem.dev/2021/questions/103/6edd1246-645b-4642-8af9-1a528c701dfc.png)",
     "files": [
         "https://enem.dev/2021/questions/103/6edd1246-645b-4642-8af9-1a528c701dfc.png"

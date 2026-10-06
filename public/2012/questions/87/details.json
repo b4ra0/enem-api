@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "impactos-ambientais"
+    ],
     "context": "A doença de Chagas afeta mais de oito milhões de brasileiros, sendo comum em áreas rurais. É uma doença causada pelo protozoário _Trypanosoma cruzi_ e transmitida por insetos conhecidos como barbeiros ou chupanças.",
     "files": [],
     "correctAlternative": "E",

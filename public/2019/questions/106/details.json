@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "estatica"
+    ],
     "context": "_Slackline_ é um esporte no qual o atleta deve se equilibrar e executar manobras estando sobre uma fita esticada. Para a prática do esporte, as duas extremidades da fita são fixadas de forma que ela fique a alguns centímetros do solo. Quando uma atleta de massa igual a 80 kg está exata mente no meio da fita, essa se desloca verticalmente, formando um ângulo de 10º com a horizontal, como es que matizado na figura. Sabe-se que a aceleração da gravidade é igual a 10 m s–2, cos (10º) = 0,98 e sen(10º) = 0,17.\n\n![](https://enem.dev/2019/questions/106/f357180a-5b02-4f26-ac32-c5c1c46c49bb.png)",
     "files": [
         "https://enem.dev/2019/questions/106/f357180a-5b02-4f26-ac32-c5c1c46c49bb.png"

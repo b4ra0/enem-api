@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termologia"
+    ],
     "context": "![](https://enem.dev/2014/questions/62/c6752fb8-7883-47db-bb64-a62d3c58658c.png)",
     "files": [
         "https://enem.dev/2014/questions/62/c6752fb8-7883-47db-bb64-a62d3c58658c.png"

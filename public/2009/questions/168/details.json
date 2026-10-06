@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "Na tabela, são apresentados dados da cotação mensal do ovo extra branco vendido no atacado, em Brasília, em reais, por caixa de 30 dúzias de ovos, em alguns meses dos anos 2007 e 2008.\n\n![](https://enem.dev/2009/questions/168/f683544b-94d1-456c-bdfb-f2e964881776.jpg)",
     "files": [
         "https://enem.dev/2009/questions/168/f683544b-94d1-456c-bdfb-f2e964881776.jpg"

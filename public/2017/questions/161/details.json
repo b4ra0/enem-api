@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-quadratica"
+    ],
     "context": "Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao solo e com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais.\n\n![](https://enem.dev/2017/questions/161/1ab19169-92f4-402e-9e53-2eedef827715.png)",
     "files": [
         "https://enem.dev/2017/questions/161/1ab19169-92f4-402e-9e53-2eedef827715.png"

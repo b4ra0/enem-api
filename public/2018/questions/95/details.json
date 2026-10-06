@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "hidrostatica"
+    ],
     "context": "Usando um densímetro cuja menor divisão da escala, isto é, a diferença entre duas marcações consecutivas, é de![](https://enem.dev/2018/questions/95/221ac205-3bf4-44f3-94b2-cfbb48f32dd2.png), um estudante realizou um teste de densidade: colocou este instrumento na água pura e observou que ele atingiu o repouso na posição mostrada.\n\n![](https://enem.dev/2018/questions/95/5dd87fcf-3266-487c-99d9-b8a06b4c39ad.png)",
     "files": [
         "https://enem.dev/2018/questions/95/221ac205-3bf4-44f3-94b2-cfbb48f32dd2.png",

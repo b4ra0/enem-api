@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao",
+        "populacao-migracoes"
+    ],
     "context": "![](https://enem.dev/2014/questions/26/9edf1f8c-0a23-4e68-ba46-482dcb4aefb0.png)",
     "files": [
         "https://enem.dev/2014/questions/26/9edf1f8c-0a23-4e68-ba46-482dcb4aefb0.png"

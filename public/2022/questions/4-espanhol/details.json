@@ -4,6 +4,10 @@
     "year": 2022,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**Los niños de nuestro olvido**\n\nEscribo sobre un destino  \nQue apenas puedo tocar  \nEn tanto un niño se inventa  \nCon pegamento un hogar\n\nMientras busco las palabras  \nPara hacer esta canción  \nUn niño esquiva las balas  \nQue buscan su corazón\n\nAcurrucado en mí calle  \nDuerme un niño y la piedad  \nArma lejos un pesebre  \nY juega a la navidad\n\nArma lejos un pesebre  \nY juega a la navidad  \nY juega a la navidad  \nY juega, y juega, y juega…\n\nLa niñez de nuestro olvido  \nPide limosna en un bar  \nY lava tu parabrisas  \nPor un peso, por un pan\n\nSi las flores del futuro  \nCrecen con tanto dolor  \nSeguramente mañana  \nSerá un mañana sin sol",
     "files": [],
     "correctAlternative": "A",

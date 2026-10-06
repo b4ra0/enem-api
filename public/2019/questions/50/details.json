@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "etica-moral",
+        "filosofia-contemporanea"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

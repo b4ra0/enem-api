@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas",
+        "funcoes-organicas"
+    ],
     "context": "![](https://enem.dev/2016/questions/85/905b1535-8032-4140-b20e-0f06b840ed90.png)",
     "files": [
         "https://enem.dev/2016/questions/85/905b1535-8032-4140-b20e-0f06b840ed90.png"

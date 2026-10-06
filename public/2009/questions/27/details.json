@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "gravitacao"
+    ],
     "context": "![](https://enem.dev/2009/questions/27/8a0ca647-a136-470c-b4b1-f7cd0de48513.png)",
     "files": [
         "https://enem.dev/2009/questions/27/8a0ca647-a136-470c-b4b1-f7cd0de48513.png"

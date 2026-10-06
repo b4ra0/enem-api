@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "citologia"
+    ],
     "context": "**Avaliação de substâncias genotóxicas**\n\nO ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular.\n\nDIAS, V. M. **Micronúcleos em células tumorais**: biologia e implicações  \npara a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).",
     "files": [],
     "correctAlternative": "E",

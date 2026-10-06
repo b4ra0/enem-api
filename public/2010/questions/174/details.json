@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade"
+    ],
     "context": "O diretor de um colégio leu numa revista que os pés das mulheres estavam aumentando. Há alguns anos, a média do tamanho dos calçados das mulheres era de 35,5 e, hoje, é de 37,0. Embora não fosse uma informação científica, ele ficou curioso e fez uma pesquisa com as funcionárias do seu colégio, obtendo o quadro a seguir:\n\n![](https://enem.dev/2010/questions/174/9b2b5d30-dece-4e7e-912d-8465855c6111.jpg)",
     "files": [
         "https://enem.dev/2010/questions/174/9b2b5d30-dece-4e7e-912d-8465855c6111.jpg"

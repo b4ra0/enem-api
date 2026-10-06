@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio"
+    ],
     "context": "Ninguém desconhece a necessidade que todos os fazendeiros têm de aumentar o número de seus trabalhadores. E como até há pouco supriam-se os fazendeiros dos braços necessários? As fazendas eram alimentadas pela aquisição de escravos, sem o menor auxílio pecuniário do governo. Ora, se os fazendeiros se supriam de braços à sua custa, e se é possível obtê-los ainda, posto que de outra qualidade, por que motivo não hão de procurar alcançá-los pela mesma maneira, isto é, à sua custa?\n\nResposta de Manuel Felizardo de Souza e Mello, diretor geral das Terras Públicas,ao Senador Vergueiro. In: ALENCASTRO, L.F. (Org.) **História da vida privada no Brasil**. São Paulo:Cia das Letras, 1998 (adaptado).",
     "files": [],
     "correctAlternative": "C",

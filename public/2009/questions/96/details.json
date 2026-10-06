@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "funcoes-linguagem"
+    ],
     "context": "![](https://enem.dev/2009/questions/96/05bce341-8926-454e-8c24-49814582373d.jpg)",
     "files": [
         "https://enem.dev/2009/questions/96/05bce341-8926-454e-8c24-49814582373d.jpg"

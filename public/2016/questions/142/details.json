@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-analitica",
+        "logica-raciocinio"
+    ],
     "context": "![](https://enem.dev/2016/questions/142/27a20fd0-d2a2-46da-972f-c621f3cbdce8.png)",
     "files": [
         "https://enem.dev/2016/questions/142/27a20fd0-d2a2-46da-972f-c621f3cbdce8.png"

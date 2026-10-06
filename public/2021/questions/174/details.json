@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "Após a consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.\n\n![](https://enem.dev/2021/questions/174/a9b99537-f174-43b1-9ee0-90b5bdfe57ad.png)\n\nDessas farmácias, algumas oferecem descontos:\n\n*   na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;\n*   na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.\n\nO paciente deseja efetuar a compra de modo a minimizar duas despesa com os medicamentos.",
     "files": [
         "https://enem.dev/2021/questions/174/a9b99537-f174-43b1-9ee0-90b5bdfe57ad.png"

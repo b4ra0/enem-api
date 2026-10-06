@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima",
+        "geologia-relevo"
+    ],
     "context": "![](https://enem.dev/2015/questions/27/af64ab57-929e-4de7-9a89-f628c99a5a85.jpg)",
     "files": [
         "https://enem.dev/2015/questions/27/af64ab57-929e-4de7-9a89-f628c99a5a85.jpg"

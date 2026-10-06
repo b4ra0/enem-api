@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais",
+        "arte-popular"
+    ],
     "context": "**TEXTO I**\n\n![](https://enem.dev/2021/questions/36/8cc80c2a-cef4-4d6c-99a3-4f383b9fa2e2.jpg)\n\n**TEXTO II**\n\nAs máscarqas não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recepientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas.\n\nFARTHINGS, S. Tudo sobre arte",
     "files": [
         "https://enem.dev/2021/questions/36/8cc80c2a-cef4-4d6c-99a3-4f383b9fa2e2.jpg"

@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais"
+    ],
     "context": "![](https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png)",
     "files": [
         "https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png"

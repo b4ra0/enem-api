@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "teoria-conhecimento",
+        "filosofia-moderna"
+    ],
     "context": "Todo o poder criativo da mente se reduz a nada mais do que a faculdade de compor, transpor, aumentar ou diminuir os materiais que nos fornecem os sentidos e a experiência. Quando pensamos em uma montanha de ouro, não fazemos mais do que juntar duas ideias consistentes, ouro e montanha, que já conhecíamos. Podemos conceber um cavalo virtuoso, porque somos capazes de conceber a virtude a partir de nossos próprios sentimento, e podemos unir a isso a figura e a forma de um cavalo, animal que nos é familiar.\n\nHUME, D. **Investigação sobre o entendimento humano**. São Paulo: Abril Cultural, 1995.",
     "files": [],
     "correctAlternative": "A",

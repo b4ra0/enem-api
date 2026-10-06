@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "![](https://enem.dev/2014/questions/137/40cf73c4-388a-4323-84f9-62bdaccf835b.png)\n\nSuponha que a variação percentual relativa na taxa de fecundidade no período de 2000 a 2010 se repita no período de 2010 a 2020.",
     "files": [
         "https://enem.dev/2014/questions/137/40cf73c4-388a-4323-84f9-62bdaccf835b.png"

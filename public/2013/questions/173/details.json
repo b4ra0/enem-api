@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "progressao-aritmetica",
+        "sequencias-padroes"
+    ],
     "context": "O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.\n\nDisponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.",
     "files": [],
     "correctAlternative": "A",

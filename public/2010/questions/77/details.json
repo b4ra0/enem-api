@@ -4,6 +4,11 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas",
+        "acidos-bases-ph"
+    ],
     "context": "![](https://enem.dev/2010/questions/77/ccb7182d-278b-4d5d-9626-03df5e848ed4.jpg)",
     "files": [
         "https://enem.dev/2010/questions/77/ccb7182d-278b-4d5d-9626-03df5e848ed4.jpg"

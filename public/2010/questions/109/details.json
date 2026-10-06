@@ -3,7 +3,12 @@
     "index": 109,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "variacao-linguistica"
+    ],
     "context": "**O _Chat_ e sua linguagem virtual**\n\nO significado da palavra _chat_ vem do inglês e quer dizer “conversa”. Essa conversa acontece em tempo real, e, para isso, é necessário que duas ou mais pessoas estejam conectadas ao mesmo tempo, o que chamamos de comunicação síncrona. São muitos os _sites_ que oferecem a opção de bate-papo na internet, basta escolher a sala que deseja “entrar”, identificar-se e iniciar a conversa. Geralmente, as salas são divididas por assuntos, como educação, cinema, esporte, música, sexo, entre outros. Para entrar, é necessário escolher um _nick_, uma espécie de apelido que identificará o participante durante a conversa. Algumas salas restringem a idade, mas não existe nenhum controle para verificar se a idade informada é realmente a idade de quem está acessando, facilitando que crianças e adolescentes acessem salas com conteúdos inadequados para sua faixa etária.\n\nAMARAL, S. F. Internet: novos valores e novos comportamentos. In: SILVA, E.T. (Coord.). **A leitura nos oceanos da internet.** São Paulo: Cortez, 2003. (adaptado).",
     "files": [],
     "correctAlternative": "A",

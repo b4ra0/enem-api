@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica"
+    ],
     "context": "![](https://enem.dev/2014/questions/74/3f62e0c4-4374-4c49-b60b-304948d19b0f.jpg)\n\nNo heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos.",
     "files": [
         "https://enem.dev/2014/questions/74/3f62e0c4-4374-4c49-b60b-304948d19b0f.jpg"

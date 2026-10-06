@@ -4,6 +4,10 @@
     "year": 2010,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**Los animales**\n\nEn la Unión Europea desde el 1o de octubre de 2004 el uso de un pasaporte es obligatorio para los animales que viajan con su dueño en cualquier compañía.  \nAVISO ESPECIAL: en España los animales deben haber sido vacunados contra la rabia antes de su dueño solicitar la documentación. Consultar a un veterinario.\n\nDisponível em: http://www.agencedelattre.com. Acesso em: 2 maio 2009 (adaptado).",
     "files": [],
     "correctAlternative": "E",

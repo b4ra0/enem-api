@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "iluminismo-revolucoes"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

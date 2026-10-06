@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "guerras-mundiais",
+        "historia-africa"
+    ],
     "context": "A participação da África na Segunda Guerra Mundial deve ser apreciada sob a ótica da escolha entre vários demônios. O seu engajamento não foi um processo de colaboração com o imperialismo, mas uma luta contra uma forma de hegemonia ainda mais perigosa.\n\nMAZRUI, A. “Procurai primeiramente o reino do político …” In: MAZRUI, A., WONDJI, C. (Org.). **História geral da África**: África desde 1925. Brasília: Unesco, 2010.",
     "files": [],
     "correctAlternative": "C",

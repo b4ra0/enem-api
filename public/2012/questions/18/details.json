@@ -4,6 +4,10 @@
     "year": 2012,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "Portadora de memória, a paisagem ajuda a construir os sentimentos de pertencimento; ela cria uma atmosfera que convém aos momentos fortes da vida, às festas, às comemorações.\n\nCLAVAL, P. **Terra dos homens**: a geografia. São Paulo: Contexto, 2010 (adaptado).",
     "files": [],
     "correctAlternative": "E",

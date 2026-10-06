@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "argumentacao"
+    ],
     "context": "![](https://enem.dev/2016/questions/105/65d578ec-20a8-4ba0-ac09-0ab3460af118.png)\n\n**National Geographic Brasil**, n. 151, out. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2016/questions/105/65d578ec-20a8-4ba0-ac09-0ab3460af118.png"

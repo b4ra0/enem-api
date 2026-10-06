@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas"
+    ],
     "context": "![](https://enem.dev/2010/questions/140/1976055e-3295-4f44-9ecf-0cd97ea3e387.png)",
     "files": [
         "https://enem.dev/2010/questions/140/1976055e-3295-4f44-9ecf-0cd97ea3e387.png"

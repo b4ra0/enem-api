@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "equacoes-inequacoes",
+        "funcoes-conceitos"
+    ],
     "context": "Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo ![](https://enem.dev/2021/questions/152/566c5d72-c957-4664-b7f7-e1b92f024e70.png) e estrela \\*, definidas sobre o conjunto dos números reais por x![](https://enem.dev/2021/questions/152/60957aae-73c8-44ad-8f75-7191b1d65c70.png)y = x² + xy – y² e x \\* y = xy + x.\n\nO navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma da duas maiores soluções da equação (a![](https://enem.dev/2021/questions/152/b78eb0e6-f154-443d-a6f5-1ffeb2ff1252.png)b)\\*(b![](https://enem.dev/2021/questions/152/54a56c94-9682-42f3-98b2-fc5a0fef2dba.png)a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.\n\nUm navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada b=1.",
     "files": [
         "https://enem.dev/2021/questions/152/566c5d72-c957-4664-b7f7-e1b92f024e70.png",

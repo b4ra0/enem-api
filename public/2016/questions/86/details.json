@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria"
+    ],
     "context": "![](https://enem.dev/2016/questions/86/52add56c-e390-4125-8e61-d553591f9b1c.png)",
     "files": [
         "https://enem.dev/2016/questions/86/52add56c-e390-4125-8e61-d553591f9b1c.png"

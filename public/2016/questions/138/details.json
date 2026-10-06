@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "razao-proporcao"
+    ],
     "context": "![](https://enem.dev/2016/questions/138/484f68f6-18c6-4987-b92e-58c44f18b07b.png)",
     "files": [
         "https://enem.dev/2016/questions/138/484f68f6-18c6-4987-b92e-58c44f18b07b.png"

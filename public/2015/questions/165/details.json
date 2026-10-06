@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "equacoes-inequacoes"
+    ],
     "context": "![](https://enem.dev/2015/questions/165/0cf3eb67-f1f6-4a40-89fc-106ba00c5769.png)\n\nO parque aquático já conta com uma piscina em formato retangular com dimensões 50 m x 24 m.\n\nO proprietário quer que a área ocupada pela nova piscina seja menor que a ocupada pela piscina já existente.\n\nConsidere 3,0 como aproximação para π.",
     "files": [
         "https://enem.dev/2015/questions/165/0cf3eb67-f1f6-4a40-89fc-106ba00c5769.png"

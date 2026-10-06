@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-moderna",
+        "teoria-conhecimento"
+    ],
     "context": "**TEXTO I**\n\nConsidero apropriado deter-me algum tempo na contemplação deste Deus todo perfeito, ponderar totalmente à vontade seus maravilhosos atributos, considerar, admirar e adorar a incomparável beleza dessa imensa luz.\n\n**DESCARTES, R. Meditações. São Paulo: Abril Cultural, 1980.**\n\n**TEXTO II**\n\nQual será a forma mais razoável de entender como é o mundo? Existirá alguma boa razão para acreditar que o mundo foi criado por uma divindade todo-poderosa? Não podemos dizer que a crença em Deus é “apenas” uma questão de fé.\n\n**RACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.**",
     "files": [],
     "correctAlternative": "A",

@@ -3,7 +3,12 @@
     "index": 135,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "tecnologias-informacao"
+    ],
     "context": "**Fora da ordem  \n**\n\nEm 1588, o engenheiro militar italiano Agostinho Romelli publicou Le Diverse et Artificiose Machine, no qual descrevia uma máquina de ler livros. Montada para girar verticalmente, como uma roda de hamster, a  invenção permitia que o leitor fosse de um texto ao outro sem se levantar de sua cadeira.\n\nHoje podemos alternar entre documentos com muito mais facilidade – um clique no mouse é suficiente para acessarmos imagens, textos, vídeos e sons instantaneamente. Para isso, usamos o computador, e  principalmente a internet – tecnologias que não estavam disponíveis no Renascimento, época em que Romelli viveu.\n\nBERCITTO, D. **Revista Língua Portuguesa**. Ano II. N°14.",
     "files": [],
     "correctAlternative": "A",

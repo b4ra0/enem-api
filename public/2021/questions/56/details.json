@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "desigualdade-social",
+        "cultura-identidade"
+    ],
     "context": "Mulheres naturalistas raramente figuraram a corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécimes botânicos, mas quase sempre no papel de esposas coloniais, viajando para locais onde seus maridos as levavam e não em busca de seus próprios projetos científicos.\n\nSOMBRIO, M. M. O. Em busca pelo campo – Mulheres em expedições cientificas  \nno Brasil em meados do século XX. Cadernos Pagu, n. 48, 2016.",
     "files": [],
     "correctAlternative": "D",

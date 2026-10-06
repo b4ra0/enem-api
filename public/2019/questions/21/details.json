@@ -3,7 +3,11 @@
     "index": 21,
     "year": 2019,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "literatura-contemporanea"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "D",

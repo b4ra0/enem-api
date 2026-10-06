@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "questoes-ambientais"
+    ],
     "context": "![](https://enem.dev/2015/questions/4/bfee8dd7-2b58-4850-9c3a-59ea67faa73c.jpg)",
     "files": [
         "https://enem.dev/2015/questions/4/bfee8dd7-2b58-4850-9c3a-59ea67faa73c.jpg"

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "botanica",
+        "genetica"
+    ],
     "context": "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (_Annona cherimola_) com a fruta-pinha (_Annona squamosa_), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,10 @@
     "year": 2017,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-quadratica"
+    ],
     "context": "![](https://enem.dev/2017/questions/168/24aef861-9c64-4357-ab76-d58d4bf20931.png)",
     "files": [
         "https://enem.dev/2017/questions/168/24aef861-9c64-4357-ab76-d58d4bf20931.png"

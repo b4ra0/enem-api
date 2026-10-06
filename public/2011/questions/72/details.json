@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas",
+        "reacoes-organicas"
+    ],
     "context": "![](https://enem.dev/2011/questions/72/a3993cf9-e8c8-4700-b189-e277ad950809.jpg)",
     "files": [
         "https://enem.dev/2011/questions/72/a3993cf9-e8c8-4700-b189-e277ad950809.jpg"

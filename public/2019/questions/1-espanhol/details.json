@@ -4,6 +4,11 @@
     "year": 2019,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "**Adelfos**\n\nYo soy como las gentes que a mi tierra vinieron — soy de la raza mora, vieja amiga del sol —, que todo lo ganaron y todo lo perdieron. Tengo el alma de nardo del árabe español.\n\n**MACHADO, M.** Disponível em: www.poetasandaluces.com. Acesso em: 22 out. 2015 (fragmento).",
     "files": [],
     "correctAlternative": "A",

@@ -3,7 +3,11 @@
     "index": 102,
     "year": 2020,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "separacao-misturas"
+    ],
     "context": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.\n\n![](https://enem.dev/2020/questions/102/4972c2e5-3c86-412f-96ca-52378d89740c.png)",
     "files": [
         "https://enem.dev/2020/questions/102/4972c2e5-3c86-412f-96ca-52378d89740c.png"

@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "![](https://enem.dev/2010/questions/144/e6f27641-d27b-4c0b-b5f0-d8d74429aecb.png)",
     "files": [
         "https://enem.dev/2010/questions/144/e6f27641-d27b-4c0b-b5f0-d8d74429aecb.png"

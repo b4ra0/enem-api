@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2009/questions/127/798e9623-046e-493b-8d10-455dffae35db.jpg)",
     "files": [
         "https://enem.dev/2009/questions/127/798e9623-046e-493b-8d10-455dffae35db.jpg"

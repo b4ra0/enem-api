@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao"
+    ],
     "context": "O planejamento deixou de controlar o crescimento urbano e passou a encorajá-lo por todos os meios possíveis e imagináveis. Cidades, a nova mensagem soou em alto e bom som, eram máquinas de produzir riquezas: o primeiro e principal objetivo do planejamento devia ser o de azeitar a máquina.\n\n**HALL, P. Cidades do amanhã:** uma história intelectual do planejamento e do projeto urbanos no século XX. São Paulo: Perspectiva. 2016 (adaptado).",
     "files": [],
     "correctAlternative": "E",

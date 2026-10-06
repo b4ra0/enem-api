@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "media-moda-mediana"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

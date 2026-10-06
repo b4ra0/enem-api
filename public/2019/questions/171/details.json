@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria"
+    ],
     "context": "Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas  numerações, conforme ilustrado na figura.\n\n![](https://enem.dev/2019/questions/171/c821eb9f-30e3-4fe1-84e7-8522a706223d.png)",
     "files": [
         "https://enem.dev/2019/questions/171/c821eb9f-30e3-4fe1-84e7-8522a706223d.png"

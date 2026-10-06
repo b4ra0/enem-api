@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "geometria-plana"
+    ],
     "context": "![](https://enem.dev/2013/questions/157/05b2dd08-a2a1-45ea-a618-540da89c4bd3.png)\n\nConsidere 3 como valor aproximado para π",
     "files": [
         "https://enem.dev/2013/questions/157/05b2dd08-a2a1-45ea-a618-540da89c4bd3.png"

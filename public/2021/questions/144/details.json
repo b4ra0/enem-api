@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou esses dados no gráfico.\n\n![](https://enem.dev/2021/questions/144/0f754876-c1f5-41b1-bea6-3935cb1a5304.png)",
     "files": [
         "https://enem.dev/2021/questions/144/0f754876-c1f5-41b1-bea6-3935cb1a5304.png"

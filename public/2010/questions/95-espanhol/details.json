@@ -4,6 +4,11 @@
     "year": 2010,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "generos-textuais",
+        "vocabulario-contexto"
+    ],
     "context": "![](https://enem.dev/2010/questions/95-espanhol/fbbc0a02-918d-4b22-8db1-2c42cfcb18e9.png)\n\n**Revista Glamour Latinoamérica**. México, mar. 2010.",
     "files": [
         "https://enem.dev/2010/questions/95-espanhol/fbbc0a02-918d-4b22-8db1-2c42cfcb18e9.png"

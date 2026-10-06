@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2015/questions/96/a5dd9636-55a3-4a26-a4be-2eba2ca0c437.jpg)\n\nDia do Músico, do Professor, da Secretária, do Veterinário… Muitas são as datas comemoradas ao longo do ano e elas, ao darem visibilidade a segmentos específicos da sociedade oportunizam uma reflexão sobre a responsabilidade social desses segmentos. Nesse contexto, está inserida a propaganda da Associação Brasileira de Imprensa (ABI), em que se combinam elementos verbais e não verbais para se abordar a estreita relação entre imprensa, cidadania, informação e opinião.",
     "files": [
         "https://enem.dev/2015/questions/96/a5dd9636-55a3-4a26-a4be-2eba2ca0c437.jpg"

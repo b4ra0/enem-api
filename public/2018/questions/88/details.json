@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "questoes-ambientais"
+    ],
     "context": "![](https://enem.dev/2018/questions/88/7f3cead2-0224-45e5-89bf-cb7b399307cb.png)",
     "files": [
         "https://enem.dev/2018/questions/88/7f3cead2-0224-45e5-89bf-cb7b399307cb.png"

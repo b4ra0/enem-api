@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo",
+        "hidrografia"
+    ],
     "context": "![](https://enem.dev/2015/questions/31/7bd21c12-998c-427f-9b47-e7a06c817ac0.jpg)",
     "files": [
         "https://enem.dev/2015/questions/31/7bd21c12-998c-427f-9b47-e7a06c817ac0.jpg"

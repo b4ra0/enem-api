@@ -4,6 +4,10 @@
     "year": 2011,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logica-raciocinio"
+    ],
     "context": "![](https://enem.dev/2011/questions/172/4e50e4d6-244a-45ad-8eae-0d21b0a2090e.png)",
     "files": [
         "https://enem.dev/2011/questions/172/4e50e4d6-244a-45ad-8eae-0d21b0a2090e.png"

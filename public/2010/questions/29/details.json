@@ -4,6 +4,10 @@
     "year": 2010,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica"
+    ],
     "context": "A política foi, inicialmente, a arte de impedir as pessoas de se ocuparem do que lhes diz respeito. Posteriormente, passou a ser a arte de compelir as pessoas a decidirem sobre aquilo de que nada entendem.\n\nVALÉRY, P. Cadernos. Apud BENEVIDES, M. V. M.  \nA cidadania ativa. São Paulo: Ática, 1996.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana"
+    ],
     "context": "Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.\n\n![](https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png)\n\nUma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 cm.\n\n![](https://enem.dev/2018/questions/179/3fc75c6b-0e16-4686-857b-155ddd7ad50c.png) ![](https://enem.dev/2018/questions/179/5eabdb02-5a5d-4cc2-befb-903521158327.png) ![](https://enem.dev/2018/questions/179/6cbaacc0-e621-4e81-9314-bbd6d9120ad2.png)",
     "files": [
         "https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png",

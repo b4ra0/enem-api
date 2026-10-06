@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "era-vargas"
+    ],
     "context": "![](https://enem.dev/2013/questions/13/a2cb9ca2-4278-46e0-a138-a16824f116bc.jpg)",
     "files": [
         "https://enem.dev/2013/questions/13/a2cb9ca2-4278-46e0-a138-a16824f116bc.jpg"

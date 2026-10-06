@@ -4,6 +4,11 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "equacoes-inequacoes"
+    ],
     "context": "![](https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png)",
     "files": [
         "https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png"

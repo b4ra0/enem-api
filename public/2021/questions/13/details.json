@@ -4,6 +4,11 @@
     "year": 2021,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png)\n\nHENFIL. Disponível em: https://medium.com. Acesso em: 29 out. 2018 (adaptado).",
     "files": [
         "https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png"

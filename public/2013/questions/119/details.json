@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "sintaxe",
+        "coesao-coerencia"
+    ],
     "context": "![](https://enem.dev/2013/questions/119/01e29074-f21d-4f84-a197-0f5b11f2f053.png)",
     "files": [
         "https://enem.dev/2013/questions/119/01e29074-f21d-4f84-a197-0f5b11f2f053.png"

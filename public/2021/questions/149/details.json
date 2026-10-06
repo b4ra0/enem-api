@@ -3,7 +3,11 @@
     "index": 149,
     "year": 2021,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas"
+    ],
     "context": "A receita R de uma empresa ao final de um mês é o volume de dinheiro captado com a venda de mercadorias ou com a prestação de serviços nesse mês, e a despesa D é todo a dinheiro utilizado para pagamento de salários, contas de água e luz, impostos, entre outros. O lucro mensal obtido ao final do mês é a diferença entre a receita e a despesa registradas no mês. O gráfico apresenta as receitas e despesas, em milhão de real, de uma empresa ao final dos cinco primeiros meses de um dado ano\n\n![](https://enem.dev/2021/questions/149/2586c4f9-b00d-4ccf-8828-8e86a105d85b.png)",
     "files": [
         "https://enem.dev/2021/questions/149/2586c4f9-b00d-4ccf-8828-8e86a105d85b.png"

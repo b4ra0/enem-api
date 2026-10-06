@@ -4,6 +4,11 @@
     "year": 2011,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-colonia",
+        "brasil-imperio"
+    ],
     "context": "![](https://enem.dev/2011/questions/36/fa0373ec-c282-4296-be2a-0816e7bdce2a.png)\n\nSMITH, D. Atlas da Situação Mundial. São Paulo: Cia. Editora Nacional, 2007 (adaptado). (Foto: Reprodução/Enem)",
     "files": [
         "https://enem.dev/2011/questions/36/fa0373ec-c282-4296-be2a-0816e7bdce2a.png"

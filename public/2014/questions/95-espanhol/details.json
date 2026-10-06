@@ -4,6 +4,10 @@
     "year": 2014,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "**El robo**\n\nPara los niños  \nanchos espacios tiene el día  \ny las horas  \nson calles despejadas  \nabiertas avenidas.\n\nA nosotros, se estrecha  \nel tiempo de tal modo  \nque todo está apretado y oprimido.\n\nSe atropellan los tiempos  \nCasi no da lugar un día a otro.  \nNo bien ha amanecido  \ncae la luz a pique  \nen veloz mediodía  \ny apenas la contemplas  \nhuye en atardeceres  \nhacia pozos de sombra.\n\nDice una voz:  \nentre vueltas y vueltas  \nse me fue el día.\n\nAlgún ladrón  \noculto roba mi vida.\n\nMAIA, C. **Obra poética**. Montevidéu: Rebecalinke, 2010.",
     "files": [],
     "correctAlternative": "C",

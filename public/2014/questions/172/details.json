@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "conjuntos-numericos"
+    ],
     "context": "![](https://enem.dev/2014/questions/172/d8842865-9aae-47ac-87d3-7eb78f57f384.png)\n\nDisponível em: www.culturaperuana.com.br. Acesse em: 13 dez. 2012.",
     "files": [
         "https://enem.dev/2014/questions/172/d8842865-9aae-47ac-87d3-7eb78f57f384.png"

@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "funcoes-linguagem"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "C",

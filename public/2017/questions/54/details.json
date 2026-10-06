@@ -4,6 +4,11 @@
     "year": 2017,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "hidrografia",
+        "questoes-ambientais"
+    ],
     "context": "![](https://enem.dev/2017/questions/54/b4587b09-f5c4-4e31-a586-0a1ea9b169c1.png)",
     "files": [
         "https://enem.dev/2017/questions/54/b4587b09-f5c4-4e31-a586-0a1ea9b169c1.png"

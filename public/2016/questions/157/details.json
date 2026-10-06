@@ -4,6 +4,10 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "![](https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png)",
     "files": [
         "https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png"

@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "D",

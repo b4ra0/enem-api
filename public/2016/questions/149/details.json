@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim",
+        "geometria-analitica"
+    ],
     "context": "![](https://enem.dev/2016/questions/149/555013c9-a224-4e98-8e48-a30e33d02321.png)\n\nCom base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.",
     "files": [
         "https://enem.dev/2016/questions/149/555013c9-a224-4e98-8e48-a30e33d02321.png"

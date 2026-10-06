@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "separacao-misturas"
+    ],
     "context": "A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.\n\n![](https://enem.dev/2021/questions/122/17802e92-7e27-4479-b0ba-f8a3b4c951a8.png)\n\nTAVARES, K. **Estações de tratamento de esgoto individuais permitem a reutilização da água.** Disponível em: https://extra.globo.com. Acesso em: 18 nov 2014 (adaptado).",
     "files": [
         "https://enem.dev/2021/questions/122/17802e92-7e27-4479-b0ba-f8a3b4c951a8.png"

@@ -4,6 +4,11 @@
     "year": 2012,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim",
+        "funcoes-conceitos"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

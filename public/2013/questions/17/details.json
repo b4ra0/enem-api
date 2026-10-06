@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "industrializacao"
+    ],
     "context": "![](https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png)",
     "files": [
         "https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png"

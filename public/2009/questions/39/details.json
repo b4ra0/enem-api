@@ -4,6 +4,10 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termodinamica"
+    ],
     "context": "A invenção da geladeira proporcionou uma revolução no aproveitamento dos alimentos, ao permitir que fossem armazenados e transportados por longos períodos. A figura apresentada ilustra o processo cíclico de funcionamento de uma geladeira, em que um gás no interior de uma tubulação é forçado a circular entre o congelador e a parte externa da geladeira. É por meio dos processos de compressão, que ocorre na parte externa, e de expansão, que ocorre na parte interna, que o gás proporciona a troca de calor entre o interior e o exterior da geladeira.\n\nDisponível em: http://home.howstuffworks.com. Acesso em: 19 out. 2008 (adaptado).\n\n![](https://enem.dev/2009/questions/39/6991cb0b-0677-4966-9b10-126fa676fe93.png)",
     "files": [
         "https://enem.dev/2009/questions/39/6991cb0b-0677-4966-9b10-126fa676fe93.png"

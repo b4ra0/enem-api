@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas"
+    ],
     "context": "![](https://enem.dev/2015/questions/160/1efe6cb5-d767-4175-b0c3-39e98266f7cd.png)",
     "files": [
         "https://enem.dev/2015/questions/160/1efe6cb5-d767-4175-b0c3-39e98266f7cd.png"

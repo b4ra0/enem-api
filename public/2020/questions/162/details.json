@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "porcentagem"
+    ],
     "context": "A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios:\n\n*   afastamento mínimo de 4 m da rua;\n*   afastamento mínimo de 1 m da divisa com outro lote;\n*   área total construída da casa entre 40% e 50% da área total do lote.\n\nUm construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m2.\n\nA imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro.\n\n![](https://enem.dev/2020/questions/162/cd18aaa1-8c39-4431-a9ff-aa7dec5e5b4e.png)",
     "files": [
         "https://enem.dev/2020/questions/162/cd18aaa1-8c39-4431-a9ff-aa7dec5e5b4e.png"

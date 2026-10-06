@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica",
+        "bioquimica"
+    ],
     "context": "A figura seguinte representa um modelo de transmissão da informação genética nos sistemas biológicos. No fim do processo, que inclui a replicação, a transcrição e a tradução, há três formas proteicas diferentes denominadas a, b e c.\n\n![](https://enem.dev/2009/questions/16/2c67a1f7-b788-445d-9a6c-ef9d499ff78b.png)",
     "files": [
         "https://enem.dev/2009/questions/16/2c67a1f7-b788-445d-9a6c-ef9d499ff78b.png"

@@ -4,6 +4,10 @@
     "year": 2021,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas"
+    ],
     "context": "O gráfico apresenta o nível de ocupação dos cinco reservatórios de água que abasteciam uma cidade em 2 de Fevereiro de 2015.\n\n![](https://enem.dev/2021/questions/143/6658b31a-c862-4622-87b2-28e09d19a6d0.png)",
     "files": [
         "https://enem.dev/2021/questions/143/6658b31a-c862-4622-87b2-28e09d19a6d0.png"

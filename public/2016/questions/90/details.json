@@ -3,7 +3,11 @@
     "index": 90,
     "year": 2016,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "E",

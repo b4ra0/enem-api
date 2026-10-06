@@ -4,6 +4,11 @@
     "year": 2013,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2013/questions/103/1e52e81d-f67f-4767-92a9-363e81f41e52.png)\n\nDisponível em: http://orion-oblog.blogspot.com.br. Acesso em: 6 jun. 2012 (adaptado).",
     "files": [
         "https://enem.dev/2013/questions/103/1e52e81d-f67f-4767-92a9-363e81f41e52.png"

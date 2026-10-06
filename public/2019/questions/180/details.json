@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "grandezas-medidas"
+    ],
     "context": "Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.\n\nO quadro mostra os resultados obtidos com a pesquisa realizada.\n\n![](https://enem.dev/2019/questions/180/8813c78d-9c4b-4850-bbd4-f5591bd28537.png)",
     "files": [
         "https://enem.dev/2019/questions/180/8813c78d-9c4b-4850-bbd4-f5591bd28537.png"

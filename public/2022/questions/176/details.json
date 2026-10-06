@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-analitica"
+    ],
     "context": "![](https://enem.dev/2022/questions/176/eebeabf5-0dec-4070-abd5-f803bb370dd9.png)",
     "files": [
         "https://enem.dev/2022/questions/176/eebeabf5-0dec-4070-abd5-f803bb370dd9.png"

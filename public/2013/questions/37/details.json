@@ -4,6 +4,10 @@
     "year": 2013,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos"
+    ],
     "context": "Nos últimos decênios, o território conhece grandes mudanças em função de acréscimos técnicos que renovam a sua materialidade, como resultado e condição, ao mesmo tempo, dos processos econômicos e sociais em curso.\n\nSANTOS, M.; SILVEIRA; M. L. **O Brasil: território e sociedade no início do século XXI.** Rio de Janeiro: Record, 2004 (adaptado).",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,11 @@
     "year": 2009,
     "language": null,
     "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "realismo-naturalismo",
+        "modernismo"
+    ],
     "context": "No decênio de 1870, Franklin Távora defendeu a tese de que no Brasil havia duas literaturas independentes dentro da mesma língua: uma do Norte e outra do Sul, regiões segundo ele muito diferentes por formação histórica, composição étnica, costumes, modismos linguísticos etc. Por isso, deu aos romances regionais que  \npublicou o título geral de **Literatura do Norte**. Em nossos dias, um escritor gaúcho, Viana Moog, procurou mostrar com bastante engenho que no Brasil há, em verdade, literaturas setoriais diversas, refletindo as características locais.\n\nCANDIDO, A. A nova narrativa. **A educação pela noite e**  \n**outros ensaios.** São Paulo: Ática, 2003",
     "files": [],
     "correctAlternative": "D",

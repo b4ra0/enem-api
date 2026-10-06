@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-moderna",
+        "etica-moral"
+    ],
     "context": "**TEXTO I  \n**\n\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\n\n**KANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).**\n\n**TEXTO II**\n\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\n\n**FONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.**",
     "files": [],
     "correctAlternative": "E",

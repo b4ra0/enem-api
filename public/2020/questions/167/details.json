@@ -4,6 +4,10 @@
     "year": 2020,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho.\n\n![](https://enem.dev/2020/questions/167/b97cd861-19d3-4103-8332-c96d5cdc6bf0.png)\n\nNo início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho.",
     "files": [
         "https://enem.dev/2020/questions/167/b97cd861-19d3-4103-8332-c96d5cdc6bf0.png"

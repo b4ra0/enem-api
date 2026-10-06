@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-antiga",
+        "teoria-conhecimento"
+    ],
     "context": "Pirro afirmava que nada é nobre nem vergonhoso, justo ou injusto, e que, da mesma maneira, nada existe do ponto de vista da verdade, que os homens agem apenas segundo a lei e o costume, nada sendo mais isto do que aquilo. Ele levou uma vida de acordo com esta doutrina, nada procurando evitar e não se desviando do que quer que fosse, suportando tudo, carroças, por exemplo, precipícios, cães, nada deixando ao arbítrio dos sentidos.\n\nLAÉRCIO, D. **Vidas e sentenças dos filósofos ilustres**. Brasília: Editora UnB, 1988.",
     "files": [],
     "correctAlternative": "C",

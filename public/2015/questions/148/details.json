@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "grandezas-medidas"
+    ],
     "context": "![](https://enem.dev/2015/questions/148/971eb9cd-abf9-48be-994d-d1e0f2bdcc60.png)\n\nDe acordo com as normas desse porto, os contêineres deverão ser empilhados de forma a não sobrarem espaços nem ultrapassarem a área delimitada",
     "files": [
         "https://enem.dev/2015/questions/148/971eb9cd-abf9-48be-994d-d1e0f2bdcc60.png"

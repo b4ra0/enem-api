@@ -4,6 +4,11 @@
     "year": 2015,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "vocabulario-contexto"
+    ],
     "context": "![](https://enem.dev/2015/questions/92-ingles/2b92ee42-e2f1-4c77-8590-77d029f00d3b.jpg)\n\nRIDGWAY, L. Disponível em: http://fborfw.com. Acesso em: 23 fev. 2012.",
     "files": [
         "https://enem.dev/2015/questions/92-ingles/2b92ee42-e2f1-4c77-8590-77d029f00d3b.jpg"

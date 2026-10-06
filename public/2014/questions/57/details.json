@@ -4,6 +4,10 @@
     "year": 2014,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "![](https://enem.dev/2014/questions/57/98797c3b-9330-4122-b07a-008ab7156638.png)",
     "files": [
         "https://enem.dev/2014/questions/57/98797c3b-9330-4122-b07a-008ab7156638.png"

@@ -4,6 +4,11 @@
     "year": 2020,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "Caminhando contra o vento,\n\nSem lenço e sem documento\n\nNo sol de quase dezembro\n\nEu vou\n\nO sol se reparte em crimes\n\nEspaçonaves, guerrilhas\n\nEm cardinales bonitas\n\nEu vou\n\nEm caras de presidentes\n\nEm grandes beijos de amor\n\nEm dentes, pernas, bandeiras\n\nBombas e Brigitte Bardot\n\nO sol nas bancas de revista\n\nMe enche de alegria e preguiça\n\nQuem lê tanta notícia\n\nEu vou\n\nVELOSO, C. Alegria, alegria. In: **Caetano Veloso**. São Paulo.",
     "files": [],
     "correctAlternative": "D",

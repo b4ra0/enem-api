@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "antiguidade"
+    ],
     "context": "A soberania dos cidadãos dotados de plenos direitos era imprescindível para a existência da cidade-estado. Segundo os regimes políticos, a proporção desses cidadãos em relação à população total dos homens livres podia variar muito, sendo bastante pequena nas aristocracias e oligarquias e maior nas democracias.\n\n**CARDOSO, C. F. A cidade-estado clássica. São Paulo: Ática, 1985.**",
     "files": [],
     "correctAlternative": "A",

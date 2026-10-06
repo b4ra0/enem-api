@@ -4,6 +4,10 @@
     "year": 2015,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-organicas"
+    ],
     "context": "![](https://enem.dev/2015/questions/60/93af8634-f0ad-42f2-950c-77604c549440.png)",
     "files": [
         "https://enem.dev/2015/questions/60/93af8634-f0ad-42f2-950c-77604c549440.png"

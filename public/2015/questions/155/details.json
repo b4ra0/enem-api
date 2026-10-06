@@ -4,6 +4,11 @@
     "year": 2015,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "geometria-plana"
+    ],
     "context": "![](https://enem.dev/2015/questions/155/b5b18afc-ec22-42af-9b29-474d822405e7.png)\n\nO ponto _O_ indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores.",
     "files": [
         "https://enem.dev/2015/questions/155/b5b18afc-ec22-42af-9b29-474d822405e7.png"

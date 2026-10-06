@@ -4,6 +4,11 @@
     "year": 2016,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "hidrografia",
+        "cartografia"
+    ],
     "context": "![](https://enem.dev/2016/questions/36/c563d84a-ec91-40d9-9f16-cbcd00de3075.png)",
     "files": [
         "https://enem.dev/2016/questions/36/c563d84a-ec91-40d9-9f16-cbcd00de3075.png"

@@ -3,7 +3,12 @@
     "index": 108,
     "year": 2010,
     "language": null,
-    "discipline": "ciencias-humanas",
+    "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2010/questions/108/ecaceb52-a03d-4701-b44b-271cb3ba06db.jpg)\n\n![](https://enem.dev/2010/questions/108/a42bfa42-04ec-4b0c-b9f2-ded7c031a3b0.jpg)",
     "files": [
         "https://enem.dev/2010/questions/108/ecaceb52-a03d-4701-b44b-271cb3ba06db.jpg",
