@@ -4,6 +4,11 @@
     "year": 2019,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "vocabulario-contexto",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2019-reaplicacao/questions/3-espanhol/2e04c68e-6975-432c-884c-868bd25723e2.png)\n\nDZWONIK, C. Disponível em: www.tarinja.net.\n\nAcesso em: 12 ago. 2013.",
     "files": [
         "https://enem.dev/2019-reaplicacao/questions/3-espanhol/2e04c68e-6975-432c-884c-868bd25723e2.png"

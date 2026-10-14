@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas"
+    ],
     "context": "Lavar a seco significa lavar por meio de fluido ou solvente não aquoso, isto é, trata-se de um processo que limpa sem utilizar a água. Dessa forma, apesar de o nome ser lavagem a seco, o processo deixa o que está sendo lavado molhado pelo solvente utilizado, o qual poderá ser facilmente evaporado ao final do processo. Entre 1850 e 1940, foram empregados na lavagem a seco alguns hidrocarbonetos e organoclorados líquidos, como os que estão representados a seguir, entre os quais apenas um se mostrou seguro por não ser inflamável, em função da sua menor quantidade de ligações C―H.\n\nHexano\n\nCanfeno\n\nBenzeno\n\nIso-octano\n\nCl\nCl\n\nCl\n\nTricloroetileno\n\nBORGES, L. D.; MACHADO, P. F. L. Lavagem a seco.",
     "files": [],
     "correctAlternative": "E",

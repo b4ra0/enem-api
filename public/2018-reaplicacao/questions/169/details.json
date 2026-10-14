@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "Dois amigos abriram um restaurante. No primeiro ano, o custo total com as despesas do restaurante chegou a 250 mil reais. A receita neste ano foi de 325 mil reais, obtendo assim um lucro de 75 mil reais (diferença entre a receita e o custo total). A tabela representa o custo total e a receita nos cinco primeiros anos.\n\nAno\nCusto total\n(milhar de real)\n\nReceita\n(milhar de real)\n\nPrimeiro\n250\n325\n\nSegundo\n270\n355\n\nTerceiro\n290\n350\n\nQuarto\n280\n365\n\nQuinto\n260\n305",
     "files": [],
     "correctAlternative": "B",

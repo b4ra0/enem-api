@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio",
+        "patrimonio-memoria"
+    ],
     "context": "Os próprios senhores de engenho eram uns gulosos de doce e de comidas adocicadas. Houve engenho que ficou com o nome de “Guloso”. E Manuel Tomé de Jesus, no seu Engenho de Noruega, antigo dos Bois, vivia a encomendar doces às doceiras de Santo Antão; vivia a receber presentes de doces de seus compadres. Os bolos feitos em casa pelas negras não chegavam para o gasto. O velho capitão-mor era mesmo que menino por alfenim e cocada. E como estava sempre hospedando frades e padres no seu casarão de Noruega, tinha o cuidado de conservar em casa uma opulência de doces finos.\n\nFREYRE, G. Nordeste: aspectos da influência da cana sobre a vida e a paisagem do Nordeste do Brasil. Rio de Janeiro: José Olympio, 1985 (adaptado).",
     "files": [],
     "correctAlternative": "D",

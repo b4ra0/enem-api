@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio",
+        "primeira-republica"
+    ],
     "context": "O processo produtivo do café integra vários subprocessos, realizados em unidades físicas bem definidas e caracterizadas no tempo e no espaço por elementos arquitetônicos, resultando uma arquitetura específica e original: a fazenda cafeeira. O desenvolvimento tecnológico, ao inovar o processo produtivo, alcançou outros espaços para além da fazenda cafeeira.\n\nRevista História Viva. Disponível em: www2.uol.com.br. Acesso em: 23 jul. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "E",

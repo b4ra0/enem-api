@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "bioquimica"
+    ],
     "context": "De acordo com o Ministério da Saúde, a cegueira noturna ou nictalopia é uma doença caracterizada pela dificuldade de se enxergar em ambientes com baixa luminosidade. Sua ocorrência pode estar relacionada a uma alteração ocular congênita ou a problemas nutricionais. Com esses sintomas, uma senhora dirigiu-se ao serviço de saúde e seu médico sugeriu a ingestão de vegetais ricos em carotenoides, como a cenoura.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 1 mar. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "C",

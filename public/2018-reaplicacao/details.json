@@ -34,967 +34,1687 @@
             "title": "Questão 1 - ENEM 2018",
             "index": 1,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 1 - ENEM 2018",
             "index": 1,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "vocabulario-contexto",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 2 - ENEM 2018",
             "index": 2,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 2 - ENEM 2018",
             "index": 2,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto",
+                "aspectos-culturais"
+            ]
         },
         {
             "title": "Questão 3 - ENEM 2018",
             "index": 3,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "vocabulario-contexto"
+            ]
         },
         {
             "title": "Questão 3 - ENEM 2018",
             "index": 3,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 4 - ENEM 2018",
             "index": 4,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto",
+                "aspectos-culturais"
+            ]
         },
         {
             "title": "Questão 4 - ENEM 2018",
             "index": 4,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "generos-textuais",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 5 - ENEM 2018",
             "index": 5,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "vocabulario-contexto",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 5 - ENEM 2018",
             "index": 5,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 6 - ENEM 2018",
             "index": 6,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "intertextualidade",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 7 - ENEM 2018",
             "index": 7,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao"
+            ]
         },
         {
             "title": "Questão 8 - ENEM 2018",
             "index": 8,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 9 - ENEM 2018",
             "index": 9,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "tecnologias-informacao",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 10 - ENEM 2018",
             "index": 10,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "quinhentismo-barroco"
+            ]
         },
         {
             "title": "Questão 11 - ENEM 2018",
             "index": 11,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 12 - ENEM 2018",
             "index": 12,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "tecnologias-informacao",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 13 - ENEM 2018",
             "index": 13,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "argumentacao"
+            ]
         },
         {
             "title": "Questão 14 - ENEM 2018",
             "index": 14,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica",
+                "semantica"
+            ]
         },
         {
             "title": "Questão 15 - ENEM 2018",
             "index": 15,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais",
+                "argumentacao"
+            ]
         },
         {
             "title": "Questão 16 - ENEM 2018",
             "index": 16,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais",
+                "historia-arte"
+            ]
         },
         {
             "title": "Questão 17 - ENEM 2018",
             "index": 17,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "modernismo"
+            ]
         },
         {
             "title": "Questão 18 - ENEM 2018",
             "index": 18,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "tecnologias-informacao",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 19 - ENEM 2018",
             "index": 19,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "funcoes-linguagem"
+            ]
         },
         {
             "title": "Questão 20 - ENEM 2018",
             "index": 20,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 21 - ENEM 2018",
             "index": 21,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "historia-arte",
+                "arquitetura-design"
+            ]
         },
         {
             "title": "Questão 22 - ENEM 2018",
             "index": 22,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "tecnologias-informacao"
+            ]
         },
         {
             "title": "Questão 23 - ENEM 2018",
             "index": 23,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 24 - ENEM 2018",
             "index": 24,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "coesao-coerencia"
+            ]
         },
         {
             "title": "Questão 25 - ENEM 2018",
             "index": 25,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 26 - ENEM 2018",
             "index": 26,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais",
+                "intertextualidade"
+            ]
         },
         {
             "title": "Questão 27 - ENEM 2018",
             "index": 27,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais"
+            ]
         },
         {
             "title": "Questão 28 - ENEM 2018",
             "index": 28,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "coesao-coerencia",
+                "semantica"
+            ]
         },
         {
             "title": "Questão 29 - ENEM 2018",
             "index": 29,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais"
+            ]
         },
         {
             "title": "Questão 30 - ENEM 2018",
             "index": 30,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 31 - ENEM 2018",
             "index": 31,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "cinema-fotografia",
+                "artes-visuais"
+            ]
         },
         {
             "title": "Questão 32 - ENEM 2018",
             "index": 32,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "generos-literarios",
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 33 - ENEM 2018",
             "index": 33,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 34 - ENEM 2018",
             "index": 34,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "historia-arte",
+                "artes-visuais"
+            ]
         },
         {
             "title": "Questão 35 - ENEM 2018",
             "index": 35,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "modernismo"
+            ]
         },
         {
             "title": "Questão 36 - ENEM 2018",
             "index": 36,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 37 - ENEM 2018",
             "index": 37,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "realismo-naturalismo"
+            ]
         },
         {
             "title": "Questão 38 - ENEM 2018",
             "index": 38,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "esportes"
+            ]
         },
         {
             "title": "Questão 39 - ENEM 2018",
             "index": 39,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "modernismo"
+            ]
         },
         {
             "title": "Questão 40 - ENEM 2018",
             "index": 40,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "romantismo"
+            ]
         },
         {
             "title": "Questão 41 - ENEM 2018",
             "index": 41,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais"
+            ]
         },
         {
             "title": "Questão 42 - ENEM 2018",
             "index": 42,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "sintaxe"
+            ]
         },
         {
             "title": "Questão 43 - ENEM 2018",
             "index": 43,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "esportes"
+            ]
         },
         {
             "title": "Questão 44 - ENEM 2018",
             "index": 44,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "corpo-sociedade",
+                "saude-qualidade-vida"
+            ]
         },
         {
             "title": "Questão 45 - ENEM 2018",
             "index": 45,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "praticas-corporais"
+            ]
         },
         {
             "title": "Questão 46 - ENEM 2018",
             "index": 46,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-antiga"
+            ]
         },
         {
             "title": "Questão 47 - ENEM 2018",
             "index": 47,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "espaco-agrario",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 48 - ENEM 2018",
             "index": 48,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-imperio",
+                "patrimonio-memoria"
+            ]
         },
         {
             "title": "Questão 49 - ENEM 2018",
             "index": 49,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "idade-media"
+            ]
         },
         {
             "title": "Questão 50 - ENEM 2018",
             "index": 50,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 51 - ENEM 2018",
             "index": 51,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "hidrografia"
+            ]
         },
         {
             "title": "Questão 52 - ENEM 2018",
             "index": 52,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "povos-indigenas",
+                "brasil-colonia"
+            ]
         },
         {
             "title": "Questão 53 - ENEM 2018",
             "index": 53,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 54 - ENEM 2018",
             "index": 54,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "populacao-migracoes"
+            ]
         },
         {
             "title": "Questão 55 - ENEM 2018",
             "index": 55,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "geopolitica"
+            ]
         },
         {
             "title": "Questão 56 - ENEM 2018",
             "index": 56,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "guerras-mundiais"
+            ]
         },
         {
             "title": "Questão 57 - ENEM 2018",
             "index": 57,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "populacao-migracoes"
+            ]
         },
         {
             "title": "Questão 58 - ENEM 2018",
             "index": 58,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-imperio",
+                "povos-indigenas"
+            ]
         },
         {
             "title": "Questão 59 - ENEM 2018",
             "index": 59,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 60 - ENEM 2018",
             "index": 60,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-imperio"
+            ]
         },
         {
             "title": "Questão 61 - ENEM 2018",
             "index": 61,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-politica",
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 62 - ENEM 2018",
             "index": 62,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "movimentos-sociais",
+                "estado-poder"
+            ]
         },
         {
             "title": "Questão 63 - ENEM 2018",
             "index": 63,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "revolucao-industrial",
+                "idade-moderna"
+            ]
         },
         {
             "title": "Questão 65 - ENEM 2018",
             "index": 65,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "espaco-agrario"
+            ]
         },
         {
             "title": "Questão 66 - ENEM 2018",
             "index": 66,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "estado-poder"
+            ]
         },
         {
             "title": "Questão 67 - ENEM 2018",
             "index": 67,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "revolucao-industrial"
+            ]
         },
         {
             "title": "Questão 68 - ENEM 2018",
             "index": 68,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "desigualdade-social",
+                "cidadania-direitos"
+            ]
         },
         {
             "title": "Questão 69 - ENEM 2018",
             "index": 69,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "industrializacao",
+                "globalizacao"
+            ]
         },
         {
             "title": "Questão 70 - ENEM 2018",
             "index": 70,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "america-latina",
+                "idade-moderna"
+            ]
         },
         {
             "title": "Questão 71 - ENEM 2018",
             "index": 71,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 72 - ENEM 2018",
             "index": 72,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "espaco-agrario"
+            ]
         },
         {
             "title": "Questão 73 - ENEM 2018",
             "index": 73,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "revolucao-industrial"
+            ]
         },
         {
             "title": "Questão 74 - ENEM 2018",
             "index": 74,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "desigualdade-social"
+            ]
         },
         {
             "title": "Questão 75 - ENEM 2018",
             "index": 75,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "meios-comunicacao"
+            ]
         },
         {
             "title": "Questão 76 - ENEM 2018",
             "index": 76,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "meios-comunicacao",
+                "cultura-identidade"
+            ]
         },
         {
             "title": "Questão 77 - ENEM 2018",
             "index": 77,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cidadania-direitos",
+                "violencia"
+            ]
         },
         {
             "title": "Questão 78 - ENEM 2018",
             "index": 78,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "republica-1945-1964"
+            ]
         },
         {
             "title": "Questão 79 - ENEM 2018",
             "index": 79,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "etica-moral"
+            ]
         },
         {
             "title": "Questão 80 - ENEM 2018",
             "index": 80,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 81 - ENEM 2018",
             "index": 81,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "estado-poder",
+                "cidadania-direitos"
+            ]
         },
         {
             "title": "Questão 82 - ENEM 2018",
             "index": 82,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "trabalho-sociedade",
+                "cidadania-direitos"
+            ]
         },
         {
             "title": "Questão 83 - ENEM 2018",
             "index": 83,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 84 - ENEM 2018",
             "index": 84,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "questoes-ambientais",
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 85 - ENEM 2018",
             "index": 85,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-imperio",
+                "patrimonio-memoria"
+            ]
         },
         {
             "title": "Questão 86 - ENEM 2018",
             "index": 86,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "geologia-relevo",
+                "hidrografia"
+            ]
         },
         {
             "title": "Questão 87 - ENEM 2018",
             "index": 87,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "espaco-agrario",
+                "geologia-relevo"
+            ]
         },
         {
             "title": "Questão 88 - ENEM 2018",
             "index": 88,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "questoes-ambientais",
+                "espaco-agrario"
+            ]
         },
         {
             "title": "Questão 89 - ENEM 2018",
             "index": 89,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "energia-recursos",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 90 - ENEM 2018",
             "index": 90,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-moderna",
+                "teoria-conhecimento"
+            ]
         },
         {
             "title": "Questão 91 - ENEM 2018",
             "index": 91,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 93 - ENEM 2018",
             "index": 93,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "saude-doencas"
+            ]
         },
         {
             "title": "Questão 94 - ENEM 2018",
             "index": 94,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "botanica",
+                "reproducao-embriologia"
+            ]
         },
         {
             "title": "Questão 95 - ENEM 2018",
             "index": 95,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "bioquimica"
+            ]
         },
         {
             "title": "Questão 96 - ENEM 2018",
             "index": 96,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "estequiometria"
+            ]
         },
         {
             "title": "Questão 97 - ENEM 2018",
             "index": 97,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "metabolismo-energetico",
+                "botanica"
+            ]
         },
         {
             "title": "Questão 98 - ENEM 2018",
             "index": 98,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "equilibrio-quimico",
+                "solucoes"
+            ]
         },
         {
             "title": "Questão 99 - ENEM 2018",
             "index": 99,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "zoologia"
+            ]
         },
         {
             "title": "Questão 101 - ENEM 2018",
             "index": 101,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "ondulatoria",
+                "acustica"
+            ]
         },
         {
             "title": "Questão 102 - ENEM 2018",
             "index": 102,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "termologia"
+            ]
         },
         {
             "title": "Questão 103 - ENEM 2018",
             "index": 103,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "genetica"
+            ]
         },
         {
             "title": "Questão 104 - ENEM 2018",
             "index": 104,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "acidos-bases-ph"
+            ]
         },
         {
             "title": "Questão 107 - ENEM 2018",
             "index": 107,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrostatica"
+            ]
         },
         {
             "title": "Questão 108 - ENEM 2018",
             "index": 108,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "reacoes-organicas",
+                "funcoes-organicas"
+            ]
         },
         {
             "title": "Questão 109 - ENEM 2018",
             "index": 109,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "propriedades-coligativas"
+            ]
         },
         {
             "title": "Questão 110 - ENEM 2018",
             "index": 110,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "radioatividade"
+            ]
         },
         {
             "title": "Questão 111 - ENEM 2018",
             "index": 111,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "reacoes-quimicas",
+                "separacao-misturas"
+            ]
         },
         {
             "title": "Questão 112 - ENEM 2018",
             "index": 112,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "reacoes-organicas",
+                "isomeria"
+            ]
         },
         {
             "title": "Questão 113 - ENEM 2018",
             "index": 113,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "genetica"
+            ]
         },
         {
             "title": "Questão 114 - ENEM 2018",
             "index": 114,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "dinamica",
+                "estatica"
+            ]
         },
         {
             "title": "Questão 115 - ENEM 2018",
             "index": 115,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "evolucao",
+                "ecologia"
+            ]
         },
         {
             "title": "Questão 116 - ENEM 2018",
             "index": 116,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "termoquimica",
+                "solucoes"
+            ]
         },
         {
             "title": "Questão 117 - ENEM 2018",
             "index": 117,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "solucoes",
+                "separacao-misturas"
+            ]
         },
         {
             "title": "Questão 118 - ENEM 2018",
             "index": 118,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "citologia"
+            ]
         },
         {
             "title": "Questão 119 - ENEM 2018",
             "index": 119,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "estequiometria",
+                "eletroquimica"
+            ]
         },
         {
             "title": "Questão 120 - ENEM 2018",
             "index": 120,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "acustica",
+                "ondulatoria"
+            ]
         },
         {
             "title": "Questão 121 - ENEM 2018",
             "index": 121,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 122 - ENEM 2018",
             "index": 122,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "quimica-ambiental",
+                "reacoes-quimicas"
+            ]
         },
         {
             "title": "Questão 123 - ENEM 2018",
             "index": 123,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "ecologia"
+            ]
         },
         {
             "title": "Questão 124 - ENEM 2018",
             "index": 124,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "acidos-bases-ph",
+                "solucoes"
+            ]
         },
         {
             "title": "Questão 125 - ENEM 2018",
             "index": 125,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "impactos-ambientais"
+            ]
         },
         {
             "title": "Questão 126 - ENEM 2018",
             "index": 126,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "termologia"
+            ]
         },
         {
             "title": "Questão 127 - ENEM 2018",
             "index": 127,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "saude-doencas",
+                "bioquimica"
+            ]
         },
         {
             "title": "Questão 128 - ENEM 2018",
             "index": 128,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "dinamica",
+                "trabalho-energia"
+            ]
         },
         {
             "title": "Questão 129 - ENEM 2018",
             "index": 129,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "metabolismo-energetico"
+            ]
         },
         {
             "title": "Questão 130 - ENEM 2018",
             "index": 130,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "ligacoes-quimicas"
+            ]
         },
         {
             "title": "Questão 131 - ENEM 2018",
             "index": 131,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "cinematica"
+            ]
         },
         {
             "title": "Questão 132 - ENEM 2018",
             "index": 132,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "trabalho-energia"
+            ]
         },
         {
             "title": "Questão 133 - ENEM 2018",
             "index": 133,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "solucoes"
+            ]
         },
         {
             "title": "Questão 134 - ENEM 2018",
             "index": 134,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "ligacoes-quimicas"
+            ]
         },
         {
             "title": "Questão 135 - ENEM 2018",
             "index": 135,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 141 - ENEM 2018",
             "index": 141,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "escalas",
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 143 - ENEM 2018",
             "index": 143,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 145 - ENEM 2018",
             "index": 145,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "matematica-financeira",
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 146 - ENEM 2018",
             "index": 146,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 147 - ENEM 2018",
             "index": 147,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "grandezas-medidas"
+            ]
         },
         {
             "title": "Questão 148 - ENEM 2018",
             "index": 148,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "sistemas-lineares",
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 151 - ENEM 2018",
             "index": 151,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "equacoes-inequacoes"
+            ]
         },
         {
             "title": "Questão 152 - ENEM 2018",
             "index": 152,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 153 - ENEM 2018",
             "index": 153,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana"
+            ]
         },
         {
             "title": "Questão 154 - ENEM 2018",
             "index": 154,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "grandezas-medidas",
+                "geometria-espacial"
+            ]
         },
         {
             "title": "Questão 156 - ENEM 2018",
             "index": 156,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "progressao-geometrica"
+            ]
         },
         {
             "title": "Questão 157 - ENEM 2018",
             "index": 157,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial"
+            ]
         },
         {
             "title": "Questão 158 - ENEM 2018",
             "index": 158,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "funcao-quadratica"
+            ]
         },
         {
             "title": "Questão 159 - ENEM 2018",
             "index": 159,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-plana",
+                "circunferencia"
+            ]
         },
         {
             "title": "Questão 160 - ENEM 2018",
             "index": 160,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "equacoes-inequacoes"
+            ]
         },
         {
             "title": "Questão 162 - ENEM 2018",
             "index": 162,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "conjuntos-numericos",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 165 - ENEM 2018",
             "index": 165,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 166 - ENEM 2018",
             "index": 166,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "escalas"
+            ]
         },
         {
             "title": "Questão 167 - ENEM 2018",
             "index": 167,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "probabilidade",
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 169 - ENEM 2018",
             "index": 169,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 170 - ENEM 2018",
             "index": 170,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem",
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 172 - ENEM 2018",
             "index": 172,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "funcoes-conceitos"
+            ]
         },
         {
             "title": "Questão 174 - ENEM 2018",
             "index": 174,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "conjuntos-numericos"
+            ]
         },
         {
             "title": "Questão 176 - ENEM 2018",
             "index": 176,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-plana",
+                "grandezas-medidas"
+            ]
         },
         {
             "title": "Questão 178 - ENEM 2018",
             "index": 178,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 180 - ENEM 2018",
             "index": 180,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "graficos-tabelas"
+            ]
         }
     ]
 }

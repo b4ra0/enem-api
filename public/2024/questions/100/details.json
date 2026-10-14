@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "optica"
+    ],
     "context": "Mirascópio 3D: produtor de ilusão instantânea\n\nO equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E1 e E2, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de E1 coincide com o foco de E2 e vice-versa. Na abertura circular de E2, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E1. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E2 e E1, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade.\n\n![](https://enem.dev/2024/questions/100/8cd35793-bb1f-461d-a8ed-59249d8596b3.png)\n\nSALZMANN, W. Disponível em: https://wissenstexte.de.\n\nAcesso em: 27 jun. 2024 (adaptado).",
     "files": [
         "https://enem.dev/2024/questions/100/8cd35793-bb1f-461d-a8ed-59249d8596b3.png"

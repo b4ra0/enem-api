@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "zoologia"
+    ],
     "context": "Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água.",
     "files": [],
     "correctAlternative": "C",

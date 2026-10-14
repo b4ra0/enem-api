@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Uma pessoa foi a um supermercado comprar uma caixa de sabão em pó. Lá encontrou várias marcas desse produto, disponibilizado em embalagens com diferentes capacidades e preços. No quadro são fornecidos o preço, em real, e o conteúdo, em quilograma, das embalagens de cinco diferentes marcas de sabão em pó que estão à venda nesse supermercado.\n\nMarca\nPreço por\nembalagem (R$)\n\nConteúdo da\nembalagem (kg)\n\nI\n18,00\n3,0\n\nII\n10,00\n2,5\n\nIII\n8,00\n0,5\n\nIV\n7,00\n1,0\n\nV\n34,00\n2,0\n\nA marca cuja embalagem oferece o menor preço, em real, por quilograma de sabão em pó é",
     "files": [],
     "correctAlternative": "B",

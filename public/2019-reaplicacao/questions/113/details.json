@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "quimica-ambiental",
+        "reacoes-quimicas"
+    ],
     "context": "O\nmármore,\nrocha\nmetamórfica\ncomposta\nprincipalmente de carbonato de cálcio (CaCO3), é muito utilizada como material de construção e também na produção de esculturas. Entretanto, se peças de mármore são expostas a ambientes externos, particularmente em grandes cidades e zonas industriais, elas sofrem ao longo do tempo um processo de desgaste, caracterizado pela perda de massa da peça.",
     "files": [],
     "correctAlternative": "E",

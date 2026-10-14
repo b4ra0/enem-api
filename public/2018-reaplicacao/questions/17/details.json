@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "modernismo"
+    ],
     "context": "E fui mostrar ao ilustre hóspede [o governador do Estado] a serraria, o descaroçador e o estábulo. Expliquei em resumo a prensa, o dínamo, as serras e o banheiro carrapaticida. De repente supus que a escola poderia trazer a benevolência do governador para certos favores que eu tencionava solicitar.\n\n— Pois sim senhor. Quando V. Exª. vier aqui outra vez, encontrará essa gente aprendendo cartilha.\n\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 1991.",
     "files": [],
     "correctAlternative": "E",

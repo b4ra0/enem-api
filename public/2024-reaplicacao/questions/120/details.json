@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas"
+    ],
     "context": "Doenças negligenciadas são um grupo de enfermidades tropicais endêmicas que incapacitam ou matam milhões de pessoas e representam uma necessidade médica importante que permanece não atendida. Comuns em áreas pobres do mundo, as populações atingidas por essas doenças não possuem recursos para pagar por um tratamento que exigiria anos de pesquisa e um alto investimento dos laboratórios. Por isso, uma parcela considerável de investimentos aplicados em estudos dessas doenças vem de atividades filantrópicas.",
     "files": [],
     "correctAlternative": "E",

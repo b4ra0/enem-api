@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "etica-moral",
+        "filosofia-moderna"
+    ],
     "context": "Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral era a empatia e o julgamento, instaurando uma distinção entre o que queremos fazer e o que sentimos que devemos fazer.\n\nCOLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019.",
     "files": [],
     "correctAlternative": "D",

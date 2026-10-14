@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica"
+    ],
     "context": "![](https://enem.dev/2025/questions/26/a0946583-5986-474a-9889-959358b81ce1.png)\n\nRevista Língua Portuguesa, n. 31, maio 2008 (adaptado).",
     "files": [
         "https://enem.dev/2025/questions/26/a0946583-5986-474a-9889-959358b81ce1.png"

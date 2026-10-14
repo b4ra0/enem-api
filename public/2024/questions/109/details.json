@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "histologia",
+        "metabolismo-energetico"
+    ],
     "context": "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume III:",
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "circunferencia"
+    ],
     "context": "Um brinquedo chamado pula-pula, quando visto de cima, consiste de uma cama elástica com contorno em formato de um hexágono regular.\n\nA\nB\nL\n\nr",
     "files": [],
     "correctAlternative": "B",

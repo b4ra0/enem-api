@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termologia"
+    ],
     "context": "Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.\n\n![](https://enem.dev/2024/questions/103/d45c964b-f142-482e-8712-3409c72d8f26.png)\n\n5 dicas de instalação de aquecedor solar. Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).",
     "files": [
         "https://enem.dev/2024/questions/103/d45c964b-f142-482e-8712-3409c72d8f26.png"

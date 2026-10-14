@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "revolucao-industrial"
+    ],
     "context": "Foi relevante uma lei aprovada pelo velho Parlamento, que sancionou legalmente a oposição entre proletariado e burguesia, com esta elevada à categoria de classe dominante. A lei em questão, aprovada em 1824, anulava todas as disposições precedentes que, até então, proibiam aos operários associar-se para a defesa de seus interesses. Os operários conquistaram assim um direito que, até esta data, era um privilégio reservado à aristocracia e à burguesia: a liberdade de associação.\n\nENGELS, F. A situação da classe trabalhadora na Inglaterra.",
     "files": [],
     "correctAlternative": "D",

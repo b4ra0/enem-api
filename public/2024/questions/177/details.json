@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim"
+    ],
     "context": "Uma empresa produz mochilas escolares sob encomenda. Essa empresa tem um custo total de produção, composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas.\n\nQuantidade de\n\nmochilas\n30\n50\n100\n\nCusto total (R$)\n1 050,00\n1 650,00\n3 150,00",
     "files": [],
     "correctAlternative": "C",

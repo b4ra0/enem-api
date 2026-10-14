@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "termoquimica",
+        "solucoes"
+    ],
     "context": "Sobre a diluição do ácido sulfúrico em água, o químico e escritor Primo Levi afirma que, “está escrito em todos os tratados, é preciso operar às avessas, quer dizer, verter o ácido na água e não o contrário, senão aquele líquido oleoso de aspecto tão inócuo está sujeito a iras furibundas: sabem-no até os meninos do ginásio”.\n\n(furibundo: adj. furioso)\n\nLEVI, P. A tabela periódica. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).",
     "files": [],
     "correctAlternative": "A",

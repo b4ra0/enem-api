@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "zoologia"
+    ],
     "context": "O sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras.",
     "files": [],
     "correctAlternative": "E",

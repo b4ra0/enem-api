@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais",
+        "botanica"
+    ],
     "context": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.\n\n![](https://enem.dev/2024/questions/134/7e5e86ac-de50-4528-beb4-ba692ea2e1a0.png)\n\nLUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado).",
     "files": [
         "https://enem.dev/2024/questions/134/7e5e86ac-de50-4528-beb4-ba692ea2e1a0.png"

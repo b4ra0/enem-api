@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia"
+    ],
     "context": "No entorno de uma lagoa circular, cujo raio mede 1 km, há um uma ciclovia. Devido aos frequentes roubos de bicicleta, a prefeitura planeja alocar policiais em posições estratégicas para patrulhar essa ciclovia, de forma a torná-la totalmente protegida. Um ponto da ciclovia é considerado protegido se houver pelo menos um policial a, no máximo, 200 m de distância daquele ponto, posicionado sobre a ciclovia. A figura ilustra um ponto P sobre a ciclovia, que estará protegido se houver pelo menos um policial posicionado sobre a região de cor cinza escuro.\n\nDesconsidere a largura da pista da ciclovia e utilize 3 como aproximação para p.\n\n![](https://enem.dev/2025/questions/139/aa5dbe80-a0d4-4003-9efe-4fe27bc178ee.png)",
     "files": [
         "https://enem.dev/2025/questions/139/aa5dbe80-a0d4-4003-9efe-4fe27bc178ee.png"

@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "etica-moral"
+    ],
     "context": "Ubuntu é um sistema de crenças, uma epistemologia, uma ética coletiva e uma filosofia humanista espiritual do sul da África. É mais um fundamento ético coletivo do que qualquer outra coisa, embora também seja considerado uma forma de filosofia e epistemologia africanas nativas. É uma forma ética de conhecer e de ser em comunidade. É muito menos um conceito abstrato do que uma expressão coletiva cotidiana de experiências vividas, centradas em uma ética comunitária do que significa ser humano. Ubuntu é uma abreviação de um provérbio da África do Sul: uma pessoa é uma pessoa por meio de seu relacionamento com outros.\n\nSWANSON, D. Ubuntu, uma alternativa ecopolítica à globalização\n\neconômica neoliberal. IHU Revista do Instituto\n\nHumanitas Unisinos, n. 353, dez. 2010.",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "Eduardo Galeano\n\nLibertad\n\nPájaros prohibidos\n\nLos presos políticos uruguayos no pueden hablar sin permiso, silbar, sonreír, cantar, caminar rápido ni saludar a otro preso. Tampoco pueden dibujar ni recibir dibujos de mujeres embarazadas, parejas, mariposas, estrellas ni pájaros.\n\nDidaskó Pérez, maestro de escuela, torturado y preso por tener ideas ideológicas, recibe un domingo la visita de su hija Milay, de cinco años. La hija le trae un dibujo de pájaros. Los censores se lo rompen en la entrada a la cárcel.\n\nEl domingo siguiente, Milay le trae un dibujo de árboles. Los árboles no están prohibidos, y el domingo pasa. Didashkó le elogia la obra y le pregunta por los circulitos de colores que aparecen en la copa de los árboles, muchos pequeños círculos entre las ramas:\n\n— ¿Son naranjas? ¿qué frutas son?\nLa niña lo hace callar:\n— Ssssshhhh.\nY en secreto le explica:\n— Bobo, ¿no ves que son ojos? Los ojos de los\npájaros que te traje a escondidas.\n\nGALEANO, E. Memoria del fuego III. El siglo del viento. Madrid: Siglo Veintiuno de España, 1986.",
     "files": [],
     "correctAlternative": "C",

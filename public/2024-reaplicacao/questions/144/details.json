@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas"
+    ],
     "context": "Uma pessoa ampliou uma foto no computador e, ao imprimi-la, verificou que a qualidade não estava boa. Assim, ficou curioso em saber as grandezas envolvidas no parâmetro que define a qualidade de uma imagem. Ao pesquisar, descobriu que um parâmetro que define a qualidade da imagem, ou resolução, pode ser considerado pela quantidade de pontos, chamados pixels, que há em cada quadradinho de 1 cm de lado contido na imagem.",
     "files": [],
     "correctAlternative": "E",

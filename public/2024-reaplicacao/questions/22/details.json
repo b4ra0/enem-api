@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica",
+        "tecnologias-informacao"
+    ],
     "context": "Fake news costumam ter erros de português\n\nMesmo para quem não domina tão bem o idioma, fica fácil encontrar erros como de ortografia e concordância. Até porque reportagens reais prezam por um vocabulário rico e o emprego correto de todas as normas.\n\nAlém do mais, mensagens e notícias falsas divulgadas tendem a apresentar uma escrita com padrão duvidoso, como a repetição de uma palavra ou até uma quantidade exagerada de adjetivos.\n\nDisponível em: https://medicals.com.\n\nAcesso em: 25 nov. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "C",

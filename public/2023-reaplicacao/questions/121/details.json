@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "microbiologia"
+    ],
     "context": "O tratamento do esgoto gerado por fábricas e residências pode se tornar mais acessível em virtude de uma nova proposta tecnológica, que utiliza um reator capaz de transformar nitrogênio orgânico, presente no esgoto, em nitrogênio inorgânico. A tecnologia prevê o uso de um cilindro de acrílico com espuma de poliuretano em seu interior, sob a qual se fixam bactérias capazes de tratar o efluente. As bactérias que ficam no exterior da espuma realizam reações de nitrificação desse substrato, e as que ficam no interior da espuma realizam reações de desnitrificação.\n\nDisponível em: http://cienciahoje.uol.com.br. Acesso em: 25 jun. 2015 (adaptado).",
     "files": [],
     "correctAlternative": "E",

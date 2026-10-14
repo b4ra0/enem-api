@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "teoria-conhecimento",
+        "logica"
+    ],
     "context": "Bertrand Russell conta a história de um peru que descobrira, em sua primeira manhã na fazenda de perus, que fora alimentado às 9 da manhã. Contudo, ele não tirou conclusões apressadas. Esperou até recolher um grande número de observações do fato de que era alimentado às 9 da manhã e fez essas observações sob uma ampla variedade de circunstâncias, às quartas e quintas-feiras, em dias quentes e dias frios, em dias chuvosos e dias secos. A cada dia acrescentava uma outra proposição de observação à sua lista. Finalmente, sua consciência ficou satisfeita e ele concluiu. “Eu sou alimentado sempre às 9 da manhã”.\n\nCHALMERS, A. O que é ciência, afinal?\n\nSão Paulo: Brasiliense, 1993 (adaptado).",
     "files": [],
     "correctAlternative": "C",

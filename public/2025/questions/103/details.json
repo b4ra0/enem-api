@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "citologia"
+    ],
     "context": "A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.\n\nANDERSON, R. A. et al. In Situ Localization of the\n\nGenetic Locus Encoding [...]. Genomics,\n\nn. 1, jan. 1993 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais",
+        "ecologia"
+    ],
     "context": "O cágado-de-barbelas vive nas águas poluídas do Rio Preto, em São José do Rio Preto, interior de São Paulo. Os animais dessa espécie, usados em estudos de ecotoxicologia, são atraídos para esses locais por causa do acúmulo de matéria orgânica nos pontos de despejo de esgoto, ambientes com grande quantidade de metais e baixíssimo teor de oxigênio.\n\nDisponível em: www.unesp.br. Acesso em: 4 nov. 2014 (adaptado).",
     "files": [],
     "correctAlternative": "A",

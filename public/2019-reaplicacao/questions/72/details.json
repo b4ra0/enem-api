@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-contemporanea",
+        "teoria-conhecimento"
+    ],
     "context": "O espírito humano controla as máquinas cada vez mais potentes que criou. Mas a lógica dessas máquinas artificiais controla cada vez mais o espírito dos cientistas, sociólogos, políticos e, de modo mais abrangente, todos aqueles que, obedecendo à soberania do cálculo, ignoram tudo o que não é quantificável, ou seja, os sentimentos, sofrimentos, alegrias dos seres humanos. Essa lógica é assim aplicada ao conhecimento e à conduta das sociedades, e se espalha em todos os setores da vida.\n\nMORIN, E. O método 5: a humanidade da humanidade.\n\nPorto Alegre: Sulina, 2012 (adaptado).",
     "files": [],
     "correctAlternative": "D",

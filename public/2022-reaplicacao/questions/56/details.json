@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica",
+        "filosofia-contemporanea"
+    ],
     "context": "A história conheceu dois grandes títulos para governar os homens: um que se deve à filiação humana ou divina, ou seja, a superioridade no nascimento; e outro que se deve à organização das atividades produtoras e reprodutoras da sociedade, ou seja, o poder da riqueza. As sociedades são habitualmente governadas por uma combinação desses dois títulos.",
     "files": [],
     "correctAlternative": "C",

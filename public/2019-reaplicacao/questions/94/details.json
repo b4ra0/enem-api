@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "eletroquimica"
+    ],
     "context": "Algumas moedas utilizam cobre metálico em sua composição. Esse metal, ao ser exposto ao ar úmido, na presença de CO2, sofre oxidação formando o zinabre, um carbonato básico de fórmula Cu2(OH)2CO3, que é tóxico ao homem e, portanto, caracteriza-se como um poluente do meio ambiente. Com o objetivo de reduzir a contaminação com o zinabre, diminuir o custo de fabricação e aumentar a durabilidade das moedas, é comum utilizar ligas resultantes da associação do cobre com outro elemento metálico.",
     "files": [],
     "correctAlternative": "C",

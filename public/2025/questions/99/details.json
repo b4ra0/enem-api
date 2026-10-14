@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "evolucao"
+    ],
     "context": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.\n\nRUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais.\n\nDisponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).",
     "files": [],
     "correctAlternative": "C",

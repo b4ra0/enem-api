@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana",
+        "bioquimica"
+    ],
     "context": "Em uma atividade prática, um professor propôs o seguinte experimento:\n\nMateriais: copo plástico pequeno, leite e suco de limão.\n\nProcedimento: coloque leite até a metade do copo plástico e, em seguida, adicione lentamente 20 gotas de limão.",
     "files": [],
     "correctAlternative": "E",

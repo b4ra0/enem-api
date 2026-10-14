@@ -4,6 +4,11 @@
     "year": 2025,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "Remember the sky that you were born under,\nknow each of the star’s stories.\nRemember the moon, know who she is.\nRemember the sun’s birth at dawn. [...]\n\nRemember your birth, how your mother struggled\nto give you form and breath [...]\n\nRemember the earth whose skin you are:\nred earth, black earth, yellow earth, white earth\nbrown earth, we are earth.\nRemember the plants, trees, animal life who all have their tribes, their families, their histories, too [...]\n\nRemember you are all people and all people are you.\nRemember you are this universe and this universe is you.\n\nRemember all is in motion, is growing, is you.",
     "files": [],
     "correctAlternative": "D",

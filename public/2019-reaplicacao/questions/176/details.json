@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim",
+        "graficos-tabelas"
+    ],
     "context": "Em um município foi realizado um levantamento relativo ao número de médicos, obtendo-se os dados:\n\nAno\nMédicos\n1980\n137\n1985\n162\n1995\n212\n2010\n287",
     "files": [],
     "correctAlternative": "C",

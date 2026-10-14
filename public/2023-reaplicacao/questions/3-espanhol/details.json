@@ -4,6 +4,11 @@
     "year": 2023,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "vocabulario-contexto",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2023-reaplicacao/questions/3-espanhol/10f80903-288f-45f8-ab8c-6e51a7928608.png)\n\nLINIERS, R. S. Disponível em: https://muhimu.es. Acesso em: 15 out. 2021.",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/3-espanhol/10f80903-288f-45f8-ab8c-6e51a7928608.png"

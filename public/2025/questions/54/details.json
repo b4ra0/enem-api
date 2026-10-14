@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "populacao-migracoes",
+        "urbanizacao"
+    ],
     "context": "A ideia de êxodo urbano assume ares caricaturais. Pega a mais reduzida parte da pirâmide social e projeta para todos seus desejos defensivos. Se o êxodo urbano for compreendido como aquisição de uma segunda residência, então não estamos, de fato, falando de êxodo, mas da reversão de um excedente de renda de uma pequena fração da elite para as franjas metropolitanas. Se o êxodo urbano for compreendido como retorno aos municípios menos povoados, então não estamos, de fato, falando de êxodo urbano, mas de um movimento de migração de pessoas cuja estabilidade no emprego e a elevada renda lhes permitem simular, nas ilhas urbanas do interior agropecuário, a vida urbana metropolitana.\n\nARRAIS, T. A. O distópico êxodo urbano. Revista e, n. 11, maio 2021 (adaptado).",
     "files": [],
     "correctAlternative": "E",

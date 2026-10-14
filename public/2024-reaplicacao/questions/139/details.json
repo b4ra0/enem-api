@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "conjuntos-numericos"
+    ],
     "context": "O Relâmpago de Catatumbo é um fenômeno natural que gera muitas tempestades elétricas no estado de Zulia, Venezuela, por registrar a maior concentração de relâmpagos do mundo.\n\nDe acordo com a estatal Agência Venezuelana de\nNotícias, chegou-se a registrar, em um único ano, um milhão, cento e setenta e seis relâmpagos.\n\nDisponível em: http://g1.globo.com.\n\nAcesso em: 31 mar. 2014 (adaptado).",
     "files": [],
     "correctAlternative": "A",

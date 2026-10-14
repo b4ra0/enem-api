@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "bioquimica"
+    ],
     "context": "Atualmente, uma série de dietas alimentares têm sido divulgadas com os mais diferentes propósitos: para emagrecer, para melhorar a produtividade no trabalho e até mesmo dietas que rejuvenescem o cérebro. No entanto, poucas têm embasamento científico, e o consenso dos nutricionistas é que deve ser priorizada uma dieta balanceada, constituída de frutas e vegetais, uma fonte de carboidrato, uma de ácido graxo insaturado e uma de proteína. O quadro apresenta cinco dietas com supostas fontes de nutrientes.\n\nSupostas fontes de nutrientes de cinco dietas\n\nDieta\nCarboidrato\nÁcido graxo insaturado\nProteína\n1\nAzeite de oliva\nPeixes\nCarne de aves\n2\nCarne de aves\nMel\nNozes\n3\nNozes\nPeixes\nMel\n4\nMel\nAzeite de oliva\nCarne de aves\n5\nMel\nCarne de boi\nAzeite de oliva",
     "files": [],
     "correctAlternative": "D",

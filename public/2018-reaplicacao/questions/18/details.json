@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "Não há dúvidas de que, nos últimos tempos, em função da velocidade, do volume e da variedade da geração de informações, questões referentes à disseminação, ao armazenamento e ao acesso de dados têm se tornado complexas, de modo a desafiar homens e máquinas. Por meio de sistemas financeiros, de transporte, de segurança e de comunicação interpessoal – representados pelos mais variados dispositivos, de cartões de crédito a trens, aviões, passaportes e telefones celulares –, circulam fluxos informacionais que carregam o DNA da vida cotidiana do indivíduo contemporâneo. Para além do referido cenário informacional contemporâneo, percebe-se, nos contextos governamentais, um esforço – gerado por leis e decretos, ou mesmo por pressões democráticas – em disseminar informações de interesse público. No Brasil, está em vigor, desde maio de 2012, a Lei de Acesso à Informação n. 12.527. Em linhas gerais, a legislação regulamenta o direito à informação, já garantido na Constituição Federal, obrigando órgãos públicos a divulgarem os seus dados.\n\nSILVA JR., M. G. Vigiar, punir e viver. Minas faz Ciência, n. 58, 2014 (adaptado).",
     "files": [],
     "correctAlternative": "E",

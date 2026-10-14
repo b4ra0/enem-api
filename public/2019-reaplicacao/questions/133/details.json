@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "Pesquisadores descobriram que uma espécie de abelha sem ferrão nativa do Brasil — a mandaguari (Scaptotrigona depilis) — cultiva um fungo nos ninhos dentro da colmeia. Após observações, verificaram que a sobrevivência das larvas da abelha depende da ingestão de filamentos do fungo, que produz metabólitos secundários com ação antimicrobiana, antitumoral e imunológica, além da alimentação convencional. Por sua vez, o fungo depende da abelha para se reproduzir e garante a sua multiplicação ao longo das gerações.\n\nMIURA, J. Pequenas agricultoras: abelhas Mandaguari cultivam\n\nfungos para alimentar suas larvas. Disponível em:\n\nwww.embrapa.br. Acesso em: 3 maio 2019 (adaptado).",
     "files": [],
     "correctAlternative": "D",

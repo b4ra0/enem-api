@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "bioquimica",
+        "citologia"
+    ],
     "context": "As algas são uma opção sustentável na produção de biocombustível, pois possuem estrutura simples e se reproduzem mais rapidamente que os vegetais, além da grande capacidade de absorverem dióxido de carbono. Esses organismos não são constituídos por tecidos heterogêneos, entretanto, assim como os vegetais, possuem parede celular.\n\nAlgas podem substituir metade do petróleo e inaugurar\n\nquímica verde (Agência Fapesp, 16/08/2010).\n\nDisponível em: www.inovacaotecnologica.com.br.\n\nAcesso em: 1 ago. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "C",

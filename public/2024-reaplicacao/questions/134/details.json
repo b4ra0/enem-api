@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia",
+        "genetica"
+    ],
     "context": "Problemas no DNA são responsáveis por cerca de metade dos casos de perda de audição na infância. Um estudo com camundongos mostrou que a injeção de um vírus, geneticamente modificado, no embrião desses animais pode corrigir o problema e restaurar parte da audição.\n\nDisponível em: www.bbc.com. Acesso em: 11 jul. 2015 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2023-reaplicacao/questions/34/9e281a6d-a176-46e2-8aed-d3840df887ff.png)\n\nDisponível em: www.fapcom.edu.br. Acesso em: 20 nov. 2021.",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/34/9e281a6d-a176-46e2-8aed-d3840df887ff.png"

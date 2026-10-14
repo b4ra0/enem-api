@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria",
+        "eletroquimica"
+    ],
     "context": "Objetos de prata sofrem escurecimento devido à sua reação com enxofre. Estes materiais recuperam seu brilho característico quando envoltos por papel alumínio e mergulhados em um recipiente contendo água quente e sal de cozinha.\n\nA reação não balanceada que ocorre é:\n\nAg2S (s) + Al (s) → Al2S3 (s) + Ag (s)\n\nDados da massa molar dos elementos (g mol−1):\nAg = 108; S = 32.\n\nUCKO, D. A. Química para as ciências da saúde: uma introdução à química geral,\n\norgânica e biológica. São Paulo: Manole, 1995 (adaptado).",
     "files": [],
     "correctAlternative": "D",

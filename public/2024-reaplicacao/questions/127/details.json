@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia"
+    ],
     "context": "Atualmente, temos um número considerável de alternativas de fontes primárias de energia: geotérmica, maremotriz, biomassa, nuclear e eólica. Essas são usadas para obtenção de energias secundárias, como a energia elétrica.\n\nDisponível em: www.energiasdomundo.com.br.\n\nAcesso em: 24 nov. 2014 (adaptado).",
     "files": [],
     "correctAlternative": "C",

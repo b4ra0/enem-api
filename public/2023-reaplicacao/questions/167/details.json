@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas"
+    ],
     "context": "Um estudante de arquitetura projetou um prédio de 32 m de altura a ser construído em uma maquete, em papel-cartão, na escala 1 : 50.\n\nNesse caso, na maquete, a altura do prédio mede",
     "files": [],
     "correctAlternative": "C",

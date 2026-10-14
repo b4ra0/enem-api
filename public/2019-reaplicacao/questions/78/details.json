@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao",
+        "transportes-circulacao"
+    ],
     "context": "Estima-se que no Brasil mais de 20% da população tenha algum tipo de dificuldade de locomoção, seja por deficiência física, motora, sensorial ou mesmo por uma condição específica transitória. Para que essa parcela da população exerça plenamente o seu direito constitucional de ir e vir, os sistemas de transporte têm de apresentar características adequadas de acessibilidade, dentro dos conceitos do desenho universal.\n\nIPEA. Políticas de melhoria das condições de acessibilidade do",
     "files": [],
     "correctAlternative": "B",

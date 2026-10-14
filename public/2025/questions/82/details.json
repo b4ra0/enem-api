@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-antiga",
+        "filosofia-politica"
+    ],
     "context": "A cidade justa é governada pelos filósofos, administrada pelos cientistas, protegida pelos guerreiros e mantida pelos produtores. Cada classe cumprirá sua função para o bem da pólis, racionalmente dirigida pelos filósofos. Em contrapartida, a cidade injusta é aquela onde o governo está nas mãos dos proprietários — que não pensam no bem comum da pólis e lutarão por interesses econômicos particulares.\n\nCHAUÍ, M. Convite à filosofia. São Paulo: Ática, 2000.",
     "files": [],
     "correctAlternative": "E",

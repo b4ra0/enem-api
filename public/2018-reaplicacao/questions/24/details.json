@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "coesao-coerencia"
+    ],
     "context": "Ocorre que a grande obra nunca é apenas a tradução do engenho e arte do seu autor, seja este escritor, filósofo, cientista, pintor, músico, arquiteto, escultor, cineasta. Em geral, a grande obra é também, ou mesmo principalmente, a expressão do clima sociocultural, intelectual, científico, filosófico e artístico da época, conforme se expressa em alguma coletividade, grupo social, etnia, gênero ou povo.\n\nIANNI, O. Variações sobre arte e ciência. Tempo Social, n. 1, jun. 2004.",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "fisiologia-humana"
+    ],
     "context": "As anfetaminas são drogas sintéticas utilizadas como moderadores de apetite no tratamento de obesidade. Essas drogas atuam sobre receptores celulares estimulando a produção de adrenalina, um hormônio catabólico responsável por várias funções fisiológicas no organismo. Entretanto, a produção exagerada desse hormônio pode gerar mudanças fisiológicas indesejáveis e até perigosas para a saúde.\nA alteração fisiológica observada pelo uso indevido dessas drogas é o(a)",
     "files": [],
     "correctAlternative": "E",

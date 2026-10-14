@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-quimicas",
+        "funcoes-inorganicas"
+    ],
     "context": "O ácido sulfúrico é uma das principais substâncias produzidas industrialmente no mundo. O esquema apresenta, de forma simplificada, as etapas de sua produção.\n\n![](https://enem.dev/2024-reaplicacao/questions/109/ded530d8-b8b6-4940-8566-6f37bb462a95.png)",
     "files": [
         "https://enem.dev/2024-reaplicacao/questions/109/ded530d8-b8b6-4940-8566-6f37bb462a95.png"

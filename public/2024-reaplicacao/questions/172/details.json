@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "razao-proporcao"
+    ],
     "context": "Uma fábrica utiliza latas cilíndricas como embalagem de seus produtos. Para embalar um novo produto, essa fábrica necessitará de latas cilíndricas com, no mínimo, o triplo da capacidade volumétrica das que estão em uso, e com o menor custo possível. O representante de uma empresa de embalagens disponibilizou para essa fábrica cinco opções de latas, relacionando as medidas das latas novas com as que estão em uso. São elas:\n\n• I: multiplicar a medida do raio por 6 e manter a da altura;\n• II: triplicar as medidas da área da base e da altura;\n• III: triplicar a medida do raio e manter a da altura;\n• IV: manter a medida do raio e triplicar a da altura;\n• V: triplicar as medidas do raio e da altura.\n\nO preço de cada lata é diretamente proporcional à sua capacidade volumétrica.",
     "files": [],
     "correctAlternative": "D",

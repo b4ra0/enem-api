@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "zoologia"
+    ],
     "context": "O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro.\n\nTeste\nResultado\n\nAedes aegypti (larvas)\nBaixa eficiência\n\nBacilo de Koch\nMédia eficiência\n\nMoluscos aquáticos (adultos)\nAlta eficiência\n\nPernilongo (larvas)\nMédia eficiência\n\nVermes platelmintos\nIneficiente",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "Um torrefador comprou uma saca de 60 kg de café especial cru (antes de torrar) por R$ 400,00. Devido à perda de umidade durante o processo de torrefação, são perdidos 10 kg de café por saca.",
     "files": [],
     "correctAlternative": "B",

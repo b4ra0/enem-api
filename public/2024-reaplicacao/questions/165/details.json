@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "equacoes-inequacoes"
+    ],
     "context": "Para estimar a quantidade de tijolos a ser usada na construção de uma parede, é necessário saber como o tijolo será assentado, pois a estimativa depende de qual face do tijolo ficará aparente na parede.\n\nEm uma obra, um pedreiro deverá construir uma parede, na qual haverá uma janela, ambas em formato retangular, utilizando tijolos em forma de blocos de faces também retangulares, com as medidas indicadas na figura a seguir.\n\n![](https://enem.dev/2024-reaplicacao/questions/165/283679e1-628e-44b4-b6dd-137ec11d3104.png)\n\nSegundo as orientações que recebeu, a janela não poderá ser tão pequena a ponto de a medida de sua área equivaler à área da face aparente de 100 tijolos, e nem tão grande a ponto de ocupar uma área de medida maior ou\n\nigual a 1\n\n6\n da medida da área da parede, na situação em\n\nque não houvesse janela na parede. Despreze a espessura da massa para assentar esses tijolos.",
     "files": [
         "https://enem.dev/2024-reaplicacao/questions/165/283679e1-628e-44b4-b6dd-137ec11d3104.png"

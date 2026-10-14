@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas"
+    ],
     "context": "Um dos materiais mais antigos e ainda utilizados na restauração dos dentes são as amálgamas, um produto da combinação de mercúrio (Hg) com prata (Ag) e estanho (Sn), como apresenta a equação química:\n\n24 Ag (s) + 8 Sn (s) + 37 Hg (l) → 12 Ag2Hg3 (s) + Sn8Hg (s)\n\nOs materiais formados pelos elementos citados são caracterizados como",
     "files": [],
     "correctAlternative": "B",

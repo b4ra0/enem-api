@@ -4,6 +4,12 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria",
+        "solucoes",
+        "acidos-bases-ph"
+    ],
     "context": "O vinagre é um produto alimentício resultante da fermentação do vinho que, de acordo com a legislação nacional, deve apresentar um teor mínimo de ácido acético (CH3COOH) de 4% (v/v). Uma empresa está desenvolvendo um kit para que a inspeção sanitária seja capaz de determinar se alíquotas de 1 mL de amostras de vinagre estão de acordo com a legislação.\n\nEsse kit é composto por uma ampola que contém uma\n\nsolução aquosa de Ca(OH)2 0,1 mol\n\nL e um indicador\n\nque faz com que a solução fique cor-de-rosa, se estiver\n\nbásica, e incolor, se estiver neutra ou ácida. Considere\n\na densidade do ácido acético igual a 1,10 g\n\ncm3 , a massa\n\nmolar do ácido acético igual a 60 g\n\nmol e a massa molar\n\ndo hidróxido de cálcio igual a 74 g\n\nmol .",
     "files": [],
     "correctAlternative": "A",

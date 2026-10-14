@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "microbiologia"
+    ],
     "context": "Uma prática que os brasileiros costumam realizar é a degustação de doces em compotas. O conhecimento popular indica que não é aceitável deixar o mesmo talher usado na degustação e levado à boca dentro da compoteira aberta, em contato com o doce. Essa indicação se deve ao fato de que o doce, no pensamento popular, poderá azedar.\n\nEssa prática popular encontra respaldo no pensamento científico, uma vez que o doce realmente poderá azedar em razão da",
     "files": [],
     "correctAlternative": "B",

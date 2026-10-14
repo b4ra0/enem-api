@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "literatura",
+    "topics": [
+        "modernismo",
+        "generos-literarios"
+    ],
     "context": "As montanhas correm agora, lá fora, umas atrás das outras, hostis e espectrais, desertas de vontades novas que as humanizem, esquecidas já dos antigos homens lendários que as povoaram e dominaram.\n\nCarregam nos seus dorsos poderosos as pequenas cidades decadentes, como uma doença aviltante e tenaz, que se aninhou para sempre em suas dobras. Não podendo matá-las de todo ou arrancá-las de si e vencer, elas resignam-se e as ocultam com sua vegetação escura e densa, que lhes serve de coberta, e resguardam o seu sonho imperial de ferro e ouro.",
     "files": [],
     "correctAlternative": "B",

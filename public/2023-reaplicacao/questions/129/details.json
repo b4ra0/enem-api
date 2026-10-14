@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais"
+    ],
     "context": "Fatores como introdução de espécies exóticas, destruição de hábitats e caça predatória têm como impacto a perda de biodiversidade. Isso tem como possível consequência a redução do potencial para gerar alimentos e produzir medicamentos.\n\nUma medida efetiva para a redução desse impacto é o(a)",
     "files": [],
     "correctAlternative": "A",

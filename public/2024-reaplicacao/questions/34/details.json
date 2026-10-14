@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "Foi instaurada a Comissão Temporária de Inteligência Artificial (CTIA) no Senado Federal. O objetivo: discutir diferentes projetos de lei sobre o uso da tecnologia.\n\nA Inteligência Artificial (IA) vem se mostrando uma ferramenta para otimização de demandas no setor público e, ao mesmo tempo, uma preocupação para o processo democrático. Por um lado, ela já é usada em tribunais para a aceleração de procedimentos burocráticos e decisões sobre aposentadoria. Por outro lado, a tecnologia também vem sendo utilizada para a desinformação, como na criação de imagens de fatos que não aconteceram na realidade.\n\nA comissão, que já discutiu os impactos da IA na agricultura, no meio acadêmico e na indústria, debateu os efeitos da tecnologia no jornalismo e no processo eleitoral.\n\nUma advogada e professora do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP) falou sobre os desafios da implementação segura da tecnologia: “Não existe nenhum mecanismo hoje, nenhum software, que vá identificar se um conteúdo é produzido por Inteligência Artificial”.\n\nDisponível em: www.cartacapital.com.br.\n\nAcesso em: 2 fev. 2024 (adaptado).",
     "files": [],
     "correctAlternative": "B",

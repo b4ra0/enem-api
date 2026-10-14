@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo",
+        "energia-recursos"
+    ],
     "context": "Petrobras identifica a presença de hidrocarbonetos\n\nem poço na Bacia de Santos\n\nA Petrobras anunciou que identificou a presença de hidrocarbonetos (que dão origem ao petróleo) no pré-sal da Bacia de Santos, em poço pioneiro do bloco Aram. Segundo a estatal, o poço 1-BRSA-1381-SPS (Curaçao) está localizado a 240 km da cidade de Santos, no litoral de São Paulo, em profundidade de 1 905 m. A Petrobras informou que o intervalo portador de petróleo foi constatado por meio de perfis elétricos e amostras de fluido, que serão posteriormente caracterizados por análises de laboratório. Esses dados permitirão avaliar o potencial e direcionar as próximas atividades exploratórias na área.\n\nDisponível em: https://g1.globo.com. Acesso em: 20 dez. 2021 (adaptado).\n\nA ocorrência do recurso natural na área destacada está relacionada à",
     "files": [],
     "correctAlternative": "E",

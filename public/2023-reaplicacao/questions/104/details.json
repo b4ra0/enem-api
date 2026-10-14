@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termodinamica"
+    ],
     "context": "Na última década, para melhorar a performance dos motores a combustão e reduzir o consumo, a indústria automobilística tem investido cada vez mais no desenvolvimento dos turbocompressores.\nO turbocompressor é formado por duas câmaras distintas, chamadas caixa fria e caixa quente. No interior de cada uma dessas caixas, existe um rotor e ambos são interligados por um mesmo eixo. Com a caixa quente instalada no coletor de escapamento, a passagem dos gases faz girar o rotor. Consequentemente, gira também o rotor da caixa fria, produzindo a compressão. Em alguns modelos, é instalado, entre a turbina e a câmara de explosão, um dispositivo denominado intercooler, que é reconhecido como um dos componentes principais para melhorar a performance dos motores turbo. O intercooler é uma espécie de radiador ou, mais especificamente, um permutador de calor. Ele é posicionado entre o turbo e o coletor de admissão, tendo como uma das principais vantagens a redução da temperatura do ar quente que sai do turbo.\n\nDisponível em: www.turbocenter.com.br. Acesso em: 21 nov. 2019 (adaptado).",
     "files": [],
     "correctAlternative": "B",

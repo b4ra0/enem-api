@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "potencias-notacao-cientifica"
+    ],
     "context": "As hemácias são células sanguíneas responsáveis pelo\ntransporte\nde\numa\nsubstância\nchamada\nhemoglobina, a qual tem a função de levar oxigênio dos pulmões para os tecidos. Hemácias normais têm diâmetro médio de 7,8 x 10 -6 metros.\n\nGUYTON, A. C.; HALL, J. E. Tratado de fisiologia médica.\n\nRio de Janeiro: Elsevier, 2006 (adaptado).\n\nO diâmetro médio dessas hemácias, em metros, é\n\nrepresentado pela razão 78\n\n, em que d é igual a\n\nd",
     "files": [],
     "correctAlternative": "D",

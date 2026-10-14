@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2023-reaplicacao/questions/31/f598b1c7-9cc5-49db-bf75-b6a86a222db0.png)\n\nDisponível em: https://facebook.com/SenadoFederal. Acesso em: 1 nov. 2021.",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/31/f598b1c7-9cc5-49db-bf75-b6a86a222db0.png"

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "argumentacao"
+    ],
     "context": "![](https://enem.dev/2018-reaplicacao/questions/13/83074517-28d9-41ff-9549-1c2f63c8ae73.png)\n\nDisponível em: www.pedal.com.br. Acesso em: 3 jul. 2014 (adaptado).",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/13/83074517-28d9-41ff-9549-1c2f63c8ae73.png"

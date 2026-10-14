@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "cinematica"
+    ],
     "context": "Duas pessoas saem de suas casas para se exercitarem numa pista retilínea cujo comprimento é D. Elas percorrem todo o percurso e, ao final dele, retornam ao ponto de partida pelo mesmo caminho. A primeira delas caminha com velocidade de módulo v, e a segunda corre com uma velocidade de módulo 2v. As duas partem do mesmo ponto, no mesmo instante.\n\nA distância percorrida pela segunda pessoa até o ponto em que as duas se encontram pela primeira vez é",
     "files": [],
     "correctAlternative": "C",

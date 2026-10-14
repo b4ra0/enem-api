@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-contemporanea"
+    ],
     "context": "Independência de pensamento, autonomia e direito à oposição política estão perdendo sua função crítica básica numa sociedade que parece cada vez mais capaz de atender às necessidades dos indivíduos através da forma pela qual é organizada. Nas condições de um padrão de vida crescente, o não conformismo com o próprio sistema parece socialmente inútil, principalmente quando acarreta desvantagens econômicas e políticas tangíveis e ameaça o funcionamento suave do todo.\n\nMARCUSE, H. Ideologia da sociedade industrial.\n\nRio de Janeiro: Zahar, 1969.",
     "files": [],
     "correctAlternative": "D",

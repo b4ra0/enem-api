@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos"
+    ],
     "context": "Pesquisa pioneira no Brasil propõe o uso de\n\nenergia do solo para climatizar edifícios\n\nPela primeira vez na história, o Brasil terá um prédio que usa energia do solo para climatizar seus ambientes. Uma pesquisa inovadora avaliou o uso das fundações de edifícios como meio para a troca de energia térmica entre o prédio e o subsolo. A energia geotérmica é aquela encontrada dentro da crosta terrestre, seja no solo, nas rochas ou mesmo na água, sendo identificada pela temperatura. Essa energia pode ser transferida para a superfície por processos de troca térmica a partir das fundações da edificação.\n\nDisponível em: https://jornal.usp.br. Acesso em: 7 nov. 2021 (adaptado). Para o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de",
     "files": [],
     "correctAlternative": "C",

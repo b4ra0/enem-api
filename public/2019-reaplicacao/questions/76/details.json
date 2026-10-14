@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao"
+    ],
     "context": "A cidade\nE a situação sempre mais ou menos,\nSempre uns com mais e outros com menos.\nA cidade não para, a cidade só cresce\nO de cima sobe e o de baixo desce.\n\nCHICO SCIENCE e Nação Zumbi. In: Da lama ao caos.",
     "files": [],
     "correctAlternative": "E",

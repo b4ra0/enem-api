@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "A porca e os sete leitões\n\nÉ um mito que está desaparecendo, pouca gente o conhece. É provável que a geração infantil atual o desconheça. (Em nossa infância em Botucatu, ouvimos falar que aparecia atrás da igreja de São Benedito no largo do Rosário.) Aparece atrás das igrejas antigas. Não faz mal a ninguém, pode-se correr para apanhá-la com seus bacorinhos que não se conseguirá. Desaparecem do lugar costumeiro da aparição, a qual só se dá à noite, depois de terem “cumprido a sina”.\n\nEm São Luís do Paraitinga, informaram que se a gente atirar contra a porca, o tiro não acerta. Ninguém é dono dela e por muitos anos apareceu atrás da igreja de Nossa Senhora das Mercês, na cidade onde nasceu Oswaldo Cruz.\n\nARAÚJO, A. M. Folclore nacional I: festas, bailados, mitos e lendas.\n\nSão Paulo: Martins Fontes, 2004.",
     "files": [],
     "correctAlternative": "A",

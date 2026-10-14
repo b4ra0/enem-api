@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "progressao-geometrica",
+        "potencias-notacao-cientifica"
+    ],
     "context": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas:\n\nEtapas\nVisor de escrita\n\n1ª etapa: inseriu três fi guras\ndo tipo\n no visor de\nescrita da mensagem;\n\n2ª etapa: copiou o que havia\ninserido anteriormente e\ncolou (inseriu o que havia\ncopiado) ao lado;\n\n3ª etapa: copiou o que tinha\nno visor na 2ª etapa e colou\nao lado.\n\nA criança seguiu copiando e colando, em cada etapa, o que tinha no visor na etapa imediatamente anterior, até concluir a 20ª etapa. Em seguida, enviou a mensagem.",
     "files": [],
     "correctAlternative": "A",

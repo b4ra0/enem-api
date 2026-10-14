@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "razao-proporcao"
+    ],
     "context": "Toda a iluminação de um escritório é feita utilizando-se 40 lâmpadas incandescentes que produzem 600 lúmens (lúmen = unidade de energia luminosa) cada. O gerente planeja reestruturar o sistema de iluminação desse escritório, utilizando somente lâmpadas fluorescentes que produzem 1 600 lúmens, para aumentar a quantidade de energia luminosa em 50%.\nPara alcançar seu objetivo, a quantidade mínima de lâmpadas fluorescentes que o gerente desse escritório deverá instalar é",
     "files": [],
     "correctAlternative": "E",

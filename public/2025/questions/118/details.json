@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "hidrostatica"
+    ],
     "context": "A laje de um depósito de bebidas tem 50 m2 de área útil de armazenamento e foi projetada para suportar pressões de até 104 Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é 1 250 kg/m3. Considere a aceleração da gravidade igual a 10 m/s2.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "equacoes-inequacoes",
+        "porcentagem"
+    ],
     "context": "Uma empresa produziu, em um determinado mês, 110 toneladas de plástico a partir de derivados de petróleo e 80 toneladas a partir de plásticos reciclados. O custo para reciclar uma tonelada de plástico é de R$ 500,00, que equivale a 5% do custo para produzir a mesma quantidade de plástico a partir de derivados de petróleo. Para o mês seguinte, a meta dessa empresa é produzir a mesma quantidade de plástico que foi produzida nesse mês, mas com redução de, pelo menos, 50% no custo de produção.",
     "files": [],
     "correctAlternative": "B",

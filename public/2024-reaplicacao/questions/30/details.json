@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "Aplicativos de rastreamento ajudam os pais a manter o controle — mas até onde eles podem ir sem afetar a tranquilidade das famílias? Uma mãe estava ansiosa por saber se o seu filho havia retornado com segurança ao apartamento dele no Texas, nos Estados Unidos, depois de uma recente visita à família. Mas, em vez de esperar que ele ligasse ou enviasse uma mensagem de texto, a mãe — que mora em Baltimore, também nos EUA — estava cuidando das suas tarefas diárias enquanto aguardava um som tranquilizador — um plim — no seu telefone. Isso porque, como 32 milhões de outras pessoas em todo o mundo, Spector e toda a sua família têm o aplicativo instalado nos seus telefones.\n\nO aplicativo controla permanentemente o paradeiro dos seus três filhos, informando a ela quando eles estão em trânsito, quando estão em segurança em casa, se estão em algum lugar onde não deveriam estar e enviando uma série de outras informações. “Se eles chegam à escola, o celular faz plim. Se eles chegam em casa, plim”, conta Spector, que é advogada de patentes. “É apenas uma forma de a família saber onde todos estão.”.\n\nDisponível em: www.bbc.com. Acesso em: 24 nov. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "E",

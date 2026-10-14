@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "povos-indigenas",
+        "patrimonio-memoria"
+    ],
     "context": "Os povos indígenas têm o direito de manter, controlar, proteger e desenvolver seu patrimônio cultural, seus conhecimentos do passado, suas expressões culturais e as manifestações de suas ciências, tecnologias e culturas, compreendidos os recursos humanos e genéticos, as sementes, os medicamentos, o conhecimento das propriedades da fauna e da flora, as transmissões orais, as literaturas, os desenhos, os esportes, os jogos e as artes visuais e interpretativas.\n\nDeclaração das Nações Unidas sobre os Direitos dos Povos Indígenas.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia"
+    ],
     "context": "1\n2\n\n1. Coleta e cultivo in vitro das células do paciente;\n2. Transdução com vetor carregando o gene terapêutico;\n3. Seleção e expansão das células com gene terapêutico;\n4. Reintrodução das células modificadas no paciente.\n\nDisponível em: www.repositorio.uniceub.br.\n\nAcesso em: 3 maio 2019 (adaptado).",
     "files": [],
     "correctAlternative": "D",

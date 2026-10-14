@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "Foram 11 bilhões de palavras examinadas em mais de três milhões de livros que mostraram que a linguagem usada em romances, durante mais de cem anos, é sexista. Um grupo de cientistas realizou um descomunal trabalho de campo no qual analisou de forma maciça textos escritos em inglês em livros publicados entre 1900 e 2008. O que foi analisado exatamente? A correlação entre gêneros e qualificativos em busca de um padrão: o tratamento diferente entre mulheres e homens em textos escritos.\n\nO estudo utilizou um sistema baseado em inteligência artificial e aprendizagem de máquina para analisar, palavra por palavra, as obras publicadas nesse período. A análise concluiu que as mulheres recebem apenas qualificativos relacionados ao seu físico, enquanto para os homens as referências se concentram principalmente em sua força e personalidade. Os atributos negativos relacionados ao físico e à aparência nessas obras são observados até cinco vezes mais nas mulheres do que nos homens.\n\nOs algoritmos aprendem com os textos já escritos e publicados. Assim, um sistema pode considerar bom um modelo que se repete várias vezes (por exemplo, aquele relacionado à beleza e à mulher) e assimilá-lo em sua execução atual.\n\nZURIARRAIN, J. M. Disponível em: https://brasil.elpais.com.\n\nAcesso em: 5 nov. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "B",

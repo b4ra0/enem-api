@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "etica-moral"
+    ],
     "context": "Uma criança com deficiência mental deve ser mantida em casa ou mandada a uma instituição? Um parente mais velho que costuma causar problemas deve ser cuidado ou podemos pedir que vá embora? Um casamento infeliz deve ser prolongado pelo bem das crianças?\n\nMURDOCH, I. A soberania do bem. São Paulo: Unesp, 2013.",
     "files": [],
     "correctAlternative": "D",

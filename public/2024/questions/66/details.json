@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "populacao-migracoes"
+    ],
     "context": "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional.\n\nDIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas\n\nanticoncepcionais em A Gazeta da Farmácia, 1960-1981. História,\n\nCiências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado).",
     "files": [],
     "correctAlternative": "C",

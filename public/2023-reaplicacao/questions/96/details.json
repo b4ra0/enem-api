@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais"
+    ],
     "context": "A primeira experiência empresarial de mineração da Amazônia ocorreu no Amapá, em 1945, com a exploração de manganês na Serra do Navio. Para atender às exigências do mercado consumidor, foi inicialmente lavrado o minério de alto teor (média de 40% de Mn), correspondendo a cerca de 22 milhões de toneladas, o que comprometeu a vida útil da jazida. As atividades de lavra foram interrompidas em 1998 por causa da exaustão do minério economicamente viável, sendo que, do ponto de vista ambiental, pouco mais de 50% da área atingida durante a atividade mineradora foi recuperada. Contudo, as consequências mais danosas do empreendimento não foram apenas de ordem ambiental, mas também social. A população local viu seu minério ser esgotado sem receber ajuda de programas que lhe garantissem emprego alternativo e condições de vida dignas.\n\nAmazônia: a floresta e o futuro. Scientific American Brasil, n. 2, 2008 (adaptado).",
     "files": [],
     "correctAlternative": "B",

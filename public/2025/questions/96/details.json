@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "zoologia",
+        "ecologia"
+    ],
     "context": "Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.\n\nBADIO, B. et al. Epibatidine: Discovery and Definition as a Potent\n\nAnalgesic and Nicotinic Agonist. Med. Chem. Res.,\n\nn. 4, 1994 (adaptado).",
     "files": [],
     "correctAlternative": "B",

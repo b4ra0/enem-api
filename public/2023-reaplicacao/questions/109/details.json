@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico"
+    ],
     "context": "O etanol de segunda geração envolve o reaproveitamento dos resíduos do bagaço da cana e sua produção ocorre em um sistema fechado contínuo, que evita a evaporação. A figura ilustra esse processo.\n\nBagaço de\ncana-de-açúcar\n\nHidrólise\nenzimática\n\nn\n\nCORONA CARVALHO, J. A. et al. Bagaço de cana-de-açúcar como fonte de glicose: pré-tratamento. Revista Virtual de Química, n. 9, nov. 2016 (adaptado).",
     "files": [],
     "correctAlternative": "E",

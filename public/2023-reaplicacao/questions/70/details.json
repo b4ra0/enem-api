@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-colonia",
+        "povos-indigenas"
+    ],
     "context": "Antônio Vieira enfrentou a Inquisição portuguesa, de olho no apoio que os judeus portugueses podiam oferecer à causa da Restauração. Mas a Companhia de Jesus e a Inquisição portuguesa nunca foram muito amigas. Basta lembrar a estratégia missionária dos jesuítas, calcada na adaptação do catolicismo à cultura dos povos missionados, enquanto a Inquisição era obcecada pelo ideal de pureza da fé, sem mistura de nenhum tipo.\n\nVAINFAS, R. In: FIGUEIREDO, L. (Org.). História do Brasil para ocupados.\n\nRio de Janeiro: Casa da Palavra, 2013.\n\nNo contexto da dominação ibérica da América, um exemplo do dissenso referido no texto girou em torno da",
     "files": [],
     "correctAlternative": "C",

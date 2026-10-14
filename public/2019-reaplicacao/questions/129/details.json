@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "termoquimica",
+        "estequiometria"
+    ],
     "context": "O etanol é um combustível renovável obtido da cana-de-açúcar e é menos poluente do que os combustíveis fósseis, como a gasolina e o diesel. O etanol tem densidade 0,8 g\n\ncm3 , massa molar 46 g\n\nmol e calor de\n\ncombustão aproximado de −1 300 kJ\n\nmol . Com o grande aumento da frota de veículos, tem sido incentivada a produção de carros bicombustíveis econômicos, que são capazes de render até 20 km\n\nL em rodovias, para\n\ndiminuir a emissão de poluentes atmosféricos.",
     "files": [],
     "correctAlternative": "B",

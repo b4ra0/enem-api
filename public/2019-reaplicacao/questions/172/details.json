@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Para a compra de um repelente eletrônico, uma pessoa fez uma pesquisa nos mercados de seu bairro. Cada tipo de repelente pesquisado traz escrito no rótulo da embalagem as informações quanto à duração, em dia, associada à quantidade de horas de utilização por dia. Essas informações e o preço por unidade foram representados no quadro.\n\nTipo\nDuração\n\nHoras por dia\n\nPreço\nem real\n\nem dia\n\nde utilização\n\nI\n30\n12\n12,00\n\nII\n32\n9\n9,00\n\nIII\n40\n10\n10,00\n\nIV\n44\n8\n11,00\n\nV\n48\n8\n12,00\n\nA pessoa comprará aquele que apresentar o menor custo diário, quando ligado durante 8 horas por dia.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia",
+        "saude-doencas"
+    ],
     "context": "Uma notícia traz esperança a pessoas com certos tipos sanguíneos. Pesquisadores europeus conseguiram injetar, com sucesso, glóbulos vermelhos originados a partir de células-tronco em uma pessoa.\n\nFolha de S. Paulo, 3 set. 2011 (adaptado).",
     "files": [],
     "correctAlternative": "B",

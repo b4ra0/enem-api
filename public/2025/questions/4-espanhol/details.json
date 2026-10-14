@@ -4,6 +4,11 @@
     "year": 2025,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "aspectos-culturais",
+        "vocabulario-contexto"
+    ],
     "context": "![](https://enem.dev/2025/questions/4-espanhol/7afe8839-d129-4f00-b253-02984fc53851.png)\n\nMORGAN, J. Disponível em: www3.gobiernodecanarias.org. Acesso em: 5 maio 2024.",
     "files": [
         "https://enem.dev/2025/questions/4-espanhol/7afe8839-d129-4f00-b253-02984fc53851.png"

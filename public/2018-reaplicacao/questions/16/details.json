@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais",
+        "historia-arte"
+    ],
     "context": "![](https://enem.dev/2018-reaplicacao/questions/16/49aa6d66-fedb-4541-b377-1c788553f3e3.png)\n\nAMARAL, T. EFCB. Óleo sobre tela. 56 cm x 65 cm, 1924.\n\nDisponível em: www.wikiart.org. Acesso em: 11 fev. 2015.",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/16/49aa6d66-fedb-4541-b377-1c788553f3e3.png"

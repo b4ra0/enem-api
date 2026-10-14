@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "graficos-tabelas"
+    ],
     "context": "Na cantina de uma escola, há cinco alimentos vendidos em pacotes com diferentes quantidades de porções.\n\nAs informações nutricionais contidas nos rótulos desses produtos estão indicadas nas imagens.\n\n![](https://enem.dev/2025/questions/143/987f2e68-32ca-470a-afa5-c8648da8f457.png)\n\nUma estudante opta sempre pelo alimento com a menor\nquantidade total de sódio por pacote.",
     "files": [
         "https://enem.dev/2025/questions/143/987f2e68-32ca-470a-afa5-c8648da8f457.png"

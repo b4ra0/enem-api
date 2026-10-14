@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logica-raciocinio"
+    ],
     "context": "Os quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo.\nO quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste.\n\n![](https://enem.dev/2025/questions/161/cdcaef7e-9dab-472d-af48-c8060b05ec7b.png)",
     "files": [
         "https://enem.dev/2025/questions/161/cdcaef7e-9dab-472d-af48-c8060b05ec7b.png"

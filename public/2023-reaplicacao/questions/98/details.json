@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "funcoes-inorganicas"
+    ],
     "context": "A disponibilidade de nutrientes do solo (fertilidade) está associada à capacidade de ceder nutrientes essenciais às plantas, a qual é dependente do pH do solo. O cultivo agrícola para grande parte das espécies vegetais desenvolve-se de forma adequada no pH próximo a 6. Para isso, os produtores rurais realizam práticas agrícolas e manejo do solo de forma a minimizar os efeitos deletérios do alumínio, manganês e excesso de ferro, além de potencializar a disponibilidade de outros nutrientes, como cálcio, potássio, magnésio e fósforo. Considere um solo alcalino no qual se deseja realizar o manejo a fim de ajustar o pH e aumentar sua fertilidade.\n\nCARDOSO, E. J. B. N.; ANDREOTE, F. D. Microbiologia do solo. Piracicaba: Esalq, 2016 (adaptado).",
     "files": [],
     "correctAlternative": "E",

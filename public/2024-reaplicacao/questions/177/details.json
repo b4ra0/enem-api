@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas",
+        "geometria-plana"
+    ],
     "context": "Na planta baixa de uma casa, um quarto retangular, cuja área é de 24 m2, está representado por um retângulo com lados medindo 0,10 m e 0,15 m.",
     "files": [],
     "correctAlternative": "B",

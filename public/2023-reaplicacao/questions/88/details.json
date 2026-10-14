@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "historia-africa"
+    ],
     "context": "Na medida em que as pesquisas dos africanistas avançaram, muitos mitos caíram por terra. Está mais do que provada a existência de documentação e vestígios arqueológicos dos mais variados, além da importância da oralidade na recuperação da memória dos reinos, das linhagens, dos fundadores das nações africanas. Com efeito, aquelas foram sociedades eminentemente orais, nas quais os dados históricos ocupam uma posição muito mais importante do que consideramos em nossa própria cultura e sociedade.\n\nMACEDO, J. R. Antigas civilizações africanas: historiografia e evidências documentais.\n\nIn: MACEDO, J. R. (Org.). Desvendando a história da África.\n\nPorto Alegre: UFRGS, 2008 (adaptado).",
     "files": [],
     "correctAlternative": "C",

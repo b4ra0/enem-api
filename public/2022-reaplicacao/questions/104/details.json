@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Carregadores\nelétricos\nsão\nprojetados\npara\nfornecerem energia a baterias recarregáveis, como as usadas em aparelhos celulares e máquinas fotográficas. As especificações típicas de um desses dispositivos são:\n\nCarregador:\nEntrada AC 100-240 V / 200 mA / 50-60 Hz\nSaída DC 5,0 V / 1 000 mA\n\nBateria recarregável:\n1,5 V / 4 000 mAh\n\nUsando o carregador com corrente máxima, o tempo total de recarga dessa bateria totalmente descarregada, em hora, é",
     "files": [],
     "correctAlternative": "C",

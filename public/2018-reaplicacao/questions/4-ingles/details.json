@@ -4,6 +4,11 @@
     "year": 2018,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2018-reaplicacao/questions/4-ingles/3f39d4e3-5adc-4f7e-930f-69f900f2511a.png)\n\nSpring Break Camp, 2015. Fôlder. Orange County Regional History Center.",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/4-ingles/3f39d4e3-5adc-4f7e-930f-69f900f2511a.png"

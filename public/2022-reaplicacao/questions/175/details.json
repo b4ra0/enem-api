@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Uma\nfamília\ndecidiu\ncomprar\num\naparelho\ncondicionador de ar usando como critério de escolha seu consumo mensal de energia. Suponha que o valor de 1 kWh da conta de energia elétrica dessa família custe R$ 0,58 (impostos incluídos) e que há bandeira tarifária vermelha correspondendo a R$ 0,045 para cada 1 kWh consumido.\nO uso desse aparelho deve representar um\nacréscimo mensal na conta de energia elétrica da família de R$ 150,00.\nO consumo de energia elétrica mensal mais próximo, em quilowatt-hora, que o aparelho deve ter é igual a",
     "files": [],
     "correctAlternative": "D",

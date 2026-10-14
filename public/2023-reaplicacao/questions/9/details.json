@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "argumentacao"
+    ],
     "context": "É vantajoso que as crianças possam entender o funcionamento por trás da tecnologia que está presente em diversos aspectos da vida cotidiana, aproveitando a curiosidade infantil como impulso inicial. A computação ajuda a desenvolver o raciocínio, a melhorar a comunicação e a trabalhar a capacidade de resolver problemas. Os computadores executam tarefas por meio de comandos dados em uma programação. Essa, por sua vez, é feita com linguagens próprias, que funcionam como uma espécie de “idioma”, por meio do qual o programador se comunica com as máquinas.\n\nPorém, mais do que dominar essas linguagens, o programador precisa empregar a lógica computacional. O programador precisa expressar em seu código as condições e seus efeitos, como “se acontecer A, faça B, a não ser que haja X, então faça C”. A escrita de um algoritmo é repleta de condições interconectadas, do tipo “se”, “então”, “senão”, “ou”, “até que”, “enquanto” etc. Por isso, para programar, é necessário compreender esse tipo de raciocínio. Para as crianças, isso é tarefa fácil; afinal elas têm uma capacidade incrível de assimilar informações novas.\n\nDisponível em: https://catracalivre.com.br. Acesso em: 25 nov. 2021.",
     "files": [],
     "correctAlternative": "D",

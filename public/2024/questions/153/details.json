@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "conjuntos-numericos"
+    ],
     "context": "Um instituto de pesquisa constatou que, nos últimos dez anos, o crescimento populacional de uma cidade foi de 135,25%.",
     "files": [],
     "correctAlternative": "D",

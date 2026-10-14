@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "generos-textuais"
+    ],
     "context": "O governo federal lançou o aplicativo Celular Seguro. O sistema tem como objetivo bloquear de forma mais rápida e segura celulares furtados ou roubados. Entenda como ele funciona: o usuário deverá instalar o Celular Seguro por meio da sua loja de aplicativos. Na plataforma, o cidadão terá que realizar o seu cadastro pelo sistema gov.br, em que ele irá inserir os dados do celular que deseja proteger e os de uma pessoa de confiança. Caso o usuário seja furtado ou roubado, ele precisará acionar a plataforma por um computador ou com a ajuda de uma pessoa de confiança identificada no aplicativo. Depois desses passos, o celular será bloqueado.\n\nA ação conta com o apoio da Agência Nacional de\nTelecomunicações (Anatel), da Federação Brasileira de Bancos (Febraban) e de instituições financeiras e entidades privadas.\n\nDisponível em: www.metropoles.com.\n\nAcesso em: 24 jan. 2024 (adaptado).",
     "files": [],
     "correctAlternative": "B",

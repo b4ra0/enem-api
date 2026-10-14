@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "sequencias-padroes",
+        "conjuntos-numericos"
+    ],
     "context": "Um reservatório que abastece uma região urbana está com uma quantidade V de água. Previsões meteorológicas indicam que a região passará por uma escassez de chuva e, por isso, as autoridades locais determinaram a realização de várias medições do volume de água nesse reservatório para efeito de monitoramento.\n\nA primeira medição indicou que o volume de água reduziu-se à metade; a segunda indicou a retirada da terça parte do que restou; a terceira, a retirada da quarta parte do que restou; a quarta, a retirada da quinta parte do que restou e assim sucessivamente nas demais medições, mantendo o seguinte padrão de retirada: na n-ésima medição, a retirada da (n + 1)-ésima parte do que restou.\n\nConsidere que não houve reabastecimento de água no reservatório no período em que foram feitas as medições.\n\nMantendo esse padrão de retirada, as quantidades de água restantes no reservatório referentes às 7ª, 8ª e 9ª medições são iguais a, respectivamente,",
     "files": [],
     "correctAlternative": "E",

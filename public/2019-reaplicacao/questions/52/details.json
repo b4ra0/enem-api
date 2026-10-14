@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-medieval",
+        "filosofia-politica"
+    ],
     "context": "Tomás de Aquino, filósofo cristão que viveu no século XIII, afirma: a lei é uma regra ou um preceito relativo às nossas ações. Ora, a norma suprema dos atos humanos é a razão. Desse modo, em última análise, a lei está submetida à razão; é apenas uma formulação das exigências racionais. Porém, é mister que ela emane da comunidade, ou de uma pessoa que legitimamente a representa.\n\nGILSON, E.; BOEHNER, P. História da filosofia cristã.\n\nPetrópolis: Vozes, 1991 (adaptado).",
     "files": [],
     "correctAlternative": "E",

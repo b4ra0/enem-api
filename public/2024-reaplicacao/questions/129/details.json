@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "microbiologia",
+        "saude-doencas"
+    ],
     "context": "A agência norte-americana que regula medicamentos (FDA) aprovou um fármaco cujo uso contínuo reduz o risco de infecção do vírus HIV. Esse fármaco surge como profilaxia medicamentosa aos grupos de alto risco, uma vez que age na célula infectada inibindo a ação da enzima transcriptase reversa. Contudo, a camisinha ainda é o método mais seguro, barato e eficaz na prevenção de doenças como a aids, com taxas de aproximadamente 100% de proteção.\n\nSEGATTO, C. Época, n. 740, jul. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "B",

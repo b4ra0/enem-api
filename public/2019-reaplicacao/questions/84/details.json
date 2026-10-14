@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima",
+        "questoes-ambientais"
+    ],
     "context": "Particularmente nos dias de inverno, pode ocorrer um rápido resfriamento do solo ou um rápido aquecimento das camadas atmosféricas superiores. O ar quente fica por cima da camada de ar frio, passando a funcionar como um bloqueio, o que impede a formação de correntes de ar (vento). Dessa forma, o ar frio próximo ao solo não sobe porque é o mais denso, e o ar quente que lhe está por cima não desce porque é o menos denso.\nNas grandes cidades, esse fenômeno tende a se agravar, uma vez que a expressiva concentração de indústrias e automóveis intensifica o lançamento de poluentes e material particulado na atmosfera, o que torna o ar mais impuro e, por conseguinte, contribui para o aumento de casos de irritação nos olhos e doenças respiratórias.\n\nAYOADE, J. O. Introdução à climatologia para os trópicos.\n\nRio de Janeiro: Bertrand Brasil, 1996 (adaptado).",
     "files": [],
     "correctAlternative": "C",

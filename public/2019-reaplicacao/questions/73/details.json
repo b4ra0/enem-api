@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "teoria-conhecimento"
+    ],
     "context": "Uma parte da nossa formação científica confunde-se com a atividade de uma polícia de fronteiras, revistando os pensamentos de contrabando que viajam na mala de outras sabedorias. Apenas passam os pensamentos de carimbada cientificidade. A biologia, por exemplo, é um modo maravilhoso de emigrarmos de nós, de transitarmos para lógicas de outros seres, de nos descentrarmos. Aprendemos que não somos o centro da vida nem o topo da evolução.\n\nCOUTO, M. Interinvenções. Portugal: Caminho, 2009 (adaptado).",
     "files": [],
     "correctAlternative": "E",

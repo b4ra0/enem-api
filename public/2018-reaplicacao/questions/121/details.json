@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Ao dimensionar circuitos elétricos residenciais, é recomendado utilizar adequadamente bitolas dos fios condutores e disjuntores, de acordo com a intensidade de corrente elétrica demandada. Esse procedimento é recomendado para evitar acidentes na rede elétrica. No quadro é especificada a associação para três circuitos distintos de uma residência, relacionando tensão no circuito, bitolas de fios condutores e a intensidade de corrente elétrica máxima suportada pelo disjuntor.\n\nDimensionamento ― Circuito residencial\n\nIdentificação\nTensão\n\nBitola do fio\n\n(mm2)\n\n(volt)\n\nCircuito 1\n110\n2,5\n20\n4 200\n\nCircuito 2\n220\n2,5\n20\n4 200\n\nCircuito 3\n220\n6,0\n35\n6 600",
     "files": [],
     "correctAlternative": "E",

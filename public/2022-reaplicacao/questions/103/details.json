@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "evolucao"
+    ],
     "context": "Em muitos animais, machos e fêmeas da mesma\nespécie\napresentam\ndiferenças\nmorfológicas\nou\ncomportamentais evidentes. Um exemplo clássico de dimorfismo sexual é o caso do pavão, em que o macho possui cauda vistosa e penas coloridas, as quais estão ausentes nas fêmeas. Em outras espécies, os machos possuem chifres, garras ou dentes maiores do que as fêmeas, e utilizam essas estruturas em combates físicos para defender territórios e ter acesso a fêmeas coespecíficas e receptivas.\nEsse padrão de dimorfismo evolui porque",
     "files": [],
     "correctAlternative": "D",

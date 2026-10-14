@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica"
+    ],
     "context": "TRADUZINDO O JURIDIQUÊS\n“Denego a liminar pleiteada na exordial, inobstante\napós a oitiva da parte adversa e da dilação probatória possa lograr alcançar um outro epílogo para o deslinde da quaestio sub examine.”\n\nTRADUÇãO\n\nNão atendo, por ora, a liminar requerida na petição\ninicial, ainda que possa chegar a uma outra conclusão após ouvir a outra parte e avaliar as provas produzidas.",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas"
+    ],
     "context": "Dores abdominais, vômito e diarreia são sintomas de doença celíaca, uma síndrome autoimune hereditária que provoca inflamação no tecido intestinal após a ingestão de glúten. O glúten é uma proteína presente em vegetais como o trigo, a cevada e o centeio. Uma pessoa com esses sintomas, que ingeriu arroz, bife com creme de leite, salada de alface e tomate, lasanha e ovo cozido, após exames laboratoriais, foi diagnosticada como portadora dessa doença, o que gerou um encaminhamento médico necessário.\nQual dos alimentos ingeridos pela pessoa o médico precisou eliminar da dieta?",
     "files": [],
     "correctAlternative": "B",

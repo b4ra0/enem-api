@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": "Pesquisadores desenvolveram uma nova e mais eficiente rota sintética para produzir a substância atorvastatina, empregada para reduzir os níveis de colesterol. Segundo os autores, com base nessa descoberta,\n\na síntese da atorvastatina cálcica (CaC66H68F2N4O10, massa molar igual a 1 154 g\n\néster 4-metil-3-oxopentanoato de metila (C7H12O3, massa molar igual a 144 g\n\nUnicamp descobre nova rota para produzir medicamento mais vendido no mundo. Disponível em: www.unicamp.br. Acesso em: 26 out. 2015 (adaptado).\n\nConsidere o rendimento global de 20% na síntese da atorvastatina cálcica a partir desse éster, na proporção de 1 : 1. Simplificadamente, o processo é ilustrado na figura.\n\nO\nO\nO\n\n11 etapas de síntese\n\nCa2+\nRendimento global\n\nde 20%\n\nVIEIRA, A. S. Síntese total da atorvastatina cálcica. Disponível em: http://ipd-farma.org.br. Acesso em: 26 out. 2015 (adaptado).",
     "files": [],
     "correctAlternative": "C",

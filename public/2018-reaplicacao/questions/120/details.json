@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "acustica",
+        "ondulatoria"
+    ],
     "context": "O princípio básico de produção de imagens em equipamentos de ultrassonografia é a produção de ecos. O princípio pulso-eco refere-se à emissão de um pulso curto de ultrassom que atravessa os tecidos do corpo. No processo de interação entre o som e órgãos ou tecidos, uma das grandezas relevantes é a impedância acústica, relacionada à resistência do meio à passagem do som, definida pelo produto da densidade (ρ) do material pela velocidade (v) do som nesse meio. Quanto maior a diferença de impedância acústica entre duas estruturas, maior será a intensidade de reflexão do pulso e mais facilmente será possível diferenciá-las. A tabela mostra os diferentes valores de densidade e velocidade para alguns órgãos ou tecidos.\n\nEstruturas\nρ\nkg\nm3\n(\n\n(\n\n(\n\n(\n\nv\nm\n\ns\n\nCérebro\n1 020\n1 530\n\nMúsculo\n1 040\n1 580\n\nGordura\n920\n1 450\n\nOsso\n1 900\n4 040\n\nCAVALCANTE, M. A.; PEÇANHA, R.; LEITE, V. F. Princípios básicos de imagens\n\nultrassônicas e a determinação da velocidade do som no ar através do eco.\n\nFísica na Escola, n. 1, 2012 (adaptado).",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "conjuntos-numericos"
+    ],
     "context": "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar os conhecimentos de seus estudantes sobre representações de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca e espera que os compartimentos parem de girar. A partir daí, precisa responder para a professora em quais posições se encontram os números que representam a mesma quantidade.\n\nUm estudante puxou a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem.\n\n![](https://enem.dev/2024/questions/147/d3ba331e-51b2-4a0d-b980-f3c91a94532a.png)\n\nEsse estudante respondeu corretamente à pergunta da professora.",
     "files": [
         "https://enem.dev/2024/questions/147/d3ba331e-51b2-4a0d-b980-f3c91a94532a.png"

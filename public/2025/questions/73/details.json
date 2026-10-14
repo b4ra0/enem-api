@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "povos-indigenas",
+        "brasil-colonia"
+    ],
     "context": "Entre esses preconceitos estava o canibalismo. A prática não era, porém, uma mentira, uma invenção europeia, mas um ritual controlado por regras. Entre os tupis, por exemplo, os guerreiros se sentiam honrados quando morriam em um banquete canibal. Para os europeus, no entanto, comer carne humana era abominável, pois nem mesmo os leões ingeriam seus semelhantes. Portanto, para os conquistadores, o canibalismo era sinônimo de barbarismo e da incapacidade de se autogovernar.\n\nRAMINELLI, R. Canibalismo para alemão ver. In: FIGUEIREDO, L. (Org.).\n\nHistória do Brasil para ocupados. Rio de Janeiro:\n\nCasa da Palavra, 2013 (adaptado).",
     "files": [],
     "correctAlternative": "A",

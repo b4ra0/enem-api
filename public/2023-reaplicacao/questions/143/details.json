@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "A nota final de um estudante em uma disciplina é dada pela mediana das notas de suas quatro provas.\n\nCinco estudantes dessa disciplina obtiveram as notas apresentadas no quadro.\n\nEstudante\nProva 1\nProva 2\nProva 3\nProva 4\n\nI\n85\n45\n90\n45\n\nII\n80\n70\n70\n75\n\nIII\n75\n75\n75\n55\n\nIV\n85\n35\n35\n90\n\nV\n60\n70\n70\n75\n\nO professor dessa disciplina pediu a cada estudante que calculasse sua nota final e lhe apresentasse o resultado obtido. Os resultados informados pelos estudantes foram:\n\n• estudante I: 77;\n• estudante II: 70;\n• estudante III: 70;\n• estudante IV: 60;\n• estudante V: 70.\n\nQual(is) estudante(s) acertou(aram) sua nota final?",
     "files": [],
     "correctAlternative": "E",

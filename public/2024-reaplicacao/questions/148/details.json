@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "Na primeira edição de uma Feira do Livro, a organização contou com a participação de dez voluntários, de mesma habilidade e experiência, que montaram cinco estandes de livros em uma semana, trabalhando todos os dias.\n\nNa segunda edição da Feira do Livro, a organização dispôs de duas semanas para montar os estandes.\nConsidere que todos os novos voluntários escolhidos tenham a mesma experiência, habilidade e produtividade dos voluntários da primeira edição da feira e que trabalharão todos os dias nessas duas semanas.\n\nConsidere duas situações para a segunda edição:\n\n• I: o número de voluntários permanecerá o mesmo;\n• II: o número de estandes a serem montados\npermanecerá o mesmo.\n\nObserve que o aumento no tempo de organização para montar os estandes, junto a uma das duas situações citadas, pode fazer o valor das outras variáveis (número de voluntários e de estandes) aumentar, diminuir ou permanecer igual.",
     "files": [],
     "correctAlternative": "B",

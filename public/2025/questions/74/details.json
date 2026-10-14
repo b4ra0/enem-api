@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cultura-identidade",
+        "desigualdade-social"
+    ],
     "context": "Fragmentada em pequenos grupos, fragilizada pela ausência de algum tipo de organização ampla, tendo que carregar o peso do preconceito racial que se transfere do negro para a cultura negra, a religião dos orixás tem poucas chances de se sair melhor na competição — desigual — com outras religiões. Silenciosamente, assistimos hoje a um verdadeiro massacre das religiões afro-brasileiras.\n\nPRANDI, R. O Brasil com axé. Estudos Avançados, n. 52, dez. 2004.",
     "files": [],
     "correctAlternative": "B",

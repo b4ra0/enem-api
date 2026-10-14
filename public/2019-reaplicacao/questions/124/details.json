@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria",
+        "optica"
+    ],
     "context": "Um professor percebeu que seu apontador a laser, de luz monocromática, estava com o brilho pouco intenso. Ele trocou as baterias do apontador e notou que a intensidade luminosa aumentou sem que a cor do laser se alterasse. Sabe-se que a luz é uma onda eletromagnética e apresenta propriedades como amplitude, comprimento de onda, fase, frequência e velocidade.",
     "files": [],
     "correctAlternative": "A",

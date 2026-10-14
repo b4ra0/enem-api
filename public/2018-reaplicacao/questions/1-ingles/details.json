@@ -4,6 +4,11 @@
     "year": 2018,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "vocabulario-contexto",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2018-reaplicacao/questions/1-ingles/e16b2976-8fe7-4a38-afa4-74eb245f4e6e.png)\n\nDisponível em: www.doityourself.com. Acesso em: 12 jul. 2015.",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/1-ingles/e16b2976-8fe7-4a38-afa4-74eb245f4e6e.png"

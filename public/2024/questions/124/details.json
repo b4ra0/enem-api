@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "microbiologia",
+        "metabolismo-energetico"
+    ],
     "context": "Utilizando-se um mesmo meio nutritivo, três gêneros bacterianos diferentes foram submetidos ao cultivo em tubos de ensaio. Após certo período de crescimento da cultura bacteriana em condições físico-químicas ideais, observou-se que o padrão de distribuição das células (representadas por pontos na figura) ao longo dos tubos era diferente em cada um dos casos.\n\n![](https://enem.dev/2024/questions/124/0177bc64-6e1a-4c0b-a8ec-be62494b3ebe.png)",
     "files": [
         "https://enem.dev/2024/questions/124/0177bc64-6e1a-4c0b-a8ec-be62494b3ebe.png"

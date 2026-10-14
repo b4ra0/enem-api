@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "dinamica"
+    ],
     "context": "Com o objetivo de revestir o piso de uma rampa de acesso para cadeiras de rodas, determina-se que, sob a aplicação de uma força motora de até 200 N, não ocorra deslizamento dos pneus em relação à superfície de contato. Considera-se que a força normal que atua sobre o conjunto cadeira e cadeirante é de 800 N.\n\nO quadro a seguir indica alguns materiais, seus respectivos coeficientes de atrito estático com a borracha dos pneus e seus custos referentes ao metro quadrado instalado. Cada cifrão ($) indica uma unidade monetária genérica.\n\nCusto do m2\n\nRevestimento\nCoefi ciente de\n\ninstalado\n\natrito\n\nCimento\n0,20\n$\n\nMármore\n0,30\n$$$$$\n\nMadeira\n0,35\n$$\n\nCarpete\n0,45\n$$$$\n\nLona\n0,55\n$$$\n\nQual revestimento apresenta o menor custo, além de garantir que cadeiras de rodas passem pela rampa sem risco de escorregamento?",
     "files": [],
     "correctAlternative": "C",

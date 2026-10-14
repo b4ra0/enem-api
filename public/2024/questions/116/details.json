@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "separacao-misturas"
+    ],
     "context": "O magnésio metálico utilizado em ligas leves é produzido em um processo que envolve várias etapas e utiliza água do mar como matéria-prima. A primeira etapa desse processo consiste na reação entre o íon Mg2+ e hidróxido de cálcio, Ca(OH)2, obtendo uma mistura que contém hidróxido de magnésio, pouco solúvel, e íons Ca2+, de acordo com a equação química:\n\nMg2+ (aq) + Ca(OH)2 (aq) → Mg(OH)2 (s) + Ca2+ (aq)",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "biotecnologia"
+    ],
     "context": "Um herbicida de largo espectro foi desenvolvido para utilização em lavouras. Esse herbicida atua inibindo a atividade de uma enzima dos vegetais envolvida na biossíntese de aminoácidos essenciais. Atualmente ele é bastante utilizado em plantações de soja, podendo inclusive inibir a germinação ou o crescimento das plantas cultivadas.",
     "files": [],
     "correctAlternative": "D",

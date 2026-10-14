@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico",
+        "citologia"
+    ],
     "context": "A análise da atividade de dois cultivos celulares mantidos com diferentes substratos está representada no quadro.\n\nRendimento\nenergético dos\n\nCultivo celular\nSubstrato\n\nprodutos\n\nA\n Glicose + O2\n219 kcal/mol\n\nB\n Glicose\n29 kcal/mol",
     "files": [],
     "correctAlternative": "C",

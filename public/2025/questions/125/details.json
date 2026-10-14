@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": "Apaixonada por culinária e química, uma chefe de cozinha calculou que, para promover o crescimento adequado da massa durante o cozimento de um bolo a 180 °C (453 K) e 1,00 atm, ela precisaria utilizar uma quantidade de fermento químico suficiente para produzir um volume de gás igual a 4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de amônio, um composto que, sob aquecimento, degrada-se em três gases distintos, que são os responsáveis pelo crescimento da massa. A decomposição do bicarbonato de amônio ocorre conforme a equação química apresentada e, nas condições do cozimento, seu rendimento é de 80%.\n\nNH4HCO3 (s) → NH3 (g) + CO2 (g) + H2O (g)\n\nConsidere que a mistura dos gases se comporta como gás ideal nas condições de cozimento utilizadas pela chefe.\n\nDados: Massa molar do NH4HCO3 = 79 g ⋅ mol−1 e\nR = 0,082 atm ⋅ L ⋅ mol−1 ⋅ K−1.",
     "files": [],
     "correctAlternative": "B",

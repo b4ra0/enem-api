@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletromagnetismo",
+        "eletrodinamica"
+    ],
     "context": "O aquecimento em fogões por indução utiliza bobinas para produzir um campo magnético variável. Essa bobina se localiza abaixo do vidro cerâmico sobre o qual a panela se apoia. O mecanismo aquece apenas a panela que se encontra na zona de cozimento, o que é uma das principais vantagens em relação ao uso do fogão a gás ou de resistência elétrica.\n\n![](https://enem.dev/2025/questions/122/721ffefa-b04a-417b-ba5b-4256df279651.png)\n\nPEREIRA, A. B. et al. Fogões de indução: montagem e testes de um circuito\n\ndisponível. Disponível em: https://publicacoes.fatecsertaozinho.edu.br.\n\nAcesso em: 21 maio 2025 (adaptado).",
     "files": [
         "https://enem.dev/2025/questions/122/721ffefa-b04a-417b-ba5b-4256df279651.png"

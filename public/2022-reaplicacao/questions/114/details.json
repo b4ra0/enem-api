@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "No ciclo biogeoquímico do nitrogênio participam vários organismos vivos. Um dos efeitos desse ciclo é aumentar a disponibilidade dos compostos nitrogenados no solo.\n\nAs minhocas participam desse ciclo quando",
     "files": [],
     "correctAlternative": "D",

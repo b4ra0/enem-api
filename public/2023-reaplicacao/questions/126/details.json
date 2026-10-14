@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Lâmpadas incandescentes são constituídas de um filamento de tungstênio dentro de um bulbo de vidro com um gás a baixa pressão. Essas lâmpadas podem apresentar diferentes potências quando submetidas à mesma tensão elétrica.\n\nUm estudante precisa selecionar uma lâmpada que forneça o maior brilho, para isso deverá selecionar aquela que possui o filamento mais",
     "files": [],
     "correctAlternative": "A",

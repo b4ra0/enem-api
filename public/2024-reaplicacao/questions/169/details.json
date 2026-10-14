@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "equacoes-inequacoes"
+    ],
     "context": "A partir de um exame clínico, ficou constatado que uma pessoa encontrava-se com uma grave deficiência de vitaminas X e Y. Ela foi orientada a fazer 100% de reposição diária de cada vitamina. Devido à sua condição socioeconômica, ela só dispõe dos alimentos Z e W para suprir essa deficiência. Os alimentos Z e W custam, respectivamente, R$ 3,00 e R$ 8,00 por quilo. Segue um quadro com a porcentagem que cada 100 g desses dois alimentos fornece de cada vitamina.\n\nVitamina\nAlimento Z\n(% por 100 g)\n\nAlimento W\n(% por 100 g)\n\nX\n25\n8\n\nY\n0\n16",
     "files": [],
     "correctAlternative": "B",

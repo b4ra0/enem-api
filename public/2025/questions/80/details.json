@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao",
+        "questoes-ambientais"
+    ],
     "context": "Cidade sustentável é o assentamento humano constituído por uma sociedade com consciência de seu papel de agente transformador dos espaços e cuja relação não se dá pela razão natureza-objeto, e sim por uma ação sinérgica entre prudência ecológica, eficiência energética e equidade socioespacial.\n\nROMERO, M. Frentes do urbano para a construção de indicadores de\n\nsustentabilidade intraurbana. Paranoá, n. 4, nov. 2007.",
     "files": [],
     "correctAlternative": "C",

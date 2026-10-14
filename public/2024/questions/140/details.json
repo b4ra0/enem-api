@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "João e Felipe participaram, na escola, de uma maratona de matemática na qual, durante uma semana, resolveram 200 questões cada. Nessa maratona, a porcentagem P de acertos de cada participante é convertida em um conceito:\n\n• insatisfatório: se 0 ≤ P < 50;\n• regular: se 50 ≤ P < 60;\n• bom: se 60 ≤ P < 75;\n• muito bom: se 75 ≤ P < 90;\n• excelente: se 90 ≤ P ≤ 100.\n\nJoão acertou 75% das questões da maratona e Felipe acertou 30% a menos que a quantidade de questões que João acertou.",
     "files": [],
     "correctAlternative": "B",

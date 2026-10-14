@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2023-reaplicacao/questions/38/ebe8815c-28cc-4db4-953d-ece53ab6e9e2.png)\n\nDisponível em: www.cnj.jus.br. Acesso em: 30 out. 2021.",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/38/ebe8815c-28cc-4db4-953d-ece53ab6e9e2.png"

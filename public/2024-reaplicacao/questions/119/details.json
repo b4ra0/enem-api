@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": "O titânio é encontrado na natureza em minerais, dos quais o rutilo (TiO2) está presente na principal mina do Brasil, localizada no Rio Grande do Norte. Para obtenção do titânio metálico, o TiO2 é submetido a duas operações industriais. A primeira consiste na cloração, produzindo tetracloreto de titânio, conforme a equação:\n\nTiO2 + 2 Cl2 + 2 CO →\n← TiCI4 + 2 CO2\n\nA segunda operação consiste na redução do tetracloreto de titânio, utilizando magnésio metálico:\n\n2 Mg + TiCl4 →\n← 2 MgCl2 + Ti\n\nConsidere as massas molares:\n\nCl = 35,5 g\n\n; Ti = 48 g\n\n.\n\nmol\n\nmol",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrostatica"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-inorganicas",
+        "acidos-bases-ph"
+    ],
     "context": "Solos ácidos apresentam baixo valor de pH, e o plantio de culturas nesse meio acarreta baixa produção agrícola. Entretanto, esse problema pode ser contornado adicionando-se substâncias que, ao entrarem em contato com a água, liberam íons OH−, que neutralizam os íons H3O+ presentes no solo e elevam o seu pH. Para esse objetivo, um agricultor tem comercialmente à disposição as espécies químicas enumeradas:\n\nI – KCl II – MgO III – NH4Br IV – AlCl3 V – P2O5\n\nPara a correção do pH desse solo, o agricultor deverá utilizar a espécie química indicada pelo número",
     "files": [],
     "correctAlternative": "B",

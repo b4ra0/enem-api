@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao",
+        "conjuntos-numericos"
+    ],
     "context": "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz.\n\n![](https://enem.dev/2024/questions/158/8d6e4dbc-703d-4aa3-b7a2-9cdd8843ffd2.png)\n\nSabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare (ha), enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 ha. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 ha, além de levar uma máscara para aplicação.",
     "files": [
         "https://enem.dev/2024/questions/158/8d6e4dbc-703d-4aa3-b7a2-9cdd8843ffd2.png"

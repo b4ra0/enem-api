@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria"
+    ],
     "context": "Uma pessoa comprou um aparelho sem fio para transmitir músicas a partir do seu computador para o rádio de seu quarto. Esse aparelho possui quatro chaves seletoras e cada uma pode estar na posição 0 ou 1. Cada escolha das posições dessas chaves corresponde a uma frequência diferente de transmissão.",
     "files": [],
     "correctAlternative": "D",

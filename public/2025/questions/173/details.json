@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "geometria-plana"
+    ],
     "context": "Em uma cidade, será construído um túnel que atravessa uma montanha para facilitar o trânsito de automóveis e bicicletas. Dois projetos foram elaborados e os esquemas com as vistas frontais desses projetos são apresentados na figura.\n\n![](https://enem.dev/2025/questions/173/ec26d0a2-bbe0-4183-b726-69723615a6f8.png)\n\nO Projeto 1 conta com dois túneis, um exclusivo para bicicletas e o outro, para automóveis. O Projeto 2 conta com um único túnel, com espaços reservados para o trânsito exclusivo de bicicletas e automóveis. Nos dois projetos, os túneis têm o formato de semicilindro reto de mesma extensão, com vias de ida e volta para os dois tipos de veículos, separados por muretas.\n\nO projeto a ser aprovado será aquele que apresentar a menor área da seção transversal, pois implicará menor volume de material retirado da montanha.\n\nConsidere 3 como aproximação para p e desconsidere as espessuras das muretas.",
     "files": [
         "https://enem.dev/2025/questions/173/ec26d0a2-bbe0-4183-b726-69723615a6f8.png"

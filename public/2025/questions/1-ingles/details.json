@@ -4,6 +4,11 @@
     "year": 2025,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "Glory Ames, from the White Earth reservation, is frustrated that despite the presence of several indigenous reservations near Moorhead, local Halloween stores still feature a western section with costumes such as “pow wow princess”.\n\nEven worse, despite a long-running debate about racism and cultural appropriation, often prompted by backlash against celebrities and politicians for donning offensive costumes, people continue to wear such costumes.\n\nLast Halloween, Ames spotted a photo on Instagram of a girl dressed as a Native American with a bullet in her forehead. She immediately reported it to the social media platform and had it removed.\n\n“They blatantly take certain aspects of our culture, race, religion, and use it for their advantage and ignore the people living it”, said Ames.",
     "files": [],
     "correctAlternative": "D",

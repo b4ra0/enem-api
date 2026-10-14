@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "solucoes"
+    ],
     "context": "As soluções de hipoclorito de sódio têm ampla aplicação como desinfetantes e alvejantes. Em uma empresa de limpeza, o responsável pela área de compras deve decidir entre dois fornecedores que têm produtos similares, mas com diferentes teores de cloro.",
     "files": [],
     "correctAlternative": "D",

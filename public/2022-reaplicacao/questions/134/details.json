@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "evolucao",
+        "ecologia"
+    ],
     "context": "O palmito juçara (Euterpe edulis) é uma planta que ocorre em áreas florestadas e produz frutos com tamanhos variados. Entretanto, pesquisadores perceberam que, em áreas nas quais as aves de maior porte foram extintas, as novas plantas produzem apenas frutos pequenos.\n\nANDRADE, R. O. Escassez de aves pode afetar evolução de plantas. Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 8 jul. 2013 (adaptado).\n\nEssa mudança apresentada pelas plantas é uma adaptação vantajosa porque os frutos",
     "files": [],
     "correctAlternative": "A",

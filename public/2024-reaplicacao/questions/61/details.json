@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "questoes-ambientais"
+    ],
     "context": "Buscando assegurar a manutenção e a disponibilidade de sementes adaptadas às suas condições de cultivo, muitos grupos de agricultores desenvolveram uma diversidade de estratégias baseadas nos seus conhecimentos sobre as características das variedades locais, formas de armazenamento e manejo. Os bancos de sementes familiares constituem uma tradição importante em muitas comunidades rurais. Nesses casos, as sementes, que são ano após ano selecionadas e melhoradas, são mantidas na propriedade rural e os conhecimentos a elas associados são passados de geração para geração.\n\nLONDRES, F. As sementes da paixão e as políticas de distribuição\n\nde sementes na Paraíba. Rio de Janeiro: AS-PTA, 2014.",
     "files": [],
     "correctAlternative": "D",

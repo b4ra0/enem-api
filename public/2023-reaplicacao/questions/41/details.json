@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "saude-qualidade-vida",
+        "praticas-corporais"
+    ],
     "context": "As práticas corporais representam uma possibilidade de promoção da educação, do lazer e da saúde.\nA identificação das preferências das práticas corporais pode ser um incentivo para a adesão dos usuários aos serviços de saúde mental. Desse modo, a interação social por meio delas contribui para o desenvolvimento da identidade dos usuários, uma vez que essas atividades permeiam as dimensões cognitiva, emocional, social e comportamental. Nesse contexto, realizar atividades físicas, com um viés lúdico, converte-se numa maneira de cuidado com o corpo, gerando avaliações positivas dos usuários.\n\nSILVA, D. P.; RODRIGUES, L. T.; FLORES, F. F. Estágio em educação física\n\nna saúde mental: experiência em ministrar práticas corporais.\n\nEnsino em Perspectivas, n. 1, 2021 (adaptado).",
     "files": [],
     "correctAlternative": "D",

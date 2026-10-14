@@ -4,6 +4,11 @@
     "year": 2023,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "Our physical alienation from India almost inevitably means that we will not be capable of reclaiming precisely the thing that was lost; that we will, in short, create fictions, not actual cities or villages, but invisible ones, imaginary homelands, Indias of the mind. […] It may be argued that the past is a country from which we have all emigrated […], but I suggest that the writer who is out-of-country and even out-of-language may experience this loss in an intensified form.\n\nRUSHDIE, S. Imaginary Homelands. Londres: Vintage Books, 2010 (adaptado).",
     "files": [],
     "correctAlternative": "E",

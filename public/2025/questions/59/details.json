@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "energia-recursos",
+        "questoes-ambientais"
+    ],
     "context": "Pela falta de chuvas, a geração de energia eólica, solar e térmica atingiu níveis recordes em agosto de 2021, quando as hidrelétricas ficaram com cerca de 50% do total. Para um professor da Universidade Federal da Bahia, essa queda não é uma surpresa. “Não aconteceu de uma hora para outra. Se olharmos o mapa do Brasil, um dos grandes provedores de água é a Floresta Amazônica. Se você diminui a floresta, diminui a quantidade de água que vai para a atmosfera”, explica.\n\nBORGES, T. O fantasma do apagão. Disponível em:\n\nwww.correio24horas.com.br. Acesso em:\n\n9 out. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "B",

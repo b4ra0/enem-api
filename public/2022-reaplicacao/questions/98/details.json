@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica",
+        "biotecnologia"
+    ],
     "context": "Uma ferramenta biotecnológica para identificação de cadáveres é a análise de seu DNA mitocondrial e a comparação com o DNA mitocondrial de pessoas de uma família que esteja reivindicando o corpo. Sabe-se que a herança mitocondrial é materna.\n\nEstão disponíveis os seguintes membros de uma família que poderiam doar material para a confirmação da identidade de um cadáver por meio da análise de DNA mitocondrial:\n\n1. a sobrinha, filha de um irmão;\n\n2. a tia, irmã de seu pai;\n\n3. o primo, filho da irmã de sua mãe;\n\n4. o avô materno;\n\n5. a prima, filha do irmão de sua mãe.\n\nSYKES, B. As sete filhas de Eva: a ciência que revela nossa herança genética.\n\nRio de Janeiro: Record, 2003 (adaptado).\n\nA confirmação da identidade do cadáver será possível com a utilização do DNA mitocondrial do(a)",
     "files": [],
     "correctAlternative": "C",

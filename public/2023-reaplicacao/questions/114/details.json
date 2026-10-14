@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "reproducao-embriologia",
+        "fisiologia-humana"
+    ],
     "context": "Um homem submetido à vasectomia tem a conexão dos testículos com a uretra interrompida em função do corte dos canais deferentes. Esse método contraceptivo é considerado definitivo quando a cirurgia é realizada corretamente.",
     "files": [],
     "correctAlternative": "D",

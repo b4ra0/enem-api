@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "globalizacao",
+        "geopolitica"
+    ],
     "context": "A luta da Águia contra o Dragão na América Latina\n\nNo rescaldo da crise de 2008, as instituições financeiras chinesas (Banco de Desenvolvimento da China e Banco de Exportação e Importação da China) ofereceram crédito aos países latino-americanos que encontravam dificuldade para obter empréstimos nos mercados internacionais, como a Venezuela, a Argentina e o Equador. Mais flexível que os Estados Unidos, a China ofereceu a possibilidade de ser paga em commodities. Essa fórmula permitiu ao país garantir o suprimento de recursos naturais necessário para atender ao apetite crescente de sua classe média. Essa estratégia “ganha-ganha” deu frutos.\n\nCORREA, A.-D. Le Monde Diplomatique Brasil, n. 171, out. 2021.",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim",
+        "graficos-tabelas"
+    ],
     "context": "As receitas anuais obtidas por uma indústria no período de 2014 a 2021, em milhão de reais, foram registradas, por pontos, em um gráfico. Nele, também está representada a reta que descreve a tendência de evolução das receitas. Essa reta pode ser utilizada para estimar as receitas dos anos seguintes.\n\n![](https://enem.dev/2024/questions/176/d54daea3-8bd4-4e36-be18-e39b73a407a3.png)",
     "files": [
         "https://enem.dev/2024/questions/176/d54daea3-8bd4-4e36-be18-e39b73a407a3.png"

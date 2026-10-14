@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "acustica"
+    ],
     "context": "O ouvido humano apresenta algumas características interessantes. Uma delas é que existe uma intensidade mínima, ou limiar de audibilidade, I0, abaixo da qual o som não é audível. O nível de audibilidade é a grandeza que quantifica a audibilidade (sensação) e sua unidade é o fon, medido em decibéis (dB). O gráfico contém, em escala logarítmica, curvas de igual audibilidade, isto é, cada curva representa uma mesma audibilidade para diferentes frequências.\n\nCurvas de igual audibilidade\n\n![](https://enem.dev/2024-reaplicacao/questions/121/df96b772-fccd-4e4e-aa6a-0cf6359241e7.png)\n\nFonte: H. Fletcher and W. A. Munson, J.A.S.A., n. 5, 1933.\n\nMAGALHÃES, D. A.; ALVES FILHO, J. P. A discreta dança do ar ao som das equações da física acústica. Física na Escola, n. 16, 2018.",
     "files": [
         "https://enem.dev/2024-reaplicacao/questions/121/df96b772-fccd-4e4e-aa6a-0cf6359241e7.png"

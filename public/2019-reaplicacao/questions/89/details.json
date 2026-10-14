@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "clima",
+        "hidrografia"
+    ],
     "context": "No litoral sudeste, especialmente na região de Cabo Frio (RJ), ocorre, por vezes, um fenômeno interessante, que abaixa a temperatura da água do mar a até 14 °C, nos meses de janeiro e fevereiro. Isso acontece devido ao vento, que, no verão, sopra constantemente da direção nordeste. Assim, esse vento constante empurra as águas da superfície, que haviam sofrido insolação e, portanto, estavam aquecidas (em torno de 26 °C), para o oceano aberto. Origina-se, então, uma lacuna de água junto à costa, que é preenchida por águas profundas, bem mais frias, que sobem e atingem a superfície. A ascensão das águas frias é chamada de ressurgência.\n\nVIEIRA, A. C. M.; ALVES, D. S. C.; MATSCHINSKE, E. G. Influência\n\ndas correntes oceânicas no clima do Brasil. Disponível em:\n\nhttp://portal.mec.gov.br. Acesso em: 10 out. 2015.",
     "files": [],
     "correctAlternative": "B",

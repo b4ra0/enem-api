@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "polimeros",
+        "funcoes-organicas"
+    ],
     "context": "O longo tempo que polímeros levam para serem degradados tem gerado problema de acúmulo de resíduos sólidos. A fim de contornar essa situação, têm sido propostos novos polímeros biodegradáveis que apresentam grupos ésteres hidrolisáveis, facilitando a assimilação desses polímeros pelos microrganismos.",
     "files": [
         "https://enem.dev/2024-reaplicacao/questions/97/cf45aec9-fb63-4b1a-b4c1-9e8bfbae38fe.png",

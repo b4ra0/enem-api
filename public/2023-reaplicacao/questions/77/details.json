@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "populacao-migracoes",
+        "globalizacao"
+    ],
     "context": "A migração tem sido objeto de um intenso debate político nos últimos anos. Ao analisar o impacto econômico da migração nos países anfitriões, é constatado que, de modo geral, a migração aumenta o crescimento econômico e a produtividade nesses países. Nas economias avançadas, os imigrantes aumentam a produção e a produtividade tanto no curto como no médio prazo. Um aumento de 1 ponto percentual no fluxo imigratório em relação ao total do emprego aumenta a produção em quase 1%.\n\nENGLER, P. et al. A migração para economias avançadas pode acelerar o crescimento.\n\nDisponível em: www.imf.org. Acesso em: 10 nov. 2021 (adaptado). Conforme o texto, os imigrantes contribuem em qual aspecto nos países mencionados?\nA",
     "files": [],
     "correctAlternative": "E",

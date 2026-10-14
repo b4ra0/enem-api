@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "revolucao-industrial",
+        "idade-moderna"
+    ],
     "context": "Em Utopia, tudo é comum a todos. A distribuição dos bens lá não é um problema, não se vê nem pobre nem mendigo e, embora ninguém tenha nada de seu, todos são ricos. Haverá maior riqueza do que levar uma existência alegre e pacífica, livre de ansiedades e sem precisar se preocupar com a subsistência?\n\nMORUS, T. Utopia. Brasília: UnB, 2004.",
     "files": [],
     "correctAlternative": "C",

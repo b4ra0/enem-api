@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fisica-moderna",
+        "ondulatoria"
+    ],
     "context": "O ser humano é incapaz de enxergar a radiação infravermelha e as ondas de rádio (baixas frequências), assim como a ultravioleta e os raios X (altas frequências). A observação dessas faixas do espectro pode ser realizada por meios indiretos, por exemplo, usando um cintilador, que é uma placa utilizada como sensor para detectar um feixe de raios X, pois emite luz quando o feixe incide sobre ela.\n\nPara que uma pessoa enxergue a incidência de raios X no cintilador, é necessário que essa placa",
     "files": [],
     "correctAlternative": "C",

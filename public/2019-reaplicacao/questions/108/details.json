@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas"
+    ],
     "context": "Nanopartículas de sílica recobertas com antibióticos foram desenvolvidas com sucesso como material bactericida, pois são eficazes contra bactérias sensíveis e resistentes, sem citotoxicidade significativa a células de mamíferos. As nanopartículas livres de antibióticos também foram capazes de matar as bactérias E. coli sensíveis e resistentes ao antibiótico estudado. Os autores sugerem que a interação entre os grupos hidroxil da superfície das nanopartículas e os lipopolissacarídeos da parede celular da bactéria desestabilizaria sua estrutura.\n\n![](https://enem.dev/2019-reaplicacao/questions/108/43d29511-f073-4e83-9fc7-c71ce12e747e.png)\n\nCAPELETTI, L. B. et al. Tailored Silica – Antibiotic Nanoparticles:\n\nOvercoming Bacterial Resistance with Low Cytotoxicity.\n\nLangmuir, n. 30, 2014 (adaptado).",
     "files": [
         "https://enem.dev/2019-reaplicacao/questions/108/43d29511-f073-4e83-9fc7-c71ce12e747e.png"

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "solucoes"
+    ],
     "context": "O aproveitamento integral e racional das matérias-primas lignocelulósicas poderá revolucionar uma série\n\nde segmentos industriais, tais como o de combustíveis, mediante a produção de bioetanol de segunda geração.\n\nEste processo requer um tratamento prévio da biomassa, destacando-se o uso de ácidos minerais diluídos.\n\nNo pré-tratamento de material lignocelulósico por via ácida, empregou-se uma solução de ácido sulfúrico, que foi\n\npreparada diluindo-se 2 000 vezes uma solução de ácido sulfúrico, de concentração igual a 98 g\n\ntotal do ácido na solução diluída. O quadro apresenta os valores aproximados de logaritmos decimais.\n\nNúmero\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nlog\n0,3\n0,5\n0,6\n0,7\n0,8\n0,85\n0,9\n0,95\n1\n\nSabendo-se que as massas molares, em g\n\nmol, dos elementos H, O e S são, respectivamente, iguais a 1, 16 e 32,",
     "files": [],
     "correctAlternative": "B",

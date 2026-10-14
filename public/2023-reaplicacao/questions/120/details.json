@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "separacao-misturas",
+        "isomeria"
+    ],
     "context": "Na produção do politereftalato de etileno, o PET, utiliza-se como reagente o para-dimetilbenzeno, também chamado de para-xileno, que deve ter alta pureza. No entanto, o para-xileno obtido do petróleo possui contaminação dos seus isômeros orto-xileno e meta-xileno, cujas estruturas são apresentadas na figura. No quadro, são listadas as temperaturas de fusão e ebulição desses três isômeros.\n\norto-xileno\nmeta-xileno\npara-xileno\n\nIsômero\nTemperatura de\n\nTemperatura de\n\nfusão (°C)\n\nebulição (°C)\n\norto-xileno\n−25\n144\n\nmeta-xileno\n− 47,4\n139,3\n\npara-xileno\n13,5\n137,5",
     "files": [],
     "correctAlternative": "E",

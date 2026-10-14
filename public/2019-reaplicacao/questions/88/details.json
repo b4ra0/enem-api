@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo",
+        "hidrografia"
+    ],
     "context": "As águas das precipitações atmosféricas sobre os continentes nas regiões não geladas podem tomar três caminhos: evaporação imediata, infiltração ou escoamento. A relação entre essas três possibilidades, assim como das suas respectivas intensidades quando ocorrem em conjunto, o que é mais frequente, depende de vários fatores, tais como clima, morfologia do terreno, cobertura vegetal e constituição litológica.\n\nLEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989 (adaptado).",
     "files": [],
     "correctAlternative": "C",

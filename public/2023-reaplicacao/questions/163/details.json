@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": "Uma pessoa comprou uma caixa com 25 bombons por 5 reais. Resolveu revendê-los de forma avulsa a um preço único. Não resistindo à tentação, durante a venda, comeu cinco bombons. Obteve, mesmo assim, com a venda dos bombons restantes, um lucro de 20% sobre o valor pago pela caixa.\n\nQual foi o valor, em real, de venda de cada bombom?",
     "files": [],
     "correctAlternative": "C",

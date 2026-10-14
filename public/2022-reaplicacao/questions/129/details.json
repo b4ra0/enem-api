@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "bioquimica"
+    ],
     "context": "Os fabricantes de bebidas só podem chamar de suco de frutas os produtos que tiverem cerca de 50% de polpa, a parte comestível da fruta. Já o néctar de frutas, que tem adição de açúcar, possui entre 20% e 30% de polpa de frutas. O número de calorias dessas bebidas é equivalente, o que muda são a quantidade e a qualidade do açúcar.\n\nA qualidade e a quantidade de açúcares presentes nessas bebidas, de uma mesma fruta, diferem, pois",
     "files": [],
     "correctAlternative": "A",

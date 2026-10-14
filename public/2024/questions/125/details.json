@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "modelos-atomicos"
+    ],
     "context": "As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura.\n\n![](https://enem.dev/2024/questions/125/759d5232-9351-4318-97b9-2cba9bb64e4b.png)\n\nEsse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.\n\nZinc Sulphide Phosphorescence. Disponível em:\nhttps://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado).",
     "files": [
         "https://enem.dev/2024/questions/125/759d5232-9351-4318-97b9-2cba9bb64e4b.png"

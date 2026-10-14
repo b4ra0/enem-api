@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "Uma fábrica comercializa chocolates em uma caixa de madeira, como na figura.\n\n20 cm\n\n8 cm\n\n20 cm",
     "files": [],
     "correctAlternative": "C",

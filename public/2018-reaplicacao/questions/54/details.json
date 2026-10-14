@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "populacao-migracoes"
+    ],
     "context": "Composição da população brasileira, por faixa de idade\n\n1980\n2011\n2040\n\n70 ou mais\n\n60-69\n\n50-59\n\n40-49\n\n30-39\n\n20-29\n\n10-19\n\n0-9\n\nHomens\nMulheres\nHomens\nMulheres\n\nHomens\nMulheres\n\nFonte: IBGE",
     "files": [],
     "correctAlternative": "B",

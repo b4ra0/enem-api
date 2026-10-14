@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico",
+        "microbiologia"
+    ],
     "context": "Um dos processos biotecnológicos mais antigos é a utilização de microrganismos para a produção de alimentos. Num desses processos, certos tipos de bactérias anaeróbicas utilizam os açúcares presentes nos alimentos e realizam sua oxidação parcial, gerando como produto final da reação o ácido lático.",
     "files": [],
     "correctAlternative": "C",

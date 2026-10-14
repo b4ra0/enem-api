@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "graficos-tabelas"
+    ],
     "context": "Em 2012, o PNUD Brasil, o Ipea e a Fundação João Pinheiro assumiram o desafio de adaptar a metodologia do Índice de Desenvolvimento Humano (IDH) global para calcular o Índice de Desenvolvimento Humano Municipal (IDHM) dos 5 565 municípios brasileiros com base nos dados do Censo Demográfico de 2010. Também se recalculou o IDHM, pela metodologia adotada, para os anos de 1990 e 2000, para permitir a comparabilidade temporal e espacial entre os municípios.\n\nNo quadro são apresentados os dados de cinco\ncidades brasileiras.\n\nMunicípio\nIDHM - 1990 IDHM - 2000 IDHM - 2010\n\nSão Caetano do Sul (SP)\n0,77\n0,77\n0,92\n\nÁguas de São Pedro (SP)\n0,67\n0,76\n0,85\n\nFlorianópolis (SC)\n0,65\n0,80\n0,80\n\nBalneário Camboriú (SC)\n0,79\n0,79\n0,79\n\nVitória (ES)\n0,73\n0,78\n0,77\n\nDisponível em: http://atlasbrasil.org.br. Acesso em: 26 abr. 2014 (adaptado).",
     "files": [],
     "correctAlternative": "A",

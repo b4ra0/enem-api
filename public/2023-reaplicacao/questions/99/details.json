@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "radioatividade"
+    ],
     "context": "O processo de radiação de alimentos consiste em submeter os alimentos, já embalados ou a granel, a uma quantidade controlada de radiação ionizante, por um determinado período de tempo. Esse procedimento não aumenta o nível de radioatividade normal dos alimentos. A aplicação de uma dose de radiação normalmente resulta na morte de insetos, bactérias patogênicas, fungos e leveduras, aumentando assim o tempo de conservação dos alimentos, e pode retardar a maturação de algumas frutas e legumes, sendo possível assim aumentar seu período de armazenamento.",
     "files": [],
     "correctAlternative": "E",

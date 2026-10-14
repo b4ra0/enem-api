@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "microbiologia",
+        "botanica"
+    ],
     "context": "Um professor solicita a um grupo de alunos que organizem uma coleção de vegetais para apresentar em uma feira de ciências. Dessa forma, os alunos coletaram um musgo, um cogumelo, uma samambaia, uma alga e ramos de pinheiro e de goiabeira. Durante a apresentação do trabalho, o professor explicou que, embora todas as espécies coletadas tenham muitas características em comum, nem todas são vegetais.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "potencias-notacao-cientifica"
+    ],
     "context": "“Quanto é mil trilhões\n\nVezes infinito?”\n\nTOLLER, P. Oito anos. In: Paula Toller. Rio de Janeiro: Warner Music Brasil, 1998.\n\nO trecho da canção Oito anos, de Paula Toller, foi apresentado por um professor de matemática a um grupo de cinco alunos. Em seguida, o professor solicitou que cada aluno apresentasse uma expressão matemática que traduzisse os versos citados. Cinco respostas diferentes foram dadas:\n\nResposta 1: 109 × ∞\n\nResposta 2: 1012 × ∅\n\nResposta 3: 1012 × ∞\n\nResposta 4: 1015 × ∅\n\nResposta 5: 1015 × ∞\n\nA resposta que representa matematicamente o trecho da canção é a",
     "files": [],
     "correctAlternative": "E",

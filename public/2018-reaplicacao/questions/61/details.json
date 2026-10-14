@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica",
+        "filosofia-contemporanea"
+    ],
     "context": "O justo e o bem são complementares no sentido de que uma concepção política deve apoiar-se em diferentes ideias do bem. Na teoria da justiça como equidade, essa condição se expressa pela prioridade do justo. Sob sua forma geral, esta quer dizer que as ideias aceitáveis do bem devem respeitar os limites da concepção política de justiça e nela desempenhar um certo papel.\n\nRAWLS, J. Justiça e democracia. São Paulo: Martins Fontes, 2000 (adaptado).",
     "files": [],
     "correctAlternative": "D",

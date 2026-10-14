@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2019-reaplicacao/questions/11/386d2125-266c-450b-a4df-13d0b6bae988.png)\n\nDisponível em: http://jconlineinteratividade.ne10.uol.com.br.\n\nAcesso em: 17 set. 2015.",
     "files": [
         "https://enem.dev/2019-reaplicacao/questions/11/386d2125-266c-450b-a4df-13d0b6bae988.png"

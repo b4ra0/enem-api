@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "solucoes",
+        "separacao-misturas"
+    ],
     "context": "Um laudo de análise de laboratório apontou que amostras de leite de uma usina de beneficiamento estavam em desacordo com os padrões estabelecidos pela legislação. Foi observado que a concentração de sacarose era maior do que a permitida.",
     "files": [],
     "correctAlternative": "D",

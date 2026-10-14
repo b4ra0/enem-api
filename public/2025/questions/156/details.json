@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "escalas"
+    ],
     "context": "Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.\n\n![](https://enem.dev/2025/questions/156/70d360d5-1b2a-47fe-9e76-b8806477a8cd.png)\n\nApós a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.",
     "files": [
         "https://enem.dev/2025/questions/156/70d360d5-1b2a-47fe-9e76-b8806477a8cd.png"

@@ -4,6 +4,12 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade",
+        "graficos-tabelas",
+        "porcentagem"
+    ],
     "context": "Uma empresa tem 400 funcionários, distribuídos em três setores: administrativo, logística e produção. O gráfico apresenta a distribuição quantitativa desses funcionários, por setor e por faixa etária.\n\n![](https://enem.dev/2024/questions/173/0fba04c2-bada-4bda-94a1-3630bc73adae.png)\n\nUma viagem de férias será sorteada entre esses\nfuncionários, de forma que todos terão igual probabilidade de serem sorteados.",
     "files": [
         "https://enem.dev/2024/questions/173/0fba04c2-bada-4bda-94a1-3630bc73adae.png"

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "vocabulario-contexto",
+        "interpretacao-texto"
+    ],
     "context": "VIII – agosto\n\nChampandongo\n\n¡Ojalá que a Rosaura la boca se le hiciera chicharrón! Y que nunca hubiera dejado escapar esas repugnantes, malolientes, incoherentes, pestilentes, indecentes y repelentes palabras. En fin, no sabía por qué tenía que pensar en esas cosas tan desagradables en estos momentos que deberían ser para ella los más felices de su vida, ni sabía por qué estaba tan molesta. Y ojalá que ella viviera lo suficiente como para impedir que su hermana llevara a cabo tan nefastas intenciones. Nadie se explicaba este comportamiento, algunos creían que era porque le había afectado profundamente la idea de no volver a tener más hijos. Por lo que fuera, pero tal parecía que la ira dominaba los pensamientos y las acciones de todos en la casa. Tita estaba literalmente “como agua para chocolate”.\n\nESQUIVEL, L. Como agua para chocolate. Buenos Aires: Debolsillo, 2005.",
     "files": [],
     "correctAlternative": "E",

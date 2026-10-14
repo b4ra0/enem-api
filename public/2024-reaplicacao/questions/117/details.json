@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Aquecedores elétricos utilizam resistência de fio, suportando uma corrente máxima dimensionada pelo fabricante. O dimensionamento original do circuito elétrico de um aquecedor, esquematizado na figura, foi utilizado para provocar a elevação de temperatura em um volume de água, durante um determinado intervalo de tempo.\n\n![](https://enem.dev/2024-reaplicacao/questions/117/a7094a45-2ed4-4a8e-b87d-4e527d52c2d1.png)\n\nCaso se pretenda utilizar uma tensão de 250 V, o circuito precisará ser redimensionado, para garantir o correto funcionamento do aquecedor. A corrente deve ser mantida, considerando-se o aquecimento do mesmo volume de água, à mesma temperatura, durante o mesmo intervalo de tempo.",
     "files": [
         "https://enem.dev/2024-reaplicacao/questions/117/a7094a45-2ed4-4a8e-b87d-4e527d52c2d1.png"

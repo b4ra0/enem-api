@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "trabalho-energia"
+    ],
     "context": "Para que se faça a reciclagem das latas de alumínio são necessárias algumas ações, dentre elas:\n\n1) recolher as latas e separá-las de outros materiais diferentes do alumínio por catação;\n\n2) colocar as latas em uma máquina que separa as mais leves das mais pesadas por meio de um intenso jato de ar;",
     "files": [],
     "correctAlternative": "E",

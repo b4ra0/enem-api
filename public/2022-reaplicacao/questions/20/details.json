@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2022-reaplicacao/questions/20/52bf6226-9fa5-4cc7-8472-11c25f009def.png)\n\nPENETT. Disponível em: www.gazetadopovo.com.br. Acesso em: 10 dez. 2017. No cartum, o confronto entre primatas produz um efeito de humor que se vincula à função social de",
     "files": [
         "https://enem.dev/2022-reaplicacao/questions/20/52bf6226-9fa5-4cc7-8472-11c25f009def.png"

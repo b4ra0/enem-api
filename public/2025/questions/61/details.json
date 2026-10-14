@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-antiga",
+        "filosofia-politica"
+    ],
     "context": "O corpo de cidadãos é o poder supremo dos Estados.\nA supremacia pode residir ou num homem, ou na minoria, ou em todos. Sempre que o Um, ou a Minoria, ou Todos governam, tendo em vista o bem-estar comum, essas constituições são justas; mas se procuram apenas o benefício de uma das partes, seja ela o Um, a Minoria ou Todos, estabelece-se um desvio.\n\nARISTÓTELES. Política. São Paulo: Nova Cultural, 2000.",
     "files": [],
     "correctAlternative": "E",

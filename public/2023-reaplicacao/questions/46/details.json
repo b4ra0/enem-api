@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-antiga",
+        "filosofia-politica"
+    ],
     "context": "O Estado surge pelo fato de ser o homem um animal naturalmente social, político. O Estado provê, inicialmente, a satisfação daquelas necessidades materiais, negativas e positivas, defesa e segurança, conservação e engrandecimento, de outro modo irrealizáveis. Mas o seu fim essencial é espiritual, isto é, deve promover a virtude e, consequentemente, a felicidade dos súditos mediante a ciência.\n\nARISTÓTELES. A política. São Paulo: Martins Fontes, 2006 (adaptado).",
     "files": [],
     "correctAlternative": "D",

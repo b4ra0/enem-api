@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "microbiologia"
+    ],
     "context": "Em um laboratório, pesquisadores tentavam desenvolver uma vacina contra um vírus que infecta tanto roedores como o homem. Uma das vacinas foi capaz de imunizar 100% dos ratos testados, o que foi considerado um grande sucesso. Entretanto, quatro semanas após, novos experimentos com outras cobaias mostraram que 40% dos animais não sobreviveram a testes para a mesma vacina. Em um terceiro experimento, três meses depois, apenas 15% das novas cobaias sobreviveram aos testes.",
     "files": [],
     "correctAlternative": "C",

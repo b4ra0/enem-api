@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "probabilidade"
+    ],
     "context": "Após uma reforma, um clube decide comprar duchas para serem instaladas no vestiário. O tipo de ducha escolhida, segundo o fabricante, tem probabilidade igual a\n\n1\n10 de apresentar funcionamento irregular. O administrador\n\ndo clube planeja adquirir uma certa quantidade dessas\n\nduchas, de forma que a probabilidade de que pelo menos\n\numa das duchas adquiridas apresente funcionamento\n\nregular seja igual a, no mínimo, 99\n\n100\n.",
     "files": [],
     "correctAlternative": "A",

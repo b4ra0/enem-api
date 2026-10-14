@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "botanica",
+        "ecologia"
+    ],
     "context": "O mangue é composto por três tipos de árvores (Rhizophora mangle — mangue-bravo ou vermelho, Avicennia schaueriana — mangue-seriba, e Laguncularia racemosa — mangue-branco). Uma característica morfológica comum aos três tipos de árvores encontradas no mangue está relacionada à pouca disponibilidade de oxigênio encontrado em seu solo.\n\nALVES, J. R. P. (Org.). Manguezais: educar para proteger.\n\nRio de Janeiro: Femar; Semads, 2001 (adaptado).",
     "files": [],
     "correctAlternative": "E",

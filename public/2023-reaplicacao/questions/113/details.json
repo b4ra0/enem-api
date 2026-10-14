@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "genetica"
+    ],
     "context": "A incapacidade de perceber certas cores é denominada daltonismo. Um tipo raro é classificado de tritanomalia e corresponde a um defeito nos cones sensíveis à cor azul. O gene responsável pela herança situa-se no cromossomo 7, permitindo que homens e mulheres sejam igualmente afetados. Além disso, casais sem tritanomalia podem ter crianças com a herança.\n\nO padrão dessa herança rara é",
     "files": [],
     "correctAlternative": "D",

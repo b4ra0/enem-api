@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas"
+    ],
     "context": "O gráfico apresenta o valor total de exportações e o valor total de importações, ao longo de um período, em bilhão de dólares. O saldo da balança comercial brasileira é dado pelo valor total de exportações menos o valor total de importações num mesmo período.\n\nValor total de exportações e importações\n\n![](https://enem.dev/2024/questions/152/2d332a4f-1382-4657-b54f-cda5fd971659.png)\n\nDisponível em: http://blogs.estadao.com.br.\n\nAcesso em: 20 fev. 2013 (adaptado).\n\nConsidere que os saldos da balança comercial\nbrasileira, nos três meses destacados no gráfico, sejam representados por:\n\n• S1: saldo em junho de 2009;\n• S2: saldo em janeiro de 2010;\n• S3: saldo em junho de 2010.",
     "files": [
         "https://enem.dev/2024/questions/152/2d332a4f-1382-4657-b54f-cda5fd971659.png"

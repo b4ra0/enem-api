@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria",
+        "acustica"
+    ],
     "context": "Alguns modelos mais modernos de fones de ouvido contam com uma fonte de energia elétrica para poderem funcionar. Esses novos fones têm um recurso, denominado “Cancelador de Ruídos Ativo”, constituído de um circuito eletrônico que gera um sinal sonoro semelhante ao sinal externo de frequência fixa. No entanto, para que o cancelamento seja realizado, o sinal sonoro produzido pelo\ncircuito\nprecisa\napresentar\nsimultaneamente\ncaracterísticas específicas bem determinadas.",
     "files": [],
     "correctAlternative": "B",

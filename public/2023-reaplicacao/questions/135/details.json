@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termodinamica"
+    ],
     "context": "Balões cheios de gás hélio são soltos no ar pelas crianças e sobem até não serem mais vistos em poucos minutos.\n\nDurante a subida, o gás no interior do balão sofre aumento de",
     "files": [],
     "correctAlternative": "A",

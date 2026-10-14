@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico",
+        "botanica"
+    ],
     "context": "No século XVII, um cientista alemão chamado\nJan Baptista van Helmont fez a seguinte experiência para tentar entender como as plantas se nutriam: plantou uma muda de salgueiro, que pesava 2,5 kg, em um vaso contendo 100 kg de terra seca. Tampou o vaso com uma placa de ferro perfurada para deixar passar água. Molhou diariamente a planta com água da chuva. Após 5 anos, pesou novamente a terra seca e encontrou os mesmos 100 kg, enquanto que a planta de salgueiro pesava 80 kg.\n\nBAKER, J. J. W.; ALLEN, G. E. Estudo da biologia.\n\nSão Paulo: Edgar Blucher, 1975 (adaptado).",
     "files": [],
     "correctAlternative": "C",

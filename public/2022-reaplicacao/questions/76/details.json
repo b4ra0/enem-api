@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio"
+    ],
     "context": "Apesar de derrotado na Batalha do Jenipapo, o exército de sertanejos libertou três províncias nordestinas. Esse confronto foi dos mais violentos, embora tenha ocorrido em um único dia — 13 de março de 1823. A batalha foi o resultado de embates entre o poder português e a população sertaneja piauiense, cearense e maranhense de todas as classes sociais, que formaram uma multidão de voluntários armados de instrumentos como facões, enxadas, foices, machados.",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Baterias de lítio, utilizadas em dispositivos eletrônicos portáteis, são constituídas de células individuais com ddp de 3,6 V. É comum os fabricantes de computadores utilizarem as células individuais para a obtenção de baterias de 10,8 V ou 14,4 V. No entanto, fazem a propaganda de seus produtos fornecendo a informação do número de células da bateria e sua capacidade de carga em mAh, por exemplo, 4 400 mAh.\n\nDisponível em: www.laptopbattery.net. Acesso em: 15 nov. 2011 (adaptado).",
     "files": [],
     "correctAlternative": "A",

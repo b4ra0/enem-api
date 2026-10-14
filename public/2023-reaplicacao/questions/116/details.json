@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "zoologia"
+    ],
     "context": "No ciclo de vida de um inseto endoparasitoide, as larvas se desenvolvem dentro de um hospedeiro. Essa relação leva o hospedeiro à morte, por isso considera-se que o parasitoidismo é um misto de parasitismo e predação.",
     "files": [],
     "correctAlternative": "C",

@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia",
+        "eletrodinamica"
+    ],
     "context": "A crescente facilidade para aquisição de aerogeradores e painéis fotovoltaicos tem permitido que unidades consumidoras tenham suas próprias unidades microgeradoras de energia. A integração das unidades microgeradoras à rede pública de distribuição pode beneficiar tanto as unidades consumidoras quanto as concessionárias de fornecimento, conforme o fluxograma. Quando as unidades microgeradoras não geram energia suficiente para a unidade consumidora, a rede de distribuição supre a diferença. Quando a unidade microgeradora gera excedente de energia, esse excedente poderá ser entregue à concessionária em troca de crédito.\n\nUnidade microgeradora eólica ou fotovoltaica\n\nRede pública\nde distruibuição\n\nQuadro de\n\nUnidade\nconsumidora\n\nenergia e\n\nde energia\n\nmedidor\n\nA vantagem técnica que as unidades microgeradoras proporcionam para as concessionárias da rede pública é a",
     "files": [],
     "correctAlternative": "A",

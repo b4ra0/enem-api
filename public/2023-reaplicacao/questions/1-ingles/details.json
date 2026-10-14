@@ -4,6 +4,11 @@
     "year": 2023,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "generos-textuais",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2023-reaplicacao/questions/1-ingles/45c044c0-c597-429d-ad20-f90f5ea03f07.png)\n\nDisponível em: https://images1.the-dots.com. Acesso em: 29 out. 2021.",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/1-ingles/45c044c0-c597-429d-ad20-f90f5ea03f07.png"

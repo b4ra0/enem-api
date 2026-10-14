@@ -4,6 +4,12 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "era-vargas",
+        "america-latina",
+        "totalitarismos"
+    ],
     "context": "Nos governos de Vargas e Perón, o esporte começou a ser visto como um importante elemento na relação entre o regime e a sociedade. Tal fato não deve ser entendido apenas como uma resposta à crescente popularidade do esporte. Ainda que crescente em seus governos, a massificação do esporte já havia ocorrido muito antes. Talvez a influência dos regimes de Mussolini e Hitler sobre os dois governantes latino-americanos possa apontar para um melhor entendimento dessa nova visão política, uma vez que ambos tiveram uma estreita ligação com o esporte e a sua utilização como propaganda política.\n\nDRUMOND, M. Vargas, Perón e o esporte. Revista Estudos Históricos,\n\nn. 44, jul.-dez. 2009.\n\nDe acordo com o texto, o uso do esporte nos regimes políticos mencionados foi explorado com o objetivo de",
     "files": [],
     "correctAlternative": "A",

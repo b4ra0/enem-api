@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "Um rolo de papel higiênico tradicional é representado por um cilindro circular reto retirando-se outro cilindro circular reto interior, de mesmo eixo de simetria, mesma altura e diâmetro menor, conforme a figura.\n\nAltura\n\nDiâmetro\n\ninterno\n\nDiâmetro externo\n\nConsidere um rolo de papel higiênico com 12 cm de diâmetro externo, 4 cm de diâmetro interno e 10 cm de altura.\n\nO volume, em centímetro cúbico, desse rolo é",
     "files": [],
     "correctAlternative": "C",

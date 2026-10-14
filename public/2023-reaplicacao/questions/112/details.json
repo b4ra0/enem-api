@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais",
+        "ecologia"
+    ],
     "context": "A Caatinga está em risco: estudo revela que 59% da vegetação natural desse bioma já sofreram algum tipo de modificação por atividades humanas. Um problema que esse bioma enfrenta é o fenômeno da desertificação. Segundo cientistas, à medida que a agricultura avança na região, esse fenômeno ganha maiores proporções. Para os cientistas, essa constatação evidencia a grande necessidade de medidas urgentes para a preservação da Caatinga, que hoje só tem 1% de sua área inclusa em unidades de conservação.\n\nFERRAZ, M. Caatinga, muito prazer. Ciência Hoje, n. 251, 2008 (adaptado).",
     "files": [],
     "correctAlternative": "E",

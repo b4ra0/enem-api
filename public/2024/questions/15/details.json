@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao",
+        "interpretacao-texto"
+    ],
     "context": "Telemedicina é para todos,\nmas nem todos estão preparados\n\nA telemedicina, nos últimos anos, tem se destacado como uma ferramenta valiosa, proporcionando uma gama de benefícios que vão desde a ampliação do acesso à assistência médica até a otimização dos recursos de todo o ecossistema de saúde.\n\nO governo federal propõe a Estratégia de Saúde Digital, um programa destinado à transformação digital da saúde no Brasil. Seu principal objetivo é facilitar a troca de informações entre os diversos pontos da Rede de Atenção à Saúde, promovendo a interoperabilidade e, assim, possibilitando a transição e a continuidade do cuidado nos setores público e privado. Também está em discussão um projeto de lei que dispõe sobre o prontuário eletrônico unificado do cidadão, o que indica o quanto o tema está em evidência tanto para os gestores públicos quanto para os privados.\n\nContudo, é importante reconhecer que nem todas as pessoas estão igualmente preparadas para aproveitar plenamente os cuidados ofertados pela telemedicina. Um dos principais benefícios do atendimento de saúde a distância é a capacidade de superar barreiras geográficas, proporcionando acesso a serviços médicos, especialmente para pacientes que residem em áreas remotas e/ou carentes de certas especialidades médicas, os chamados “vazios assistenciais”. A equidade no acesso é uma questão crítica, uma vez que nem todos têm ao seu alcance dispositivos tecnológicos ou uma conexão à internet que seja confiável, entre outros problemas de infraestrutura. É um desafio tanto para os pacientes quanto para os profissionais de saúde, que, em muitos casos, não contam com estrutura para o trabalho remoto nem com letramento digital para desenvolver as funções.\n\nOLIVEIRA, D. Disponível em: www.correiobraziliense.com.br.\n\nAcesso em: 21 jan. 2024 (adaptado).",
     "files": [],
     "correctAlternative": "B",

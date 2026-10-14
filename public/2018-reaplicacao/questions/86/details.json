@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "geologia-relevo",
+        "hidrografia"
+    ],
     "context": "![](https://enem.dev/2018-reaplicacao/questions/86/2ee57421-1a5a-4ef3-9df0-a4e813ec10a3.png)",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/86/2ee57421-1a5a-4ef3-9df0-a4e813ec10a3.png"

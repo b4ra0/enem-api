@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "urbanizacao"
+    ],
     "context": "Quer um conselho? Vá conhecer alguma coisa da terra e deixe os homens em paz... Os homens mudam, a terra é inalterável. Vá por aí dentro, embrenhe-se pelo interior e observe alguma coisa de proveitoso. Aqui na capital só encontrará casas mais altas, ruas mais cheias e coisas parecidas ao que de igual existe em todas as cidades modernas. Mas ao contato com a terra você sentirá o que não pode sentir nas avenidas asfaltadas.\n\nLOBATO, M. Lobatiana: meio ambiente. São Paulo: Brasiliense, 1985.",
     "files": [],
     "correctAlternative": "C",

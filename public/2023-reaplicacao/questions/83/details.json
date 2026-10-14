@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cultura-identidade",
+        "desigualdade-social"
+    ],
     "context": "Nas Antilhas, o jovem negro que, na escola, não para de repetir “nossos pais, os gauleses”, identifica-se com o explorador, com o civilizador, com o branco que traz a verdade aos selvagens, uma verdade toda branca. Há identificação, isto é, o jovem negro adota subjetivamente uma atitude de branco. Ele carrega o herói, que é branco, com toda a sua agressividade — a qual, nessa idade, assemelha-se estreitamente a uma dádiva: uma dádiva carregada de sadismo.\n\nFANON, F. Pele negra, máscaras brancas. Salvador: Edufba, 2008.",
     "files": [],
     "correctAlternative": "B",

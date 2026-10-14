@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "argumentacao",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2025/questions/14/430e1266-7480-4e95-9d82-97a1fec96d97.png)\n\nDisponível em: www.publishnews.com.br. Acesso em: 19 set. 2024.",
     "files": [
         "https://enem.dev/2025/questions/14/430e1266-7480-4e95-9d82-97a1fec96d97.png"

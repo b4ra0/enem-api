@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "A umidade relativa do ar é um dos indicadores utilizados na meteorologia para fazer previsões sobre o clima. O quadro apresenta as médias mensais, em porcentagem, da umidade relativa do ar em um período de seis meses consecutivos em uma cidade.\n\nMeses\nMaio Jun.\nJul.\nAgo.\nSet.\nOut.\n\nMédia mensal da\n\numidade relativa\n\n66\n64\n54\n46\n60\n64\n\ndo ar (%)",
     "files": [],
     "correctAlternative": "E",

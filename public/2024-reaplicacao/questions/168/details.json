@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-exponencial",
+        "porcentagem"
+    ],
     "context": "O automóvel é um bem que se desvaloriza muito rapidamente, quando comparado a outros bens. Após a venda, um automóvel novo já sofre uma grande desvalorização. O histórico de um automóvel novo, vendido por R$ 30 000,00, apresenta os seguintes valores (V ) de mercado, após decorridos os períodos indicados a seguir:\n\n• ao final de um ano, R$ 27 000,00;\n• ao final de dois anos, R$ 24 300,00;\n• ao final de três anos, R$ 21 870,00.\n\nEsses preços seguiram um modelo exponencial que expressa V em função do número n de ano de uso, pela relação V(n) = V0 · q n, em que V0 é o valor inicial, q é o fator de desvalorização e n é o tempo, em ano, decorrido após a venda.",
     "files": [],
     "correctAlternative": "D",

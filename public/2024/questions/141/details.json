@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcoes-conceitos",
+        "funcao-afim"
+    ],
     "context": "Três grandezas (I, II e III) se relacionam entre si. Os gráficos a seguir, formados por segmentos de reta, descrevem as relações de dependência existentes entre as grandezas I e II, e entre as grandezas II e III.\n\n![](https://enem.dev/2024/questions/141/042fdb3a-23c3-430f-a9a2-b459ba2dfb15.png)\n\n![](https://enem.dev/2024/questions/141/6c818ea6-8ace-4758-a6ee-7a7bab8ee84b.png)",
     "files": [
         "https://enem.dev/2024/questions/141/042fdb3a-23c3-430f-a9a2-b459ba2dfb15.png",

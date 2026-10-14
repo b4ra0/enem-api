@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais"
+    ],
     "context": "Hoje em dia, não é raro encontrar sacolas plásticas preenchidas com apenas um ou dois produtos. E não só no supermercado: da padaria à farmácia, o consumidor está sempre diante de uma sacola, mesmo que ela não seja tão necessária assim. A cada mês, cerca de 1,5 bilhão de sacolas são consumidas no Brasil. Isso significa 50 milhões por dia e 18 bilhões ao ano. Não é à toa, portanto, que o uso indiscriminado de sacolas virou um dos alvos preferidos dos ambientalistas.\n\nOs ambientalistas consideram o uso excessivo de sacolas plásticas um risco ambiental, pois",
     "files": [],
     "correctAlternative": "C",

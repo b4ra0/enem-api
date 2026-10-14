@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "quimica-ambiental",
+        "reacoes-quimicas"
+    ],
     "context": "O monóxido de carbono (CO) é um gás extremamente tóxico. Ele interfere no processo respiratório dos vertebrados, pois se o CO estiver presente no ar, haverá no sangue uma “competição” entre o CO e o O2.",
     "files": [],
     "correctAlternative": "D",

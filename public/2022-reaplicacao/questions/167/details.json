@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "Número de interrupções\nNúmero de dias\n\n0\n5\n\n1\n6\n\n2\n6\n\n3\n10\n\n4\n3\n\nTotal\n30\n\nA moda e a média diária do número de interrupções são, respectivamente, iguais a",
     "files": [],
     "correctAlternative": "A",

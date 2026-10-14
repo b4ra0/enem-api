@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "tecnologias-informacao"
+    ],
     "context": "Um ano depois de ter sido criado, o ChatGPT,\n\nferramenta capaz de produzir textos em\n\nqualquer área, generalizou-se, gerando\ndúvidas sobre autoria de teses e trabalhos\n\nUm professor da Faculdade de Letras de uma universidade em Portugal pediu um trabalho acadêmico a uma turma de 50 alunos do 1º ano. Quando começou a corrigi-los, notou algo estranho: nenhum dos trabalhos continha um único erro ortográfico ou gramatical, coisa nunca antes vista. E as frases eram curtas e diretas, sem orações intercalares, um estilo típico do inglês, mas pouco frequente na escrita portuguesa. Independentemente do conteúdo e do tema, que variava, a estrutura era praticamente igual em todos. Especialista em linguística forense, o docente rapidamente concluiu: “esses textos não foram escritos por humanos”.\n\nO professor tinha conversado com os alunos sobre o ChatGPT e tinha deixado claro que a ferramenta poderia ser utilizada, mas não para a execução integral dos textos.\n\nA utilização do ChatGPT abriu um debate em todo o mundo por apresentar riscos e possibilidades de uso indevido. Foram várias as escolas e outros estabelecimentos de ensino que adotaram ferramentas que permitem detectar as tendências do programa.\n\nDisponível em: https://expresso.pt.\n\nAcesso em: 24 jan. 2024 (adaptado).",
     "files": [],
     "correctAlternative": "E",

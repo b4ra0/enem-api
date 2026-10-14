@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "historia-arte",
+        "arquitetura-design"
+    ],
     "context": "![](https://enem.dev/2018-reaplicacao/questions/21/2bdf93a2-3c99-4bcf-bf55-850a64b59d2e.png)\n\nDisponível em: http://portal.iphan.gov.br. Acesso em: 11 mar. 2016.",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/21/2bdf93a2-3c99-4bcf-bf55-850a64b59d2e.png"

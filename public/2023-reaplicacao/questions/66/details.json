@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-moderna",
+        "teoria-conhecimento"
+    ],
     "context": "Suponha-se que seja trazida de súbito a este mundo uma pessoa dotada das mais poderosas faculdades da razão e reflexão. É verdade que ela observaria imediatamente um acontecimento seguindo-se a outro, mas não conseguiria descobrir nada além disso. Ela não seria, no início, capaz de apreender, por meio de nenhum raciocínio, a ideia de causa e efeito.\n\nHUME, D. Investigação sobre o entendimento humano e sobre\n\nos princípios da moral. São Paulo: Unesp, 2003.",
     "files": [],
     "correctAlternative": "B",

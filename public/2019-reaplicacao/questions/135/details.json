@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "gravitacao",
+        "optica"
+    ],
     "context": "A figura mostra, de forma esquemática, uma representação comum em diversos livros e textos sobre eclipses. Apenas analisando essa figura, um estudante pode concluir que os eclipses podem ocorrer duas vezes a cada volta completa da Lua em torno da Terra. Apesar de a figura levar a essa percepção, algumas informações adicionais são necessárias para se concluir que nem o eclipse solar, nem o lunar ocorrem com tal periodicidade.\n\nRaios solares\n(Sol distante)",
     "files": [],
     "correctAlternative": "B",

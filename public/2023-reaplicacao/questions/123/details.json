@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico"
+    ],
     "context": "O esquema representa a etapa fotoquímica da fotossíntese. As moléculas de clorofila e os pigmentos acessórios que compõem os fotossistemas I e II são excitados pela radiação luminosa. A energia dessa excitação retira elétrons das moléculas de clorofila a P680, no Fotossistema II, e de clorofila a P700, no Fotossistema I. Esses elétrons são responsáveis pelo mecanismo de fosforilação do ADP formando ATP e pela redução do NADP + em NADPH.\n\nEnergia\n\nFotossistema II\n\nFeO\n\nQa\n\nComplexo\n\nde\ncitocromo\n\nADP + Pi\nATP\n\nComplexo\n\nhν\n\nprodutor\nde oxigênio\n\nO2 + H+\nH2O\n\nO agente redutor primário responsável pela reposição dos elétrons perdidos no Fotossistema II é o(a)",
     "files": [],
     "correctAlternative": "C",

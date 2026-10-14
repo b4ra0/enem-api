@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "ditadura-militar",
+        "guerra-fria"
+    ],
     "context": "Nem mesmo Castelo Branco seria um aliado incondicional das políticas liberais recomendadas pelos organismos financeiros internacionais, nem dos contornos que o Departamento de Estado norte-americano promovia na política externa dos Estados latino-americanos. As políticas da Ditadura Militar — em particular as iniciativas de planejamento econômico, um projeto frustrado de reforma agrária promovido pelo ministro Roberto Campos e a rejeição ao “alinhamento automático” com Washington nos organismos multilaterais — proporcionariam pelo menos incerteza nos círculos decisórios da política externa dos Estados Unidos.\n\nRAPOPORT, M.; LAUFER, R. Os Estados Unidos diante do Brasil e da Argentina:\n\nos golpes militares da década de 1960. Revista Brasileira de Política Internacional,",
     "files": [],
     "correctAlternative": "A",

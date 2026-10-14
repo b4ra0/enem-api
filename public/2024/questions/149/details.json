@@ -4,6 +4,12 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "porcentagem",
+        "potencias-notacao-cientifica"
+    ],
     "context": "Em uma empresa é comercializado um produto em embalagens em formato de cilindro circular reto, com raio medindo 3 cm, e altura medindo 15 cm. Essa empresa planeja comercializar o mesmo produto em embalagens em formato de cubo, com capacidade igual a 80% da capacidade da embalagem cilíndrica utilizada atualmente.\n\nUse 3 como valor aproximado para π.",
     "files": [],
     "correctAlternative": "E",

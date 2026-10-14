@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais",
+        "ecologia"
+    ],
     "context": "Três inseticidas mortais para as abelhas serão proibidos na União Europeia (UE) durante dois anos, a partir de julho, anunciou a Comissão Europeia em 2013. A medida foi adotada por causa da morte de milhares de abelhas, insetos vitais para o nosso ecossistema, uma vez que desempenham um importante papel na agricultura e, portanto, na produção de alimentos para a humanidade.\n\nDisponível em: http://noticias.r7.com. Acesso em: 24 maio 2013 (adaptado).\n\nO impacto dos inseticidas mencionados na produção de alimentos agrícolas é causado pelo(a)",
     "files": [],
     "correctAlternative": "B",

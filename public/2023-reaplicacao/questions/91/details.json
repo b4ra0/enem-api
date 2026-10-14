@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "botanica",
+        "bioquimica"
+    ],
     "context": "No calor tórrido e seco da Serra do Cabral, em Minas Gerais, o delgado talo com translúcidas flores lilases desponta da areia branca. Philcoxia minensis recorre a truques para sobreviver. Um deles é manter as folhas enterradas, protegidas do sol, que mesmo assim chega suficiente para a fotossíntese. O segundo é atrair vermes subterrâneos, que viram suplemento alimentar num solo pobre. A digestão fica por conta das fosfatases secretadas pelas glândulas.\n\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 7 jul. 2015 (adaptado).",
     "files": [],
     "correctAlternative": "C",

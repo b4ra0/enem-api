@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-moderna",
+        "teoria-conhecimento"
+    ],
     "context": "Quando analisamos nossos pensamentos ou ideias, por mais complexos e sublimes que sejam, sempre descobrimos que se resolvem em ideias simples que são cópias de uma sensação ou sentimento anterior. Mesmo as ideias que, à primeira vista, parecem mais afastadas dessa origem mostram, a um exame mais atento, ser derivadas dela.\n\nHUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural, 1973.",
     "files": [],
     "correctAlternative": "D",

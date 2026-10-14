@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cidadania-direitos",
+        "desigualdade-social"
+    ],
     "context": "Em um placar acirrado (quatro votos a três), a Suprema Corte dos EUA decidiu que a cota racial conquistada por negros(as) e latinos(as) para admissão de novos(as) alunos(as) nas universidades não viola o princípio de igualdade perante a lei. Portanto, não é inconstitucional, como foi alegado. Nos EUA, a cota racial é chamada de “ação afirmativa”.\n\nMELO, J. O. Suprema Corte mantém cota racial para universidades dos EUA.\n\nDisponível em: www.conjur.com.br. Acesso em: 12 nov. 2021 (adaptado).\n\nA decisão da Suprema Corte, com impacto sobre o sistema educacional estadunidense, objetivou garantir a",
     "files": [],
     "correctAlternative": "E",

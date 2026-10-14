@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio"
+    ],
     "context": "Lei n. 601, de 18 de setembro de 1850\nD. Pedro II, por Graça de Deus e Unânime\nAclamação dos Povos, Imperador Constitucional e Defensor Perpétuo do Brasil: Fazemos saber, a todos os nossos súditos, que a Assembleia Geral decretou, e nós queremos a Lei seguinte:\n\nArt. 1º Ficam proibidas as aquisições de terras devolutas por outro título que não seja o de compra.\n\nDisponível em: www.planalto.gov.br. Acesso em: 8 ago. 2014 (adaptado).",
     "files": [],
     "correctAlternative": "D",

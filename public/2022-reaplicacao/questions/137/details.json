@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem"
+    ],
     "context": null,
     "files": [],
     "correctAlternative": "D",

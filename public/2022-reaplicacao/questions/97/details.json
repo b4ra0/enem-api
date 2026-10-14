@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "funcoes-organicas",
+        "acidos-bases-ph"
+    ],
     "context": "O timol é encontrado em óleos essenciais de ervas aromáticas, como o tomilho e o orégano. Apesar de pouco solúvel em água, o timol é solúvel em uma solução de hidróxido de sódio.\n\nTimol\n\nA dissolução desse composto em uma solução de\nhidróxido de sódio se deve ao(à)",
     "files": [],
     "correctAlternative": "A",

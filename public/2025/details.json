@@ -34,1039 +34,1823 @@
             "title": "Questão 1 - ENEM 2025",
             "index": 1,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 1 - ENEM 2025",
             "index": 1,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto",
+                "aspectos-culturais"
+            ]
         },
         {
             "title": "Questão 2 - ENEM 2025",
             "index": 2,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "vocabulario-contexto",
+                "aspectos-culturais"
+            ]
         },
         {
             "title": "Questão 2 - ENEM 2025",
             "index": 2,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 3 - ENEM 2025",
             "index": 3,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "vocabulario-contexto",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 3 - ENEM 2025",
             "index": 3,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto",
+                "aspectos-culturais"
+            ]
         },
         {
             "title": "Questão 4 - ENEM 2025",
             "index": 4,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "aspectos-culturais",
+                "vocabulario-contexto"
+            ]
         },
         {
             "title": "Questão 4 - ENEM 2025",
             "index": 4,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "vocabulario-contexto"
+            ]
         },
         {
             "title": "Questão 5 - ENEM 2025",
             "index": 5,
             "discipline": "linguagens",
-            "language": "espanhol"
+            "language": "espanhol",
+            "subject": "espanhol",
+            "topics": [
+                "vocabulario-contexto",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 5 - ENEM 2025",
             "index": 5,
             "discipline": "linguagens",
-            "language": "ingles"
+            "language": "ingles",
+            "subject": "ingles",
+            "topics": [
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 6 - ENEM 2025",
             "index": 6,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 7 - ENEM 2025",
             "index": 7,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 8 - ENEM 2025",
             "index": 8,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "tecnologias-informacao",
+                "interpretacao-texto"
+            ]
         },
         {
             "title": "Questão 9 - ENEM 2025",
             "index": 9,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "tecnologias-informacao"
+            ]
         },
         {
             "title": "Questão 10 - ENEM 2025",
             "index": 10,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "semantica",
+                "argumentacao"
+            ]
         },
         {
             "title": "Questão 11 - ENEM 2025",
             "index": 11,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "romantismo"
+            ]
         },
         {
             "title": "Questão 12 - ENEM 2025",
             "index": 12,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "esportes",
+                "corpo-sociedade"
+            ]
         },
         {
             "title": "Questão 13 - ENEM 2025",
             "index": 13,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 14 - ENEM 2025",
             "index": 14,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 15 - ENEM 2025",
             "index": 15,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais",
+                "historia-arte"
+            ]
         },
         {
             "title": "Questão 16 - ENEM 2025",
             "index": 16,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "parnasianismo-simbolismo",
+                "generos-literarios"
+            ]
         },
         {
             "title": "Questão 17 - ENEM 2025",
             "index": 17,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "coesao-coerencia"
+            ]
         },
         {
             "title": "Questão 18 - ENEM 2025",
             "index": 18,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "corpo-sociedade",
+                "esportes"
+            ]
         },
         {
             "title": "Questão 19 - ENEM 2025",
             "index": 19,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "saude-qualidade-vida",
+                "esportes"
+            ]
         },
         {
             "title": "Questão 20 - ENEM 2025",
             "index": 20,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 21 - ENEM 2025",
             "index": 21,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 22 - ENEM 2025",
             "index": 22,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "arte-popular",
+                "artes-visuais"
+            ]
         },
         {
             "title": "Questão 23 - ENEM 2025",
             "index": 23,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "artes-visuais",
+                "historia-arte"
+            ]
         },
         {
             "title": "Questão 24 - ENEM 2025",
             "index": 24,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 25 - ENEM 2025",
             "index": 25,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao",
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 26 - ENEM 2025",
             "index": 26,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 27 - ENEM 2025",
             "index": 27,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "educacao-fisica",
+            "topics": [
+                "praticas-corporais"
+            ]
         },
         {
             "title": "Questão 28 - ENEM 2025",
             "index": 28,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "generos-literarios",
+                "parnasianismo-simbolismo"
+            ]
         },
         {
             "title": "Questão 29 - ENEM 2025",
             "index": 29,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "literatura-contemporanea"
+            ]
         },
         {
             "title": "Questão 30 - ENEM 2025",
             "index": 30,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 31 - ENEM 2025",
             "index": 31,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "semantica",
+                "tecnologias-informacao"
+            ]
         },
         {
             "title": "Questão 32 - ENEM 2025",
             "index": 32,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 33 - ENEM 2025",
             "index": 33,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 34 - ENEM 2025",
             "index": 34,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "funcoes-linguagem",
+                "semantica"
+            ]
         },
         {
             "title": "Questão 35 - ENEM 2025",
             "index": 35,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao"
+            ]
         },
         {
             "title": "Questão 36 - ENEM 2025",
             "index": 36,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica",
+                "coesao-coerencia"
+            ]
         },
         {
             "title": "Questão 37 - ENEM 2025",
             "index": 37,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "intertextualidade"
+            ]
         },
         {
             "title": "Questão 38 - ENEM 2025",
             "index": 38,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "coesao-coerencia"
+            ]
         },
         {
             "title": "Questão 39 - ENEM 2025",
             "index": 39,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "tecnologias-informacao"
+            ]
         },
         {
             "title": "Questão 40 - ENEM 2025",
             "index": 40,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "literatura",
+            "topics": [
+                "realismo-naturalismo"
+            ]
         },
         {
             "title": "Questão 41 - ENEM 2025",
             "index": 41,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "artes",
+            "topics": [
+                "arte-popular",
+                "artes-visuais"
+            ]
         },
         {
             "title": "Questão 42 - ENEM 2025",
             "index": 42,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "variacao-linguistica"
+            ]
         },
         {
             "title": "Questão 43 - ENEM 2025",
             "index": 43,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "interpretacao-texto",
+                "generos-textuais"
+            ]
         },
         {
             "title": "Questão 44 - ENEM 2025",
             "index": 44,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "argumentacao"
+            ]
         },
         {
             "title": "Questão 45 - ENEM 2025",
             "index": 45,
             "discipline": "linguagens",
-            "language": null
+            "language": null,
+            "subject": "portugues",
+            "topics": [
+                "semantica",
+                "funcoes-linguagem"
+            ]
         },
         {
             "title": "Questão 46 - ENEM 2025",
             "index": 46,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "geopolitica",
+                "globalizacao"
+            ]
         },
         {
             "title": "Questão 47 - ENEM 2025",
             "index": 47,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "clima",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 48 - ENEM 2025",
             "index": 48,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-moderna",
+                "filosofia-antiga"
+            ]
         },
         {
             "title": "Questão 49 - ENEM 2025",
             "index": 49,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "idade-moderna"
+            ]
         },
         {
             "title": "Questão 50 - ENEM 2025",
             "index": 50,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-politica",
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 51 - ENEM 2025",
             "index": 51,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cultura-identidade"
+            ]
         },
         {
             "title": "Questão 52 - ENEM 2025",
             "index": 52,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "guerras-mundiais"
+            ]
         },
         {
             "title": "Questão 53 - ENEM 2025",
             "index": 53,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "patrimonio-memoria",
+                "antiguidade"
+            ]
         },
         {
             "title": "Questão 54 - ENEM 2025",
             "index": 54,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "populacao-migracoes",
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 55 - ENEM 2025",
             "index": 55,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-contemporanea",
+                "filosofia-politica"
+            ]
         },
         {
             "title": "Questão 56 - ENEM 2025",
             "index": 56,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "hidrografia",
+                "transportes-circulacao"
+            ]
         },
         {
             "title": "Questão 57 - ENEM 2025",
             "index": 57,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "populacao-migracoes"
+            ]
         },
         {
             "title": "Questão 58 - ENEM 2025",
             "index": 58,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-imperio"
+            ]
         },
         {
             "title": "Questão 59 - ENEM 2025",
             "index": 59,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "energia-recursos",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 60 - ENEM 2025",
             "index": 60,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "etica-moral",
+                "filosofia-moderna"
+            ]
         },
         {
             "title": "Questão 61 - ENEM 2025",
             "index": 61,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-antiga",
+                "filosofia-politica"
+            ]
         },
         {
             "title": "Questão 62 - ENEM 2025",
             "index": 62,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 63 - ENEM 2025",
             "index": 63,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "espaco-agrario",
+                "globalizacao"
+            ]
         },
         {
             "title": "Questão 64 - ENEM 2025",
             "index": 64,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "republica-1945-1964"
+            ]
         },
         {
             "title": "Questão 65 - ENEM 2025",
             "index": 65,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "etica-moral"
+            ]
         },
         {
             "title": "Questão 66 - ENEM 2025",
             "index": 66,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-contemporanea"
+            ]
         },
         {
             "title": "Questão 67 - ENEM 2025",
             "index": 67,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "espaco-agrario"
+            ]
         },
         {
             "title": "Questão 68 - ENEM 2025",
             "index": 68,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao"
+            ]
         },
         {
             "title": "Questão 69 - ENEM 2025",
             "index": 69,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "idade-media"
+            ]
         },
         {
             "title": "Questão 70 - ENEM 2025",
             "index": 70,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "geologia-relevo"
+            ]
         },
         {
             "title": "Questão 71 - ENEM 2025",
             "index": 71,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "patrimonio-memoria",
+                "guerra-fria"
+            ]
         },
         {
             "title": "Questão 72 - ENEM 2025",
             "index": 72,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-antiga"
+            ]
         },
         {
             "title": "Questão 73 - ENEM 2025",
             "index": 73,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "povos-indigenas",
+                "brasil-colonia"
+            ]
         },
         {
             "title": "Questão 74 - ENEM 2025",
             "index": 74,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cultura-identidade",
+                "desigualdade-social"
+            ]
         },
         {
             "title": "Questão 75 - ENEM 2025",
             "index": 75,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "questoes-ambientais",
+                "espaco-agrario"
+            ]
         },
         {
             "title": "Questão 76 - ENEM 2025",
             "index": 76,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cidadania-direitos"
+            ]
         },
         {
             "title": "Questão 77 - ENEM 2025",
             "index": 77,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "energia-recursos",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 78 - ENEM 2025",
             "index": 78,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-colonia"
+            ]
         },
         {
             "title": "Questão 79 - ENEM 2025",
             "index": 79,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "etica-moral",
+                "filosofia-politica"
+            ]
         },
         {
             "title": "Questão 80 - ENEM 2025",
             "index": 80,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "urbanizacao",
+                "questoes-ambientais"
+            ]
         },
         {
             "title": "Questão 81 - ENEM 2025",
             "index": 81,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "sociologia",
+            "topics": [
+                "cidadania-direitos",
+                "violencia"
+            ]
         },
         {
             "title": "Questão 82 - ENEM 2025",
             "index": 82,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "filosofia",
+            "topics": [
+                "filosofia-antiga",
+                "filosofia-politica"
+            ]
         },
         {
             "title": "Questão 83 - ENEM 2025",
             "index": 83,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "brasil-colonia"
+            ]
         },
         {
             "title": "Questão 84 - ENEM 2025",
             "index": 84,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "questoes-ambientais",
+                "cartografia"
+            ]
         },
         {
             "title": "Questão 85 - ENEM 2025",
             "index": 85,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "primeira-republica",
+                "patrimonio-memoria"
+            ]
         },
         {
             "title": "Questão 86 - ENEM 2025",
             "index": 86,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "geografia",
+            "topics": [
+                "energia-recursos"
+            ]
         },
         {
             "title": "Questão 87 - ENEM 2025",
             "index": 87,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "antiguidade"
+            ]
         },
         {
             "title": "Questão 88 - ENEM 2025",
             "index": 88,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "povos-indigenas",
+                "patrimonio-memoria"
+            ]
         },
         {
             "title": "Questão 89 - ENEM 2025",
             "index": 89,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "antiguidade",
+                "idade-media"
+            ]
         },
         {
             "title": "Questão 90 - ENEM 2025",
             "index": 90,
             "discipline": "ciencias-humanas",
-            "language": null
+            "language": null,
+            "subject": "historia",
+            "topics": [
+                "imperialismo"
+            ]
         },
         {
             "title": "Questão 91 - ENEM 2025",
             "index": 91,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "separacao-misturas"
+            ]
         },
         {
             "title": "Questão 92 - ENEM 2025",
             "index": 92,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "biotecnologia",
+                "genetica"
+            ]
         },
         {
             "title": "Questão 93 - ENEM 2025",
             "index": 93,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "zoologia"
+            ]
         },
         {
             "title": "Questão 94 - ENEM 2025",
             "index": 94,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 95 - ENEM 2025",
             "index": 95,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "termologia"
+            ]
         },
         {
             "title": "Questão 96 - ENEM 2025",
             "index": 96,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "zoologia",
+                "ecologia"
+            ]
         },
         {
             "title": "Questão 97 - ENEM 2025",
             "index": 97,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "saude-doencas"
+            ]
         },
         {
             "title": "Questão 98 - ENEM 2025",
             "index": 98,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "impactos-ambientais",
+                "ecologia"
+            ]
         },
         {
             "title": "Questão 99 - ENEM 2025",
             "index": 99,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "ecologia",
+                "evolucao"
+            ]
         },
         {
             "title": "Questão 100 - ENEM 2025",
             "index": 100,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "separacao-misturas"
+            ]
         },
         {
             "title": "Questão 101 - ENEM 2025",
             "index": 101,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "optica"
+            ]
         },
         {
             "title": "Questão 102 - ENEM 2025",
             "index": 102,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "saude-doencas",
+                "zoologia"
+            ]
         },
         {
             "title": "Questão 103 - ENEM 2025",
             "index": 103,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "citologia"
+            ]
         },
         {
             "title": "Questão 104 - ENEM 2025",
             "index": 104,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "impactos-ambientais",
+                "ecologia"
+            ]
         },
         {
             "title": "Questão 105 - ENEM 2025",
             "index": 105,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "solucoes",
+                "quimica-ambiental"
+            ]
         },
         {
             "title": "Questão 106 - ENEM 2025",
             "index": 106,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "funcoes-inorganicas"
+            ]
         },
         {
             "title": "Questão 107 - ENEM 2025",
             "index": 107,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "genetica"
+            ]
         },
         {
             "title": "Questão 108 - ENEM 2025",
             "index": 108,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "dinamica"
+            ]
         },
         {
             "title": "Questão 109 - ENEM 2025",
             "index": 109,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "reacoes-organicas"
+            ]
         },
         {
             "title": "Questão 110 - ENEM 2025",
             "index": 110,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "radioatividade"
+            ]
         },
         {
             "title": "Questão 111 - ENEM 2025",
             "index": 111,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "impactos-ambientais",
+                "ecologia"
+            ]
         },
         {
             "title": "Questão 112 - ENEM 2025",
             "index": 112,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "saude-doencas",
+                "biotecnologia"
+            ]
         },
         {
             "title": "Questão 113 - ENEM 2025",
             "index": 113,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrostatica"
+            ]
         },
         {
             "title": "Questão 114 - ENEM 2025",
             "index": 114,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "ondulatoria",
+                "acustica"
+            ]
         },
         {
             "title": "Questão 115 - ENEM 2025",
             "index": 115,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "funcoes-organicas",
+                "reacoes-organicas"
+            ]
         },
         {
             "title": "Questão 116 - ENEM 2025",
             "index": 116,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "ecologia",
+                "evolucao"
+            ]
         },
         {
             "title": "Questão 117 - ENEM 2025",
             "index": 117,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "equilibrio-quimico"
+            ]
         },
         {
             "title": "Questão 118 - ENEM 2025",
             "index": 118,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "hidrostatica"
+            ]
         },
         {
             "title": "Questão 119 - ENEM 2025",
             "index": 119,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 120 - ENEM 2025",
             "index": 120,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "cinematica"
+            ]
         },
         {
             "title": "Questão 121 - ENEM 2025",
             "index": 121,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "acidos-bases-ph",
+                "funcoes-organicas"
+            ]
         },
         {
             "title": "Questão 122 - ENEM 2025",
             "index": 122,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletromagnetismo",
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 124 - ENEM 2025",
             "index": 124,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "eletroquimica"
+            ]
         },
         {
             "title": "Questão 125 - ENEM 2025",
             "index": 125,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "estequiometria"
+            ]
         },
         {
             "title": "Questão 126 - ENEM 2025",
             "index": 126,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "cinematica"
+            ]
         },
         {
             "title": "Questão 128 - ENEM 2025",
             "index": 128,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica",
+                "termologia"
+            ]
         },
         {
             "title": "Questão 129 - ENEM 2025",
             "index": 129,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "biologia",
+            "topics": [
+                "saude-doencas",
+                "zoologia"
+            ]
         },
         {
             "title": "Questão 130 - ENEM 2025",
             "index": 130,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "eletrodinamica"
+            ]
         },
         {
             "title": "Questão 131 - ENEM 2025",
             "index": 131,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "estequiometria"
+            ]
         },
         {
             "title": "Questão 133 - ENEM 2025",
             "index": 133,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "separacao-misturas",
+                "ligacoes-quimicas"
+            ]
         },
         {
             "title": "Questão 134 - ENEM 2025",
             "index": 134,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "quimica",
+            "topics": [
+                "ligacoes-quimicas",
+                "funcoes-organicas"
+            ]
         },
         {
             "title": "Questão 135 - ENEM 2025",
             "index": 135,
             "discipline": "ciencias-natureza",
-            "language": null
+            "language": null,
+            "subject": "fisica",
+            "topics": [
+                "ondulatoria",
+                "optica"
+            ]
         },
         {
             "title": "Questão 138 - ENEM 2025",
             "index": 138,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "projecoes-vistas",
+                "geometria-analitica"
+            ]
         },
         {
             "title": "Questão 139 - ENEM 2025",
             "index": 139,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "circunferencia"
+            ]
         },
         {
             "title": "Questão 140 - ENEM 2025",
             "index": 140,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 141 - ENEM 2025",
             "index": 141,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "conjuntos-numericos",
+                "logica-raciocinio"
+            ]
         },
         {
             "title": "Questão 142 - ENEM 2025",
             "index": 142,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana"
+            ]
         },
         {
             "title": "Questão 143 - ENEM 2025",
             "index": 143,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 144 - ENEM 2025",
             "index": 144,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial"
+            ]
         },
         {
             "title": "Questão 145 - ENEM 2025",
             "index": 145,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "funcoes-conceitos",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 146 - ENEM 2025",
             "index": 146,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "conjuntos-numericos"
+            ]
         },
         {
             "title": "Questão 147 - ENEM 2025",
             "index": 147,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 148 - ENEM 2025",
             "index": 148,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "escalas"
+            ]
         },
         {
             "title": "Questão 149 - ENEM 2025",
             "index": 149,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial",
+                "projecoes-vistas"
+            ]
         },
         {
             "title": "Questão 150 - ENEM 2025",
             "index": 150,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 151 - ENEM 2025",
             "index": 151,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "logica-raciocinio"
+            ]
         },
         {
             "title": "Questão 153 - ENEM 2025",
             "index": 153,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-analitica"
+            ]
         },
         {
             "title": "Questão 154 - ENEM 2025",
             "index": 154,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 155 - ENEM 2025",
             "index": 155,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "analise-combinatoria"
+            ]
         },
         {
             "title": "Questão 156 - ENEM 2025",
             "index": 156,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "escalas"
+            ]
         },
         {
             "title": "Questão 157 - ENEM 2025",
             "index": 157,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 158 - ENEM 2025",
             "index": 158,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "porcentagem",
+                "equacoes-inequacoes"
+            ]
         },
         {
             "title": "Questão 159 - ENEM 2025",
             "index": 159,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "grandezas-medidas"
+            ]
         },
         {
             "title": "Questão 161 - ENEM 2025",
             "index": 161,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "logica-raciocinio"
+            ]
         },
         {
             "title": "Questão 162 - ENEM 2025",
             "index": 162,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "equacoes-inequacoes",
+                "porcentagem"
+            ]
         },
         {
             "title": "Questão 164 - ENEM 2025",
             "index": 164,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "trigonometria",
+                "geometria-plana"
+            ]
         },
         {
             "title": "Questão 165 - ENEM 2025",
             "index": 165,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "desvio-padrao-variancia"
+            ]
         },
         {
             "title": "Questão 166 - ENEM 2025",
             "index": 166,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "media-moda-mediana",
+                "conjuntos-numericos"
+            ]
         },
         {
             "title": "Questão 167 - ENEM 2025",
             "index": 167,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao",
+                "graficos-tabelas"
+            ]
         },
         {
             "title": "Questão 168 - ENEM 2025",
             "index": 168,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "conjuntos-numericos"
+            ]
         },
         {
             "title": "Questão 169 - ENEM 2025",
             "index": 169,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "graficos-tabelas",
+                "grandezas-medidas"
+            ]
         },
         {
             "title": "Questão 170 - ENEM 2025",
             "index": 170,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial",
+                "grandezas-medidas"
+            ]
         },
         {
             "title": "Questão 171 - ENEM 2025",
             "index": 171,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial",
+                "circunferencia"
+            ]
         },
         {
             "title": "Questão 173 - ENEM 2025",
             "index": 173,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "circunferencia",
+                "geometria-plana"
+            ]
         },
         {
             "title": "Questão 175 - ENEM 2025",
             "index": 175,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "analise-combinatoria"
+            ]
         },
         {
             "title": "Questão 176 - ENEM 2025",
             "index": 176,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "razao-proporcao"
+            ]
         },
         {
             "title": "Questão 177 - ENEM 2025",
             "index": 177,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "geometria-espacial",
+                "geometria-plana"
+            ]
         },
         {
             "title": "Questão 180 - ENEM 2025",
             "index": 180,
             "discipline": "matematica",
-            "language": null
+            "language": null,
+            "subject": "matematica",
+            "topics": [
+                "progressao-aritmetica",
+                "sequencias-padroes"
+            ]
         }
     ]
 }

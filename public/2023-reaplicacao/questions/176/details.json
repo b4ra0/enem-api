@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "progressao-geometrica",
+        "funcao-exponencial"
+    ],
     "context": "Em um pronto-socorro, um paciente ingeriu, à meia-noite, um comprimido que continha 800 mg de uma medicação. O médico, ao liberar o paciente, informou que, caso ele voltasse a sentir dores, deveria tomar outro comprimido daquele, no máximo três vezes, nas próximas 24 horas, dependendo das recomendações da bula. Como o paciente voltou a sentir dores ao chegar em casa, ainda na madrugada, decidiu seguir a orientação do médico e leu a bula do remédio. O paciente verificou que, a cada 6 horas, a quantidade dessa medicação no organismo se reduzia à metade da quantidade anterior. Observou também a recomendação de que a pessoa deveria, preferencialmente, ingerir um novo comprimido quando a quantidade de medicação no organismo estivesse compreendida entre 200 mg e 100 mg.",
     "files": [],
     "correctAlternative": "D",

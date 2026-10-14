@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "polimeros",
+        "quimica-ambiental"
+    ],
     "context": "O uso excessivo de embalagens plásticas ocasionou um aumento na quantidade de resíduos plásticos descartados no meio ambiente. Para minimizar o impacto causado pelo acúmulo desses resíduos, pode-se empregar alguns procedimentos:\n\nI.\nIncineração;\nII. Reciclagem;\nIII. Acondicionamento em aterros sanitários;\nIV. Substituição por plásticos biodegradáveis;\nV. Substituição por plásticos oxibiodegradáveis.",
     "files": [],
     "correctAlternative": "B",

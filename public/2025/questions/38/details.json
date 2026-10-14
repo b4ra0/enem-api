@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia"
+    ],
     "context": "1\n2\n3\n4\n5\n6\n7\n8\n9\n\nO mais assustador do meteoro que cruzou o céu da Sibéria e explodiu no ar como várias bombas atômicas é que ele chegou sem ser anunciado. Com todas as atenções voltadas para o outro asteroide, o que passou de raspão, o asteroide da Sibéria entrou pela porta dos fundos sem ser detectado. A desculpa é que era pequeno demais para chamar a atenção e por isso os alarmes não funcionaram. Nossa ilusão, até agora, era que qualquer detrito espacial que se aproximasse de nós seria identificado e rotulado, e sua trajetória calculada até o último milímetro com grande antecedência, o que nos daria tempo para preparar o espírito — ou usar nossos cartões de crédito até o limite — no caso da colisão com a Terra ser inevitável.",
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "O quadro apresenta a quantidade de um tipo de pão vendido em uma semana em uma padaria.\n\nDia da semana\nNúmero de pães vendidos\n\nDomingo\n250\n\nSegunda-feira\n208\n\nTerça-feira\n215\n\nQuarta-feira\n251\n\nQuinta-feira\n187\n\nSexta-feira\n187",
     "files": [],
     "correctAlternative": "C",

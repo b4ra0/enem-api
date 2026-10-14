@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcoes-conceitos",
+        "geometria-espacial"
+    ],
     "context": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na sua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n\n![](https://enem.dev/2024/questions/161/41669f90-b220-4298-bdf4-b8340d4913ca.png)\n\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias 12 horas para finalizar o seu enchimento.",
     "files": [
         "https://enem.dev/2024/questions/161/41669f90-b220-4298-bdf4-b8340d4913ca.png",

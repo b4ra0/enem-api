@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-quimicas",
+        "separacao-misturas"
+    ],
     "context": "A figura apresenta um processo alternativo para obtenção de etanol combustível, utilizando o bagaço e as folhas da cana-de-açúcar. Suas principais etapas são identificadas com números.\n\n![](https://enem.dev/2018-reaplicacao/questions/111/fd80c88b-3179-4753-8d24-a5523c75eb6c.png)",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/111/fd80c88b-3179-4753-8d24-a5523c75eb6c.png"

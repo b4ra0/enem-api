@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "morfologia",
+        "semantica"
+    ],
     "context": "Quaresma despiu-se, lavou-se, enfiou a roupa de casa, veio para a biblioteca, sentou-se a uma cadeira de balanço, descansando. Estava num aposento vasto, e todo ele era forrado de estantes de ferro. Havia perto de dez, com quatro prateleiras, fora as pequenas com os livros de maior tomo. Quem examinasse vagarosamente aquela grande coleção de livros havia de espantar-se ao perceber o espírito que presidia a sua reunião. Na ficção, havia unicamente autores nacionais ou tidos como tais: o Bento Teixeira, da Prosopopeia; o Gregório de Matos, o Basílio da Gama, o Santa Rita Durão, o José de Alencar (todo), o Macedo, o Gonçalves Dias (todo), além de muitos outros.\n\nBARRETO, L. Triste fim de Policarpo Quaresma.\n\nRio de Janeiro: Mediafashion, 2008.",
     "files": [],
     "correctAlternative": "A",

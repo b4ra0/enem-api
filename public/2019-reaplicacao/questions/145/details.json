@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "potencias-notacao-cientifica",
+        "conjuntos-numericos"
+    ],
     "context": "Um asteroide batizado de 2013-TV135 passou a aproximadamente 6,7 × 106 quilômetros da Terra. A presença do objeto espacial nas proximidades da Terra foi detectada por astrônomos ucranianos, que alertaram para uma possível volta do asteroide em 2032.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 30 out. 2013.",
     "files": [],
     "correctAlternative": "D",

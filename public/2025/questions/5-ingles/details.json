@@ -4,6 +4,10 @@
     "year": 2025,
     "language": "ingles",
     "discipline": "linguagens",
+    "subject": "ingles",
+    "topics": [
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2025/questions/5-ingles/dd8538a5-8af1-468f-b363-dfa837d4beb9.png)",
     "files": [
         "https://enem.dev/2025/questions/5-ingles/dd8538a5-8af1-468f-b363-dfa837d4beb9.png"

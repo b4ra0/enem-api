@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "O diabetes mellitus é uma doença crônica, caracterizada pelo aumento de glicose no sangue. O Sistema de Cadastramento e Acompanhamento de Hipertensos e Diabéticos destina-se ao cadastramento e acompanhamento de portadores de hipertensão arterial e/ou diabetes mellitus atendidos na rede ambulatorial do Sistema Único de Saúde. A tabela mostra o número de pessoas portadoras de  diabetes mellitus tipo 2, a forma mais grave da doença, distribuídas pelas macrorregiões de saúde de Minas Gerais, em 2012.\n\nNúmero de portadores\n\nMacrorregião\n\nde diabetes mellitus\n\nde saúde\n\ntipo 2\n\nSul\n714\n\nCentro-Sul\n186\n\nCentro\n448\n\nJequitinhonha\n36\n\nOeste\n460\n\nLeste\n255\n\nSudeste\n110\n\nNorte\n45\n\nNoroeste\n86\n\nLeste do Sul\n47\n\nNordeste\n39\n\nTriângulo do Sul\n153\n\nTriângulo do Norte\n128\n\nDisponível em: http://tabnet.datasus.gov.br. Acesso em: 5 nov. 2017.\n\nA mediana do número de portadores de diabetes mellitus tipo 2 das macrorregiões de saúde de Minas Gerais é",
     "files": [],
     "correctAlternative": "C",

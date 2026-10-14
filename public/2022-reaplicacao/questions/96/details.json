@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "impactos-ambientais"
+    ],
     "context": "O Brasil foi o primeiro país a usar o álcool em larga escala como combustível de automóvel. Hoje, a indústria automobilística produz e equipa os automóveis com motores que funcionam tanto com gasolina como com álcool, ou ainda com uma mistura dos dois. No Brasil, o álcool é obtido principalmente da cana-de-açúcar, razão pela qual o classificam como biocombustível.\nCom essa atitude, contribui-se diretamente para a",
     "files": [],
     "correctAlternative": "E",

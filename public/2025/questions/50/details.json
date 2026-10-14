@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "filosofia-politica",
+        "filosofia-contemporanea"
+    ],
     "context": "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra.\n\nDERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado).",
     "files": [],
     "correctAlternative": "A",

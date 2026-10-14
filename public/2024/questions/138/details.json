@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "analise-combinatoria"
+    ],
     "context": "Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado\nalfanumérico como o representado na figura.\n\n![](https://enem.dev/2024/questions/138/e02fd12e-d4bd-47a9-8ac0-4a873394bab7.png)\n\nPor exemplo: a tecla que contém o número 2 traz as letras correlacionadas A, B e C. Cada toque nessa tecla mostra, sequencialmente, os seguintes caracteres: 2, A, B e C. Para os próximos toques, essa sequência se repete. As demais teclas funcionam da mesma maneira.\n\nAs senhas a serem cadastradas pelos funcionários devem conter 5 caracteres, sendo 2 algarismos distintos seguidos de 3 letras diferentes, nessa ordem. Um funcionário irá cadastrar a sua primeira senha, podendo escolher entre as teclas que apresentam os números 1, 2, 5, 7 e 0 e as respectivas letras correlacionadas, quando houver.",
     "files": [
         "https://enem.dev/2024/questions/138/e02fd12e-d4bd-47a9-8ac0-4a873394bab7.png"

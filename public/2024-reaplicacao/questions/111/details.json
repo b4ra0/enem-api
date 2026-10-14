@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "zoologia",
+        "evolucao"
+    ],
     "context": "As lhamas que vivem nas montanhas dos Andes da América do Sul têm hemoglobinas geneticamente diferenciadas de outros mamíferos que vivem ao nível do mar, por exemplo. Essa diferenciação trata-se de uma adaptação à sua sobrevivência em altitudes elevadas onde o ar é rarefeito.\n\nSCHMIDT-NIELSEN, K. Fisiologia animal: adaptação\n\nao meio ambiente. São Paulo: Santos, 2002.",
     "files": [],
     "correctAlternative": "A",

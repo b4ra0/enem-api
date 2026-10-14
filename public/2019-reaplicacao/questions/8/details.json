@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica",
+        "interpretacao-texto"
+    ],
     "context": "![](https://enem.dev/2019-reaplicacao/questions/8/b25d5987-7c15-45ae-bff0-043c087508cd.png)",
     "files": [
         "https://enem.dev/2019-reaplicacao/questions/8/b25d5987-7c15-45ae-bff0-043c087508cd.png"

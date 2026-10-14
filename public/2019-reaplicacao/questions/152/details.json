@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana"
+    ],
     "context": "O quadro apresenta a relação dos jogadores que fizeram parte da seleção brasileira de voleibol masculino nas Olimpíadas de 2012, em Londres, e suas respectivas alturas, em metro.\n\nNome\nAltura (m)\n\nBruninho\n1,90\nDante\n2,01\nGiba\n1,92\nLeandro Vissoto\n2,11\nLucas\n2,09\nMurilo\n1,90\nRicardinho\n1,91\nRodrigão\n2,05\nSerginho\n1,84\nSidão\n2,03\nThiago Alves\n1,94\nWallace\n1,98\n\nDisponível em: www.cbv.com.br. Acesso em: 31 jul. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "C",

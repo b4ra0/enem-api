@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "angulos-poligonos",
+        "transformacoes-geometricas"
+    ],
     "context": "Na construção de um avião de papel, uma criança dobrou uma folha retangular sobrepondo o lado DC ao lado AB. Assim, ela obteve dois novos retângulos, sendo um deles o retângulo DCNM, conforme a figura 1. Em seguida, ela fez uma nova dobradura, mantendo N fixo e sobrepondo o lado CN, de DCNM, a um segmento de MN. Essa sobreposição determinou um ponto P em MN e também um ponto Q em DC, conforme a figura 2.\n\n![](https://enem.dev/2024-reaplicacao/questions/151/ee1db641-cb01-4571-a7a7-f4584f3d1ceb.png)",
     "files": [
         "https://enem.dev/2024-reaplicacao/questions/151/ee1db641-cb01-4571-a7a7-f4584f3d1ceb.png"

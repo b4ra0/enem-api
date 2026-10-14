@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2024/questions/33/3cdf2136-c6c4-4067-81ae-eb5d6555cc03.png)\n\nDisponível em: https://defesacivil.rs.gov.br.\n\nAcesso em: 11 mar. 2024 (adaptado).",
     "files": [
         "https://enem.dev/2024/questions/33/3cdf2136-c6c4-4067-81ae-eb5d6555cc03.png"

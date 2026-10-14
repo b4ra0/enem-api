@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao",
+        "industrializacao"
+    ],
     "context": "O combustível mineral constitui tal vantagem para a indústria que as fábricas e dependências deveriam forçosamente, segundo parece, agrupar-se em torno das bacias hulhíferas. No início do século XX, foi assim que se repartiu o trabalho. As cidades industriais espremem-se na vizinhança das minas: a população nelas amontoa-se em multidões densas sobre um solo enegrecido pelos resíduos do carvão, sob um céu fuliginoso onde se busca em vão discernir o sol.\n\nRECLUS, E. O homem e a terra: a indústria e o comércio.\n\nSão Paulo: Expressão e Arte; Imaginário, 2011.",
     "files": [],
     "correctAlternative": "E",

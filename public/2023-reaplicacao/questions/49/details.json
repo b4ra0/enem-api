@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "questoes-ambientais"
+    ],
     "context": "Uma missão internacional de investigação, em setembro de 2017, documentou os impactos sociais e ambientais causados pela expansão do agronegócio e pela especulação de terras na região do Matopiba em sete comunidades no sul do Piauí. Os resultados mostraram que a população sofre com as graves consequências do desmatamento, da perda da biodiversidade e da contaminação generalizada do solo, da água e do gado por agrotóxicos.\n\nRelatório sobre o Matopiba aponta impactos ambientais e sociais da financeirização\n\nde terras. Disponível em: https://cimi.org.br. Acesso em: 13 out. 2021.",
     "files": [],
     "correctAlternative": "C",

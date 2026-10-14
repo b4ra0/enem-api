@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "logaritmo"
+    ],
     "context": "Um jardineiro cultiva plantas ornamentais e as coloca à venda quando estas atingem 30 centímetros de altura. Esse jardineiro estudou o crescimento de suas plantas, em função do tempo, e deduziu uma fórmula que calcula a altura em função do tempo, a partir do momento em que a planta brota do solo até o momento em que ela atinge sua altura máxima de 40 centímetros. A fórmula é h = 5·log2 (t + 1), em que t é o tempo contado em dia e h, a altura da planta em centímetro.",
     "files": [],
     "correctAlternative": "D",

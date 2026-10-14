@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais"
+    ],
     "context": "Muitos trabalhos recentes de arte digital não consistem mais em objetos puros e simples, que se devem admirar ou analisar, mas em campos de possibilidades, programas geradores de experiências estéticas potenciais. Se já era difícil decidir sobre a paternidade de um produto da cultura técnica, visto que ela oscilava entre a máquina e os vários sujeitos que a manipulam, a tarefa agora torna-se ainda mais complexa.\n\nSe quisermos complicar ainda mais o esquema da criação nos objetos artísticos produzidos com meios tecnológicos, poderíamos incluir também aquele que está na ponta final do processo e que foi conhecido pelos nomes (hoje inteiramente inapropriados) de espectadores, ouvintes ou leitores: numa palavra, os receptores de produtos culturais.\n\nMACHADO, A. Máquina e imaginário: o desafio das poéticas tecnológicas.\n\nSão Paulo: Edusp, 1993 (adaptado).",
     "files": [],
     "correctAlternative": "D",

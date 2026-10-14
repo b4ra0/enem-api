@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "esportes",
+        "corpo-sociedade"
+    ],
     "context": "O Ministério do Esporte no Brasil lançou o programa Maré Inclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse programa visa ampliar as oportunidades para pessoas com deficiência que desejam praticar o surf. O parasurf é a prática do surf adaptada para permitir que pessoas com deficiência pratiquem o esporte em todas as suas categorias, modalidades e manifestações. Para a Secretaria Nacional do Paradesporto, a iniciativa é mais do que um programa de esporte, é uma iniciativa que busca transformar vidas e promover a inclusão por meio do parasurf, criando um legado de igualdade e respeito.\n\nDisponível em: www.gov.br/esporte. Acesso em: 6 set. 2024 (adaptado).",
     "files": [],
     "correctAlternative": "C",

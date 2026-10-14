@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "espaco-agrario"
+    ],
     "context": "Ao longo dos últimos 500 anos, o Brasil viu suas fronteiras do litoral expandirem-se para o interior. É apenas lógico que a Amazônia tenha sido a última fronteira a ser conquistada e submetida aos ditames da agricultura, pecuária, lavoura e silvicultura. A incorporação recente das áreas amazônicas à exploração capitalista tem resultado em implicações problemáticas, dentre elas a destruição do rico patrimônio natural da região.\n\nNITSCH, M. O futuro da Amazônia: questões críticas, cenários críticos.\n\nEstudos Avançados, n. 46, dez. 2002.",
     "files": [],
     "correctAlternative": "D",

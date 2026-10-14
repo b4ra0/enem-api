@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-organicas",
+        "acidos-bases-ph"
+    ],
     "context": "Os agentes lacrimogêneos são espécies químicas capazes de provocar forte irritação das vias aéreas superiores e dos olhos. Até o final da década de 1960, a cloroacetofenona (CA) foi a substância mais utilizada com essa finalidade. Uma forma de descontaminar a pele exposta à CA consiste em lavá-la com uma solução aquosa de determinado sal, o qual reagirá com a CA, conforme a reação representada.\n\nO\nO\n\nOH\nCl\n\n+\nsal\n+\nNaCl\n\nAMORIM, N. M. et al. Química e armas não letais: gás lacrimogêneo em foco. Química Nova na Escola, n. 2, 2015 (adaptado).",
     "files": [],
     "correctAlternative": "B",

@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "porcentagem",
+        "graficos-tabelas"
+    ],
     "context": "Considere que a safra nacional de cereais, leguminosas e oleaginosas, em 2012, aponte uma participação por região conforme indicado no gráfico. Em valores absolutos, essas estimativas indicam que as duas regiões maiores produtoras deveriam produzir juntas um total de 119,8 milhões de toneladas em 2012.\n\nSudeste\n\n11,4%\n\nNordeste\n\n10,4%\n\nSul\n37,2%\n\nNorte\n\n2,7%\n\nCentro-Oeste\n\n38,3%",
     "files": [],
     "correctAlternative": "D",

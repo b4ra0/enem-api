@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "graficos-tabelas"
+    ],
     "context": "Um proprietário precisa comprar tubos para ligações hidráulicas durante a reforma de sua casa, optando pela compra do material de menor custo. O engenheiro responsável pela obra afirmou ao proprietário que os tubos precisam suportar uma vazão de 1,2 litro por segundo. Para manter o padrão das tubulações já existentes na casa, os tubos devem ter 15, 20 ou 25 mm de diâmetro. Uma loja de materiais de construção apresentou ao proprietário o quadro no qual se encontram cinco tipos de tubo, com indicação de diâmetro, vazão e custo para cada um deles.\n\nMATERIAL\nDIÂMETRO\n\nVAZÃO\n(em L/s)\n\nCUSTO\n(em R$/m)\n\n(em mm)\n\n15\n0,40\n0,50\n20\n1,20\n1,25\n25\n1,25\n1,35\n\nPVC\nsoldável\n\n15\n0,50\n0,65\n20\n1,10\n1,05\n25\n1,20\n1,35\n\n15\n0,60\n0,30\n20\n1,20\n1,25\n25\n1,30\n1,55\n\nPolipropileno\n\n15\n0,50\n0,80\n20\n1,10\n1,10\n25\n1,20\n1,15\n\nPVC\nroscável\n\n15\n0,60\n0,35\n20\n1,20\n1,20\n25\n1,30\n1,25\n\nPolietileno\n\nreticulado\n\nO proprietário deverá comprar",
     "files": [],
     "correctAlternative": "D",

@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "microbiologia"
+    ],
     "context": "Anualmente, o número de casos de dengue aumenta substancialmente no Brasil, mas ainda não há uma vacina amplamente disponível. Quatro sorotipos do vírus circulam no país e são todos transmitidos pelas fêmeas do mosquito Aedes aegypti. Os casos mais graves evoluem para a fase hemorrágica, que pode levar à morte por choque hipovolêmico. Muitos desses casos acontecem quando o indivíduo contrai a doença pela segunda vez com um sorotipo diferente daquele contra o qual já produziu anticorpos.\n\nO que tem dificultado o desenvolvimento de uma vacina para essa doença é a",
     "files": [],
     "correctAlternative": "C",

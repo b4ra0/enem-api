@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "teoria-conhecimento"
+    ],
     "context": "O conhecimento é sempre aproximado, falível e, por isso mesmo, suscetível de contínuas correções. Uma justificação pode parecer boa, num certo momento, até aparecer um conhecimento melhor. O que define a ciência não será então a ilusória obtenção de verdades definitivas. Ela será antes definível pela prevalência da utilização, por parte dos seus praticantes, de instrumentalidades que o campo científico forjou e tornou disponíveis. Ou seja, cada progressão no conhecimento que mostre o caráter errôneo ou insuficiente de conhecimentos anteriores não remete estes últimos para as trevas exteriores da não ciência, mas apenas para o estágio de conhecimentos científicos historicamente ultrapassados.\n\nALMEIDA, J. F. Velhos e novos aspectos da epistemologia das ciências\n\nsociais. Sociologia: problemas e práticas, n. 55, 2007 (adaptado).",
     "files": [],
     "correctAlternative": "A",

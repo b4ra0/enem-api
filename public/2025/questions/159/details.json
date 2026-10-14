@@ -4,6 +4,10 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas"
+    ],
     "context": "O dono de uma sorveteria armazena sorvete em potes de 20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
     "files": [],
     "correctAlternative": "D",

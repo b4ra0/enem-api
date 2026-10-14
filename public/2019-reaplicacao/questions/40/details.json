@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "musica",
+        "arte-popular"
+    ],
     "context": "TEXTO I\nTEXTO II\n\n![](https://enem.dev/2019-reaplicacao/questions/40/3485a3de-23eb-4db0-9d72-d4e6643998ae.png)\n\nFotografia em preto e branco de músico da cultura lupa (norte de\n\nAngola) tocando uma kalimba ou lamelofone.\n\nINTERNATIONAL Library of African Music, Angola. Disponível em: http://keywordsuggest.org. Acesso em: 18 ago. 2017.",
     "files": [
         "https://enem.dev/2019-reaplicacao/questions/40/3485a3de-23eb-4db0-9d72-d4e6643998ae.png"

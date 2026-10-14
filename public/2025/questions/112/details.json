@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "biotecnologia"
+    ],
     "context": "Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética.\n\nBORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia.\n\nViçosa: UFV, 2008 (adaptado).",
     "files": [],
     "correctAlternative": "D",

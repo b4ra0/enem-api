@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "historia-arte",
+        "artes-visuais"
+    ],
     "context": "Claude Monet, influenciado por Turner, passou a pintar temas que apresentassem fluidez. Para isso, ele fragmentou a imagem com pinceladas de cor pura, passando a retratar a impressão captada diante do modelo. Monet inspirava-se, por exemplo, no pôr do sol, na luminosidade do feno ou num jardim florido. Suas obras contêm a característica de dissociação das cores e gradação dos tons complementares. As tintas não eram misturadas na palheta, dessa forma, a luz emanada das manchas e das pinceladas coloridas impressionava a retina, formando novas cores.\n\nDisponível em: http://professormarioartes.blogspot.com.\n\nAcesso em: 12 ago. 2012 (adaptado).\nDiante dessa nova concepção artística, a cor é",
     "files": [],
     "correctAlternative": "C",

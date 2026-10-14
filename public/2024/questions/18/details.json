@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "linguagens",
+    "subject": "educacao-fisica",
+    "topics": [
+        "saude-qualidade-vida",
+        "corpo-sociedade"
+    ],
     "context": "Um estudo norte-americano analisou os efeitos da pandemia da covid-19 sobre a saúde mental e a manutenção da atividade física, revelando que um fator está diretamente ligado ao outro. De acordo com os dados, famílias de baixa renda foram mais impactadas pelo ciclo vicioso de falta de motivação e pelo sedentarismo. Diante da necessidade de distanciamento social e do início da quarentena, as opções de espaços seguros para exercícios físicos diminuíram, o que dificultou que as pessoas mantivessem seus níveis de atividade. Os dados evidenciaram que as pessoas mais ativas tinham melhor estado de saúde mental. As pessoas com menor renda tiveram mais dificuldade para manter os níveis de atividade física durante a pandemia, sendo aproximadamente duas vezes menos propensas a continuarem no mesmo ritmo de exercícios de antes da pandemia. Habitantes de áreas urbanas mostraram maior probabilidade de não conseguirem manter os níveis de atividade física semelhantes aos de pessoas que vivem em zonas rurais, onde há mais oportunidades de sair para espaços abertos.\n\nDisponível em: https://revistagalileu.globo.com.\n\nAcesso em: 6 dez. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "D",

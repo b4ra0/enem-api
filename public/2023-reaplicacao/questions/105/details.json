@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "fontes-energia",
+        "trabalho-energia"
+    ],
     "context": "As baterias de lítio para carros elétricos são capazes de armazenar cerca de 700 Wh de energia em um volume de 1 L, enquanto a combustão de 1 L de etanol hidratado em um motor a combustão disponibiliza 6 300 Wh de energia. Os motores a combustão têm uma eficiência baixa, com apenas 30% da energia do combustível sendo transformada em movimento. Já os motores elétricos apresentam eficiência três vezes maior. Para estudar a viabilidade de se utilizar a mesma plataforma de um carro movido a álcool, com tanque de 40 L de combustível, para a produção de modelos elétricos, uma equipe de engenharia precisa estimar o volume da bateria de lítio que corresponda, no carro elétrico, à mesma quantidade energética desse carro a álcool.\n\nVASCONCELOS, Y. Mais energia. Pesquisa Fapesp, n. 261, nov. 2017 (adaptado).\n\nO volume aproximado, em litro, da bateria de lítio a ser utilizada é",
     "files": [],
     "correctAlternative": "B",

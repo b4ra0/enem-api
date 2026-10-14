@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "termoquimica",
+        "estequiometria"
+    ],
     "context": "O gás hidrogênio é considerado um ótimo\ncombustível — o único produto da combustão\ndesse gás é o vapor de água, como mostrado na equação química.\n\n2 H2 (g) + O2 (g) → 2 H2O (g)\n\nUm cilindro contém 1 kg de hidrogênio e todo esse gás foi queimado. Nessa reação, são rompidas e formadas ligações químicas que envolvem as energias listadas no quadro.\n\n( kJ\n\nmol)\n\nLigação química\nEnergia de ligação\n\nH−H\n437\n\nH−O\n463\n\nO=O\n494\n\nMassas molares ( g\n\nmol): H2 = 2; O2 = 32; H2O = 18.",
     "files": [],
     "correctAlternative": "B",

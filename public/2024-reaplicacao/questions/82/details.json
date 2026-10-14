@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "era-vargas"
+    ],
     "context": "Em discurso pronunciado a 7 de maio de 1943,\nGetúlio Vargas saudou a nova usina siderúrgica de Volta Redonda como símbolo da emancipação do Brasil.\n\nWIRTH, J. D. A política de desenvolvimento na Era de Vargas.\n\nRio de Janeiro: FGV, 1973 (adaptado).",
     "files": [],
     "correctAlternative": "E",

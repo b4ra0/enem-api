@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia"
+    ],
     "context": "![](https://enem.dev/2019-reaplicacao/questions/58/7714ac9a-4530-477b-8b4a-ef33083f7029.png)\n\nAtlas Geográfico. Rio de Janeiro: IBGE, 1986. Disponível em: www.ibge.gov.br. Acesso em: 16 ago. 2014 (adaptado).",
     "files": [
         "https://enem.dev/2019-reaplicacao/questions/58/7714ac9a-4530-477b-8b4a-ef33083f7029.png"

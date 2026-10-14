@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "media-moda-mediana",
+        "porcentagem"
+    ],
     "context": "Um investidor comprou ações de uma empresa em 3 de maio de certo ano (uma segunda-feira), pagando R$ 20,00 por cada uma. As ações mantinham seus preços inalterados por uma semana e tinham novos valores divulgados pela empresa a cada segunda-feira, antes da realização de qualquer negócio. O quadro ilustra o valor de uma dessas ações, em real, ao longo de algumas semanas.\n\nSemana\nValor (R$)\n\n03 a 09 de maio\n20\n\n10 a 16 de maio\n25\n\n17 a 23 de maio\n20\n\n24 a 30 de maio\n35\n\n31 de maio a 06 de junho\n45\n\nO investidor vendeu suas ações em 7 de junho, mas fez isso antes da divulgação do valor das ações naquela semana. E obteve, por cada ação, a média entre os valores unitários da primeira e última semanas indicados no quadro.\n\nSuponha que o valor divulgado para uma ação daquela empresa na semana de 7 a 13 de junho tenha sido 30% maior que a média dos valores nas semanas observadas no quadro.\nSe o investidor tivesse vendido as ações pelo preço divulgado para a semana de 7 a 13 de junho, quanto ele teria recebido a mais, em real, pela venda de cada ação?",
     "files": [],
     "correctAlternative": "B",

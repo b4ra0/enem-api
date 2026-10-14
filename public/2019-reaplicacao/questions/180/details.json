@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia",
+        "angulos-poligonos"
+    ],
     "context": "Uma pista circular delimitada por duas circunferências concêntricas foi construída. Na circunferência interna dessa pista, de raio 0,3 km, serão colocados aparelhos de ginástica localizados nos pontos P, Q e R, conforme a figura.\n\nO segmento RP é um diâmetro dessa circunferência\n\ninterna, e o ângulo PRQ\n\n tem medida igual a π\n\n5 radianos.",
     "files": [],
     "correctAlternative": "D",

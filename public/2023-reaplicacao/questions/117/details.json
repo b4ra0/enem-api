@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais",
+        "ecologia"
+    ],
     "context": "Observam-se, na figura, peixes nadando na superfície de um lago em estágio muito avançado de eutrofização. Esse fenômeno pode ser causado pelo aporte externo de nutrientes na água, principalmente em razão da ação antrópica. Os corpos-d’água adquirem uma coloração turva, o que bloqueia a penetração de luz e impede a fotossíntese. O problema se agrava quando as algas começam a morrer e uma grande quantidade de nutrientes provenientes delas ficam disponíveis aos decompositores, que proliferam.\n\n![](https://enem.dev/2023-reaplicacao/questions/117/3a267786-f540-471f-af78-58f6912686e7.png)\n\nDisponível em: www.pea.org.br. Acesso em: 15 out. 2015 (adaptado).",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/117/3a267786-f540-471f-af78-58f6912686e7.png"

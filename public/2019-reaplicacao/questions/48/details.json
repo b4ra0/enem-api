@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio",
+        "patrimonio-memoria"
+    ],
     "context": "O Instituto Histórico e Geográfico Brasileiro (IHGB) reuniu historiadores, romancistas, poetas, administradores públicos e políticos em torno da investigação a respeito do caráter brasileiro. Em certo sentido, a estrutura dessa instituição, pelo menos como projeto, reproduzia o modelo centralizador imperial. Assim, enquanto na Corte localizava-se a sede, nas províncias deveria haver os respectivos institutos regionais. Estes, por sua vez, enviariam documentos e relatos regionais para a capital.\n\nDEL PRIORE, M.; VENÂNCIO, R. Uma breve história do Brasil.\n\nSão Paulo: Planeta do Brasil, 2010 (adaptado).",
     "files": [],
     "correctAlternative": "A",

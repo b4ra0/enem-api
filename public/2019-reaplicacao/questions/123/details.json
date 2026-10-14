@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "solucoes"
+    ],
     "context": "Nos municípios onde foi detectada a resistência do Aedes aegypti, o larvicida tradicional será substituído por outro com concentração de 10% (v/v) de um novo princípio ativo. A vantagem desse segundo larvicida é que uma pequena quantidade da emulsão apresenta alta capacidade de atuação, o que permitirá a condução de baixo volume de larvicida pelo agente de combate às endemias. Para evitar erros de manipulação, esse novo larvicida será fornecido em frascos plásticos e, para uso em campo, todo o seu conteúdo deve ser diluído em água até o volume final de um litro. O objetivo é obter uma concentração final de 2% em volume do princípio ativo.",
     "files": [],
     "correctAlternative": "D",

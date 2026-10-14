@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "metabolismo-energetico"
+    ],
     "context": "Em um sistema hipotético mantido sob iluminação, estão presentes uma célula autotrófica e uma célula heterotrófica. A esse sistema são fornecidos água, glicose e gás oxigênio, sendo esse último na forma de 18O2.\n\nAo final de um período de 24 horas, a análise dos compostos presentes nesse sistema permitirá a detecção do isótopo no(a)",
     "files": [],
     "correctAlternative": "A",

@@ -4,6 +4,11 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "brasil-imperio",
+        "iluminismo-revolucoes"
+    ],
     "context": "A abertura dos portos brasileiros em 1808 inaugurou a possibilidade, para viajantes europeus de diversas nacionalidades, de percorrer áreas até então dificilmente acessíveis à sua curiosidade. Os relatos de inúmeras expedições, a maioria de caráter científico, foram publicados na Europa, para leitores ávidos de notícias sobre um Brasil até então desconhecido, terra cujos segredos haviam sido velados por uma Coroa portuguesa ciumenta e possessiva.\n\nDUARTE, R. H. Olhares estrangeiros: viajantes no vale do Rio Mucuri.\n\nRevista Brasileira de História, n. 44, 2002 (adaptado).\n\nOs relatos de viagens ao Brasil, publicados na Europa, contribuíram para a construção da identidade europeia na medida em que",
     "files": [],
     "correctAlternative": "C",

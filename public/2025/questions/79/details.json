@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "filosofia",
+    "topics": [
+        "etica-moral",
+        "filosofia-politica"
+    ],
     "context": "A missão dos governantes consiste em promover a felicidade da sociedade, punindo e recompensando. A parte da missão de governo que consiste em punir constitui mais particularmente o objeto da lei penal. A obrigatoriedade ou necessidade de punir uma ação é proporcional à medida que tal ação tende a perturbar a felicidade e à medida que a tendência do referido ato é perniciosa. A felicidade consiste naquilo que já vimos, ou seja, em desfrutar prazeres e em estar isento de dores.\n\nBENTHAM, J. Uma introdução aos princípios da moral e da legislação.\n\nSão Paulo: Abril Cultural, 1974 (adaptado).",
     "files": [],
     "correctAlternative": "A",

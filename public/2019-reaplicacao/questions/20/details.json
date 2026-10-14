@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "![](https://enem.dev/2019-reaplicacao/questions/20/8c6c30a1-e37c-45cd-aa1b-408d3c96988e.png)\n\nDestak, nov. 2015 (adaptado).",
     "files": [
         "https://enem.dev/2019-reaplicacao/questions/20/8c6c30a1-e37c-45cd-aa1b-408d3c96988e.png"

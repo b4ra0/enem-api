@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcoes-conceitos",
+        "graficos-tabelas"
+    ],
     "context": "Pesquisas na área de neurobiologia confirmam que a prática meditativa é responsável por diminuir consideravelmente a frequência respiratória para praticantes avançados, que, após iniciarem a meditação, têm suas frequências respiratórias reduzidas até se estabilizarem em um nível mais baixo. O gráfico apresenta a relação da frequência respiratória, em incursões de respirações por minuto (rpm), em relação ao tempo, em minuto, de um praticante avançado, em que (f1) representa a frequência no instante t1, no qual se inicia a prática meditativa; e (f2), a frequência no instante t2, a partir do qual esta se estabiliza durante a meditação.\n\n![](https://enem.dev/2025/questions/145/c1bc0c83-f212-42ff-91f5-e4683d6804ca.png)\n\nDisponível em: www.redepsi.com.br. Acesso em: 3 dez. 2018 (adaptado).",
     "files": [
         "https://enem.dev/2025/questions/145/c1bc0c83-f212-42ff-91f5-e4683d6804ca.png"

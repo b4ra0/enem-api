@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "variacao-linguistica",
+        "generos-textuais"
+    ],
     "context": "É através da linguagem que uma sociedade se comunica e retrata o conhecimento e entendimento de si própria e do mundo que a cerca. É na linguagem que se refletem a identificação e a diferenciação de cada comunidade e também a inserção do indivíduo em diferentes agrupamentos, estratos sociais, faixas etárias, gêneros, graus de escolaridade. A fala tem, assim, um caráter emblemático, que indica se o falante é brasileiro ou português, francês ou italiano, alemão ou holandês, americano ou inglês, e, mais ainda, sendo brasileiro, se é nordestino, sulista ou carioca. A linguagem também oferece pistas que permitem dizer se o locutor é homem ou mulher, se é jovem ou idoso, se tem curso primário, universitário ou se é iletrado. E, por ser um parâmetro que permite classificar o indivíduo de acordo com sua nacionalidade e naturalidade, sua condição econômica ou social e seu grau de instrução, é frequentemente usado para discriminar e estigmatizar o falante.\n\nLEITE, Y.; CALLOU, D. Como falam os brasileiros.\n\nRio de Janeiro: Jorge Zahar, 2002.",
     "files": [],
     "correctAlternative": "C",

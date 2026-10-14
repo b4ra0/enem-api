@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia",
+        "sintaxe"
+    ],
     "context": "Menino de cidade — Papai, você deixa eu ter um cachorro no meu sítio? — Deixo. — E um porquinhoda-índia? E ariranha? E macaco e quatro cabritos? E duzentos e vinte pombas? E um boi? E vaca?\nE rinoceronte? — Rinoceronte não pode. — Tá bem, mas cavalo pode, não pode? O sítio é apenas um terreno no estado do Rio sem maiores perspectivas imediatas. Mas o garoto precisa acreditar no sítio como outras pessoas precisam acreditar no céu. O céu dele é exatamente o da festa folclórica, a bicharada toda e ele, que nasceu no Rio e vive nesta cidade sem animais.\n\nCAMPOS, P. M. Balé do pato e outras crônicas.\n\nSão Paulo: Ática, 1988.",
     "files": [],
     "correctAlternative": "C",

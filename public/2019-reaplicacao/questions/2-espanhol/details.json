@@ -4,6 +4,11 @@
     "year": 2019,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "generos-textuais"
+    ],
     "context": "Dicen que Tita era tan sensible que desde que estaba en el vientre de mi bisabuela lloraba y lloraba cuando ésta picaba cebolla; su llanto era tan fuerte que Nacha, la cocinera de la casa, que era medio sorda, lo escuchaba sin esforzarse. Un día los sollozos fueron tan fuertes que provocaron que el parto se adelantara. Y sin que mi bisabuela pudiera decir ni pío, Tita arribó a este mundo prematuramente, sobre la mesa de la cocina, entre los olores de una sopa de fideos que estaba cocinando, los del tomillo, el laurel, el cilantro, el de la leche hervida, el de los ajos y, por supuesto, el de la cebolla. Como se imaginarán, la consabida nalgada no fue necesaria, pues Tita nació llorando de antemano, tal vez porque ella sabía que su oráculo determinaba que en esta vida le estaba negado el matrimonio. Contaba Nacha que Tita fue literalmente empujada a este mundo por un torrente impresionante de lágrimas que se desbordaron sobre la mesa y el piso de la cocina.\n\nESQUIVEL, L. Como agua para chocolate.\n\nBuenos Aires: Debolsillo, 2005.",
     "files": [],
     "correctAlternative": "A",

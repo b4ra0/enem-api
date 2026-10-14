@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "patrimonio-memoria"
+    ],
     "context": "O testemunho nunca é um relato exato do que aconteceu. Na verdade, ao expor seu passado, o sujeito está sempre procedendo a uma reelaboração pela qual memórias tidas como negativas podem, consciente ou inconscientemente, ser esquecidas. Em certos momentos, simplesmente para seguir em frente, é preciso esquecer.\n\nVASCONCELOS, C. B. As análises da memória: balanço e possibilidades.",
     "files": [],
     "correctAlternative": "C",

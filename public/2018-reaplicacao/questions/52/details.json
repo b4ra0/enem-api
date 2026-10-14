@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "historia",
+    "topics": [
+        "povos-indigenas",
+        "brasil-colonia"
+    ],
     "context": "Na África, os europeus morriam como moscas; aqui eram os índios que morriam: agentes patogênicos da varíola, do sarampo, da coqueluche, da catapora, do tifo, da difteria, da gripe, da peste bubônica, e possivelmente da malária, provocaram no Novo Mundo o que Dobyns chamou de “um dos maiores cataclismos biológicos do mundo”. No entanto, é importante enfatizar que a falta de imunidade, devido ao seu isolamento, não basta para explicar a mortandade, mesmo quando ela foi de origem patogênica.\n\nCUNHA, M. C. Índios no Brasil: história, direitos e cidadania. São Paulo: Claro Enigma, 2012.",
     "files": [],
     "correctAlternative": "E",

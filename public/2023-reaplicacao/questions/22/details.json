@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "artes",
+    "topics": [
+        "artes-visuais",
+        "historia-arte"
+    ],
     "context": "Basquiat representa uma das classes da sociedade americana às quais as barreiras sociais impedem, geralmente, o acesso à arte. Os seus quadros, objetos pictóricos e desenhos apresentam-se cheios de sinais, transcrições de textos e elementos figurativos, encadeados em ritmos pictóricos de uma precisão empolgante — um misto de pintura gráfica, símbolos populares americanos, gírias de rua e alusões a obras de arte famosas.\n\nHONNEF, K. Arte contemporânea. São Paulo: 1994 (adaptado).",
     "files": [],
     "correctAlternative": "C",

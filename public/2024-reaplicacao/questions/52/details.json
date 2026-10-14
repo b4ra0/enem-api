@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "cartografia",
+        "transportes-circulacao"
+    ],
     "context": "Quando se pensa que há três décadas a obtenção de uma posição geográfica em qualquer lugar do mundo estava nas mãos de profissionais especializados, engenheiros e geógrafos, que precisavam de equipamentos sofisticados para realizarem medições que levavam dias e meses, sem contar com o tempo dedicado ao cálculo das coordenadas, é surpreendente a constatação de que qualquer um de nós com um simples smartphone obtém hoje essa posição em poucos segundos.\n\nCOSTA, S. M. A.; FORTES, L. P. S. A evolução da geodésia:\n\nda observação às estrelas aos satélites. Revista Brasileira\n\nde Geografia, n. 1, jan.-jun. 2019.",
     "files": [],
     "correctAlternative": "D",

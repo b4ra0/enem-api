@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "questoes-ambientais",
+        "energia-recursos"
+    ],
     "context": "O progresso\nEu queria não ver todo o verde da terra morrendo E das águas dos rios os peixes desaparecendo\nEu queria gritar que esse tal de ouro negro\nNão passa de um negro veneno\nE sabemos que por tudo isso vivemos bem menos.\n\nROBERTO CARLOS; ERASMO CARLOS. Roberto Carlos.",
     "files": [],
     "correctAlternative": "C",

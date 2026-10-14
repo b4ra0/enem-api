@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "quimica-ambiental"
+    ],
     "context": "O fenol (hidroxi-benzeno) e vários de seus derivados são compostos tóxicos presentes na lista de poluentes prioritários da Agência de Proteção Ambiental norte-americana, totalizando 11 fenóis das 129 substâncias presentes na lista. No Brasil, a Resolução Federal (Conama) n. 20, de 1986, limitava o teor máximo de fenóis, para lançamento em corpos de água doce, em 0,5 ppm.\n\nResolução Conama n. 20, de 18 de junho de 1986.\n\nDiário Oficial da União, de 30 jul. 1986 (adaptado).\n\nA solução recomendável para o descarte de efluentes industriais contendo fenol é",
     "files": [],
     "correctAlternative": "D",

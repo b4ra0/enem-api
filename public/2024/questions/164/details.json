@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-plana",
+        "angulos-poligonos"
+    ],
     "context": "A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si, conforme o esquema, no qual o ponto H representa o local onde está construído o hospital; os pontos P1, P2 e P3, os postos de saúde; e esses quatro pontos estão em um mesmo plano.\n\n![](https://enem.dev/2024/questions/164/8582e6cb-623b-4ee5-bbe7-ac3047beda9d.png)",
     "files": [
         "https://enem.dev/2024/questions/164/8582e6cb-623b-4ee5-bbe7-ac3047beda9d.png"

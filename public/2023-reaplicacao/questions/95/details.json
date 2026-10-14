@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": "Um carro sedã apresenta tipicamente 200 kg de alumínio distribuídos pelo chassi, motor e cabine. Uma amostra de bauxita, principal fonte natural do metal, é composta por 50% em massa de óxido de alumínio (Al2O3). Considere a massa molar do alumínio (Al) igual a 27 g mol−1 e a do oxigênio (O) igual a 16 g mol−1.\n\nA massa de bauxita que deve ser empregada para produzir o alumínio usado na fabricação de um carro desse modelo é mais próxima de",
     "files": [],
     "correctAlternative": "D",

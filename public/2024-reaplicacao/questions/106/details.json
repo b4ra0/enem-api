@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": "A hipertensão arterial é um problema de saúde que se agrava pelo crescente consumo de sal rico em sódio. O consumo máximo diário recomendado pelo Ministério da Saúde é de, aproximadamente, 5 g de NaCl. No entanto, os brasileiros consomem em média 12 g desse sal por dia. Por isso, a indústria lançou no mercado o chamado sal light, que apresenta um teor reduzido de cloreto de sódio. Sua composição é cerca de 50% de NaCl e 50% de KCl, em massa.\n\nMassas molares:\n\nNa = 23 g\n\nmol; Cl = 35,5 g\n\nmol; K = 39 g\n\nmol\n\nPesquisa de orçamentos familiares: análise do consumo alimentar\n\npessoal no Brasil. Disponível em: www.biblioteca.ibge.gov.br.\n\nAcesso em: 27 nov. 2019 (adaptado).",
     "files": [],
     "correctAlternative": "A",

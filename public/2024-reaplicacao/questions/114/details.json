@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia",
+        "botanica"
+    ],
     "context": "Um grupo de pesquisadores realizou um experimento para identificar condições ideais para o crescimento de ervilhas. Utilizaram um solo rico em nutrientes e minerais (nitrogênio orgânico, fosfato, cálcio, potássio). Em um lote, o solo foi esterilizado por calor; em outro, não. Após o cultivo, em condições ideais de luminosidade e umidade, as plantas cultivadas em solo esterilizado tiveram um desenvolvimento inferior.",
     "files": [],
     "correctAlternative": "E",

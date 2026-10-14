@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "ecologia"
+    ],
     "context": "Algumas espécies de orquídeas apresentam flores que mimetizam vespas fêmeas, de forma que vespas machos são atraídas na tentativa de acasalamento. Ao chegarem às flores, os machos frequentemente entram em contato com o pólen da flor, sem prejuízo de suas atividades. Contudo, como não conseguem se acasalar, esses machos procuram novas fêmeas, podendo encontrar novas flores e polinizá-las.",
     "files": [],
     "correctAlternative": "A",

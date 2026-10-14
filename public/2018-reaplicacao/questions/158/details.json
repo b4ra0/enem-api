@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-quadratica"
+    ],
     "context": "Um projétil é lançado por um canhão e atinge o solo a uma distância de 150 metros do ponto de partida. Ele percorre uma trajetória parabólica, e a altura máxima que atinge em relação ao solo é de 25 metros.\n\n![](https://enem.dev/2018-reaplicacao/questions/158/965f6652-e93e-484a-abe7-83c47108778a.png)",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/158/965f6652-e93e-484a-abe7-83c47108778a.png"

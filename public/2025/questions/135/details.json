@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "ondulatoria",
+        "optica"
+    ],
     "context": "A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento.\n\nO gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê (Figura 1), luminesce na região do vermelho-laranja (∼600 nm). A Figura 2 apresenta a evolução da coloração do sensor, mostrando que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul.\n\n![](https://enem.dev/2025/questions/135/2e671510-d4e6-45b0-9f83-39ee7d47c30c.png)\n\nSILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação\n\nem terapia com luz azul. Tecnol. Metal. Mater. Miner.,\n\nn. 3, jul.-set. 2011 (adaptado).",
     "files": [
         "https://enem.dev/2025/questions/135/2e671510-d4e6-45b0-9f83-39ee7d47c30c.png",

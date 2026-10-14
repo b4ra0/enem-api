@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "hidrografia"
+    ],
     "context": "Os antigos filósofos, observando o grande volume de água de rios como o Nilo, Reno e outros, imaginavam que as chuvas eram insuficientes para alimentar tão consideráveis massas de água. Foi no século XVIII que Pierre Pernault mediu a quantidade de chuva durante três anos na cabeceira do rio Sena. Também mediu o volume de água do referido rio e chegou à conclusão de que apenas a sexta parte se escoava e o restante era evaporado.\n\nLEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989 (adaptado).",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "reacoes-organicas",
+        "funcoes-organicas"
+    ],
     "context": "O ácido acetilsalicílico é um analgésico que pode ser obtido pela reação de esterificação do ácido salicílico. Quando armazenado em condições de elevadas temperaturas e umidade, ocorrem mudanças físicas e químicas em sua estrutura, gerando um odor característico. A figura representa a fórmula estrutural do ácido acetilsalicílico.\n\nÁcido acetilsalicílico",
     "files": [],
     "correctAlternative": "C",

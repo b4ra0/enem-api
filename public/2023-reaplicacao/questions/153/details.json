@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-afim"
+    ],
     "context": "Mariana não tem computador pessoal em casa e precisa fazer uma pesquisa na internet para um trabalho de escola. Então, foi até uma lan house perto de sua casa. Na porta da lan house havia esta placa:\n\nR$ 0,12 POR MINUTO\nR$ 2,00 (TAXA DE UTILIZAÇÃO)",
     "files": [],
     "correctAlternative": "E",

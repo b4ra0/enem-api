@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "ligacoes-quimicas"
+    ],
     "context": "Bebidas alcoólicas, algumas soluções desinfetantes ou até álcool combustível são exemplos de misturas constituídas por etanol (CH3CH2OH) e água. A “afinidade” entre esses líquidos é suficiente para possibilitar que a mistura formada por 500 mL de água e 500 mL de etanol origine uma solução de 970 mL, em um processo que envolve liberação de pequena quantidade de energia. De certa forma, isso constitui um problema para os fabricantes, uma vez que, para obterem um litro dessa mistura, necessitariam misturar mais do que 500 mL de cada um dos líquidos.\nDo ponto de vista da química, a que se deve essa variação de volume?",
     "files": [],
     "correctAlternative": "E",

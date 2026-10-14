@@ -4,6 +4,11 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial",
+        "grandezas-medidas"
+    ],
     "context": "Uma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepípedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm, conforme a figura.\n\n![](https://enem.dev/2025/questions/170/1b223102-dd2e-45e9-9b79-c352ca90942a.png)\n\n![](https://enem.dev/2025/questions/170/1c46d69e-daf9-4893-b3a7-5ea30d62191f.png)\n\nA cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso. Para reduzir o volume de água despejado a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido.\n\nPara garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L.",
     "files": [
         "https://enem.dev/2025/questions/170/1b223102-dd2e-45e9-9b79-c352ca90942a.png",

@@ -4,6 +4,11 @@
     "year": 2019,
     "language": "espanhol",
     "discipline": "linguagens",
+    "subject": "espanhol",
+    "topics": [
+        "interpretacao-texto",
+        "aspectos-culturais"
+    ],
     "context": "Dicen que hablamos muy alto. Algunos, incluso, piensan\nque\nno\nhablamos\nsino\nque\ngritamos.\nLa corresponsal mexicana Patricia Alvarado admite que, a veces, pedimos perdón, pero es “para arrebatarle la palabra al otro y seguir hablando”. Nos reprochan que escuchamos poco. O nada. “Cuando dos españoles se enfrentan están más pendientes de las palabras que van a utilizar en la réplica que en reflexionar sobre los argumentos que les están exponiendo”, opina el alemán Paul Ingendaay, del Frankfurter Allgemeine. “Ninguna autocrítica le sirve al español para cambiar”.\n\nDisponível em: www.larioja.com. Acesso em: 15 ago. 2012 (adaptado).",
     "files": [],
     "correctAlternative": "B",

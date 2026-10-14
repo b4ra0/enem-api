@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "urbanizacao"
+    ],
     "context": "![](https://enem.dev/2018-reaplicacao/questions/80/21f6a0cb-4ea7-4f76-abf3-59f656dbf091.png)\n\nBRASIL. IBGE. Regiões de influência de cidades 2007. Rio de Janeiro: IBGE, 2008 (adaptado).",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/80/21f6a0cb-4ea7-4f76-abf3-59f656dbf091.png"

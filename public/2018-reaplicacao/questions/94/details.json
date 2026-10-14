@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "botanica",
+        "reproducao-embriologia"
+    ],
     "context": "Do\nponto\nde\nvista\ngenético,\no\nnúmero\nde\ncromossomos é uma característica marcante de cada espécie. A goiabeira (Psidium guajava L.), por exemplo, apresenta como padrão específico 22 cromossomos. A organização celular do gametófito feminino (saco embrionário) das flores de Angiospermas é complexa, sendo formado por um conjunto de oito células que, após a fecundação, originarão células com diferentes números cromossômicos. Nesse grupo, as células somáticas são diploides, as gaméticas são haploides e o tecido de reserva da semente é triploide.\nDurante o ciclo de vida de uma goiabeira, quantos cromossomos podem ser encontrados, respectivamente, na oosfera, no zigoto e no endosperma?",
     "files": [],
     "correctAlternative": "B",

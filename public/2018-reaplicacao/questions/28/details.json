@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia",
+        "semantica"
+    ],
     "context": "Para os chineses da dinastia Ming, talvez as favelas cariocas fossem lugares nobres e seguros: acreditava-se por lá, assim como em boa parte do Oriente, que os espíritos malévolos só viajam em linha reta. Em vielas sinuosas, portanto, estaríamos livres de assombrações malditas. Qualidades sobrenaturais não são as únicas razões para considerarmos as favelas um modelo urbano viável, merecedor de investimentos infraestruturais em escala maciça. Lugares com conhecidos e sérios problemas, elas podem ser também solução para uma série de desafios das cidades hoje. Contanto que não sejam encaradas com olhar pitoresco ou preconceituoso. As favelas são, afinal, produto direto do urbanismo moderno e sua história se confunde com a formação do Brasil.\n\nCARVALHO, B. A favela e sua hora. Piauí, n. 67, abr. 2012.",
     "files": [],
     "correctAlternative": "E",

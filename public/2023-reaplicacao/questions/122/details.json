@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "optica"
+    ],
     "context": "O lançamento de 60 satélites altamente refletores pela empresa SpaceX está preocupando os cientistas: a “superpopulação” de satélites ameaça a nossa observação das estrelas. A SpaceX espera que um dia seja possível ter 12 mil satélites na órbita da Terra, permitindo o acesso à internet de alta velocidade, com a qual toda a humanidade só pode sonhar. A SpaceX é só uma das companhias no setor da internet via satélite.\n\n“Se muitos dos satélites dessas novas megaconstelações tiverem esse tipo de brilho constante, então em 20 anos ou menos, o olho humano passará a ver, durante boa parte da noite em qualquer lugar do mundo, mais satélites do que estrelas”.\n\nAstrônomos alertam: satélites da SpaceX podem mudar céu noturno. Disponível em: https://br.sputniknews.com. Acesso em: 21 nov. 2019 (adaptado).",
     "files": [],
     "correctAlternative": "A",

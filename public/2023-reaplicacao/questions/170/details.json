@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "geometria-espacial"
+    ],
     "context": "Uma piscina de um clube tem o formato de paralelepípedo reto retângulo com 50 m de comprimento, 25 m de largura e 3 m de profundidade. O proprietário do clube construirá duas novas piscinas, de formatos diferentes, e necessita que cada uma tenha o mesmo volume da existente ou o mais próximo possível desse volume. A empresa de construção contratada disponibilizou, para a avaliação desse proprietário, uma proposta com cinco projetos de piscina: três com o formato de cilindro circular reto e duas com o formato de paralelepípedo reto retângulo:\n\n• piscina cilíndrica I (C1): 50 m de diâmetro de base e 2 m de profundidade;\n\n• piscina cilíndrica II (C2): 40 m de diâmetro de base e 3 m de profundidade;\n\n• piscina cilíndrica III (C3): 46 m de diâmetro de base e 2,5 m de profundidade;\n\n• piscina em formato de paralelepípedo I (P1): 62 m de comprimento, 24 m de largura e 2 m de profundidade;\n\n• piscina em formato de paralelepípedo II (P2): 64 m de comprimento, 30 m de largura e 2 m\nde profundidade.\n\nConsidere 3 como valor aproximado de π.\n\nPara atender às suas necessidades, dentre os projetos propostos, o proprietário desse clube deverá escolher as piscinas",
     "files": [],
     "correctAlternative": "A",

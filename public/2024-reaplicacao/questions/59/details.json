@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "geografia",
+    "topics": [
+        "espaco-agrario",
+        "questoes-ambientais"
+    ],
     "context": "Um dos grandes desafios no combate ao desmatamento no Brasil consiste na intensificação das atividades agropecuárias. Uma maior produtividade por hectare reduziria a necessidade da incorporação de novas áreas agrícolas para o aumento de produção, diminuindo a pressão sobre o desmatamento. Concilia-se assim a expansão da produção de alimentos, fibras e biocombustíveis com a necessidade de preservação ambiental.\n\nFÉRES, J. G.; FERREIRA, M. D. P. Sustentabilidade da agropecuária\n\nbrasileira: o desafio da intensificação. In: VIEIRA FILHO, J. E. R.;\n\nGASQUES, J. G. (Org.). Uma jornada pelos contrastes\n\ndo Brasil: cem anos do Censo Agropecuário.\n\nBrasília: Ipea; IBGE, 2020.",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "eletrodinamica"
+    ],
     "context": "Uma caixa decorativa utiliza duas pequenas lâmpadas, L1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a uma bateria de tensão VQR. Um fio resistivo QR, de 48 centímetros, está ligado em paralelo à bateria. Cinco pontos, A, B, C, D e E, dividem o fio QR em seis segmentos de comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais (P) está ligado ao fio entre as duas lâmpadas. O outro terminal (S) está livre e será ligado ao fio QR. Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais fios do circuito têm resistências elétricas desprezíveis. A figura ilustra esse circuito.\n\n![](https://enem.dev/2024/questions/132/5abaf306-3c26-42ba-8ed0-e29df88f009a.png)",
     "files": [
         "https://enem.dev/2024/questions/132/5abaf306-3c26-42ba-8ed0-e29df88f009a.png"

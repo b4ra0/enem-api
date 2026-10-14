@@ -4,6 +4,11 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "grandezas-medidas",
+        "geometria-espacial"
+    ],
     "context": "Uma empresa especializada em embalagem de papelão recebeu uma encomenda para fabricar caixas para um determinado modelo de televisor, como o da figura.\n\n![](https://enem.dev/2018-reaplicacao/questions/154/49eb7575-df4c-4cf9-8076-8466145f0cef.png)\n\nA embalagem deve deixar uma folga de 5 cm em cada uma das dimensões. Esta folga será utilizada para proteger a televisão com isopor. O papelão utilizado na confecção das caixas possui uma espessura de 0,5 cm.\n\nA empresa possui 5 protótipos de caixa de papelão, na forma de um paralelepípedo reto-retângulo, cujas medidas externas: comprimento, altura e largura, em centímetro, são respectivamente iguais a:\n\nCaixa 1: 68,0 × 50,0 × 18,5\n\nCaixa 2: 68,5 × 50,5 × 19,0\n\nCaixa 3: 72,5 × 54,5 × 23,0\n\nCaixa 4: 73,0 × 55,0 × 23,5\n\nCaixa 5: 73,5 × 55,5 × 24,0",
     "files": [
         "https://enem.dev/2018-reaplicacao/questions/154/49eb7575-df4c-4cf9-8076-8466145f0cef.png"

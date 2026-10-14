@@ -4,6 +4,10 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "razao-proporcao"
+    ],
     "context": "O presidente de uma empresa, com o objetivo de renovar sua frota de automóveis, solicitou uma pesquisa medindo o consumo de combustível de 5 modelos de carro que usam o mesmo tipo de combustível. O resultado foi:",
     "files": [],
     "correctAlternative": "A",

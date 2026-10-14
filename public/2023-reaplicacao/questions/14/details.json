@@ -4,6 +4,11 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
+    "subject": "portugues",
+    "topics": [
+        "coesao-coerencia",
+        "argumentacao"
+    ],
     "context": "Construindo uma irmandade da língua\n\nA ideia de que a língua portuguesa é pertença de todos os seus falantes é hoje quase pacífica. Só meia dúzia de ultranacionalistas portugueses insiste ainda no disparate de se julgar proprietário exclusivo do idioma. Aliás, ao contrário da Commonwealth e da francofonia, a irmandade da língua portuguesa não tem um único centro ou voz dominante, e essa é precisamente uma das suas maiores virtudes.\n\nAGUALUSA, J. E. O Globo, 8 maio 2021 (adaptado).",
     "files": [],
     "correctAlternative": "C",

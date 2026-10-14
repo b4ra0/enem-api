@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "funcao-exponencial",
+        "potencias-notacao-cientifica"
+    ],
     "context": "Em um laboratório, cientistas observaram o crescimento de uma população de bactérias submetida a uma dieta magra em fósforo, com generosas porções de arsênico. Descobriu-se que o número de bactérias dessa população, após t horas de observação, poderia ser modelado pela função exponencial N(t) = N0ekt, em que N0 é o número de bactérias no instante do início da observação (t = 0) e representa uma constante real maior que 1, e k é uma constante real positiva.\n\nSabe-se que, após uma hora de observação, o\nnúmero de bactérias foi triplicado.",
     "files": [],
     "correctAlternative": "C",

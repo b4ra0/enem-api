@@ -4,6 +4,11 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "acidos-bases-ph",
+        "funcoes-inorganicas"
+    ],
     "context": "O processo de calagem consiste na diminuição da acidez do solo usando compostos inorgânicos, sendo o mais usado o calcário dolomítico, que é constituído de carbonato de cálcio (CaCO3) e carbonato de magnésio (MgCO3). Além de aumentarem o pH do solo, esses compostos são fontes de cálcio e magnésio, nutrientes importantes para os vegetais.",
     "files": [],
     "correctAlternative": "C",

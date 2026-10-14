@@ -4,6 +4,10 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "circunferencia"
+    ],
     "context": "Um cortador de grama elétrico tem o cabo plugado em uma tomada fixa rente ao solo plano de um gramado. O cabo de energia mede 5 metros, e o cortador tem uma lâmina que corta 1 metro de largura. Atualmente ele corta, portanto, uma região no formato de círculo de raio 6 m, como ilustra a figura. Pretende-se usar adicionalmente um cabo extensor, de modo que seja possível cortar uma região com o dobro da área que corta atualmente.\n\n1 m\n\nCortador de\n\ngrama\n\n5 m\n\nCabo\n\nTomada\n\nQual a medida aproximada, em metro, do comprimento do cabo extensor?",
     "files": [],
     "correctAlternative": "E",

@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "quimica",
+    "topics": [
+        "estequiometria"
+    ],
     "context": "Na busca por ouro, os garimpeiros se confundem facilmente entre o ouro verdadeiro e o chamado ouro de tolo, que tem em sua composição 90% de um minério chamado pirita (FeS2). Apesar do engano, a pirita não é descartada, pois é utilizada na produção do ácido sulfúrico, que ocorre com rendimento global de 90%, conforme as equações químicas apresentadas.\n\nConsidere as massas molares: FeS2 (120\ng\nmol),\n\nO2 (32\ng\nmol), Fe2O3 (160\ng\nmol), SO2 (64\ng\nmol),\n\nSO3 (80\ng\nmol), H2O (18\ng\nmol), H2SO4 (98\ng\nmol).\n\n4 FeS2 + 11 O2 → 2 Fe2O3 + 8 SO2\n\n2 SO2 + O2 → 2 SO3\n\nSO3 + H2O → H2SO4",
     "files": [],
     "correctAlternative": "C",

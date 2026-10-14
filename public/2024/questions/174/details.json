@@ -4,6 +4,10 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
+    "subject": "matematica",
+    "topics": [
+        "projecoes-vistas"
+    ],
     "context": "Em um jogo virtual para celular, um personagem pode percorrer trajetórias retilíneas voando ou se deslocando ao longo de paredes. Considere que o personagem descreve a trajetória ABCDEF, em que os pontos A, D e E estão em um plano paralelo ao que contém os pontos B e C, sendo esses dois planos ortogonais ao plano da base que contém o ponto F, conforme a figura.\n\n![](https://enem.dev/2024/questions/174/7aeb6d75-c763-4419-a4d1-c33427ba5df6.png)",
     "files": [
         "https://enem.dev/2024/questions/174/7aeb6d75-c763-4419-a4d1-c33427ba5df6.png",

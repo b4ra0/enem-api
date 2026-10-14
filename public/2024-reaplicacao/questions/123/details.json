@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "impactos-ambientais",
+        "ecologia"
+    ],
     "context": "É comum o álcool ser mencionado como combustível ecologicamente correto, pois, durante sua queima, o ciclo biogeoquímico do carbono apresenta balanço de massa igual a zero. No entanto, o processo de produção da cana-de-açúcar, matéria-prima empregada na indústria sucroalcooleira, faz uso de adubação para melhorar a fertilidade do solo e aumentar a produção. Dentre os principais nutrientes (nitrogênio, fósforo e potássio) que possuem balanço positivo no ciclo biogeoquímico, o nitrogênio é um que merece mais atenção ambiental. Sabe-se que boa parte do nitrogênio ativo desses fertilizantes encontra-se na forma dos íons NH4\n\n−. Por intemperismo e percolação,\nesses compostos lixiviam para o solo, contaminando rios e lagos.\n\n+ e NO3\n\nCARDOSO, A. A.; MACHADO, C. M. D.; PEREIRA, E. A.\n\nBiocombustível, o mito do combustível limpo.\nQuímica Nova na Escola, n. 28, maio 2008 (adaptado).",
     "files": [],
     "correctAlternative": "C",

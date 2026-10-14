@@ -4,6 +4,11 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "biologia",
+    "topics": [
+        "saude-doencas",
+        "microbiologia"
+    ],
     "context": "Ao respirarmos, falarmos, tossirmos ou espirrarmos, liberamos gotículas e aerossóis. Se estamos com alguma infecção respiratória viral, vírus estarão contidos ali. Estima-se que uma pessoa com covid-19 falando alto por 1 minuto pode gerar mais de 1 000 partículas de aerossóis, o que poderia levar à liberação de mais de 100 000 partículas virais de SARS-CoV-2. O uso de máscaras pela população pode auxiliar na redução da transmissão desse vírus, conforme representado na figura.\n\n![](https://enem.dev/2024-reaplicacao/questions/112/02f8f5c6-c1c2-4e91-9eda-3c42c72bd509.png)\n\nDisponível em: www.blogs.unicamp.br.\n\nAcesso em: 17 dez. 2021(adaptado).",
     "files": [
         "https://enem.dev/2024-reaplicacao/questions/112/02f8f5c6-c1c2-4e91-9eda-3c42c72bd509.png"

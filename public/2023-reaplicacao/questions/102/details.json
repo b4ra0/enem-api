@@ -4,6 +4,10 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
+    "subject": "fisica",
+    "topics": [
+        "termologia"
+    ],
     "context": "Um fabricante de eletrodomésticos desenvolveu um compartimento refrigerador inovador que consegue resfriar, em apenas 7 minutos, duas latas de refrigerante (350 mL cada), com densidade igual a 1,0 g/mL.\nA refrigeração do líquido consome 21% da potência do sistema quando o refrigerante tem sua temperatura diminuída em 15 °C. Considere o calor específico do refrigerante igual a 1,0 cal/(g °C) e 1 cal = 4,2 J.\n\nA potência total, em watt, desse dispositivo refrigerador é, aproximadamente,",
     "files": [],
     "correctAlternative": "D",

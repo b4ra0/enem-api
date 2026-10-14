@@ -4,6 +4,10 @@
     "year": 2019,
     "language": null,
     "discipline": "ciencias-humanas",
+    "subject": "sociologia",
+    "topics": [
+        "cultura-identidade"
+    ],
     "context": "A linguagem é uma grande força de socialização, provavelmente a maior que existe. Com isso não queremos dizer apenas o fato mais ou menos óbvio de que a interação social dotada de significado é praticamente impossível sem a linguagem, mas que o mero fato de haver uma fala comum serve como um símbolo peculiarmente poderoso da solidariedade social entre aqueles que falam aquela língua.\n\nSAPIR, E. A linguagem. São Paulo: Perspectiva, 1980.",
     "files": [],
     "correctAlternative": "B",
