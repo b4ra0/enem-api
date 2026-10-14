@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "Um fazendeiro pretende construir um galinheiro\nocupando uma região plana de formato retangular, com\nlados de comprimentos L metro e C metro. Os lados serão\ncercados por telas de tipos diferentes. Nos lados de\ncomprimento L metro, será utilizada uma tela cujo metro\nlinear custa R$ 20,00, enquanto, nos outros dois lados,\numa que custa R$ 15,00. O fazendeiro quer gastar, no\nmáximo, R$ 6 000,00 na compra de toda a tela necessária\npara o galinheiro, e deseja que o galinheiro tenha a maior\nárea possível.",
+    "context": "Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa R$ 20,00, enquanto, nos outros dois lados, uma que custa R$ 15,00. O fazendeiro quer gastar, no máximo, R$ 6 000,00 na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível.",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": "Qual será a medida, em metro, do maior lado do galinheiro?",

@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Uma missão internacional de investigação, em\nsetembro de 2017, documentou os impactos sociais e\nambientais causados pela expansão do agronegócio e\npela especulação de terras na região do Matopiba em sete\ncomunidades no sul do Piauí. Os resultados mostraram\nque a população sofre com as graves consequências\ndo desmatamento, da perda da biodiversidade e da\ncontaminação generalizada do solo, da água e do gado\npor agrotóxicos.\n\nRelatório sobre o Matopiba aponta impactos ambientais e sociais da financeirização\n\nde terras. Disponível em: https://cimi.org.br. Acesso em: 13 out. 2021.",
+    "context": "Uma missão internacional de investigação, em setembro de 2017, documentou os impactos sociais e ambientais causados pela expansão do agronegócio e pela especulação de terras na região do Matopiba em sete comunidades no sul do Piauí. Os resultados mostraram que a população sofre com as graves consequências do desmatamento, da perda da biodiversidade e da contaminação generalizada do solo, da água e do gado por agrotóxicos.\n\nRelatório sobre o Matopiba aponta impactos ambientais e sociais da financeirização\n\nde terras. Disponível em: https://cimi.org.br. Acesso em: 13 out. 2021.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Os impactos socioambientais descritos no texto provocam a A",
+    "alternativesIntroduction": "Os impactos socioambientais descritos no texto provocam a",
     "alternatives": [
         {
             "letter": "A",
-            "text": "adoção de cultivos irrigados. B",
+            "text": "adoção de cultivos irrigados.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "ampliação da agricultura familiar. C",
+            "text": "ampliação da agricultura familiar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "fragilização das comunidades locais. D",
+            "text": "fragilização das comunidades locais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "diversificação da produtividade agrícola. E",
+            "text": "diversificação da produtividade agrícola.",
             "file": null,
             "isCorrect": false
         },

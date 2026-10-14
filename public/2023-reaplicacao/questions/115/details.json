@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "A análise da atividade de dois cultivos celulares\nmantidos com diferentes substratos está representada\nno quadro.\n\nRendimento\nenergético dos\n\nCultivo celular\nSubstrato\n\nprodutos\n\nA\n Glicose + O2\n219 kcal/mol\n\nB\n Glicose\n29 kcal/mol",
+    "context": "A análise da atividade de dois cultivos celulares mantidos com diferentes substratos está representada no quadro.\n\nRendimento\nenergético dos\n\nCultivo celular\nSubstrato\n\nprodutos\n\nA\n Glicose + O2\n219 kcal/mol\n\nB\n Glicose\n29 kcal/mol",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Qual organela celular não está ativa no cultivo B? A",
+    "alternativesIntroduction": "Qual organela celular não está ativa no cultivo B?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Núcleo. B",
+            "text": "Núcleo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Lisossomos. C",
+            "text": "Lisossomos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Mitocôndrias. D",
+            "text": "Mitocôndrias.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "Complexo de Golgi. E",
+            "text": "Complexo de Golgi.",
             "file": null,
             "isCorrect": false
         },

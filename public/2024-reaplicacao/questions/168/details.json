@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "O automóvel é um bem que se desvaloriza muito\nrapidamente, quando comparado a outros bens. Após\na venda, um automóvel novo já sofre uma grande\ndesvalorização. O histórico de um automóvel novo,\nvendido por R$ 30 000,00, apresenta os seguintes\nvalores (V ) de mercado, após decorridos os períodos\nindicados a seguir:\n\n•\t ao final de um ano, R$ 27 000,00;\n•\t ao final de dois anos, R$ 24 300,00;\n•\t ao final de três anos, R$ 21 870,00.\n\nEsses preços seguiram um modelo exponencial que\nexpressa V em função do número n de ano de uso, pela\nrelação V(n) = V0 · q n, em que V0 é o valor inicial, q é o\nfator de desvalorização e n é o tempo, em ano, decorrido\napós a venda.",
+    "context": "O automóvel é um bem que se desvaloriza muito rapidamente, quando comparado a outros bens. Após a venda, um automóvel novo já sofre uma grande desvalorização. O histórico de um automóvel novo, vendido por R$ 30 000,00, apresenta os seguintes valores (V ) de mercado, após decorridos os períodos indicados a seguir:\n\n•\t ao final de um ano, R$ 27 000,00;\n•\t ao final de dois anos, R$ 24 300,00;\n•\t ao final de três anos, R$ 21 870,00.\n\nEsses preços seguiram um modelo exponencial que expressa V em função do número n de ano de uso, pela relação V(n) = V0 · q n, em que V0 é o valor inicial, q é o fator de desvalorização e n é o tempo, em ano, decorrido após a venda.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "O valor, em milhar de real, com uma casa decimal, que mais se aproxima do valor de mercado desse carro, ao final de seis anos, é",

@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Saga da Amazônia\nMas o dragão continua a floresta devorar.\nE quem habita essa mata, pra onde vai se mudar?\nCorre índio, seringueiro, preguiça, tamanduá.\nTartaruga, pé ligeiro, corre, corre tribo dos Kamaiurá.\n\nFARIAS, V. Disponível em: www.letras.com.br. Acesso em: 15 out. 2021 (fragmento).",
+    "context": "Saga da Amazônia\nMas o dragão continua a floresta devorar.\nE quem habita essa mata, pra onde vai se mudar? Corre índio, seringueiro, preguiça, tamanduá.\nTartaruga, pé ligeiro, corre, corre tribo dos Kamaiurá.\n\nFARIAS, V. Disponível em: www.letras.com.br. Acesso em: 15 out. 2021 (fragmento).",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Para solucionar o problema apresentado no texto, qual medida governamental é necessária? A",
+    "alternativesIntroduction": "Para solucionar o problema apresentado no texto, qual medida governamental é necessária?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Ampliação do número de terras devolutas. B",
+            "text": "Ampliação do número de terras devolutas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Proibição do extrativismo local sustentável. C",
+            "text": "Proibição do extrativismo local sustentável.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Regulação de pesquisas de origem estrangeira. D",
+            "text": "Regulação de pesquisas de origem estrangeira.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Contenção do tráfego das embarcações fluviais. E",
+            "text": "Contenção do tráfego das embarcações fluviais.",
             "file": null,
             "isCorrect": false
         },

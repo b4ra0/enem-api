@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma empresa tem cinco setores, cada um com quatro\nfuncionários, sendo que cada funcionário de um setor tem\num cargo diferente. O quadro apresenta os salários, em\nreal, dos funcionários de cada um desses setores, por\ncargo.\n\nSalário\n\nSalário\n\nSalário\n\nSalário\n\npara o\ncargo 1\n\npara o\ncargo 2\n\npara o\ncargo 3\n\npara o\ncargo 4\n\nSetor\n\n(R$)\n\n(R$)\n\n(R$)\n\n(R$)\n\nI\n1 550,00\n1 140,00\n1 140,00\n1 150,00\n\nII\n1 100,00\n1 100,00\n1 520,00\n1 200,00\n\nIII\n1 050,00\n1 050,00\n1 600,00\n2 000,00\n\nIV\n1 300,00\n1 160,00\n1 280,00\n1 280,00\n\nV\n1 250,00\n1 300,00\n1 300,00\n1 150,00\n\nA empresa pretende incentivar a qualificação\nprofissional, oferecendo cursos gratuitos para os\nfuncionários de todos os cinco setores. Entretanto, o\nprimeiro curso será oferecido aos funcionários do setor\nque apresenta a menor média salarial por cargo.\nO primeiro curso será oferecido aos funcionários do\nsetor",
+    "context": "Uma empresa tem cinco setores, cada um com quatro funcionários, sendo que cada funcionário de um setor tem um cargo diferente. O quadro apresenta os salários, em real, dos funcionários de cada um desses setores, por cargo.\n\nSalário\n\nSalário\n\nSalário\n\nSalário\n\npara o\ncargo 1\n\npara o\ncargo 2\n\npara o\ncargo 3\n\npara o\ncargo 4\n\nSetor\n\n(R$)\n\n(R$)\n\n(R$)\n\n(R$)\n\nI\n1 550,00\n1 140,00\n1 140,00\n1 150,00\n\nII\n1 100,00\n1 100,00\n1 520,00\n1 200,00\n\nIII\n1 050,00\n1 050,00\n1 600,00\n2 000,00\n\nIV\n1 300,00\n1 160,00\n1 280,00\n1 280,00\n\nV\n1 250,00\n1 300,00\n1 300,00\n1 150,00\n\nA empresa pretende incentivar a qualificação profissional, oferecendo cursos gratuitos para os funcionários de todos os cinco setores. Entretanto, o primeiro curso será oferecido aos funcionários do setor que apresenta a menor média salarial por cargo. O primeiro curso será oferecido aos funcionários do setor",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "I. B",
+            "text": "I.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "II. C",
+            "text": "II.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "III. D",
+            "text": "III.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "IV. E",
+            "text": "IV.",
             "file": null,
             "isCorrect": false
         },

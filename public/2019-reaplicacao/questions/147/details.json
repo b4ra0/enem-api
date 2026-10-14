@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma pessoa comprou um aparelho sem fio para\ntransmitir músicas a partir do seu computador para o\nrádio de seu quarto. Esse aparelho possui quatro chaves\nseletoras e cada uma pode estar na posição 0 ou 1.\nCada escolha das posições dessas chaves corresponde\na uma frequência diferente de transmissão.",
+    "context": "Uma pessoa comprou um aparelho sem fio para transmitir músicas a partir do seu computador para o rádio de seu quarto. Esse aparelho possui quatro chaves seletoras e cada uma pode estar na posição 0 ou 1. Cada escolha das posições dessas chaves corresponde a uma frequência diferente de transmissão.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "A quantidade de frequências diferentes que esse aparelho pode transmitir é determinada por",

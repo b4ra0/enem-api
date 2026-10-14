@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma pessoa tinha um projeto para um salão de festas\nno formato de paralelepípedo reto retângulo. Ela comprou\na quantidade exata de azulejos para cobrir as paredes\nlaterais, incluindo as regiões destinadas a uma porta e\numa janela. Os azulejos que cobririam essas regiões\nseriam reservados para futuras substituições. Esse projeto\nprevia que o salão teria, como dimensões internas, 10 m\nde comprimento por 6 m de largura por 2,5 m de altura.\n\nEm decorrência de uma mudança no projeto, o salão\nficará com 12 m de comprimento por 5 m de largura e as\nmesmas dimensões para porta e janela. Como a compra\nde azulejos já foi feita, essa pessoa ajustará a altura do\nsalão de modo que a área lateral, incluindo as regiões\nda porta e da janela, seja equivalente à área lateral antes da\nalteração do projeto.",
+    "context": "Uma pessoa tinha um projeto para um salão de festas no formato de paralelepípedo reto retângulo. Ela comprou a quantidade exata de azulejos para cobrir as paredes laterais, incluindo as regiões destinadas a uma porta e uma janela. Os azulejos que cobririam essas regiões seriam reservados para futuras substituições. Esse projeto previa que o salão teria, como dimensões internas, 10 m de comprimento por 6 m de largura por 2,5 m de altura.\n\nEm decorrência de uma mudança no projeto, o salão ficará com 12 m de comprimento por 5 m de largura e as mesmas dimensões para porta e janela. Como a compra de azulejos já foi feita, essa pessoa ajustará a altura do salão de modo que a área lateral, incluindo as regiões da porta e da janela, seja equivalente à área lateral antes da alteração do projeto.",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Qual é a medida, em metro, dessa nova altura, expressa com duas casas decimais? A",
+    "alternativesIntroduction": "Qual é a medida, em metro, dessa nova altura, expressa com duas casas decimais?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "3,25 B",
+            "text": "3,25",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "3,00 C",
+            "text": "3,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "2,50 D",
+            "text": "2,50",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "2,35 E",
+            "text": "2,35",
             "file": null,
             "isCorrect": true
         },

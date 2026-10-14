@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "Os integrantes de uma banda de rock realizaram um\nprocesso seletivo para contratar um novo vocalista. Foram\npré-selecionados cinco cantores para a realização de três\ntestes. As frequências, medidas em hertz, alcançadas\nnesses testes, por cada cantor foram:\n\n•\t I: 380; 410; 470.\n•\t II: 330; 350; 490.\n•\t III: 420; 420; 390.\n•\t IV: 407; 410; 404.\n•\t V: 310; 380; 480.\n\nOs integrantes da banda decidiram selecionar o cantor\nque apresentou a maior frequência média nos três testes.",
+    "context": "Os integrantes de uma banda de rock realizaram um processo seletivo para contratar um novo vocalista. Foram pré-selecionados cinco cantores para a realização de três testes. As frequências, medidas em hertz, alcançadas nesses testes, por cada cantor foram:\n\n•\t I: 380; 410; 470.\n•\t II: 330; 350; 490.\n•\t III: 420; 420; 390.\n•\t IV: 407; 410; 404.\n•\t V: 310; 380; 480.\n\nOs integrantes da banda decidiram selecionar o cantor que apresentou a maior frequência média nos três testes.",
     "files": [],
     "correctAlternative": "A",
     "alternativesIntroduction": "O cantor selecionado foi o",

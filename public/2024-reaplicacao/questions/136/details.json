@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "Um novo condomínio foi construído na Rua X. Alguns\nlotes já receberam numeração da prefeitura, enquanto\noutros apresentam apenas o sobrenome do seu proprietário.\nO servidor da prefeitura numerará os lotes que ainda não\nforam numerados. Para isso, ele observa o padrão da\nnumeração já existente, conforme apresentado na figura,\npercebendo que, em cada lado da rua, as sequências das\nnumerações formam progressões aritméticas, e, com isso,\natribui um número ao lote da família Costa.\n\nRua X\n\n84\n106\nTeixeira\nGuimarães\n172",
+    "context": "Um novo condomínio foi construído na Rua X. Alguns lotes já receberam numeração da prefeitura, enquanto outros apresentam apenas o sobrenome do seu proprietário. O servidor da prefeitura numerará os lotes que ainda não foram numerados. Para isso, ele observa o padrão da numeração já existente, conforme apresentado na figura, percebendo que, em cada lado da rua, as sequências das numerações formam progressões aritméticas, e, com isso, atribui um número ao lote da família Costa.\n\nRua X\n\n84\n106\nTeixeira\nGuimarães\n172",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "O número atribuído ao lote da família Costa é",

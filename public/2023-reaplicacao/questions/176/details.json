@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Em um pronto-socorro, um paciente ingeriu, à\nmeia-noite, um comprimido que continha 800 mg de uma\nmedicação. O médico, ao liberar o paciente, informou\nque, caso ele voltasse a sentir dores, deveria tomar outro\ncomprimido daquele, no máximo três vezes, nas próximas\n24 horas, dependendo das recomendações da bula.\nComo o paciente voltou a sentir dores ao chegar em\ncasa, ainda na madrugada, decidiu seguir a orientação\ndo médico e leu a bula do remédio. O paciente verificou\nque, a cada 6 horas, a quantidade dessa medicação no\norganismo se reduzia à metade da quantidade anterior.\nObservou também a recomendação de que a pessoa\ndeveria, preferencialmente, ingerir um novo comprimido\nquando a quantidade de medicação no organismo\nestivesse compreendida entre 200 mg e 100 mg.",
+    "context": "Em um pronto-socorro, um paciente ingeriu, à meia-noite, um comprimido que continha 800 mg de uma medicação. O médico, ao liberar o paciente, informou que, caso ele voltasse a sentir dores, deveria tomar outro comprimido daquele, no máximo três vezes, nas próximas 24 horas, dependendo das recomendações da bula. Como o paciente voltou a sentir dores ao chegar em casa, ainda na madrugada, decidiu seguir a orientação do médico e leu a bula do remédio. O paciente verificou que, a cada 6 horas, a quantidade dessa medicação no organismo se reduzia à metade da quantidade anterior. Observou também a recomendação de que a pessoa deveria, preferencialmente, ingerir um novo comprimido quando a quantidade de medicação no organismo estivesse compreendida entre 200 mg e 100 mg.",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Seguindo as informações e recomendações da bula, em que período(s) do dia o paciente deveria tomar novamente o remédio? A",
+    "alternativesIntroduction": "Seguindo as informações e recomendações da bula, em que período(s) do dia o paciente deveria tomar novamente o remédio?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Um na mesma madrugada, um de manhã e mais um à tarde. B",
+            "text": "Um na mesma madrugada, um de manhã e mais um à tarde.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Dois pela manhã e mais um à tarde. C",
+            "text": "Dois pela manhã e mais um à tarde.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Um pela manhã, um à tarde e mais um à noite. D",
+            "text": "Um pela manhã, um à tarde e mais um à noite.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Apenas um à tarde. E",
+            "text": "Apenas um à tarde.",
             "file": null,
             "isCorrect": true
         },

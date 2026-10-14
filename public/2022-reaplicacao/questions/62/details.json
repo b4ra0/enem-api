@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "A velha potência de morte em que se simbolizava\no poder soberano é agora, cuidadosamente, recoberta\npela administração dos corpos. Aparecimento, também,\nnos terrenos das práticas políticas e observações\neconômicas, dos problemas de natalidade, longevidade,\nsaúde pública, habitação e migração.\n\nFOUCAULT, M. História da sexualidade I: a vontade de saber.\n\nRio de Janeiro: Graal, 1988 (adaptado).\n\nO texto aponta para a emergência, a partir de meados\ndo século XIX, de um novo tipo de gestão da sociedade\nocidental, centrado na",
+    "context": "A velha potência de morte em que se simbolizava o poder soberano é agora, cuidadosamente, recoberta pela administração dos corpos. Aparecimento, também, nos terrenos das práticas políticas e observações econômicas, dos problemas de natalidade, longevidade, saúde pública, habitação e migração.\n\nFOUCAULT, M. História da sexualidade I: a vontade de saber.\n\nRio de Janeiro: Graal, 1988 (adaptado).\n\nO texto aponta para a emergência, a partir de meados do século XIX, de um novo tipo de gestão da sociedade ocidental, centrado na",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "ordenação calculista das vidas. B",
+            "text": "ordenação calculista das vidas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "exposição ostensiva das punições. C",
+            "text": "exposição ostensiva das punições.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "distribuição igualitária das riquezas. D",
+            "text": "distribuição igualitária das riquezas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "supressão estratégica das fronteiras. E",
+            "text": "supressão estratégica das fronteiras.",
             "file": null,
             "isCorrect": false
         },

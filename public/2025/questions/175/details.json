@@ -4,7 +4,7 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "Um pai comprou oito presentes diferentes (dentre os\nquais, uma bicicleta e um celular) para dar a seus três filhos.\nEle pretende distribuir os presentes de modo que o filho\nmais velho e o mais novo recebam três presentes cada um,\ne o do meio receba os dois presentes restantes. O mais velho\nganhará, entre seus presentes, ou uma bicicleta ou um celular,\nmas não ambos.",
+    "context": "Um pai comprou oito presentes diferentes (dentre os quais, uma bicicleta e um celular) para dar a seus três filhos. Ele pretende distribuir os presentes de modo que o filho mais velho e o mais novo recebam três presentes cada um, e o do meio receba os dois presentes restantes. O mais velho ganhará, entre seus presentes, ou uma bicicleta ou um celular, mas não ambos.",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "De quantas maneiras distintas a distribuição dos presentes pode ser feita?",

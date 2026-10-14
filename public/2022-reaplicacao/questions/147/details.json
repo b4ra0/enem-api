@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Os países anglófonos, como a Inglaterra, o Canadá, a\nAustrália e outros, são países que utilizam dois sistemas\nde unidades para a identificação de distâncias: o Sistema\nInternacional, com o quilômetro (km), e o CGS, com a\nmilha (mi). Nas rodovias canadenses, por exemplo, as\nplacas de sinalização de distâncias apresentam dois\nvalores, um em km e outro em mi, com esta última\nequivalente a aproximadamente 1 610 metros.\n\nUm\nturista\nbrasileiro,\nhabituado\nao\nSistema\nInternacional, em viagem por uma dessas rodovias,\nverifica em dado momento uma placa indicando a\ndistância até a cidade a que ele se destina, onde está\nescrito 50 mi e XX km, com o valor da distância em\nquilômetro ilegível.\nQual o valor, desprezando as casas decimais, que\ndeveria estar escrito na placa, para identificar a\ndistância XX, em quilômetro, até a cidade destino?",
+    "context": "Os países anglófonos, como a Inglaterra, o Canadá, a Austrália e outros, são países que utilizam dois sistemas de unidades para a identificação de distâncias: o Sistema Internacional, com o quilômetro (km), e o CGS, com a milha (mi). Nas rodovias canadenses, por exemplo, as placas de sinalização de distâncias apresentam dois valores, um em km e outro em mi, com esta última equivalente a aproximadamente 1 610 metros.\n\nUm\nturista\nbrasileiro,\nhabituado\nao\nSistema\nInternacional, em viagem por uma dessas rodovias, verifica em dado momento uma placa indicando a distância até a cidade a que ele se destina, onde está escrito 50 mi e XX km, com o valor da distância em quilômetro ilegível.\nQual o valor, desprezando as casas decimais, que deveria estar escrito na placa, para identificar a distância XX, em quilômetro, até a cidade destino?",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "8 B",
+            "text": "8",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "31 C",
+            "text": "31",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "80 D",
+            "text": "80",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "310 E",
+            "text": "310",
             "file": null,
             "isCorrect": false
         },

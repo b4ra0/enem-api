@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\n“Pretuguês” é o termo cunhado por Lélia Gonzalez\npara se referir à tradição africana presente na língua\nportuguesa falada no Brasil; a característica tonal e\nrítmica do português seria uma herança das línguas dos\npovos africanos que vieram escravizados para o país.\nA autora destaca que a presença do “r” no lugar do “l”\n(quando se diz “framengo”, por exemplo) pode remeter\nà ausência da letra “l” em certos idiomas africanos do\ntronco linguístico bantu.\n\nBARTHOLOMEU, J. S. apud GONZALEZ, L. In: Enciclopédia de antropologia. São Paulo: USP.\n\nDisponível em: https://ea.fflch.usp.br. Acesso em: 6 out. 2021 (adaptado).\nNo Brasil, a tradição mencionada no texto foi responsável\npela",
+    "context": "“Pretuguês” é o termo cunhado por Lélia Gonzalez para se referir à tradição africana presente na língua portuguesa falada no Brasil; a característica tonal e rítmica do português seria uma herança das línguas dos povos africanos que vieram escravizados para o país. A autora destaca que a presença do “r” no lugar do “l” (quando se diz “framengo”, por exemplo) pode remeter à ausência da letra “l” em certos idiomas africanos do tronco linguístico bantu.\n\nBARTHOLOMEU, J. S. apud GONZALEZ, L. In: Enciclopédia de antropologia. São Paulo: USP.\n\nDisponível em: https://ea.fflch.usp.br. Acesso em: 6 out. 2021 (adaptado). No Brasil, a tradição mencionada no texto foi responsável pela",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "preservação do tráfico humano. B",
+            "text": "preservação do tráfico humano.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "ampliação do sistema migratório. C",
+            "text": "ampliação do sistema migratório.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "diversidade do patrimônio cultural. D",
+            "text": "diversidade do patrimônio cultural.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "variedade do conhecimento autóctone. E",
+            "text": "variedade do conhecimento autóctone.",
             "file": null,
             "isCorrect": false
         },

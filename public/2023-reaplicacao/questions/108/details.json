@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Os agentes lacrimogêneos são espécies químicas capazes de provocar forte irritação das vias aéreas superiores e\ndos olhos. Até o final da década de 1960, a cloroacetofenona (CA) foi a substância mais utilizada com essa finalidade.\nUma forma de descontaminar a pele exposta à CA consiste em lavá-la com uma solução aquosa de determinado sal,\no qual reagirá com a CA, conforme a reação representada.\n\nO\nO\n\nOH\nCl\n\n+\nsal\n+\nNaCl\n\nAMORIM, N. M. et al. Química e armas não letais: gás lacrimogêneo em foco. Química Nova na Escola, n. 2, 2015 (adaptado).",
+    "context": "Os agentes lacrimogêneos são espécies químicas capazes de provocar forte irritação das vias aéreas superiores e dos olhos. Até o final da década de 1960, a cloroacetofenona (CA) foi a substância mais utilizada com essa finalidade. Uma forma de descontaminar a pele exposta à CA consiste em lavá-la com uma solução aquosa de determinado sal, o qual reagirá com a CA, conforme a reação representada.\n\nO\nO\n\nOH\nCl\n\n+\nsal\n+\nNaCl\n\nAMORIM, N. M. et al. Química e armas não letais: gás lacrimogêneo em foco. Química Nova na Escola, n. 2, 2015 (adaptado).",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Qual destes compostos pode ser usado para fazer essa descontaminação? A",
+    "alternativesIntroduction": "Qual destes compostos pode ser usado para fazer essa descontaminação?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "NaCH3COO B",
+            "text": "NaCH3COO",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "NaHCO3 C",
+            "text": "NaHCO3",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "NaHSO3 D",
+            "text": "NaHSO3",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Na2SO4 E",
+            "text": "Na2SO4",
             "file": null,
             "isCorrect": false
         },

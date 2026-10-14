@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nO esquema representa alguns passos de uma série\nde reações metabólicas transformando o aminoácido\nfenilalanina em quatro possíveis substâncias. Essas\nreações enzimáticas são resultado da expressão de\nalelos dominantes A, B, C e D.\n\nAlelo A → enzima E1\n\nAlelo B → enzima E2\n\nAlelo D → enzima E4\n\nADRENALINA\nMELANINA\n\nAlelo C → enzima E3\n\nQual o resultado metabólico de uma criança recessiva\npara o par de alelos B?",
+    "context": "O esquema representa alguns passos de uma série de reações metabólicas transformando o aminoácido fenilalanina em quatro possíveis substâncias. Essas reações enzimáticas são resultado da expressão de alelos dominantes A, B, C e D.\n\nAlelo A → enzima E1\n\nAlelo B → enzima E2\n\nAlelo D → enzima E4\n\nADRENALINA\nMELANINA\n\nAlelo C → enzima E3\n\nQual o resultado metabólico de uma criança recessiva para o par de alelos B?",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "Taquicardia. B",
+            "text": "Taquicardia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Retardo mental. C",
+            "text": "Retardo mental.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Redução de peso. D",
+            "text": "Redução de peso.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Ausência de pigmentação na pele. E",
+            "text": "Ausência de pigmentação na pele.",
             "file": null,
             "isCorrect": true
         },

@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Um professor de matemática desenvolveu uma\natividade educacional relacionada aos Jogos Olímpicos\ne confeccionou uma maquete que representa uma piscina\nnas dimensões olímpicas. Admitiu que a piscina olímpica\ndeve ter capacidade mínima de 2 500 000 litros e construiu\nsua maquete, referente a esse valor mínimo, na forma de\nparalelepípedo reto retângulo com dimensões internas\n2 cm, 25 cm e 50 cm, cujo volume é 2 500  cm3. Considere\nque 1 L = 103 cm3.\n\nA maquete confeccionada pelo professor foi elaborada\nna escala",
+    "context": "Um professor de matemática desenvolveu uma atividade educacional relacionada aos Jogos Olímpicos e confeccionou uma maquete que representa uma piscina nas dimensões olímpicas. Admitiu que a piscina olímpica deve ter capacidade mínima de 2 500 000 litros e construiu sua maquete, referente a esse valor mínimo, na forma de paralelepípedo reto retângulo com dimensões internas 2 cm, 25 cm e 50 cm, cujo volume é 2 500  cm3. Considere que 1 L = 103 cm3.\n\nA maquete confeccionada pelo professor foi elaborada na escala",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "1 : 100. B",
+            "text": "1 : 100.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "1 : 1 000. C",
+            "text": "1 : 1 000.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "1 : 2 000. D",
+            "text": "1 : 2 000.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "1 : 50 000. E",
+            "text": "1 : 50 000.",
             "file": null,
             "isCorrect": false
         },

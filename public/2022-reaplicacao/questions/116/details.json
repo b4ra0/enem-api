@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Em um sistema hipotético mantido sob iluminação,\nestão presentes uma célula autotrófica e uma célula\nheterotrófica. A esse sistema são fornecidos água, glicose\ne gás oxigênio, sendo esse último na forma de 18O2.\n\nAo final de um período de 24 horas, a análise dos\ncompostos presentes nesse sistema permitirá a detecção\ndo isótopo no(a)",
+    "context": "Em um sistema hipotético mantido sob iluminação, estão presentes uma célula autotrófica e uma célula heterotrófica. A esse sistema são fornecidos água, glicose e gás oxigênio, sendo esse último na forma de 18O2.\n\nAo final de um período de 24 horas, a análise dos compostos presentes nesse sistema permitirá a detecção do isótopo no(a)",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "água produzida na respiração. B",
+            "text": "água produzida na respiração.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "piruvato produzido na glicólise. C",
+            "text": "piruvato produzido na glicólise.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "etanol produzido na fermentação. D",
+            "text": "etanol produzido na fermentação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "glicose produzida na fotossíntese. E",
+            "text": "glicose produzida na fotossíntese.",
             "file": null,
             "isCorrect": false
         },

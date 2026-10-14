@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Um túnel viário de uma única via possui a entrada na forma de um triângulo equilátero de lado 6 m. O motorista\nde um caminhão com 3 m de largura deve decidir se passa por esse túnel ou se toma um caminho mais longo. Para\ndecidir, o motorista calcula a altura que esse caminhão deveria ter para tangenciar a entrada do túnel. Considere o\ncaminhão como um paralelepípedo reto.\nEssa altura, em metro, é",
+    "context": "Um túnel viário de uma única via possui a entrada na forma de um triângulo equilátero de lado 6 m. O motorista de um caminhão com 3 m de largura deve decidir se passa por esse túnel ou se toma um caminho mais longo. Para decidir, o motorista calcula a altura que esse caminhão deveria ter para tangenciar a entrada do túnel. Considere o caminhão como um paralelepípedo reto.\nEssa altura, em metro, é",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "3 B",
+            "text": "3",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "3 2 C",
+            "text": "3 2",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "3 3 D",
+            "text": "3 3",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "3 2 E",
+            "text": "3 2",
             "file": null,
             "isCorrect": false
         },

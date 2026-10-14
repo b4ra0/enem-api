@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Suponha-se que seja trazida de súbito a este mundo\numa pessoa dotada das mais poderosas faculdades\nda razão e reflexão. É verdade que ela observaria\nimediatamente um acontecimento seguindo-se a outro,\nmas não conseguiria descobrir nada além disso. Ela não\nseria, no início, capaz de apreender, por meio de nenhum\nraciocínio, a ideia de causa e efeito.\n\nHUME, D. Investigação sobre o entendimento humano e sobre\n\nos princípios da moral. São Paulo: Unesp, 2003.",
+    "context": "Suponha-se que seja trazida de súbito a este mundo uma pessoa dotada das mais poderosas faculdades da razão e reflexão. É verdade que ela observaria imediatamente um acontecimento seguindo-se a outro, mas não conseguiria descobrir nada além disso. Ela não seria, no início, capaz de apreender, por meio de nenhum raciocínio, a ideia de causa e efeito.\n\nHUME, D. Investigação sobre o entendimento humano e sobre\n\nos princípios da moral. São Paulo: Unesp, 2003.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Segundo Hume, nossa capacidade de estabelecer relações como aquelas mencionadas no texto resulta do(a) A",
+    "alternativesIntroduction": "Segundo Hume, nossa capacidade de estabelecer relações como aquelas mencionadas no texto resulta do(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "representação construída pela assimilação dos juízos universais. B",
+            "text": "representação construída pela assimilação dos juízos universais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "hábito desenvolvido pela repetição de uma operação. C",
+            "text": "hábito desenvolvido pela repetição de uma operação.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "testemunho proveniente de relato de terceiros. D",
+            "text": "testemunho proveniente de relato de terceiros.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "intuição formada pela atividade mental pura. E",
+            "text": "intuição formada pela atividade mental pura.",
             "file": null,
             "isCorrect": false
         },

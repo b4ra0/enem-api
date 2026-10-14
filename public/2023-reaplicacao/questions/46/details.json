@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "O Estado surge pelo fato de ser o homem um animal\nnaturalmente social, político. O Estado provê, inicialmente,\na satisfação daquelas necessidades materiais, negativas\ne positivas, defesa e segurança, conservação e\nengrandecimento, de outro modo irrealizáveis. Mas o seu\nfim essencial é espiritual, isto é, deve promover a virtude\ne, consequentemente, a felicidade dos súditos mediante\na ciência.\n\nARISTÓTELES. A política. São Paulo: Martins Fontes, 2006 (adaptado).",
+    "context": "O Estado surge pelo fato de ser o homem um animal naturalmente social, político. O Estado provê, inicialmente, a satisfação daquelas necessidades materiais, negativas e positivas, defesa e segurança, conservação e engrandecimento, de outro modo irrealizáveis. Mas o seu fim essencial é espiritual, isto é, deve promover a virtude e, consequentemente, a felicidade dos súditos mediante a ciência.\n\nARISTÓTELES. A política. São Paulo: Martins Fontes, 2006 (adaptado).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Segundo o autor, é função do Estado garantir o(a) A",
+    "alternativesIntroduction": "Segundo o autor, é função do Estado garantir o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "justiça divina, pregando a salvação eterna dos fiéis. B",
+            "text": "justiça divina, pregando a salvação eterna dos fiéis.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "soberania, respeitando a autonomia dos três poderes. C",
+            "text": "soberania, respeitando a autonomia dos três poderes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "propriedade privada, protegendo o direito natural inalienável. D",
+            "text": "propriedade privada, protegendo o direito natural inalienável.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "vida ética, proporcionando a formação moral dos cidadãos. E",
+            "text": "vida ética, proporcionando a formação moral dos cidadãos.",
             "file": null,
             "isCorrect": true
         },

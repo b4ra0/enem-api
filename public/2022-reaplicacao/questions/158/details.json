@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Para tornar uma pista de automobilismo mais segura, foram solicitadas intervenções em seu traçado.\nOs engenheiros contratados elaboraram um projeto com cinco possíveis modificações, destacadas nos setores\n(I), (II), (III), (IV) e (V) pelas linhas tracejadas, como mostra a figura. No entanto, na temporada atual, só é\npermitido que se façam duas dessas alterações.\n\nTodos os trechos passíveis de modificação, tanto no traçado original quanto no novo traçado, são\nsemicircunferências ou segmentos de reta.\n\n200 m\n\n60°\n60°\n\n360 m\n\n480 m\n\nPretende-se que a nova pista tenha extensão mais próxima que a da original após duas modificações. Os trechos\nem comum da pista original e da nova pista não serão alterados.\n\nUtilize 3 como aproximação para π.\nPara atender às condições apresentadas, quais setores deverão ser modificados?",
+    "context": "Para tornar uma pista de automobilismo mais segura, foram solicitadas intervenções em seu traçado. Os engenheiros contratados elaboraram um projeto com cinco possíveis modificações, destacadas nos setores (I), (II), (III), (IV) e (V) pelas linhas tracejadas, como mostra a figura. No entanto, na temporada atual, só é permitido que se façam duas dessas alterações.\n\nTodos os trechos passíveis de modificação, tanto no traçado original quanto no novo traçado, são semicircunferências ou segmentos de reta.\n\n200 m\n\n60°\n60°\n\n360 m\n\n480 m\n\nPretende-se que a nova pista tenha extensão mais próxima que a da original após duas modificações. Os trechos em comum da pista original e da nova pista não serão alterados.\n\nUtilize 3 como aproximação para π.\nPara atender às condições apresentadas, quais setores deverão ser modificados?",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "I e V B",
+            "text": "I e V",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "II e III C",
+            "text": "II e III",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "II e V D",
+            "text": "II e V",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "III e IV E",
+            "text": "III e IV",
             "file": null,
             "isCorrect": false
         },

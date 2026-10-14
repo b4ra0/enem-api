@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma escola realizou uma pesquisa entre todos os\nseus estudantes e constatou que três em cada dez deles\nestão matriculados em algum curso extracurricular de\nlíngua estrangeira.\nEm relação ao número total de estudantes dessa escola,\nqual porcentagem representa o número de alunos\nmatriculados em algum curso extracurricular de língua\nestrangeira?",
+    "context": "Uma escola realizou uma pesquisa entre todos os seus estudantes e constatou que três em cada dez deles estão matriculados em algum curso extracurricular de língua estrangeira.\nEm relação ao número total de estudantes dessa escola, qual porcentagem representa o número de alunos matriculados em algum curso extracurricular de língua estrangeira?",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "0,3% B",
+            "text": "0,3%",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "0,33% C",
+            "text": "0,33%",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "3% D",
+            "text": "3%",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "30% E",
+            "text": "30%",
             "file": null,
             "isCorrect": true
         },

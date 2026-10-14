@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Uma notícia traz esperança a pessoas com certos\ntipos sanguíneos. Pesquisadores europeus conseguiram\ninjetar, com sucesso, glóbulos vermelhos originados a\npartir de células-tronco em uma pessoa.\n\nFolha de S. Paulo, 3 set. 2011 (adaptado).",
+    "context": "Uma notícia traz esperança a pessoas com certos tipos sanguíneos. Pesquisadores europeus conseguiram injetar, com sucesso, glóbulos vermelhos originados a partir de células-tronco em uma pessoa.\n\nFolha de S. Paulo, 3 set. 2011 (adaptado).",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Esse avanço na medicina foi importante porque permitirá A",
+    "alternativesIntroduction": "Esse avanço na medicina foi importante porque permitirá",
     "alternatives": [
         {
             "letter": "A",
-            "text": "a substituição de tratamentos convencionais para estancar hemorragias internas. B",
+            "text": "a substituição de tratamentos convencionais para estancar hemorragias internas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "a produção de glóbulos vermelhos in vitro do próprio indivíduo, evitando transfusões sanguíneas. C",
+            "text": "a produção de glóbulos vermelhos in vitro do próprio indivíduo, evitando transfusões sanguíneas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "a realização da transfusão de sangue entre doador e receptor com menor risco de incompatibilidade. D",
+            "text": "a realização da transfusão de sangue entre doador e receptor com menor risco de incompatibilidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "a substituição dos glóbulos vermelhos pelas células-tronco na corrente sanguínea, aumentando o número dessas células. E",
+            "text": "a substituição dos glóbulos vermelhos pelas células-tronco na corrente sanguínea, aumentando o número dessas células.",
             "file": null,
             "isCorrect": false
         },

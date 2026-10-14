@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "O Rio Paraíba corria bem próximo ao cercado.\nE era tudo. Em tempos antigos fora muito mais estreito.\nOs marizeiros e as ingazeiras apertavam as duas margens\ne as águas corriam em leito mais fundo. Agora era largo e,\nquando descia nas grandes enchentes, fazia medo.\nContava-se o tempo pelas eras das cheias. Isto se deu\nna cheia de 1893, aquilo se fez depois da cheia de 1868.\nPara nós, meninos, o rio era mesmo a nossa serventia\nnos tempos de verão, quando as águas partiam e se\nretinham nos poços. Os moleques saíam para lavar os\ncavalos e íamos com eles. Punham-se os animais dentro\nd’água e ficávamos nos banhos, nos cangapés. O leito\ndo rio cobria-se de junco e faziam-se plantações de\nbatata-doce pelas vazantes. Era o bom rio da seca a pagar\no que fizera de mau nas cheias devastadoras. E quando\nainda não partia a corrente, o povo grande do engenho\narmava banheiros de palha para o banho das moças.\nO rio para mim seria um ponto de contato com o mundo.",
+    "context": "O Rio Paraíba corria bem próximo ao cercado.\nE era tudo. Em tempos antigos fora muito mais estreito. Os marizeiros e as ingazeiras apertavam as duas margens e as águas corriam em leito mais fundo. Agora era largo e, quando descia nas grandes enchentes, fazia medo. Contava-se o tempo pelas eras das cheias. Isto se deu na cheia de 1893, aquilo se fez depois da cheia de 1868. Para nós, meninos, o rio era mesmo a nossa serventia nos tempos de verão, quando as águas partiam e se retinham nos poços. Os moleques saíam para lavar os cavalos e íamos com eles. Punham-se os animais dentro d’água e ficávamos nos banhos, nos cangapés. O leito do rio cobria-se de junco e faziam-se plantações de batata-doce pelas vazantes. Era o bom rio da seca a pagar o que fizera de mau nas cheias devastadoras. E quando ainda não partia a corrente, o povo grande do engenho armava banheiros de palha para o banho das moças. O rio para mim seria um ponto de contato com o mundo.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "RÊGO, J. L. Meus verdes anos. Rio de Janeiro: Tecnoprint, 1956. Ao apresentar relações no espaço geográfico, o texto descreve mudanças associadas a A",
+    "alternativesIntroduction": "RÊGO, J. L. Meus verdes anos. Rio de Janeiro: Tecnoprint, 1956. Ao apresentar relações no espaço geográfico, o texto descreve mudanças associadas a",
     "alternatives": [
         {
             "letter": "A",
-            "text": "atividades turísticas e itinerários termais. B",
+            "text": "atividades turísticas e itinerários termais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "investigações científicas e biomas nativos. C",
+            "text": "investigações científicas e biomas nativos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "paisagens naturais e hábitos culturais. D",
+            "text": "paisagens naturais e hábitos culturais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "afetividades religiosas e roteiros gastronômicos. E",
+            "text": "afetividades religiosas e roteiros gastronômicos.",
             "file": null,
             "isCorrect": false
         },

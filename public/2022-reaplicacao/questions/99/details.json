@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Escrito em 1897, pelo britânico H. G. Wells (18661946), O homem invisível é um livro que narra a história\nde um cientista que teria desenvolvido uma forma de\ntornar todos os tecidos do seu corpo transparentes à luz,\nao fazer o índice de refração absoluto do corpo humano\ncorresponder ao do ar. Contudo, Wells não explorou no\nlivro o fato de que esse efeito comprometeria a visão de\nseu protagonista.\nNesse caso, qual seria a deficiência visual provocada?",
+    "context": "Escrito em 1897, pelo britânico H. G. Wells (18661946), O homem invisível é um livro que narra a história de um cientista que teria desenvolvido uma forma de tornar todos os tecidos do seu corpo transparentes à luz, ao fazer o índice de refração absoluto do corpo humano corresponder ao do ar. Contudo, Wells não explorou no livro o fato de que esse efeito comprometeria a visão de seu protagonista.\nNesse caso, qual seria a deficiência visual provocada?",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "Miopia. B",
+            "text": "Miopia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Cegueira. C",
+            "text": "Cegueira.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "Daltonismo. D",
+            "text": "Daltonismo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Astigmatismo. E",
+            "text": "Astigmatismo.",
             "file": null,
             "isCorrect": false
         },

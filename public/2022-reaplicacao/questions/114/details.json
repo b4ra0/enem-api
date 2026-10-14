@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "No ciclo biogeoquímico do nitrogênio participam\nvários organismos vivos. Um dos efeitos desse\nciclo é aumentar a disponibilidade dos compostos\nnitrogenados no solo.\n\nAs minhocas participam desse ciclo quando",
+    "context": "No ciclo biogeoquímico do nitrogênio participam vários organismos vivos. Um dos efeitos desse ciclo é aumentar a disponibilidade dos compostos nitrogenados no solo.\n\nAs minhocas participam desse ciclo quando",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "oxidam o nitrito a nitrato. B",
+            "text": "oxidam o nitrito a nitrato.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "reduzem o nitrito a amônia. C",
+            "text": "reduzem o nitrito a amônia.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "oxidam a amônia liberada da matéria orgânica. D",
+            "text": "oxidam a amônia liberada da matéria orgânica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "transformam a matéria orgânica, liberando amônia. E",
+            "text": "transformam a matéria orgânica, liberando amônia.",
             "file": null,
             "isCorrect": true
         },

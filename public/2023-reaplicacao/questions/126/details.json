@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Lâmpadas incandescentes são constituídas de um\nfilamento de tungstênio dentro de um bulbo de vidro\ncom um gás a baixa pressão. Essas lâmpadas podem\napresentar diferentes potências quando submetidas à\nmesma tensão elétrica.\n\nUm estudante precisa selecionar uma lâmpada que\nforneça o maior brilho, para isso deverá selecionar\naquela que possui o filamento mais",
+    "context": "Lâmpadas incandescentes são constituídas de um filamento de tungstênio dentro de um bulbo de vidro com um gás a baixa pressão. Essas lâmpadas podem apresentar diferentes potências quando submetidas à mesma tensão elétrica.\n\nUm estudante precisa selecionar uma lâmpada que forneça o maior brilho, para isso deverá selecionar aquela que possui o filamento mais",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "curto, pois terá a menor resistência. B",
+            "text": "curto, pois terá a menor resistência.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "comprido, pois terá a maior resistência. C",
+            "text": "comprido, pois terá a maior resistência.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "curto, pois terá a menor resistividade. D",
+            "text": "curto, pois terá a menor resistividade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "curto, pois terá a menor corrente elétrica. E",
+            "text": "curto, pois terá a menor corrente elétrica.",
             "file": null,
             "isCorrect": false
         },

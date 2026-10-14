@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Em quantos dias de trabalho o novo quadro de funcionários\nconfeccionará a mesma quantidade de calças jeans?",
+    "context": "Em quantos dias de trabalho o novo quadro de funcionários confeccionará a mesma quantidade de calças jeans?",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "2,0 B",
+            "text": "2,0",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "3,0 C",
+            "text": "3,0",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "3,3 D",
+            "text": "3,3",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "8,3 E",
+            "text": "8,3",
             "file": null,
             "isCorrect": true
         },

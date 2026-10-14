@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "linguagens",
-    "context": "Claude Monet, influenciado por Turner, passou a\npintar temas que apresentassem fluidez. Para isso,\nele fragmentou a imagem com pinceladas de cor\npura, passando a retratar a impressão captada diante\ndo modelo. Monet inspirava-se, por exemplo, no pôr do\nsol, na luminosidade do feno ou num jardim florido.\nSuas obras contêm a característica de dissociação das\ncores e gradação dos tons complementares. As tintas não\neram misturadas na palheta, dessa forma, a luz emanada\ndas manchas e das pinceladas coloridas impressionava a\nretina, formando novas cores.\n\nDisponível em: http://professormarioartes.blogspot.com.\n\nAcesso em: 12 ago. 2012 (adaptado).\nDiante dessa nova concepção artística, a cor é",
+    "context": "Claude Monet, influenciado por Turner, passou a pintar temas que apresentassem fluidez. Para isso, ele fragmentou a imagem com pinceladas de cor pura, passando a retratar a impressão captada diante do modelo. Monet inspirava-se, por exemplo, no pôr do sol, na luminosidade do feno ou num jardim florido. Suas obras contêm a característica de dissociação das cores e gradação dos tons complementares. As tintas não eram misturadas na palheta, dessa forma, a luz emanada das manchas e das pinceladas coloridas impressionava a retina, formando novas cores.\n\nDisponível em: http://professormarioartes.blogspot.com.\n\nAcesso em: 12 ago. 2012 (adaptado).\nDiante dessa nova concepção artística, a cor é",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "composta por uma substância química que, sob a incidência de raios luminosos, absorve-os, refletindo para os nossos olhos os raios de tons vermelhos. B",
+            "text": "composta por uma substância química que, sob a incidência de raios luminosos, absorve-os, refletindo para os nossos olhos os raios de tons vermelhos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "formada pelo equilíbrio óptico causado pela impressão simultânea de cores como magenta, ciano e amarelo, consideradas cores primárias. C",
+            "text": "formada pelo equilíbrio óptico causado pela impressão simultânea de cores como magenta, ciano e amarelo, consideradas cores primárias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "imaterial e só se pode senti-la, passando a ser uma sensação provocada pela ação dos raios de luz sobre os nossos olhos. D",
+            "text": "imaterial e só se pode senti-la, passando a ser uma sensação provocada pela ação dos raios de luz sobre os nossos olhos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "resultante da mistura óptica de duas outras que estão presentes em sua composição de origem, causando um equilíbrio entre elas. E",
+            "text": "resultante da mistura óptica de duas outras que estão presentes em sua composição de origem, causando um equilíbrio entre elas.",
             "file": null,
             "isCorrect": false
         },

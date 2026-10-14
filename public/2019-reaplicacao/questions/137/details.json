@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma empresa de transporte disponibiliza, para embalagem de encomendas, caixas de papelão no formato de\nparalelepípedo retoretângulo, conforme dimensões no quadro.\n\nModelo da caixa\nComprimento (cm)\nLargura (cm)\nAltura (cm)\n1\n12\n12\n13\n2\n23\n20\n25\n3\n25\n25\n25\n4\n26\n25\n24\n5\n23\n26\n26\nPara embalar uma encomenda, contendo um objeto esférico com 11 cm de raio, essa empresa adota como\ncritério a utilização da caixa, dentre os modelos disponíveis, que comporte, quando fechada e sem deformá-la, a\nencomenda e que possua a menor área de superfície total.",
+    "context": "Uma empresa de transporte disponibiliza, para embalagem de encomendas, caixas de papelão no formato de paralelepípedo retoretângulo, conforme dimensões no quadro.\n\nModelo da caixa\nComprimento (cm)\nLargura (cm)\nAltura (cm)\n1\n12\n12\n13\n2\n23\n20\n25\n3\n25\n25\n25\n4\n26\n25\n24\n5\n23\n26\n26\nPara embalar uma encomenda, contendo um objeto esférico com 11 cm de raio, essa empresa adota como critério a utilização da caixa, dentre os modelos disponíveis, que comporte, quando fechada e sem deformá-la, a encomenda e que possua a menor área de superfície total.",
     "files": [],
     "correctAlternative": "E",
     "alternativesIntroduction": "Desconsidere a espessura da caixa. Nessas condições, qual dos modelos apresentados deverá ser o escolhido pela empresa?",

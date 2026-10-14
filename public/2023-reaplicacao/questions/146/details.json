@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma imobiliária pôs cinco apartamentos à venda em cinco prédios diferentes de uma cidade brasileira. O quadro\napresenta o preço e a área de cada um desses imóveis.\n\nApartamento\nÁrea (m2)\nPreço\n(milhares de reais)\n\nI\n80\n350\n\nII\n90\n450\n\nIII\n120\n480\n\nIV\n130\n580\n\nV\n135\n620\n\nUm investidor decidiu comprar o apartamento com o menor preço por metro quadrado dentre os cinco apresentados.",
+    "context": "Uma imobiliária pôs cinco apartamentos à venda em cinco prédios diferentes de uma cidade brasileira. O quadro apresenta o preço e a área de cada um desses imóveis.\n\nApartamento\nÁrea (m2)\nPreço\n(milhares de reais)\n\nI\n80\n350\n\nII\n90\n450\n\nIII\n120\n480\n\nIV\n130\n580\n\nV\n135\n620\n\nUm investidor decidiu comprar o apartamento com o menor preço por metro quadrado dentre os cinco apresentados.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Ele deverá comprar o apartamento A",
+    "alternativesIntroduction": "Ele deverá comprar o apartamento",
     "alternatives": [
         {
             "letter": "A",
-            "text": "I. B",
+            "text": "I.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "II. C",
+            "text": "II.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "III. D",
+            "text": "III.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "IV. E",
+            "text": "IV.",
             "file": null,
             "isCorrect": false
         },

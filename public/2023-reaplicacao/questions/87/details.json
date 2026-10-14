@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "As propostas dele não devem ser levadas a sério, pois\nfoi visto bêbado num restaurante.\n\nGALINDO, R. 20 falácias (e as eleições). Disponível em: www.gazetadopovo.com.br.\n\nAcesso em: 17 out. 2021 (adaptado).",
+    "context": "As propostas dele não devem ser levadas a sério, pois foi visto bêbado num restaurante.\n\nGALINDO, R. 20 falácias (e as eleições). Disponível em: www.gazetadopovo.com.br.\n\nAcesso em: 17 out. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A afirmação, eficaz como mecanismo de persuasão de eleitores em contextos políticos, constitui-se como uma falácia porque A",
+    "alternativesIntroduction": "A afirmação, eficaz como mecanismo de persuasão de eleitores em contextos políticos, constitui-se como uma falácia porque",
     "alternatives": [
         {
             "letter": "A",
-            "text": "recorre à circularidade e afirma as suas teses. B",
+            "text": "recorre à circularidade e afirma as suas teses.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "ataca a pessoa e desconsidera as suas ideias. C",
+            "text": "ataca a pessoa e desconsidera as suas ideias.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "aceita a conclusão e refuta as suas premissas. D",
+            "text": "aceita a conclusão e refuta as suas premissas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "evoca a maioria e apresenta os seus argumentos. E",
+            "text": "evoca a maioria e apresenta os seus argumentos.",
             "file": null,
             "isCorrect": false
         },

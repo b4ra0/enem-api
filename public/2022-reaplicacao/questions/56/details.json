@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "A história conheceu dois grandes títulos para\ngovernar os homens: um que se deve à filiação humana\nou divina, ou seja, a superioridade no nascimento; e outro\nque se deve à organização das atividades produtoras e\nreprodutoras da sociedade, ou seja, o poder da riqueza.\nAs sociedades são habitualmente governadas por uma\ncombinação desses dois títulos.",
+    "context": "A história conheceu dois grandes títulos para governar os homens: um que se deve à filiação humana ou divina, ou seja, a superioridade no nascimento; e outro que se deve à organização das atividades produtoras e reprodutoras da sociedade, ou seja, o poder da riqueza. As sociedades são habitualmente governadas por uma combinação desses dois títulos.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "RANCIÈRE, J. O ódio à democracia. São Paulo: Boitempo, 2014. O texto evoca duas explicações acerca da legitimidade do governo nas sociedades ocidentais. Na história recente das democracias, o fenômeno que resulta da combinação mencionada aponta a presença de A",
+    "alternativesIntroduction": "RANCIÈRE, J. O ódio à democracia. São Paulo: Boitempo, 2014. O texto evoca duas explicações acerca da legitimidade do governo nas sociedades ocidentais. Na história recente das democracias, o fenômeno que resulta da combinação mencionada aponta a presença de",
     "alternatives": [
         {
             "letter": "A",
-            "text": "burocracias dos órgãos estatais. B",
+            "text": "burocracias dos órgãos estatais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "corrupção nas práticas eleitorais. C",
+            "text": "corrupção nas práticas eleitorais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "oligarquias nas casas legislativas. D",
+            "text": "oligarquias nas casas legislativas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "degradação nas estruturas fiscais. E",
+            "text": "degradação nas estruturas fiscais.",
             "file": null,
             "isCorrect": false
         },

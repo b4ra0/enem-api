@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "As anfetaminas são drogas sintéticas utilizadas como\nmoderadores de apetite no tratamento de obesidade.\nEssas drogas atuam sobre receptores celulares\nestimulando a produção de adrenalina, um hormônio\ncatabólico responsável por várias funções fisiológicas\nno organismo. Entretanto, a produção exagerada desse\nhormônio pode gerar mudanças fisiológicas indesejáveis\ne até perigosas para a saúde.\nA alteração fisiológica observada pelo uso indevido\ndessas drogas é o(a)",
+    "context": "As anfetaminas são drogas sintéticas utilizadas como moderadores de apetite no tratamento de obesidade. Essas drogas atuam sobre receptores celulares estimulando a produção de adrenalina, um hormônio catabólico responsável por várias funções fisiológicas no organismo. Entretanto, a produção exagerada desse hormônio pode gerar mudanças fisiológicas indesejáveis e até perigosas para a saúde.\nA alteração fisiológica observada pelo uso indevido dessas drogas é o(a)",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "diminuição da pressão arterial. B",
+            "text": "diminuição da pressão arterial.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "diminuição da frequência cardíaca. C",
+            "text": "diminuição da frequência cardíaca.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "aumento da contração dos brônquios. D",
+            "text": "aumento da contração dos brônquios.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "aumento das secreções gastrointestinais. E",
+            "text": "aumento das secreções gastrointestinais.",
             "file": null,
             "isCorrect": false
         },

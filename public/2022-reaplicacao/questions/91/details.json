@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Três inseticidas mortais para as abelhas serão\nproibidos na União Europeia (UE) durante dois anos, a\npartir de julho, anunciou a Comissão Europeia em 2013.\nA medida foi adotada por causa da morte de milhares de\nabelhas, insetos vitais para o nosso ecossistema, uma vez\nque desempenham um importante papel na agricultura e,\nportanto, na produção de alimentos para a humanidade.\n\nDisponível em: http://noticias.r7.com. Acesso em: 24 maio 2013 (adaptado).\n\nO impacto dos inseticidas mencionados na produção de\nalimentos agrícolas é causado pelo(a)",
+    "context": "Três inseticidas mortais para as abelhas serão proibidos na União Europeia (UE) durante dois anos, a partir de julho, anunciou a Comissão Europeia em 2013. A medida foi adotada por causa da morte de milhares de abelhas, insetos vitais para o nosso ecossistema, uma vez que desempenham um importante papel na agricultura e, portanto, na produção de alimentos para a humanidade.\n\nDisponível em: http://noticias.r7.com. Acesso em: 24 maio 2013 (adaptado).\n\nO impacto dos inseticidas mencionados na produção de alimentos agrícolas é causado pelo(a)",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "redução da produção de mel. B",
+            "text": "redução da produção de mel.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "decréscimo da taxa de polinização. C",
+            "text": "decréscimo da taxa de polinização.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "contaminação do solo com abelhas mortas. D",
+            "text": "contaminação do solo com abelhas mortas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "aumento de resíduos tóxicos nos alimentos. E",
+            "text": "aumento de resíduos tóxicos nos alimentos.",
             "file": null,
             "isCorrect": false
         },

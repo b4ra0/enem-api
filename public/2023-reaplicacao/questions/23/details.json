@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "Plantas superpoderosas\n\nA bióloga Joanne Chory já tinha 60 anos e um\ndiagnóstico de Parkinson quando decidiu se dedicar a um\nprojeto que capturasse gás carbônico da atmosfera — coisa\nque as plantas fazem regularmente há 2,8 bilhões de anos.\nPara isso, a pesquisadora começou a estudar algumas\nespécies e alterá-las por meio de técnicas de horticultura\ne manipulação genética. A ideia é que capturem mais\ncarbono e o armazenem em suas raízes. Uma dessas\nplantas, um tipo de mostarda, já cresce no delta do rio\nMississipi. Caso funcione, a pesquisa tem potencial para\ndiminuir em 46% o excesso de CO2  jogado anualmente na\natmosfera. “Provavelmente não estarei aqui para ver os\nresultados. Mas prefiro ser parte da solução a me sentar\ne reclamar”, diz Joanne. Que as superplantas criadas pela\nbióloga vinguem e vicejem!\n\nCARNEIRO, F. Disponível em: https://veja.abril.com.br.\n\nAcesso em: 23 out. 2021 (adaptado).",
+    "context": "Plantas superpoderosas\n\nA bióloga Joanne Chory já tinha 60 anos e um diagnóstico de Parkinson quando decidiu se dedicar a um projeto que capturasse gás carbônico da atmosfera — coisa que as plantas fazem regularmente há 2,8 bilhões de anos. Para isso, a pesquisadora começou a estudar algumas espécies e alterá-las por meio de técnicas de horticultura e manipulação genética. A ideia é que capturem mais carbono e o armazenem em suas raízes. Uma dessas plantas, um tipo de mostarda, já cresce no delta do rio Mississipi. Caso funcione, a pesquisa tem potencial para diminuir em 46% o excesso de CO2  jogado anualmente na atmosfera. “Provavelmente não estarei aqui para ver os resultados. Mas prefiro ser parte da solução a me sentar e reclamar”, diz Joanne. Que as superplantas criadas pela bióloga vinguem e vicejem!\n\nCARNEIRO, F. Disponível em: https://veja.abril.com.br.\n\nAcesso em: 23 out. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Esse texto descreve a pesquisa inovadora realizada por uma bióloga de 60 anos com diagnóstico de Parkinson. O trecho que permite uma referência indireta a essa condição física é A",
+    "alternativesIntroduction": "Esse texto descreve a pesquisa inovadora realizada por uma bióloga de 60 anos com diagnóstico de Parkinson. O trecho que permite uma referência indireta a essa condição física é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "“decidiu se dedicar a um projeto que capturasse gás carbônico”. B",
+            "text": "“decidiu se dedicar a um projeto que capturasse gás carbônico”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "“a pesquisadora começou a estudar algumas espécies”. C",
+            "text": "“a pesquisadora começou a estudar algumas espécies”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "“Caso funcione, a pesquisa tem potencial para diminuir em 46% o excesso de CO2”. D",
+            "text": "“Caso funcione, a pesquisa tem potencial para diminuir em 46% o excesso de CO2”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "“‘Provavelmente não estarei aqui para ver os resultados’”. E",
+            "text": "“‘Provavelmente não estarei aqui para ver os resultados’”.",
             "file": null,
             "isCorrect": true
         },

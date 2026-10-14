@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Um fiscal de certa empresa de ônibus registra o\ntempo, em minuto, que um motorista novato gasta\npara completar certo percurso. No Quadro 1 figuram\nos tempos gastos pelo motorista ao realizar o mesmo\npercurso sete vezes. O Quadro 2 apresenta uma\nclassificação para a variabilidade do tempo, segundo o\nvalor do desvio padrão.\n\nQuadro 1\n\nTempos\n(em minuto)\n48\n54\n50\n46\n44\n52\n49\n\nQuadro 2\n\nVariabilidade\nDesvio padrão do\n\ntempo (min)\n\nExtremamente baixa\n0 < σ ≤ 2\n\nBaixa\n2 < σ ≤ 4\n\nModerada\n4 < σ ≤ 6\n\nAlta\n6 < σ ≤ 8\n\nExtremamente alta\nσ > 8",
+    "context": "Um fiscal de certa empresa de ônibus registra o tempo, em minuto, que um motorista novato gasta para completar certo percurso. No Quadro 1 figuram os tempos gastos pelo motorista ao realizar o mesmo percurso sete vezes. O Quadro 2 apresenta uma classificação para a variabilidade do tempo, segundo o valor do desvio padrão.\n\nQuadro 1\n\nTempos\n(em minuto)\n48\n54\n50\n46\n44\n52\n49\n\nQuadro 2\n\nVariabilidade\nDesvio padrão do\n\ntempo (min)\n\nExtremamente baixa\n0 < σ ≤ 2\n\nBaixa\n2 < σ ≤ 4\n\nModerada\n4 < σ ≤ 6\n\nAlta\n6 < σ ≤ 8\n\nExtremamente alta\nσ > 8",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": "Com base nas informações apresentadas nos quadros, a variabilidade do tempo é",

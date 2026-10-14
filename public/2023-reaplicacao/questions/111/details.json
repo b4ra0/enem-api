@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Lavar a seco significa lavar por meio de fluido ou\nsolvente não aquoso, isto é, trata-se de um processo que\nlimpa sem utilizar a água. Dessa forma, apesar de o nome\nser lavagem a seco, o processo deixa o que está sendo\nlavado molhado pelo solvente utilizado, o qual poderá ser\nfacilmente evaporado ao final do processo. Entre 1850\ne 1940, foram empregados na lavagem a seco alguns\nhidrocarbonetos e organoclorados líquidos, como os que\nestão representados a seguir, entre os quais apenas um\nse mostrou seguro por não ser inflamável, em função\nda sua menor quantidade de ligações C―H.\n\nHexano\n\nCanfeno\n\nBenzeno\n\nIso-octano\n\nCl\nCl\n\nCl\n\nTricloroetileno\n\nBORGES, L. D.; MACHADO, P. F. L. Lavagem a seco.",
+    "context": "Lavar a seco significa lavar por meio de fluido ou solvente não aquoso, isto é, trata-se de um processo que limpa sem utilizar a água. Dessa forma, apesar de o nome ser lavagem a seco, o processo deixa o que está sendo lavado molhado pelo solvente utilizado, o qual poderá ser facilmente evaporado ao final do processo. Entre 1850 e 1940, foram empregados na lavagem a seco alguns hidrocarbonetos e organoclorados líquidos, como os que estão representados a seguir, entre os quais apenas um se mostrou seguro por não ser inflamável, em função da sua menor quantidade de ligações C―H.\n\nHexano\n\nCanfeno\n\nBenzeno\n\nIso-octano\n\nCl\nCl\n\nCl\n\nTricloroetileno\n\nBORGES, L. D.; MACHADO, P. F. L. Lavagem a seco.",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Química Nova na Escola, n. 1, fev. 2013 (adaptado). Pela análise das estruturas químicas, o solvente que se mostrou seguro é o A",
+    "alternativesIntroduction": "Química Nova na Escola, n. 1, fev. 2013 (adaptado). Pela análise das estruturas químicas, o solvente que se mostrou seguro é o",
     "alternatives": [
         {
             "letter": "A",
-            "text": "hexano. B",
+            "text": "hexano.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "canfeno. C",
+            "text": "canfeno.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "benzeno. D",
+            "text": "benzeno.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "iso-octano. E",
+            "text": "iso-octano.",
             "file": null,
             "isCorrect": false
         },

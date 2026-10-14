@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Uma microempresa adquire um sistema fotovoltaico\nde captação de energia solar para reduzir o gasto mensal de\nenergia elétrica. O sistema é composto de 15 placas\ncom potência média útil de 150 W por placa, realizando\ncaptação de energia solar oito horas por dia. A energia\ncaptada é armazenada em um conjunto de baterias de 12 V.\nO sistema apresenta também um inversor, cuja função é\nconverter a tensão de 12 V contínua para 120 V alternada,\ne sua eficiência é de 80%. A microempresa trabalha doze\nhoras por dia, utilizando a energia captada pelo sistema solar.\n\nAs intensidades das correntes elétricas, em ampère, na\nentrada e saída do inversor são, respectivamente,",
+    "context": "Uma microempresa adquire um sistema fotovoltaico de captação de energia solar para reduzir o gasto mensal de energia elétrica. O sistema é composto de 15 placas com potência média útil de 150 W por placa, realizando captação de energia solar oito horas por dia. A energia captada é armazenada em um conjunto de baterias de 12 V. O sistema apresenta também um inversor, cuja função é converter a tensão de 12 V contínua para 120 V alternada, e sua eficiência é de 80%. A microempresa trabalha doze horas por dia, utilizando a energia captada pelo sistema solar.\n\nAs intensidades das correntes elétricas, em ampère, na entrada e saída do inversor são, respectivamente,",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "100 e 8. B",
+            "text": "100 e 8.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "100 e 10. C",
+            "text": "100 e 10.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "125 e 10. D",
+            "text": "125 e 10.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "125 e 12,5. E",
+            "text": "125 e 12,5.",
             "file": null,
             "isCorrect": false
         },

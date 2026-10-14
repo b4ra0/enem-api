@@ -4,7 +4,7 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "Em um jogo digital, há três personagens: um herói e dois\nvilões. A programação é feita de tal forma que o herói sempre\nserá atacado pelo vilão que estiver mais próximo dele. Uma das\nmaneiras de “confundir” os vilões é movimentar o herói por\ntrajetórias que o mantenha equidistante dos vilões, gerando\nindefinição entre eles e, com isso, não sendo atacado.\n\nPara a programação de uma das etapas desse jogo,\no programador considerou, no plano cartesiano, o quadrado\nSTUV como a região de movimentação dos personagens, onde\nV e T representam as posições fixas dos vilões, e S, a posição\ninicial do herói, como apresentado na figura.\n\n![](https://enem.dev/2025/questions/153/e1d9568b-7d72-48d0-9cab-01ffcecc3c4f.png)",
+    "context": "Em um jogo digital, há três personagens: um herói e dois vilões. A programação é feita de tal forma que o herói sempre será atacado pelo vilão que estiver mais próximo dele. Uma das maneiras de “confundir” os vilões é movimentar o herói por trajetórias que o mantenha equidistante dos vilões, gerando indefinição entre eles e, com isso, não sendo atacado.\n\nPara a programação de uma das etapas desse jogo, o programador considerou, no plano cartesiano, o quadrado STUV como a região de movimentação dos personagens, onde V e T representam as posições fixas dos vilões, e S, a posição inicial do herói, como apresentado na figura.\n\n![](https://enem.dev/2025/questions/153/e1d9568b-7d72-48d0-9cab-01ffcecc3c4f.png)",
     "files": [
         "https://enem.dev/2025/questions/153/e1d9568b-7d72-48d0-9cab-01ffcecc3c4f.png"
     ],

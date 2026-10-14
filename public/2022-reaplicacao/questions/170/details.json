@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Num restaurante, a última sexta-feira do mês é o\nDia da Solidariedade: as gorjetas arrecadadas nesse dia\nserão distribuídas, igualmente, entre todos os garçons\nque estiverem trabalhando nessa data. Para um maior\ncontrole, o administrador do restaurante organiza uma\ntabela das gorjetas arrecadadas por cada garçom;\nassim, ele pode distribuir corretamente os valores a cada\num deles. O quadro de certo Dia da Solidariedade é\napresentado a seguir.",
+    "context": "Num restaurante, a última sexta-feira do mês é o Dia da Solidariedade: as gorjetas arrecadadas nesse dia serão distribuídas, igualmente, entre todos os garçons que estiverem trabalhando nessa data. Para um maior controle, o administrador do restaurante organiza uma tabela das gorjetas arrecadadas por cada garçom; assim, ele pode distribuir corretamente os valores a cada um deles. O quadro de certo Dia da Solidariedade é apresentado a seguir.",
     "files": [],
     "correctAlternative": "E",
     "alternativesIntroduction": "Garçom Total de gorjetas recebidas (R$)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "R$ 16,00 B",
+            "text": "R$ 16,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "R$ 17,00 C",
+            "text": "R$ 17,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "R$ 18,00 D",
+            "text": "R$ 18,00",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "R$ 19,00 E",
+            "text": "R$ 19,00",
             "file": null,
             "isCorrect": false
         },

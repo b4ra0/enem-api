@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "No\ndesenvolvimento\nde\num\nnovo\nremédio,\npesquisadores monitoram a quantidade Q de uma\nsubstância circulando na corrente sanguínea de um\npaciente, ao longo do tempo t. Esses pesquisadores\ncontrolam o processo, observando que Q é uma função\nquadrática de t. Os dados coletados nas duas primeiras\nhoras foram:\n\nt (hora)\n0\n1\n2\n\nQ (miligrama)\n1\n4\n6\n\nPara decidir se devem interromper o processo,\nevitando riscos ao paciente, os pesquisadores querem\nsaber, antecipadamente, a quantidade da substância\nque estará circulando na corrente sanguínea desse\npaciente após uma hora do último dado coletado.",
+    "context": "No\ndesenvolvimento\nde\num\nnovo\nremédio,\npesquisadores monitoram a quantidade Q de uma substância circulando na corrente sanguínea de um paciente, ao longo do tempo t. Esses pesquisadores controlam o processo, observando que Q é uma função quadrática de t. Os dados coletados nas duas primeiras horas foram:\n\nt (hora)\n0\n1\n2\n\nQ (miligrama)\n1\n4\n6\n\nPara decidir se devem interromper o processo, evitando riscos ao paciente, os pesquisadores querem saber, antecipadamente, a quantidade da substância que estará circulando na corrente sanguínea desse paciente após uma hora do último dado coletado.",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": "Nas condições expostas, essa quantidade (em miligrama) será igual a",

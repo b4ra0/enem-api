@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "A partir de um exame clínico, ficou constatado que\numa pessoa encontrava-se com uma grave deficiência\nde vitaminas X e Y. Ela foi orientada a fazer 100% de\nreposição diária de cada vitamina. Devido à sua condição\nsocioeconômica, ela só dispõe dos alimentos Z e W para\nsuprir essa deficiência. Os alimentos Z e W custam,\nrespectivamente, R$ 3,00 e R$ 8,00 por quilo. Segue um\nquadro com a porcentagem que cada 100 g desses dois\nalimentos fornece de cada vitamina.\n\nVitamina\nAlimento Z\n(% por 100 g)\n\nAlimento W\n(% por 100 g)\n\nX\n25\n8\n\nY\n0\n16",
+    "context": "A partir de um exame clínico, ficou constatado que uma pessoa encontrava-se com uma grave deficiência de vitaminas X e Y. Ela foi orientada a fazer 100% de reposição diária de cada vitamina. Devido à sua condição socioeconômica, ela só dispõe dos alimentos Z e W para suprir essa deficiência. Os alimentos Z e W custam, respectivamente, R$ 3,00 e R$ 8,00 por quilo. Segue um quadro com a porcentagem que cada 100 g desses dois alimentos fornece de cada vitamina.\n\nVitamina\nAlimento Z\n(% por 100 g)\n\nAlimento W\n(% por 100 g)\n\nX\n25\n8\n\nY\n0\n16",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": "O valor mínimo diário, em real, que a pessoa gastará para suprir suas necessidades de vitaminas X e Y, consumindo os alimentos Z e W, é",

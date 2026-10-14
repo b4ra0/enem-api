@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma piscina tem capacidade de 2 500 000 litros.\nSeu sistema de abastecimento foi regulado para ter\numa vazão constante de 6 000 litros de água por minuto.\n\nO mesmo sistema foi instalado em uma segunda\npiscina, com capacidade de 2 750 000 litros, e regulado\npara ter uma vazão, também constante, capaz de enchê-la\nem um tempo 20% maior que o gasto para encher\na primeira piscina.",
+    "context": "Uma piscina tem capacidade de 2 500 000 litros.\nSeu sistema de abastecimento foi regulado para ter uma vazão constante de 6 000 litros de água por minuto.\n\nO mesmo sistema foi instalado em uma segunda\npiscina, com capacidade de 2 750 000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20% maior que o gasto para encher\na primeira piscina.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "A vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",

@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O etanol de segunda geração envolve o reaproveitamento dos resíduos do bagaço da cana e sua produção ocorre\nem um sistema fechado contínuo, que evita a evaporação. A figura ilustra esse processo.\n\nBagaço de\ncana-de-açúcar\n\nHidrólise\nenzimática\n\nn\n\nCORONA CARVALHO, J. A. et al. Bagaço de cana-de-açúcar como fonte de glicose: pré-tratamento. Revista Virtual de Química, n. 9, nov. 2016 (adaptado).",
+    "context": "O etanol de segunda geração envolve o reaproveitamento dos resíduos do bagaço da cana e sua produção ocorre em um sistema fechado contínuo, que evita a evaporação. A figura ilustra esse processo.\n\nBagaço de\ncana-de-açúcar\n\nHidrólise\nenzimática\n\nn\n\nCORONA CARVALHO, J. A. et al. Bagaço de cana-de-açúcar como fonte de glicose: pré-tratamento. Revista Virtual de Química, n. 9, nov. 2016 (adaptado).",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Para evitar o rompimento da dorna por pressão, qual substância, além do combustível, deverá ser continuamente removida do sistema? A",
+    "alternativesIntroduction": "Para evitar o rompimento da dorna por pressão, qual substância, além do combustível, deverá ser continuamente removida do sistema?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Etanol. B",
+            "text": "Etanol.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Glicose. C",
+            "text": "Glicose.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Ácido lático. D",
+            "text": "Ácido lático.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Ácido pirúvico. E",
+            "text": "Ácido pirúvico.",
             "file": null,
             "isCorrect": false
         },

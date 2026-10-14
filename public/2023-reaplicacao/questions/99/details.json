@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O processo de radiação de alimentos consiste em\nsubmeter os alimentos, já embalados ou a granel, a uma\nquantidade controlada de radiação ionizante, por um\ndeterminado período de tempo. Esse procedimento não\naumenta o nível de radioatividade normal dos alimentos.\nA aplicação de uma dose de radiação normalmente resulta\nna morte de insetos, bactérias patogênicas, fungos e\nleveduras, aumentando assim o tempo de conservação\ndos alimentos, e pode retardar a maturação de algumas\nfrutas e legumes, sendo possível assim aumentar seu\nperíodo de armazenamento.",
+    "context": "O processo de radiação de alimentos consiste em submeter os alimentos, já embalados ou a granel, a uma quantidade controlada de radiação ionizante, por um determinado período de tempo. Esse procedimento não aumenta o nível de radioatividade normal dos alimentos. A aplicação de uma dose de radiação normalmente resulta na morte de insetos, bactérias patogênicas, fungos e leveduras, aumentando assim o tempo de conservação dos alimentos, e pode retardar a maturação de algumas frutas e legumes, sendo possível assim aumentar seu período de armazenamento.",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Em relação ao processo de conservação de alimentos descrito no texto, infere-se que A",
+    "alternativesIntroduction": "Em relação ao processo de conservação de alimentos descrito no texto, infere-se que",
     "alternatives": [
         {
             "letter": "A",
-            "text": "as frutas e os legumes submetidos a uma dose de radiação apodrecem mais rapidamente que as demais. B",
+            "text": "as frutas e os legumes submetidos a uma dose de radiação apodrecem mais rapidamente que as demais.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "o processo de radiação de alimentos torna-os altamente radioativos e impróprios para o consumo humano. C",
+            "text": "o processo de radiação de alimentos torna-os altamente radioativos e impróprios para o consumo humano.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "apenas os alimentos já embalados em recipientes adequados podem ser submetidos a uma dose de radiação ionizante. D",
+            "text": "apenas os alimentos já embalados em recipientes adequados podem ser submetidos a uma dose de radiação ionizante.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "alimentos tratados com radiação ficam mais sensíveis ao ataque de insetos, bactérias patogênicas, fungos e leveduras. E",
+            "text": "alimentos tratados com radiação ficam mais sensíveis ao ataque de insetos, bactérias patogênicas, fungos e leveduras.",
             "file": null,
             "isCorrect": false
         },

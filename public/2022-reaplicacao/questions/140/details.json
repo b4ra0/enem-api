@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "A associação de comerciantes varejistas de uma\ncidade, a fim de incrementar as vendas para o Natal,\ndecidiu promover um fim de semana de descontos e\npromoções, no qual produtos e serviços estariam  com\nvalores reduzidos. Antes do período promocional, um\ncelular custava R$ 300,00 e teve seu preço reajustado,\npassando a custar R$ 315,00. Durante o fim de semana\nde descontos e promoções, o preço desse celular recebeu\num desconto de 20%.\nO desconto dado no preço do celular, em porcentagem,\ncom base no valor dele anteriormente ao aumento sofrido\nantes da promoção, foi de",
+    "context": "A associação de comerciantes varejistas de uma cidade, a fim de incrementar as vendas para o Natal, decidiu promover um fim de semana de descontos e promoções, no qual produtos e serviços estariam  com valores reduzidos. Antes do período promocional, um celular custava R$ 300,00 e teve seu preço reajustado, passando a custar R$ 315,00. Durante o fim de semana de descontos e promoções, o preço desse celular recebeu um desconto de 20%.\nO desconto dado no preço do celular, em porcentagem, com base no valor dele anteriormente ao aumento sofrido antes da promoção, foi de",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "15,24% B",
+            "text": "15,24%",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "16,00% C",
+            "text": "16,00%",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "19,04% D",
+            "text": "19,04%",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "21,00% E",
+            "text": "21,00%",
             "file": null,
             "isCorrect": false
         },

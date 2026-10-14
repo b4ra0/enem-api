@@ -7,29 +7,29 @@
     "context": "Leão do Norte\n\nSou o coração do folclore nordestino\nEu sou Mateus e Bastião do boi-bumbá\nSou o boneco do Mestre Vitalino\nDançando uma ciranda em Itamaracá\nEu sou um verso de Carlos Pena Filho\nNum frevo de Capiba\nAo som da Orquestra Armorial\nSou Capibaribe\nNum livro de João Cabral\nSou mamulengo de São Bento do Una\nVindo no baque solto de maracatu\nEu sou um auto de Ariano Suassuna\n\nNo meio da Feira de Caruaru\nSou Frei Caneca do Pastoril do Faceta\nLevando a Flor da Lira\nPra Nova Jerusalém\nSou Luiz Gonzaga\nE eu sou mangue também\n\nEu sou mameluco, sou de Casa Forte\nSou de Pernambuco, sou o Leão do Norte\n\nLENINE; PINHEIRO, P. C. Leão do Norte. In: LENINE.\n\nOlho de peixe. São Paulo, 1993 (fragmento).",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A letra da canção expressa a diversidade de danças, sendo uma delas demonstrada no trecho: A",
+    "alternativesIntroduction": "A letra da canção expressa a diversidade de danças, sendo uma delas demonstrada no trecho:",
     "alternatives": [
         {
             "letter": "A",
-            "text": "“Eu sou mameluco, sou de Casa Forte”. B",
+            "text": "“Eu sou mameluco, sou de Casa Forte”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "“Sou de Pernambuco, sou o Leão do Norte”. C",
+            "text": "“Sou de Pernambuco, sou o Leão do Norte”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "“Sou Luiz Gonzaga / E eu sou mangue também”. D",
+            "text": "“Sou Luiz Gonzaga / E eu sou mangue também”.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "“Eu sou um auto de Ariano Suassuna / No meio da Feira de Caruaru”. E",
+            "text": "“Eu sou um auto de Ariano Suassuna / No meio da Feira de Caruaru”.",
             "file": null,
             "isCorrect": false
         },

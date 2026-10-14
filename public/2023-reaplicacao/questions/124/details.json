@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Hoje em dia, não é raro encontrar sacolas plásticas preenchidas com apenas um ou dois produtos. E não só no\nsupermercado: da padaria à farmácia, o consumidor está sempre diante de uma sacola, mesmo que ela não seja tão\nnecessária assim. A cada mês, cerca de 1,5 bilhão de sacolas são consumidas no Brasil. Isso significa 50 milhões\npor dia e 18 bilhões ao ano. Não é à toa, portanto, que o uso indiscriminado de sacolas virou um dos alvos preferidos\ndos ambientalistas.\n\nOs ambientalistas consideram o uso excessivo de sacolas plásticas um risco ambiental, pois",
+    "context": "Hoje em dia, não é raro encontrar sacolas plásticas preenchidas com apenas um ou dois produtos. E não só no supermercado: da padaria à farmácia, o consumidor está sempre diante de uma sacola, mesmo que ela não seja tão necessária assim. A cada mês, cerca de 1,5 bilhão de sacolas são consumidas no Brasil. Isso significa 50 milhões por dia e 18 bilhões ao ano. Não é à toa, portanto, que o uso indiscriminado de sacolas virou um dos alvos preferidos dos ambientalistas.\n\nOs ambientalistas consideram o uso excessivo de sacolas plásticas um risco ambiental, pois",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "o uso de materiais descartáveis incrementa o consumo. B",
+            "text": "o uso de materiais descartáveis incrementa o consumo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "o plástico é derivado do petróleo, recurso natural escasso. C",
+            "text": "o plástico é derivado do petróleo, recurso natural escasso.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "as sacolas se transformam em lixo de difícil decomposição. D",
+            "text": "as sacolas se transformam em lixo de difícil decomposição.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "o risco de contaminação do solo e subsolo por gases tóxicos aumenta. E",
+            "text": "o risco de contaminação do solo e subsolo por gases tóxicos aumenta.",
             "file": null,
             "isCorrect": false
         },

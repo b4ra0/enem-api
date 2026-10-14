@@ -4,7 +4,7 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "Um empresário utiliza máquinas cuja pressão interna P,\nem atmosfera, depende do tempo contínuo de utilização t, em\nhora, e de um parâmetro positivo K, que define o modelo da\nmáquina, segundo a expressão:\n\nP = 4 ⋅ log[−K ⋅ (t + 1) ⋅ (t − 19)]\n\nO fabricante dessas máquinas recomenda ao usuário\nque a pressão interna desse tipo de máquina não ultrapasse\n10 atmosferas durante seu funcionamento.\nO empresário pretende comprar novas máquinas desse\ntipo que deverão funcionar, diariamente, por um período\ncontínuo de 10 horas. Para isso, precisa definir o modelo de\nmáquina a ser adquirida escolhendo o maior valor possível\ndo parâmetro K, atendendo à recomendação do fabricante.",
+    "context": "Um empresário utiliza máquinas cuja pressão interna P, em atmosfera, depende do tempo contínuo de utilização t, em hora, e de um parâmetro positivo K, que define o modelo da máquina, segundo a expressão:\n\nP = 4 ⋅ log[−K ⋅ (t + 1) ⋅ (t − 19)]\n\nO fabricante dessas máquinas recomenda ao usuário\nque a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento.\nO empresário pretende comprar novas máquinas desse\ntipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro K, atendendo à recomendação do fabricante.",
     "files": [],
     "correctAlternative": "A",
     "alternativesIntroduction": "O maior valor a ser escolhido para K é",

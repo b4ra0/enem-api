@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Um menino está ajudando sua mãe na cozinha. Ela\nlhe pede que tire do fogo uma panela que já estava lá há\nbastante tempo, em fogo baixo, orientando-lhe que tome\ncuidado para não se queimar, buscando tocar apenas no\ncabo de madeira, e não na base de metal da panela.\nA mãe lhe fez essa recomendação porque o metal, em\nrelação à madeira, apresenta maior",
+    "context": "Um menino está ajudando sua mãe na cozinha. Ela lhe pede que tire do fogo uma panela que já estava lá há bastante tempo, em fogo baixo, orientando-lhe que tome cuidado para não se queimar, buscando tocar apenas no cabo de madeira, e não na base de metal da panela. A mãe lhe fez essa recomendação porque o metal, em relação à madeira, apresenta maior",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "calor específico. B",
+            "text": "calor específico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "energia interna. C",
+            "text": "energia interna.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "temperatura. D",
+            "text": "temperatura.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "condutividade térmica. E",
+            "text": "condutividade térmica.",
             "file": null,
             "isCorrect": true
         },

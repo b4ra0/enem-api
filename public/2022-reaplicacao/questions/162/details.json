@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "Com o intuito de fazer bombons para vender, uma\ndoceira comprou uma barra de 2 kg de chocolate e 1 L de\ncreme de leite. De acordo com a receita, cada bombom\ndeverá ter exatamente 34 g de chocolate e 12 mL de\ncreme de leite.\nRespeitando\nos\ncritérios\nestabelecidos,\nquantos\nbombons a doceira poderá fazer utilizando o máximo\nque puder os ingredientes comprados?",
+    "context": "Com o intuito de fazer bombons para vender, uma doceira comprou uma barra de 2 kg de chocolate e 1 L de creme de leite. De acordo com a receita, cada bombom deverá ter exatamente 34 g de chocolate e 12 mL de creme de leite.\nRespeitando\nos\ncritérios\nestabelecidos,\nquantos\nbombons a doceira poderá fazer utilizando o máximo que puder os ingredientes comprados?",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "5 B",
+            "text": "5",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "8 C",
+            "text": "8",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "58 D",
+            "text": "58",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "71 E",
+            "text": "71",
             "file": null,
             "isCorrect": false
         },

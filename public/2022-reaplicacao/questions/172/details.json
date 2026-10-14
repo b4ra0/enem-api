@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUm engenheiro fará um projeto de uma casa cujo\nterreno tem o formato de um retângulo de 36 m de\ncomprimento por 9 m de largura. Para isso, ele fará um\ndesenho de um retângulo de 24 cm de comprimento por\n6 cm de largura.\nQual deve ser a escala utilizada pelo engenheiro?",
+    "context": "Um engenheiro fará um projeto de uma casa cujo terreno tem o formato de um retângulo de 36 m de comprimento por 9 m de largura. Para isso, ele fará um desenho de um retângulo de 24 cm de comprimento por 6 cm de largura.\nQual deve ser a escala utilizada pelo engenheiro?",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "150 : 1 B",
+            "text": "150 : 1",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "225 : 1 C",
+            "text": "225 : 1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "600 : 1 D",
+            "text": "600 : 1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "2,25 : 1 E",
+            "text": "2,25 : 1",
             "file": null,
             "isCorrect": false
         },

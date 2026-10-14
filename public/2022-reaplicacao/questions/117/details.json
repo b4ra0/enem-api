@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nDiferentemente da respiração aeróbica, alguns\nmicrorganismos realizam processos catabólicos que\nlevam à obtenção de moléculas orgânicas de interesse\ncomercial, conforme ilustrado. O conhecimento dessas\nvias metabólicas é importante, por exemplo, para a\nfabricação de produtos alimentícios.\n\nFermentação alcoólica\n\nFermentação lática\n\n(Lactobacilos)\n\n(Levedura)\n\nC H O\n6\n12\n6\n(Glicose)\n\nC H O\n6\n12\n6\n(Glicose)\n\n2 C H O\n3\n4\n3\n(Ácido pirúvico)\n\n2 C H O\n3\n4\n3\n(Ácido pirúvico)\n\n2 CO2\n2 NADH\n\n2 NAD+\n\n2 NAD+\n\n2 C H OH\n2\n5\n(Álcool etílico)\n\n2 C H O\n3\n5\n3\n(Ácido lático)\n\nExemplo:Iogurte\n\nExemplo:Vinho\n\nEsses processos de fermentação têm em comum a",
+    "context": "Diferentemente da respiração aeróbica, alguns microrganismos realizam processos catabólicos que levam à obtenção de moléculas orgânicas de interesse comercial, conforme ilustrado. O conhecimento dessas vias metabólicas é importante, por exemplo, para a fabricação de produtos alimentícios.\n\nFermentação alcoólica\n\nFermentação lática\n\n(Lactobacilos)\n\n(Levedura)\n\nC H O\n6\n12\n6\n(Glicose)\n\nC H O\n6\n12\n6\n(Glicose)\n\n2 C H O\n3\n4\n3\n(Ácido pirúvico)\n\n2 C H O\n3\n4\n3\n(Ácido pirúvico)\n\n2 CO2\n2 NADH\n\n2 NAD+\n\n2 NAD+\n\n2 C H OH\n2\n5\n(Álcool etílico)\n\n2 C H O\n3\n5\n3\n(Ácido lático)\n\nExemplo:Iogurte\n\nExemplo:Vinho\n\nEsses processos de fermentação têm em comum a",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "liberação de gases. B",
+            "text": "liberação de gases.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "descarboxilação do ácido. C",
+            "text": "descarboxilação do ácido.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "participação de procariontes. D",
+            "text": "participação de procariontes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "oxidação completa do substrato. E",
+            "text": "oxidação completa do substrato.",
             "file": null,
             "isCorrect": false
         },

@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Um dos materiais mais antigos e ainda utilizados na\nrestauração dos dentes são as amálgamas, um produto\nda combinação de mercúrio (Hg) com prata (Ag) e estanho\n(Sn), como apresenta a equação química:\n\n24 Ag (s) + 8 Sn (s) + 37 Hg (l) → 12 Ag2Hg3 (s) + Sn8Hg (s)\n\nOs materiais formados pelos elementos citados são\ncaracterizados como",
+    "context": "Um dos materiais mais antigos e ainda utilizados na restauração dos dentes são as amálgamas, um produto da combinação de mercúrio (Hg) com prata (Ag) e estanho (Sn), como apresenta a equação química:\n\n24 Ag (s) + 8 Sn (s) + 37 Hg (l) → 12 Ag2Hg3 (s) + Sn8Hg (s)\n\nOs materiais formados pelos elementos citados são caracterizados como",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "precipitados. B",
+            "text": "precipitados.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "ligas metálicas. C",
+            "text": "ligas metálicas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "compostos iônicos. D",
+            "text": "compostos iônicos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "produtos de oxidação. E",
+            "text": "produtos de oxidação.",
             "file": null,
             "isCorrect": false
         },

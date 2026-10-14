@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "A primeira relação entre câncer e produtos de\ncombustão data de 1775, realizada na Inglaterra, na qual\nfoi descrita a elevada incidência de câncer em jovens\nlimpadores de chaminés, os quais tinham contato diário\ncom fumaça e alcatrão. O benzopireno (I) foi o primeiro\ncomposto carcinogênico isolado do alcatrão. Esse\nhidrocarboneto aromático policíclico é convertido, por\nmeio de uma biotransformação, no composto (II), que é o\nreal causador do câncer.\n\nO\nH\n\nI\nII\n\nBARBOSA, L. C. A. Introdução à química orgânica.\n\nSão Paulo: Pearson, 2010 (adaptado).\n\nA biotransformação do composto (I) em (II) corresponde\na uma reação de",
+    "context": "A primeira relação entre câncer e produtos de combustão data de 1775, realizada na Inglaterra, na qual foi descrita a elevada incidência de câncer em jovens limpadores de chaminés, os quais tinham contato diário com fumaça e alcatrão. O benzopireno (I) foi o primeiro composto carcinogênico isolado do alcatrão. Esse hidrocarboneto aromático policíclico é convertido, por meio de uma biotransformação, no composto (II), que é o real causador do câncer.\n\nO\nH\n\nI\nII\n\nBARBOSA, L. C. A. Introdução à química orgânica.\n\nSão Paulo: Pearson, 2010 (adaptado).\n\nA biotransformação do composto (I) em (II) corresponde a uma reação de",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "adição. B",
+            "text": "adição.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "oxidação. C",
+            "text": "oxidação.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "eliminação. D",
+            "text": "eliminação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "substituição. E",
+            "text": "substituição.",
             "file": null,
             "isCorrect": false
         },

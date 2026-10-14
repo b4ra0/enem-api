@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "Num dia de promoção, um supermercado propõe dar\ndesconto em um produto e, mantendo fixo o preço da\nunidade, apresenta ao consumidor as seguintes propostas:\n\n•\t opção 1: pague 8 e leve 9 unidades;\n•\t opção 2: leve 8 e pague 7 unidades.\n\nUm consumidor quer escolher a opção que lhe\noferecerá o maior desconto percentual.",
+    "context": "Num dia de promoção, um supermercado propõe dar\ndesconto em um produto e, mantendo fixo o preço da unidade, apresenta ao consumidor as seguintes propostas:\n\n•\t opção 1: pague 8 e leve 9 unidades;\n•\t opção 2: leve 8 e pague 7 unidades.\n\nUm consumidor quer escolher a opção que lhe\noferecerá o maior desconto percentual.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "A opção que oferece o maior desconto, e o percentual desse desconto é",

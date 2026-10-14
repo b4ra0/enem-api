@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "Basquiat representa uma das classes da sociedade\namericana às quais as barreiras sociais impedem,\ngeralmente, o acesso à arte. Os seus quadros, objetos\npictóricos e desenhos apresentam-se cheios de sinais,\ntranscrições de textos e elementos figurativos, encadeados\nem ritmos pictóricos de uma precisão empolgante — um\nmisto de pintura gráfica, símbolos populares americanos,\ngírias de rua e alusões a obras de arte famosas.\n\nHONNEF, K. Arte contemporânea. São Paulo: 1994 (adaptado).",
+    "context": "Basquiat representa uma das classes da sociedade americana às quais as barreiras sociais impedem, geralmente, o acesso à arte. Os seus quadros, objetos pictóricos e desenhos apresentam-se cheios de sinais, transcrições de textos e elementos figurativos, encadeados em ritmos pictóricos de uma precisão empolgante — um misto de pintura gráfica, símbolos populares americanos, gírias de rua e alusões a obras de arte famosas.\n\nHONNEF, K. Arte contemporânea. São Paulo: 1994 (adaptado).",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "As características pictóricas das obras de Basquiat apresentadas no texto aproximam-se das que encontramos no Brasil no A",
+    "alternativesIntroduction": "As características pictóricas das obras de Basquiat apresentadas no texto aproximam-se das que encontramos no Brasil no",
     "alternatives": [
         {
             "letter": "A",
-            "text": "conjunto de azulejos da arte barroca. B",
+            "text": "conjunto de azulejos da arte barroca.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "óleo sobre tela A Batalha do Riachuelo, do artista Victor Meirelles. C",
+            "text": "óleo sobre tela A Batalha do Riachuelo, do artista Victor Meirelles.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "painel de pastilhas do mural de rua Imprensa, do artista modernista Di Cavalcanti, localizado na cidade de São Paulo. D",
+            "text": "painel de pastilhas do mural de rua Imprensa, do artista modernista Di Cavalcanti, localizado na cidade de São Paulo.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "óleo sobre tela intitulado Abaporu, da artista modernista Tarsila do Amaral, em São Paulo. E",
+            "text": "óleo sobre tela intitulado Abaporu, da artista modernista Tarsila do Amaral, em São Paulo.",
             "file": null,
             "isCorrect": false
         },

@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O palmito juçara (Euterpe edulis) é uma planta que ocorre em áreas florestadas e produz frutos com tamanhos\nvariados. Entretanto, pesquisadores perceberam que, em áreas nas quais as aves de maior porte foram extintas, as\nnovas plantas produzem apenas frutos pequenos.\n\nANDRADE, R. O. Escassez de aves pode afetar evolução de plantas. Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 8 jul. 2013 (adaptado).\n\nEssa mudança apresentada pelas plantas é uma adaptação vantajosa porque os frutos",
+    "context": "O palmito juçara (Euterpe edulis) é uma planta que ocorre em áreas florestadas e produz frutos com tamanhos variados. Entretanto, pesquisadores perceberam que, em áreas nas quais as aves de maior porte foram extintas, as novas plantas produzem apenas frutos pequenos.\n\nANDRADE, R. O. Escassez de aves pode afetar evolução de plantas. Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 8 jul. 2013 (adaptado).\n\nEssa mudança apresentada pelas plantas é uma adaptação vantajosa porque os frutos",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "atraem aves de pequeno porte, garantindo a ingestão dos frutos. B",
+            "text": "atraem aves de pequeno porte, garantindo a ingestão dos frutos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "são transportados pelo vento, aumentando a dispersão de sementes. C",
+            "text": "são transportados pelo vento, aumentando a dispersão de sementes.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "facilitam a desidratação das sementes, prolongando sua durabilidade no solo. D",
+            "text": "facilitam a desidratação das sementes, prolongando sua durabilidade no solo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "aceleram a germinação das sementes, favorecendo a colonização de outras áreas. E",
+            "text": "aceleram a germinação das sementes, favorecendo a colonização de outras áreas.",
             "file": null,
             "isCorrect": false
         },

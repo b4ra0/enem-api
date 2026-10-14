@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Acresce que o negócio açucareiro, além de exigir\ncapitais enormes, que excediam às possibilidades da\ngente comum, só admitia uns poucos trabalhadores\nespecializados entre a classe de senhores e a massa\nescrava. A própria rigidez da disciplina de trabalho no\nengenho devia torná-lo insuportável para o trabalhador\nlivre e, mais ainda, para gente afeita à vida aventurosa e\nvadia dos vilarejos.\nTEXTO II\n\nAs atividades pastoris, nas condições climáticas dos\nsertões cobertos de pastos pobres e com extensas áreas\nsujeitas a secas periódicas, conformaram não só a vida\nmas a própria figura do homem e do gado. Um e outro\ndiminuíram de estatura, tornaram-se ossudos e secos\nde carnes. Assim associados, multiplicando-se juntos, o\ngado e os homens foram penetrando terra adentro, até\nocupar, ao fim de três séculos, quase todo o sertão.\n\nRIBEIRO, D. O povo brasileiro: a formação e o sentido do Brasil.\n\nSão Paulo: Cia. das Letras, 1995.\n\nO antropólogo Darcy Ribeiro, em sua análise sobre\na formação do povo brasileiro, enfatiza o papel\ncondicionante exercido pela dicotomia entre",
+    "context": "Acresce que o negócio açucareiro, além de exigir capitais enormes, que excediam às possibilidades da gente comum, só admitia uns poucos trabalhadores especializados entre a classe de senhores e a massa escrava. A própria rigidez da disciplina de trabalho no engenho devia torná-lo insuportável para o trabalhador livre e, mais ainda, para gente afeita à vida aventurosa e vadia dos vilarejos.\nTEXTO II\n\nAs atividades pastoris, nas condições climáticas dos sertões cobertos de pastos pobres e com extensas áreas sujeitas a secas periódicas, conformaram não só a vida mas a própria figura do homem e do gado. Um e outro diminuíram de estatura, tornaram-se ossudos e secos de carnes. Assim associados, multiplicando-se juntos, o gado e os homens foram penetrando terra adentro, até ocupar, ao fim de três séculos, quase todo o sertão.\n\nRIBEIRO, D. O povo brasileiro: a formação e o sentido do Brasil.\n\nSão Paulo: Cia. das Letras, 1995.\n\nO antropólogo Darcy Ribeiro, em sua análise sobre a formação do povo brasileiro, enfatiza o papel condicionante exercido pela dicotomia entre",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "manufatura e comércio na estrutura econômica. B",
+            "text": "manufatura e comércio na estrutura econômica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "litoral e interior na organização produtiva. C",
+            "text": "litoral e interior na organização produtiva.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "nativos e reinóis na hierarquia laboral. D",
+            "text": "nativos e reinóis na hierarquia laboral.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "urbano e rural no espaço colonial. E",
+            "text": "urbano e rural no espaço colonial.",
             "file": null,
             "isCorrect": false
         },

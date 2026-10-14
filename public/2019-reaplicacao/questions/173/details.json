@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "O modelo predador-presa consiste em descrever a\ninteração entre duas espécies, sendo que uma delas\n(presa) serve de alimento para a outra (predador).\nA resposta funcional é a relação entre a taxa de consumo\nde um predador e a densidade populacional de sua\npresa. A figura mostra três respostas funcionais (f, g, h),\nem que a variável independente representa a densidade\npopulacional da presa.\n\nf\ng\nh\n\nTaxa de consumo de predador\n\n0,8\n\n0,6\n\n0,4\n\n0,2",
+    "context": "O modelo predador-presa consiste em descrever a interação entre duas espécies, sendo que uma delas (presa) serve de alimento para a outra (predador). A resposta funcional é a relação entre a taxa de consumo de um predador e a densidade populacional de sua presa. A figura mostra três respostas funcionais (f, g, h), em que a variável independente representa a densidade populacional da presa.\n\nf\ng\nh\n\nTaxa de consumo de predador\n\n0,8\n\n0,6\n\n0,4\n\n0,2",
     "files": [],
     "correctAlternative": "E",
     "alternativesIntroduction": "0 0",

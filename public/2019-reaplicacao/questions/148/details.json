@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Um gerente decidiu fazer um estudo financeiro da\nempresa onde trabalha analisando as receitas anuais\ndos três últimos anos. Tais receitas são apresentadas\nno quadro.\n\nAno\nReceita (bilhão de reais)\n\nI\n2,2\n\nII\n4,2\n\nIII\n7,4\n\nEstes dados serão utilizados para projetar a receita\nmínima esperada para o ano atual (ano IV), pois a\nreceita esperada para o ano IV é obtida em função das\nvariações das receitas anuais anteriores, utilizando a\nseguinte regra: a variação do ano IV para o ano III será\nigual à variação do ano III para o II adicionada à média\naritmética entre essa variação e a variação do ano II\npara o I.",
+    "context": "Um gerente decidiu fazer um estudo financeiro da empresa onde trabalha analisando as receitas anuais dos três últimos anos. Tais receitas são apresentadas no quadro.\n\nAno\nReceita (bilhão de reais)\n\nI\n2,2\n\nII\n4,2\n\nIII\n7,4\n\nEstes dados serão utilizados para projetar a receita mínima esperada para o ano atual (ano IV), pois a receita esperada para o ano IV é obtida em função das variações das receitas anuais anteriores, utilizando a seguinte regra: a variação do ano IV para o ano III será igual à variação do ano III para o II adicionada à média aritmética entre essa variação e a variação do ano II para o I.",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "O valor da receita mínima esperada, em bilhão de reais, será de",

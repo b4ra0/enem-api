@@ -7,29 +7,29 @@
     "context": null,
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "6 h e 48 min B",
+            "text": "6 h e 48 min",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "6 h e 54 min C",
+            "text": "6 h e 54 min",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "6 h e 58 min D",
+            "text": "6 h e 58 min",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "7 h e 06 min E",
+            "text": "7 h e 06 min",
             "file": null,
             "isCorrect": false
         },

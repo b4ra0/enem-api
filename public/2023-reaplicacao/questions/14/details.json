@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "Construindo uma irmandade da língua\n\nA ideia de que a língua portuguesa é pertença de\ntodos os seus falantes é hoje quase pacífica. Só meia\ndúzia de ultranacionalistas portugueses insiste ainda no\ndisparate de se julgar proprietário exclusivo do idioma.\nAliás, ao contrário da Commonwealth e da francofonia,\na irmandade da língua portuguesa não tem um único centro\nou voz dominante, e essa é precisamente uma das suas\nmaiores virtudes.\n\nAGUALUSA, J. E. O Globo, 8 maio 2021 (adaptado).",
+    "context": "Construindo uma irmandade da língua\n\nA ideia de que a língua portuguesa é pertença de todos os seus falantes é hoje quase pacífica. Só meia dúzia de ultranacionalistas portugueses insiste ainda no disparate de se julgar proprietário exclusivo do idioma. Aliás, ao contrário da Commonwealth e da francofonia, a irmandade da língua portuguesa não tem um único centro ou voz dominante, e essa é precisamente uma das suas maiores virtudes.\n\nAGUALUSA, J. E. O Globo, 8 maio 2021 (adaptado).",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "Nesse texto, o termo “Aliás” articula dois enunciados envolvidos numa mesma relação argumentativa, construindo, para o segundo, uma ideia de A",
+    "alternativesIntroduction": "Nesse texto, o termo “Aliás” articula dois enunciados envolvidos numa mesma relação argumentativa, construindo, para o segundo, uma ideia de",
     "alternatives": [
         {
             "letter": "A",
-            "text": "questionamento da origem da língua portuguesa. B",
+            "text": "questionamento da origem da língua portuguesa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "semelhança de condições sociais dos falantes do português. C",
+            "text": "semelhança de condições sociais dos falantes do português.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "acréscimo de fato comprobatório sobre a língua portuguesa. D",
+            "text": "acréscimo de fato comprobatório sobre a língua portuguesa.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "comparação entre o português brasileiro e o europeu. E",
+            "text": "comparação entre o português brasileiro e o europeu.",
             "file": null,
             "isCorrect": false
         },

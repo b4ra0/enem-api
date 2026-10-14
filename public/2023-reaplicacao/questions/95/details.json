@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Um carro sedã apresenta tipicamente 200 kg de\nalumínio distribuídos pelo chassi, motor e cabine.\nUma amostra de bauxita, principal fonte natural do metal,\né composta por 50% em massa de óxido de alumínio\n(Al2O3). Considere a massa molar do alumínio (Al) igual\na 27 g mol−1 e a do oxigênio (O) igual a 16 g mol−1.\n\nA massa de bauxita que deve ser empregada para produzir\no alumínio usado na fabricação de um carro desse modelo\né mais próxima de",
+    "context": "Um carro sedã apresenta tipicamente 200 kg de alumínio distribuídos pelo chassi, motor e cabine. Uma amostra de bauxita, principal fonte natural do metal, é composta por 50% em massa de óxido de alumínio (Al2O3). Considere a massa molar do alumínio (Al) igual a 27 g mol−1 e a do oxigênio (O) igual a 16 g mol−1.\n\nA massa de bauxita que deve ser empregada para produzir o alumínio usado na fabricação de um carro desse modelo é mais próxima de",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "378 kg. B",
+            "text": "378 kg.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "400 kg. C",
+            "text": "400 kg.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "637 kg. D",
+            "text": "637 kg.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "756 kg. E",
+            "text": "756 kg.",
             "file": null,
             "isCorrect": true
         },

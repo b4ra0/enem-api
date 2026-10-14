@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma fábrica de produtos químicos utiliza, para\narmazenar a sua produção, recipientes na forma de cilindros\ncirculares retos, com 1 metro de altura e raio externo da\nbase igual a 25 cm. Para facilitar o transporte desse tipo\nde recipiente, cada um deles será colocado dentro de uma\ncaixa, na forma de paralelepípedo retangular reto de base\nquadrada, e com a mesma altura do cilindro. A empresa\ndeseja construir a menor caixa possível em que possa\ncolocar cada cilindro.",
+    "context": "Uma fábrica de produtos químicos utiliza, para armazenar a sua produção, recipientes na forma de cilindros circulares retos, com 1 metro de altura e raio externo da base igual a 25 cm. Para facilitar o transporte desse tipo de recipiente, cada um deles será colocado dentro de uma caixa, na forma de paralelepípedo retangular reto de base quadrada, e com a mesma altura do cilindro. A empresa deseja construir a menor caixa possível em que possa colocar cada cilindro.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "De acordo com o texto, a medida interna do lado da base da caixa, em centímetro, a ser construída será igual a",

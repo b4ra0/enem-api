@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "A Primavera Árabe parecia mudar a realidade.\nEm janeiro de 2011, enquanto Ben Ali renunciava ao poder\nna Tunísia, ativistas por democracia no Egito começaram\na convocar protestos por reformas no país — como na\nTunísia, aproveitando o potencial da comunicação via\ninternet e redes sociais. Ruas e praças, especialmente\nna capital, Cairo, foram rapidamente tomadas pela\npopulação pedindo melhoras econômicas e reformas\npolíticas. A praça Tahrir (em português, Libertação), no\nCairo, tornou-se o centro do movimento por democracia.\n\nO que foi e como terminou a Primavera Árabe? Disponível em:\n\nwww.bbc.com. Acesso em: 6 out. 2021 (adaptado).",
+    "context": "A Primavera Árabe parecia mudar a realidade.\nEm janeiro de 2011, enquanto Ben Ali renunciava ao poder na Tunísia, ativistas por democracia no Egito começaram a convocar protestos por reformas no país — como na Tunísia, aproveitando o potencial da comunicação via internet e redes sociais. Ruas e praças, especialmente na capital, Cairo, foram rapidamente tomadas pela população pedindo melhoras econômicas e reformas políticas. A praça Tahrir (em português, Libertação), no Cairo, tornou-se o centro do movimento por democracia.\n\nO que foi e como terminou a Primavera Árabe? Disponível em:\n\nwww.bbc.com. Acesso em: 6 out. 2021 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A reivindicação da revolução popular apresentada no texto exigiu o(a) A",
+    "alternativesIntroduction": "A reivindicação da revolução popular apresentada no texto exigiu o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "garantia de direitos civis. B",
+            "text": "garantia de direitos civis.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "controle da crença religiosa. C",
+            "text": "controle da crença religiosa.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "mudança da cultura islâmica. D",
+            "text": "mudança da cultura islâmica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "domínio de militantes radicais. E",
+            "text": "domínio de militantes radicais.",
             "file": null,
             "isCorrect": false
         },

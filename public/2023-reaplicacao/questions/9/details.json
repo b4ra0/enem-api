@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "É vantajoso que as crianças possam entender\no funcionamento por trás da tecnologia que está\npresente em diversos aspectos da vida cotidiana,\naproveitando a curiosidade infantil como impulso inicial.\nA computação ajuda a desenvolver o raciocínio, a melhorar\na comunicação e a trabalhar a capacidade de resolver\nproblemas. Os computadores executam tarefas por meio\nde comandos dados em uma programação. Essa, por sua\nvez, é feita com linguagens próprias, que funcionam como\numa espécie de “idioma”, por meio do qual o programador\nse comunica com as máquinas.\n\nPorém, mais do que dominar essas linguagens,\no programador precisa empregar a lógica computacional.\nO programador precisa expressar em seu código as\ncondições e seus efeitos, como “se acontecer A, faça\nB, a não ser que haja X, então faça C”. A escrita de um\nalgoritmo é repleta de condições interconectadas, do tipo\n“se”, “então”, “senão”, “ou”, “até que”, “enquanto” etc. Por\nisso, para programar, é necessário compreender esse\ntipo de raciocínio. Para as crianças, isso é tarefa fácil;\nafinal elas têm uma capacidade incrível de assimilar\ninformações novas.\n\nDisponível em: https://catracalivre.com.br. Acesso em: 25 nov. 2021.",
+    "context": "É vantajoso que as crianças possam entender o funcionamento por trás da tecnologia que está presente em diversos aspectos da vida cotidiana, aproveitando a curiosidade infantil como impulso inicial. A computação ajuda a desenvolver o raciocínio, a melhorar a comunicação e a trabalhar a capacidade de resolver problemas. Os computadores executam tarefas por meio de comandos dados em uma programação. Essa, por sua vez, é feita com linguagens próprias, que funcionam como uma espécie de “idioma”, por meio do qual o programador se comunica com as máquinas.\n\nPorém, mais do que dominar essas linguagens, o programador precisa empregar a lógica computacional. O programador precisa expressar em seu código as condições e seus efeitos, como “se acontecer A, faça B, a não ser que haja X, então faça C”. A escrita de um algoritmo é repleta de condições interconectadas, do tipo “se”, “então”, “senão”, “ou”, “até que”, “enquanto” etc. Por isso, para programar, é necessário compreender esse tipo de raciocínio. Para as crianças, isso é tarefa fácil; afinal elas têm uma capacidade incrível de assimilar informações novas.\n\nDisponível em: https://catracalivre.com.br. Acesso em: 25 nov. 2021.",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Esse texto promove uma reflexão sobre o ensino de programação na infância. A defesa da proposta está ancorada na caracterização da programação com base na sua A",
+    "alternativesIntroduction": "Esse texto promove uma reflexão sobre o ensino de programação na infância. A defesa da proposta está ancorada na caracterização da programação com base na sua",
     "alternatives": [
         {
             "letter": "A",
-            "text": "conexão com aspectos lúdicos da infância. B",
+            "text": "conexão com aspectos lúdicos da infância.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "autonomia em relação ao raciocínio lógico. C",
+            "text": "autonomia em relação ao raciocínio lógico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "presença crescente no dia a dia das pessoas. D",
+            "text": "presença crescente no dia a dia das pessoas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "similaridade com o funcionamento das línguas. E",
+            "text": "similaridade com o funcionamento das línguas.",
             "file": null,
             "isCorrect": true
         },

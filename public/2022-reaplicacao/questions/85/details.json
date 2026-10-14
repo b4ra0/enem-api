@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "A abertura dos portos brasileiros em 1808 inaugurou\na possibilidade, para viajantes europeus de diversas\nnacionalidades, de percorrer áreas até então dificilmente\nacessíveis à sua curiosidade. Os relatos de inúmeras\nexpedições, a maioria de caráter científico, foram\npublicados na Europa, para leitores ávidos de notícias\nsobre um Brasil até então desconhecido, terra cujos\nsegredos haviam sido velados por uma Coroa portuguesa\nciumenta e possessiva.\n\nDUARTE, R. H. Olhares estrangeiros: viajantes no vale do Rio Mucuri.\n\nRevista Brasileira de História, n. 44, 2002 (adaptado).\n\nOs relatos de viagens ao Brasil, publicados na Europa,\ncontribuíram para a construção da identidade europeia\nna medida em que",
+    "context": "A abertura dos portos brasileiros em 1808 inaugurou a possibilidade, para viajantes europeus de diversas nacionalidades, de percorrer áreas até então dificilmente acessíveis à sua curiosidade. Os relatos de inúmeras expedições, a maioria de caráter científico, foram publicados na Europa, para leitores ávidos de notícias sobre um Brasil até então desconhecido, terra cujos segredos haviam sido velados por uma Coroa portuguesa ciumenta e possessiva.\n\nDUARTE, R. H. Olhares estrangeiros: viajantes no vale do Rio Mucuri.\n\nRevista Brasileira de História, n. 44, 2002 (adaptado).\n\nOs relatos de viagens ao Brasil, publicados na Europa, contribuíram para a construção da identidade europeia na medida em que",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "destacaram a exuberância da natureza tropical, elaborando uma visão heroica da conquista. B",
+            "text": "destacaram a exuberância da natureza tropical, elaborando uma visão heroica da conquista.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "defenderam a legitimidade da escravidão africana, aprovando-a como fator de humanização. C",
+            "text": "defenderam a legitimidade da escravidão africana, aprovando-a como fator de humanização.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "enfatizaram o exotismo da sociedade colonial, contrapondo-a à ideia iluminista de civilização. D",
+            "text": "enfatizaram o exotismo da sociedade colonial, contrapondo-a à ideia iluminista de civilização.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "analisaram a miscigenação dos grupos raciais, atribuindo um caráter positivo a esse processo. E",
+            "text": "analisaram a miscigenação dos grupos raciais, atribuindo um caráter positivo a esse processo.",
             "file": null,
             "isCorrect": false
         },

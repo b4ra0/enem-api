@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "A pressão sonora (P), medida em newton por metro quadrado (N/m²), e o nível dessa pressão sonora (n), medido\nem decibel (dB), se relacionam mediante a expressão\n\nn\nP\nP\n\n0\nlog\n,\n\n\u001a\n\u0019\n20\n\nsendo P0 = 2 × 10–5 N/m2 uma constante, denominada limiar de percepção do ouvido humano.\n\nDurante uma fiscalização, foi medido, por um decibelímetro, que o ruído proveniente de um carro, com seu som\nautomotivo ligado, atingiu um nível de pressão sonora de 80 dB.",
+    "context": "A pressão sonora (P), medida em newton por metro quadrado (N/m²), e o nível dessa pressão sonora (n), medido em decibel (dB), se relacionam mediante a expressão\n\nn\nP\nP\n\n0\nlog\n,\n\n\u001a\n\u0019\n20\n\nsendo P0 = 2 × 10–5 N/m2 uma constante, denominada limiar de percepção do ouvido humano.\n\nDurante uma fiscalização, foi medido, por um decibelímetro, que o ruído proveniente de um carro, com seu som automotivo ligado, atingiu um nível de pressão sonora de 80 dB.",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "A pressão sonora, em newton por metro quadrado, proveniente desse ruído foi igual a",

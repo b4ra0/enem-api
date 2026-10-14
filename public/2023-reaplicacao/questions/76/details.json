@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Uma característica da pólis é o cunho de plena\npublicidade dada às manifestações mais importantes da\nvida social. Pode-se mesmo dizer que a pólis existe apenas\nna medida em que se distinguiu um domínio público, nos\ndois sentidos diferentes, mas solidários do termo: um setor\nde interesse comum opondo-se aos assuntos privados;\npráticas abertas, estabelecidas em pleno dia, opondo-se\na processos secretos. A cultura grega constitui-se dando\na um círculo sempre mais amplo — finalmente ao demos\ntodo — o acesso ao mundo espiritual, reservado no início\na uma aristocracia de caráter guerreiro e sacerdotal.\n\nVERNANT, J.-P. As origens do pensamento grego. Rio de Janeiro: Difel, 2002 (adaptado).",
+    "context": "Uma característica da pólis é o cunho de plena publicidade dada às manifestações mais importantes da vida social. Pode-se mesmo dizer que a pólis existe apenas na medida em que se distinguiu um domínio público, nos dois sentidos diferentes, mas solidários do termo: um setor de interesse comum opondo-se aos assuntos privados; práticas abertas, estabelecidas em pleno dia, opondo-se a processos secretos. A cultura grega constitui-se dando a um círculo sempre mais amplo — finalmente ao demos todo — o acesso ao mundo espiritual, reservado no início a uma aristocracia de caráter guerreiro e sacerdotal.\n\nVERNANT, J.-P. As origens do pensamento grego. Rio de Janeiro: Difel, 2002 (adaptado).",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "O advento da pólis, com as mudanças descritas no texto, é produto de um conjunto de transformações no mundo grego antigo que resultou na A",
+    "alternativesIntroduction": "O advento da pólis, com as mudanças descritas no texto, é produto de um conjunto de transformações no mundo grego antigo que resultou na",
     "alternatives": [
         {
             "letter": "A",
-            "text": "extensão participativa dos cidadãos. B",
+            "text": "extensão participativa dos cidadãos.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "elevação financeira das famílias. C",
+            "text": "elevação financeira das famílias.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "dominação de uma nobreza urbana. D",
+            "text": "dominação de uma nobreza urbana.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "supervisão dos assuntos monárquicos. E",
+            "text": "supervisão dos assuntos monárquicos.",
             "file": null,
             "isCorrect": false
         },

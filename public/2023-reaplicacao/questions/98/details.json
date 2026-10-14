@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "A disponibilidade de nutrientes do solo (fertilidade) está associada à capacidade de ceder nutrientes essenciais às\nplantas, a qual é dependente do pH do solo. O cultivo agrícola para grande parte das espécies vegetais desenvolve-se\nde forma adequada no pH próximo a 6. Para isso, os produtores rurais realizam práticas agrícolas e manejo do\nsolo de forma a minimizar os efeitos deletérios do alumínio, manganês e excesso de ferro, além de potencializar a\ndisponibilidade de outros nutrientes, como cálcio, potássio, magnésio e fósforo. Considere um solo alcalino no qual\nse deseja realizar o manejo a fim de ajustar o pH e aumentar sua fertilidade.\n\nCARDOSO, E. J. B. N.; ANDREOTE, F. D. Microbiologia do solo. Piracicaba: Esalq, 2016 (adaptado).",
+    "context": "A disponibilidade de nutrientes do solo (fertilidade) está associada à capacidade de ceder nutrientes essenciais às plantas, a qual é dependente do pH do solo. O cultivo agrícola para grande parte das espécies vegetais desenvolve-se de forma adequada no pH próximo a 6. Para isso, os produtores rurais realizam práticas agrícolas e manejo do solo de forma a minimizar os efeitos deletérios do alumínio, manganês e excesso de ferro, além de potencializar a disponibilidade de outros nutrientes, como cálcio, potássio, magnésio e fósforo. Considere um solo alcalino no qual se deseja realizar o manejo a fim de ajustar o pH e aumentar sua fertilidade.\n\nCARDOSO, E. J. B. N.; ANDREOTE, F. D. Microbiologia do solo. Piracicaba: Esalq, 2016 (adaptado).",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "O composto que pode ser adicionado ao solo para atender a essa necessidade é A",
+    "alternativesIntroduction": "O composto que pode ser adicionado ao solo para atender a essa necessidade é",
     "alternatives": [
         {
             "letter": "A",
-            "text": "KNO3. B",
+            "text": "KNO3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "CaCO3. C",
+            "text": "CaCO3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Na3PO4. D",
+            "text": "Na3PO4.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Al2(SO4)3. E",
+            "text": "Al2(SO4)3.",
             "file": null,
             "isCorrect": false
         },

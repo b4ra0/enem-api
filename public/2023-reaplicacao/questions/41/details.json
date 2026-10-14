@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "As práticas corporais representam uma possibilidade\nde promoção da educação, do lazer e da saúde.\nA identificação das preferências das práticas corporais\npode ser um incentivo para a adesão dos usuários aos\nserviços de saúde mental. Desse modo, a interação\nsocial por meio delas contribui para o desenvolvimento\nda identidade dos usuários, uma vez que essas atividades\npermeiam as dimensões cognitiva, emocional, social\ne comportamental. Nesse contexto, realizar atividades\nfísicas, com um viés lúdico, converte-se numa maneira\nde cuidado com o corpo, gerando avaliações positivas\ndos usuários.\n\nSILVA, D. P.; RODRIGUES, L. T.; FLORES, F. F. Estágio em educação física\n\nna saúde mental: experiência em ministrar práticas corporais.\n\nEnsino em Perspectivas, n. 1, 2021 (adaptado).",
+    "context": "As práticas corporais representam uma possibilidade de promoção da educação, do lazer e da saúde.\nA identificação das preferências das práticas corporais pode ser um incentivo para a adesão dos usuários aos serviços de saúde mental. Desse modo, a interação social por meio delas contribui para o desenvolvimento da identidade dos usuários, uma vez que essas atividades permeiam as dimensões cognitiva, emocional, social e comportamental. Nesse contexto, realizar atividades físicas, com um viés lúdico, converte-se numa maneira de cuidado com o corpo, gerando avaliações positivas dos usuários.\n\nSILVA, D. P.; RODRIGUES, L. T.; FLORES, F. F. Estágio em educação física\n\nna saúde mental: experiência em ministrar práticas corporais.\n\nEnsino em Perspectivas, n. 1, 2021 (adaptado).",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "As práticas corporais realizadas em serviços de saúde mental estimulam o(a) A",
+    "alternativesIntroduction": "As práticas corporais realizadas em serviços de saúde mental estimulam o(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "aprimoramento cognitivo na realização de tarefas. B",
+            "text": "aprimoramento cognitivo na realização de tarefas.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "aquisição da linguagem para a interação social. C",
+            "text": "aquisição da linguagem para a interação social.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "inserção no mercado de trabalho. D",
+            "text": "inserção no mercado de trabalho.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "fortalecimento da identidade. E",
+            "text": "fortalecimento da identidade.",
             "file": null,
             "isCorrect": true
         },

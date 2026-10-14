@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Na formulação de detergentes sintéticos, são\nencontradas diversas substâncias que possuem ação\nespecífica. Entre essas substâncias, estão os tensoativos\naniônicos, dos quais o dodecilbenzenossulfonato de\nsódio é o mais comum em detergentes para cozinha.\n\nO dodecilbenzenossulfonato de sódio é um tensoativo\nem razão da presença",
+    "context": "Na formulação de detergentes sintéticos, são encontradas diversas substâncias que possuem ação específica. Entre essas substâncias, estão os tensoativos aniônicos, dos quais o dodecilbenzenossulfonato de sódio é o mais comum em detergentes para cozinha.\n\nO dodecilbenzenossulfonato de sódio é um tensoativo em razão da presença",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "do íon Na+ hidrofílico e pela porção sulfonato lipofílica. B",
+            "text": "do íon Na+ hidrofílico e pela porção sulfonato lipofílica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "das porções sulfonato hidrofílica e dodecilbenzeno lipofílica. C",
+            "text": "das porções sulfonato hidrofílica e dodecilbenzeno lipofílica.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "da porção benzenossulfonato, que possui característica lipofílica. D",
+            "text": "da porção benzenossulfonato, que possui característica lipofílica.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "do íon Na+, que possui tanto característica hidrofílica quanto lipofílica. E",
+            "text": "do íon Na+, que possui tanto característica hidrofílica quanto lipofílica.",
             "file": null,
             "isCorrect": false
         },

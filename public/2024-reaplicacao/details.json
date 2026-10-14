@@ -58,12 +58,6 @@
             "title": "Questão 3 - ENEM 2024",
             "index": 3,
             "discipline": "linguagens",
-            "language": "espanhol"
-        },
-        {
-            "title": "Questão 3 - ENEM 2024",
-            "index": 3,
-            "discipline": "linguagens",
             "language": "ingles"
         },
         {
@@ -985,12 +979,6 @@
             "language": null
         },
         {
-            "title": "Questão 155 - ENEM 2024",
-            "index": 155,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 156 - ENEM 2024",
             "index": 156,
             "discipline": "matematica",
@@ -1125,12 +1113,6 @@
         {
             "title": "Questão 178 - ENEM 2024",
             "index": 178,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 179 - ENEM 2024",
-            "index": 179,
             "discipline": "matematica",
             "language": null
         },

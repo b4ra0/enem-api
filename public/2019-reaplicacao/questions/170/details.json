@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Muitos restaurantes servem refrigerantes em copos\ncontendo limão e gelo. Suponha um copo de formato\ncilíndrico, com as seguintes medidas: diâmetro = 6 cm e\naltura = 15 cm. Nesse copo, há três cubos de gelo, cujas\narestas medem 2 cm cada, e duas rodelas cilíndricas\nde limão, com 4 cm de diâmetro e 0,5 cm de espessura\ncada. Considere que, ao colocar o refrigerante no copo,\nos cubos de gelo e os limões ficarão totalmente imersos.\n(Use 3 como aproximação para π).",
+    "context": "Muitos restaurantes servem refrigerantes em copos contendo limão e gelo. Suponha um copo de formato cilíndrico, com as seguintes medidas: diâmetro = 6 cm e altura = 15 cm. Nesse copo, há três cubos de gelo, cujas arestas medem 2 cm cada, e duas rodelas cilíndricas de limão, com 4 cm de diâmetro e 0,5 cm de espessura cada. Considere que, ao colocar o refrigerante no copo, os cubos de gelo e os limões ficarão totalmente imersos. (Use 3 como aproximação para π).",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "O volume máximo de refrigerante, em centímetro cúbico, que cabe nesse copo contendo as rodelas de limão e os cubos de gelo com suas dimensões inalteradas, é igual a",

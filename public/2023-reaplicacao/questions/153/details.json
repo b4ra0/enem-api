@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Mariana não tem computador pessoal em casa e\nprecisa fazer uma pesquisa na internet para um trabalho\nde escola. Então, foi até uma lan house perto de sua casa.\nNa porta da lan house havia esta placa:\n\nR$ 0,12 POR MINUTO\nR$ 2,00 (TAXA DE UTILIZAÇÃO)",
+    "context": "Mariana não tem computador pessoal em casa e precisa fazer uma pesquisa na internet para um trabalho de escola. Então, foi até uma lan house perto de sua casa. Na porta da lan house havia esta placa:\n\nR$ 0,12 POR MINUTO\nR$ 2,00 (TAXA DE UTILIZAÇÃO)",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Assim, quantos reais Mariana pagaria para ficar uma hora e meia usando a internet nessa lan house? A",
+    "alternativesIntroduction": "Assim, quantos reais Mariana pagaria para ficar uma hora e meia usando a internet nessa lan house?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "R$ 0,18 B",
+            "text": "R$ 0,18",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "R$ 2,18 C",
+            "text": "R$ 2,18",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "R$ 3,08 D",
+            "text": "R$ 3,08",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "R$ 3,18 E",
+            "text": "R$ 3,18",
             "file": null,
             "isCorrect": false
         },

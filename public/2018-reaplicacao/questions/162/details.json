@@ -4,7 +4,7 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "Em um jogo de tabuleiro, a pontuação é marcada\ncom fichas coloridas. Cada ficha vermelha vale um ponto.\nTrês fichas vermelhas podem ser trocadas por uma azul,\ntrês fichas azuis podem ser trocadas por uma branca, e\ntrês fichas brancas podem ser trocadas por uma verde.\nAo final do jogo, os jogadores A, B e C terminaram, cada\num, com as quantidades de fichas, conforme a tabela\nseguinte:\n\nFichas\nverdes\n\nFichas\nbrancas\n\nFichas\n\nFichas\nvermelhas\n\nazuis\n\nJogador A\n3\n1\n1\n4\n\nJogador B\n2\n4\n0\n9\n\nJogador C\n1\n5\n8\n2",
+    "context": "Em um jogo de tabuleiro, a pontuação é marcada com fichas coloridas. Cada ficha vermelha vale um ponto. Três fichas vermelhas podem ser trocadas por uma azul, três fichas azuis podem ser trocadas por uma branca, e três fichas brancas podem ser trocadas por uma verde. Ao final do jogo, os jogadores A, B e C terminaram, cada um, com as quantidades de fichas, conforme a tabela seguinte:\n\nFichas\nverdes\n\nFichas\nbrancas\n\nFichas\n\nFichas\nvermelhas\n\nazuis\n\nJogador A\n3\n1\n1\n4\n\nJogador B\n2\n4\n0\n9\n\nJogador C\n1\n5\n8\n2",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "De acordo com essa tabela, as classificações em primeiro, segundo e terceiro lugares ficaram, respectivamente, para os jogadores",

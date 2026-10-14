@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "linguagens",
-    "context": "Saúde aprova implantação de 82 academias em\n\npraças públicas na PB\n\nSetenta e oito municípios paraibanos deverão\nreceber 82 unidades das Academias da Saúde, que são\nespaços apropriados para a prática de atividades físicas.\nOs equipamentos são montados ao ar livre, e a população\ntem orientação gratuita sobre o uso dos aparelhos para\nse exercitar. A implantação das academias faz parte de\num plano de ações estratégicas para o enfrentamento\ndas doenças crônicas não transmissíveis, cuja meta é\nreduzir as mortes prematuras em 2% ao ano. O objetivo\né alcançar melhorias em indicadores relacionados ao\ntabagismo, ao álcool, ao sedentarismo, à alimentação\ninadequada e à obesidade.\n\nDisponível em: http://g1.globo.com. Acesso em: 11 nov. 2011 (adaptado).\n\nNo texto, a atividade física é associada à prevenção de\ndoenças crônicas, à redução da mortalidade e à promoção\nda saúde. A partir de uma perspectiva ampliada e crítica\nsobre o conceito de saúde, interpretada como resultado\nde múltiplos fatores, o texto",
+    "context": "Saúde aprova implantação de 82 academias em\n\npraças públicas na PB\n\nSetenta e oito municípios paraibanos deverão receber 82 unidades das Academias da Saúde, que são espaços apropriados para a prática de atividades físicas. Os equipamentos são montados ao ar livre, e a população tem orientação gratuita sobre o uso dos aparelhos para se exercitar. A implantação das academias faz parte de um plano de ações estratégicas para o enfrentamento das doenças crônicas não transmissíveis, cuja meta é reduzir as mortes prematuras em 2% ao ano. O objetivo é alcançar melhorias em indicadores relacionados ao tabagismo, ao álcool, ao sedentarismo, à alimentação inadequada e à obesidade.\n\nDisponível em: http://g1.globo.com. Acesso em: 11 nov. 2011 (adaptado).\n\nNo texto, a atividade física é associada à prevenção de doenças crônicas, à redução da mortalidade e à promoção da saúde. A partir de uma perspectiva ampliada e crítica sobre o conceito de saúde, interpretada como resultado de múltiplos fatores, o texto",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "reforça a necessidade de a atividade física ser orientada por um professor de educação física. B",
+            "text": "reforça a necessidade de a atividade física ser orientada por um professor de educação física.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "considera a saúde de forma multifatorial, ou seja, resultante da interferência de diversos fatores. C",
+            "text": "considera a saúde de forma multifatorial, ou seja, resultante da interferência de diversos fatores.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "estabelece relação de causa-efeito entre atividade física e saúde, desconsiderando os condicionantes sociais. D",
+            "text": "estabelece relação de causa-efeito entre atividade física e saúde, desconsiderando os condicionantes sociais.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "destaca a importância da atividade física como lazer para a sociedade brasileira. E",
+            "text": "destaca a importância da atividade física como lazer para a sociedade brasileira.",
             "file": null,
             "isCorrect": false
         },

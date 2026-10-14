@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O Brasil foi o primeiro país a usar o álcool em\nlarga escala como combustível de automóvel. Hoje,\na indústria automobilística produz e equipa os\nautomóveis com motores que funcionam tanto com\ngasolina como com álcool, ou ainda com uma mistura\ndos dois. No Brasil, o álcool é obtido principalmente\nda cana-de-açúcar, razão pela qual o classificam como\nbiocombustível.\nCom essa atitude, contribui-se diretamente para a",
+    "context": "O Brasil foi o primeiro país a usar o álcool em larga escala como combustível de automóvel. Hoje, a indústria automobilística produz e equipa os automóveis com motores que funcionam tanto com gasolina como com álcool, ou ainda com uma mistura dos dois. No Brasil, o álcool é obtido principalmente da cana-de-açúcar, razão pela qual o classificam como biocombustível.\nCom essa atitude, contribui-se diretamente para a",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "preservação de rios e lagos. B",
+            "text": "preservação de rios e lagos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "preservação da biodiversidade. C",
+            "text": "preservação da biodiversidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "diminuição do buraco da camada de ozônio. D",
+            "text": "diminuição do buraco da camada de ozônio.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "preservação de espécies ameaçadas de extinção. E",
+            "text": "preservação de espécies ameaçadas de extinção.",
             "file": null,
             "isCorrect": false
         },

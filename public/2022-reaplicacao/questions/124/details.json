@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Uma prática que os brasileiros costumam realizar é\na degustação de doces em compotas. O conhecimento\npopular indica que não é aceitável deixar o mesmo\ntalher usado na degustação e levado à boca dentro\nda compoteira aberta, em contato com o doce. Essa\nindicação se deve ao fato de que o doce, no pensamento\npopular, poderá azedar.\n\nEssa prática popular encontra respaldo no pensamento\ncientífico, uma vez que o doce realmente poderá azedar\nem razão da",
+    "context": "Uma prática que os brasileiros costumam realizar é a degustação de doces em compotas. O conhecimento popular indica que não é aceitável deixar o mesmo talher usado na degustação e levado à boca dentro da compoteira aberta, em contato com o doce. Essa indicação se deve ao fato de que o doce, no pensamento popular, poderá azedar.\n\nEssa prática popular encontra respaldo no pensamento científico, uma vez que o doce realmente poderá azedar em razão da",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "oxidação do doce pelo contato com o ar. B",
+            "text": "oxidação do doce pelo contato com o ar.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "contaminação por microrganismos, que irão fermentá-lo. C",
+            "text": "contaminação por microrganismos, que irão fermentá-lo.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "ação das enzimas salivares que foram transferidas para o doce após a degustação. D",
+            "text": "ação das enzimas salivares que foram transferidas para o doce após a degustação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "evaporação dos conservantes que mantêm a solução da compota em equilíbrio químico. E",
+            "text": "evaporação dos conservantes que mantêm a solução da compota em equilíbrio químico.",
             "file": null,
             "isCorrect": false
         },

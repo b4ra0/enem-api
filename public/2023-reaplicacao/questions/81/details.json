@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-humanas",
-    "context": "Os valores políticos são valores efetivamente\nsuperiores, que regem o quadro básico da vida social\ne definem precisamente os termos fundamentais da\ncooperação política e social. Na teoria da justiça como\nequidade, alguns desses valores políticos são expressos\npelos princípios de justiça para a estrutura básica: a\nliberdade política e civil igual para todos, a justa igualdade\ndas oportunidades, a reciprocidade econômica, as bases\nsociais do respeito mútuo entre os cidadãos.\n\nRAWLS, J. Justiça e democracia. São Paulo: Martins Fontes, 2000 (adaptado).\n\nConforme descrito no texto, a teoria da justiça como\nequidade é mais adequada ao regime político",
+    "context": "Os valores políticos são valores efetivamente superiores, que regem o quadro básico da vida social e definem precisamente os termos fundamentais da cooperação política e social. Na teoria da justiça como equidade, alguns desses valores políticos são expressos pelos princípios de justiça para a estrutura básica: a liberdade política e civil igual para todos, a justa igualdade das oportunidades, a reciprocidade econômica, as bases sociais do respeito mútuo entre os cidadãos.\n\nRAWLS, J. Justiça e democracia. São Paulo: Martins Fontes, 2000 (adaptado).\n\nConforme descrito no texto, a teoria da justiça como equidade é mais adequada ao regime político",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "fascista. B",
+            "text": "fascista.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "totalitário. C",
+            "text": "totalitário.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "despótico. D",
+            "text": "despótico.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "autocrático. E",
+            "text": "autocrático.",
             "file": null,
             "isCorrect": false
         },

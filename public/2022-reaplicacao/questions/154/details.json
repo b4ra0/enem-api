@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nA tarifa da energia elétrica no Brasil tem sofrido\nvariações em função do seu custo de produção,\nseguindo um sistema de bandeiras tarifárias. Esse\nsistema indica se haverá ou não acréscimo no valor\ndo quilowatt-hora (kWh). Suponha que o repasse ao\nconsumidor final seja da seguinte maneira:\n\n•\t bandeira verde: a tarifa não sofre acréscimo;\n•\t bandeira amarela: a tarifa sofre acréscimo de\nR$ 0,015 para cada kWh consumido;\n•\t bandeira vermelha — patamar 1: a tarifa sofre\nacréscimo de R$ 0,04 para cada kWh consumido;\n•\t bandeira vermelha — patamar 2: a tarifa sofre\nacréscimo de R$ 0,06 para cada kWh consumido.\nA conta de energia elétrica em uma residência é\nconstituída apenas por um valor correspondente à\nquantidade de energia elétrica consumida no período\nmedido, multiplicada pela tarifa correspondente.\nO valor da tarifa em um período com uso da bandeira\nverde é R$ 0,42 por kWh consumido. Uma forte\nestiagem justificou a alteração da bandeira verde para\na bandeira vermelha — patamar 2.\n\nUm usuário, cujo consumo é tarifado na bandeira\nverde, observa o seu consumo médio mensal. Para não\nafetar o seu orçamento familiar, ele pretende alterar a sua\nprática de uso de energia, reduzindo o seu consumo, de\nmaneira que a sua próxima fatura tenha, no máximo, o\nmesmo valor da conta de energia do período em que era\naplicada a bandeira verde.\nQual percentual mínimo de redução de consumo esse\nusuário deverá praticar de forma a atingir seu objetivo?",
+    "context": "A tarifa da energia elétrica no Brasil tem sofrido variações em função do seu custo de produção, seguindo um sistema de bandeiras tarifárias. Esse sistema indica se haverá ou não acréscimo no valor do quilowatt-hora (kWh). Suponha que o repasse ao consumidor final seja da seguinte maneira:\n\n•\t bandeira verde: a tarifa não sofre acréscimo;\n•\t bandeira amarela: a tarifa sofre acréscimo de R$ 0,015 para cada kWh consumido;\n•\t bandeira vermelha — patamar 1: a tarifa sofre acréscimo de R$ 0,04 para cada kWh consumido;\n•\t bandeira vermelha — patamar 2: a tarifa sofre acréscimo de R$ 0,06 para cada kWh consumido.\nA conta de energia elétrica em uma residência é constituída apenas por um valor correspondente à quantidade de energia elétrica consumida no período medido, multiplicada pela tarifa correspondente. O valor da tarifa em um período com uso da bandeira verde é R$ 0,42 por kWh consumido. Uma forte estiagem justificou a alteração da bandeira verde para a bandeira vermelha — patamar 2.\n\nUm usuário, cujo consumo é tarifado na bandeira verde, observa o seu consumo médio mensal. Para não afetar o seu orçamento familiar, ele pretende alterar a sua prática de uso de energia, reduzindo o seu consumo, de maneira que a sua próxima fatura tenha, no máximo, o mesmo valor da conta de energia do período em que era aplicada a bandeira verde.\nQual percentual mínimo de redução de consumo esse usuário deverá praticar de forma a atingir seu objetivo?",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "6,0% B",
+            "text": "6,0%",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "12,5% C",
+            "text": "12,5%",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "14,3% D",
+            "text": "14,3%",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "16,6% E",
+            "text": "16,6%",
             "file": null,
             "isCorrect": false
         },

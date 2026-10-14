@@ -4,34 +4,34 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "![](https://enem.dev/2023-reaplicacao/questions/37/e9a163a5-5934-49fb-8402-f72466f597db.png)\n\nKANDINSKY, W. Sem título (desenho para o Diagrama 17).\nNanquim sobre papel, 28,4 cm x 36 cm. Museu de Arte Mount\n\nHolyoke College, South Hadley, 1925.\n\nDisponível em: https://artmuseum.mtholyoke.edu/object/untitled-drawing-diagram-17.",
+    "context": "![](https://enem.dev/2023-reaplicacao/questions/37/e9a163a5-5934-49fb-8402-f72466f597db.png)\n\nKANDINSKY, W. Sem título (desenho para o Diagrama 17). Nanquim sobre papel, 28,4 cm x 36 cm. Museu de Arte Mount\n\nHolyoke College, South Hadley, 1925.\n\nDisponível em: https://artmuseum.mtholyoke.edu/object/untitled-drawing-diagram-17.",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/37/e9a163a5-5934-49fb-8402-f72466f597db.png"
     ],
     "correctAlternative": "A",
-    "alternativesIntroduction": "O artista Wassily Kandinsky apresenta, em sua produção, aspectos formais relacionados aos elementos fundamentais da linguagem visual, que comprovam que a linha é criada a partir do(a) A",
+    "alternativesIntroduction": "O artista Wassily Kandinsky apresenta, em sua produção, aspectos formais relacionados aos elementos fundamentais da linguagem visual, que comprovam que a linha é criada a partir do(a)",
     "alternatives": [
         {
             "letter": "A",
-            "text": "movimento do ponto. B",
+            "text": "movimento do ponto.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "criação da textura sobre o plano. C",
+            "text": "criação da textura sobre o plano.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "cor aplicada sobre a superfície. D",
+            "text": "cor aplicada sobre a superfície.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "mancha na relação formal. E",
+            "text": "mancha na relação formal.",
             "file": null,
             "isCorrect": false
         },

@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Os fabricantes de bebidas só podem chamar de suco de frutas os produtos que tiverem cerca de 50% de polpa,\na parte comestível da fruta. Já o néctar de frutas, que tem adição de açúcar, possui entre 20% e 30% de polpa de\nfrutas. O número de calorias dessas bebidas é equivalente, o que muda são a quantidade e a qualidade do açúcar.\n\nA qualidade e a quantidade de açúcares presentes nessas bebidas, de uma mesma fruta, diferem, pois",
+    "context": "Os fabricantes de bebidas só podem chamar de suco de frutas os produtos que tiverem cerca de 50% de polpa, a parte comestível da fruta. Já o néctar de frutas, que tem adição de açúcar, possui entre 20% e 30% de polpa de frutas. O número de calorias dessas bebidas é equivalente, o que muda são a quantidade e a qualidade do açúcar.\n\nA qualidade e a quantidade de açúcares presentes nessas bebidas, de uma mesma fruta, diferem, pois",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "há maior quantidade de frutose no suco e maior quantidade de sacarose no néctar. B",
+            "text": "há maior quantidade de frutose no suco e maior quantidade de sacarose no néctar.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "há maior quantidade de frutose no néctar e maior quantidade de sacarose no suco. C",
+            "text": "há maior quantidade de frutose no néctar e maior quantidade de sacarose no suco.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "há maior quantidade de sacarose no suco e quantidades iguais de frutose nos dois produtos. D",
+            "text": "há maior quantidade de sacarose no suco e quantidades iguais de frutose nos dois produtos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "há maior quantidade de frutose no suco e quantidades iguais de sacarose nos dois produtos. E",
+            "text": "há maior quantidade de frutose no suco e quantidades iguais de sacarose nos dois produtos.",
             "file": null,
             "isCorrect": false
         },

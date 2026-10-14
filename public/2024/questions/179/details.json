@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma empresa de engenharia foi contratada para\nrealizar um serviço no valor de R$ 71 250,00. Os sócios da\nempresa decidiram que 40% desse valor seria destinado ao\npagamento de três engenheiros que gerenciaram o serviço.\nO pagamento para cada um deles será feito de forma\ndiretamente proporcional ao total de horas trabalhadas.\nO número de dias e o número de horas diárias\ntrabalhadas pelos engenheiros foram, respectivamente:",
+    "context": "Uma empresa de engenharia foi contratada para realizar um serviço no valor de R$ 71 250,00. Os sócios da empresa decidiram que 40% desse valor seria destinado ao pagamento de três engenheiros que gerenciaram o serviço. O pagamento para cada um deles será feito de forma diretamente proporcional ao total de horas trabalhadas. O número de dias e o número de horas diárias trabalhadas pelos engenheiros foram, respectivamente:",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "Qual a maior diferença, em real, entre os valores recebidos por esse serviço entre dois desses engenheiros?",

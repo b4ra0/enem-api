@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "O biogás é uma alternativa energética muito importante,\npois, além de reduzir a dependência por combustíveis\nfósseis, sua obtenção pode ser realizada a partir de\nresíduos da produção agroindustrial. Considere que o\nbiogás produzido em um empreendimento de suinocultura\ncontém 70% em volume de metano (massa molar 16 g/mol;\nvolume molar 22 L/mol). Ele será utilizado para geração de\nenergia em substituição ao etanol (massa molar 46 g/mol)\nem um gerador no qual 1 m3 de biogás de origem suína\nsubstitui 0,59 L de etanol anidro (densidade 0,78 g/mL).",
+    "context": "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m3 de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL).",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",

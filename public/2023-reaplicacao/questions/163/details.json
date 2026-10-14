@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma pessoa comprou uma caixa com 25 bombons por\n5 reais. Resolveu revendê-los de forma avulsa a um preço\núnico. Não resistindo à tentação, durante a venda, comeu\ncinco bombons. Obteve, mesmo assim, com a venda dos\nbombons restantes, um lucro de 20% sobre o valor pago\npela caixa.\n\nQual foi o valor, em real, de venda de cada bombom?",
+    "context": "Uma pessoa comprou uma caixa com 25 bombons por 5 reais. Resolveu revendê-los de forma avulsa a um preço único. Não resistindo à tentação, durante a venda, comeu cinco bombons. Obteve, mesmo assim, com a venda dos bombons restantes, um lucro de 20% sobre o valor pago pela caixa.\n\nQual foi o valor, em real, de venda de cada bombom?",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "0,20 B",
+            "text": "0,20",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "0,24 C",
+            "text": "0,24",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "0,30 D",
+            "text": "0,30",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "0,35 E",
+            "text": "0,35",
             "file": null,
             "isCorrect": false
         },

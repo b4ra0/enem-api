@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "No ciclo de vida de um inseto endoparasitoide, as larvas\nse desenvolvem dentro de um hospedeiro. Essa relação\nleva o hospedeiro à morte, por isso considera-se que o\nparasitoidismo é um misto de parasitismo e predação.",
+    "context": "No ciclo de vida de um inseto endoparasitoide, as larvas se desenvolvem dentro de um hospedeiro. Essa relação leva o hospedeiro à morte, por isso considera-se que o parasitoidismo é um misto de parasitismo e predação.",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A larva desse inseto possui a vantagem adaptativa de A",
+    "alternativesIntroduction": "A larva desse inseto possui a vantagem adaptativa de",
     "alternatives": [
         {
             "letter": "A",
-            "text": "ficar livre do ataque de predadores. B",
+            "text": "ficar livre do ataque de predadores.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "poder se reproduzir dentro do hospedeiro. C",
+            "text": "poder se reproduzir dentro do hospedeiro.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "ter alimento durante o seu desenvolvimento. D",
+            "text": "ter alimento durante o seu desenvolvimento.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "estar protegida contra o ataque de parasitas. E",
+            "text": "estar protegida contra o ataque de parasitas.",
             "file": null,
             "isCorrect": false
         },

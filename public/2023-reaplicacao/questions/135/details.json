@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Balões cheios de gás hélio são soltos no ar pelas\ncrianças e sobem até não serem mais vistos em poucos\nminutos.\n\nDurante a subida, o gás no interior do balão sofre\naumento de",
+    "context": "Balões cheios de gás hélio são soltos no ar pelas crianças e sobem até não serem mais vistos em poucos minutos.\n\nDurante a subida, o gás no interior do balão sofre aumento de",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "volume. B",
+            "text": "volume.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "pressão. C",
+            "text": "pressão.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "densidade. D",
+            "text": "densidade.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "temperatura. E",
+            "text": "temperatura.",
             "file": null,
             "isCorrect": false
         },

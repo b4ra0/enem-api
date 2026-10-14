@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Um pintor cobra R$ 240,00 por dia de trabalho, que equivale a 8 horas de trabalho num dia. Quando é\nchamado para um serviço, esse pintor trabalha 8 horas por dia com exceção, talvez, do seu último dia nesse\nserviço. Nesse último dia, caso trabalhe até 4 horas, ele cobra metade do valor de um dia de trabalho.\nCaso trabalhe mais de 4 horas, cobra o valor correspondente a um dia de trabalho. Esse pintor gasta 8 horas\npara pintar uma vez uma área de 40 m2. Um cliente deseja pintar as paredes de sua casa, com uma área total de\n260 m2. Ele quer que essa área seja pintada o maior número possível de vezes para que a qualidade da pintura\nseja a melhor possível. O orçamento desse cliente para a pintura é de R$ 4 600,00.",
+    "context": "Um pintor cobra R$ 240,00 por dia de trabalho, que equivale a 8 horas de trabalho num dia. Quando é chamado para um serviço, esse pintor trabalha 8 horas por dia com exceção, talvez, do seu último dia nesse serviço. Nesse último dia, caso trabalhe até 4 horas, ele cobra metade do valor de um dia de trabalho. Caso trabalhe mais de 4 horas, cobra o valor correspondente a um dia de trabalho. Esse pintor gasta 8 horas para pintar uma vez uma área de 40 m2. Um cliente deseja pintar as paredes de sua casa, com uma área total de 260 m2. Ele quer que essa área seja pintada o maior número possível de vezes para que a qualidade da pintura seja a melhor possível. O orçamento desse cliente para a pintura é de R$ 4 600,00.",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": "Quantas vezes, no máximo, as paredes da casa poderão ser pintadas com o orçamento do cliente?",

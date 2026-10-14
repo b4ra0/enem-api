@@ -4,34 +4,34 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "A tartaruga ou tachão de trânsito é um dispositivo de\nsinalização horizontal utilizado para canalizar o tráfego\nou garantir o afastamento do fluxo de veículos de zonas\nperigosas ou com grande risco de acidentes. A Figura 1\napresenta alguns deles já instalados.\n\n![](https://enem.dev/2023-reaplicacao/questions/144/54d2bedb-014e-438f-b813-e944eeee0565.png)\n\nFigura 1\n\nDisponível em: www.alfasinalizacao.com.br. Acesso em: 28 nov. 2021 (adaptado).\nO modelo geométrico de um tachão está representado\nna Figura 2. Ele é formado por duas faces retangulares\nparalelas e quatro faces trapezoidais. Suas arestas\nlaterais, se prolongadas, concorrem em um mesmo ponto.\n\nFigura 2",
+    "context": "A tartaruga ou tachão de trânsito é um dispositivo de sinalização horizontal utilizado para canalizar o tráfego ou garantir o afastamento do fluxo de veículos de zonas perigosas ou com grande risco de acidentes. A Figura 1 apresenta alguns deles já instalados.\n\n![](https://enem.dev/2023-reaplicacao/questions/144/54d2bedb-014e-438f-b813-e944eeee0565.png)\n\nFigura 1\n\nDisponível em: www.alfasinalizacao.com.br. Acesso em: 28 nov. 2021 (adaptado). O modelo geométrico de um tachão está representado na Figura 2. Ele é formado por duas faces retangulares paralelas e quatro faces trapezoidais. Suas arestas laterais, se prolongadas, concorrem em um mesmo ponto.\n\nFigura 2",
     "files": [
         "https://enem.dev/2023-reaplicacao/questions/144/54d2bedb-014e-438f-b813-e944eeee0565.png"
     ],
     "correctAlternative": "E",
-    "alternativesIntroduction": "Qual é o sólido representado pelo modelo geométrico do tachão? A",
+    "alternativesIntroduction": "Qual é o sólido representado pelo modelo geométrico do tachão?",
     "alternatives": [
         {
             "letter": "A",
-            "text": "Paralelepípedo reto. B",
+            "text": "Paralelepípedo reto.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "Paralelepípedo oblíquo. C",
+            "text": "Paralelepípedo oblíquo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "Pirâmide quadrangular. D",
+            "text": "Pirâmide quadrangular.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "Tronco de pirâmide hexagonal. E",
+            "text": "Tronco de pirâmide hexagonal.",
             "file": null,
             "isCorrect": false
         },

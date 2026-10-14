@@ -4,7 +4,7 @@
     "year": 2024,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Uma ambulância em alta velocidade com a sirene ligada\ndesloca-se em direção a um radar operado por uma pessoa.\nO radar emite ondas de rádio com frequência f0 que são\nrefletidas pela dianteira da ambulância, retornando para\no detector com frequência fr. A percepção do operador do\nradar, em relação ao som emitido pela sirene, é de que\neste se altera à medida que a ambulância se aproxima\nou se afasta.",
+    "context": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f0 que são refletidas pela dianteira da ambulância, retornando para o detector com frequência fr. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências fr e f0 medidas pelo radar?",

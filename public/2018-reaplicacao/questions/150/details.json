@@ -4,7 +4,7 @@
     "year": 2018,
     "language": null,
     "discipline": "matematica",
-    "context": "A quantidade x de peças, em milhar, produzidas e o\nfaturamento y, em milhar de real, de uma empresa estão\nrepresentados nos gráficos, ambos em função do número t\nde horas trabalhadas por seus funcionários.\n\nx\n\n0\n1\n3\nt\n\ny\n\n0\n1\n2\nt",
+    "context": "A quantidade x de peças, em milhar, produzidas e o faturamento y, em milhar de real, de uma empresa estão representados nos gráficos, ambos em função do número t de horas trabalhadas por seus funcionários.\n\nx\n\n0\n1\n3\nt\n\ny\n\n0\n1\n2\nt",
     "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "O número de peças que devem ser produzidas para se obter um faturamento de R$ 10 000,00 é",

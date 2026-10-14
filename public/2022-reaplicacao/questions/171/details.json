@@ -4,32 +4,32 @@
     "year": 2022,
     "language": null,
     "discipline": "matematica",
-    "context": "O chocolate é um dos alimentos mais apreciados\ne desejados do mundo. Uma loja especializada nesse\nproduto oferece uma promoção para os bombons, que\ncustam R$ 2,00 cada. Cada cliente tem x% de desconto\nna compra de x bombons. A promoção é válida para a\ncompra de até 40 bombons, ou seja, 40% é o desconto\nmáximo possível. Queremos escrever uma expressão\npara V em função de x, com x ≤40 .\nQual é a expressão do valor V, em reais, na compra de x\nbombons da promoção, por cliente?",
+    "context": "O chocolate é um dos alimentos mais apreciados e desejados do mundo. Uma loja especializada nesse produto oferece uma promoção para os bombons, que custam R$ 2,00 cada. Cada cliente tem x% de desconto na compra de x bombons. A promoção é válida para a compra de até 40 bombons, ou seja, 40% é o desconto máximo possível. Queremos escrever uma expressão para V em função de x, com x ≤40 .\nQual é a expressão do valor V, em reais, na compra de x bombons da promoção, por cliente?",
     "files": [],
     "correctAlternative": "C",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "V x = 1 B",
+            "text": "V x = 1",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "V x 2 1 50 C",
+            "text": "V x 2 1 50",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "V x x 2 1 50 D",
+            "text": "V x x 2 1 50",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "D",
-            "text": "V x x 1 100 E",
+            "text": "V x x 1 100",
             "file": null,
             "isCorrect": false
         },

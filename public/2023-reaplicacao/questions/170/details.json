@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma piscina de um clube tem o formato de\nparalelepípedo reto retângulo com 50 m de comprimento,\n25 m de largura e 3 m de profundidade. O proprietário\ndo clube construirá duas novas piscinas, de formatos\ndiferentes, e necessita que cada uma tenha o mesmo volume\nda existente ou o mais próximo possível desse volume.\nA empresa de construção contratada disponibilizou,\npara a avaliação desse proprietário, uma proposta com\ncinco projetos de piscina: três com o formato de cilindro\ncircular reto e duas com o formato de paralelepípedo\nreto retângulo:\n\n•\t piscina cilíndrica I (C1): 50 m de diâmetro de base\ne 2 m de profundidade;\n\n•\t piscina cilíndrica II (C2): 40 m de diâmetro de base\ne 3 m de profundidade;\n\n•\t piscina cilíndrica III (C3): 46 m de diâmetro de base\ne 2,5 m de profundidade;\n\n•\t piscina em formato de paralelepípedo I (P1): 62 m de\ncomprimento, 24 m de largura e 2 m de profundidade;\n\n•\t piscina em formato de paralelepípedo II (P2):\n64 m de comprimento, 30 m de largura e 2 m\nde profundidade.\n\nConsidere 3 como valor aproximado de π.\n\nPara atender às suas necessidades, dentre os projetos\npropostos, o proprietário desse clube deverá escolher\nas piscinas",
+    "context": "Uma piscina de um clube tem o formato de paralelepípedo reto retângulo com 50 m de comprimento, 25 m de largura e 3 m de profundidade. O proprietário do clube construirá duas novas piscinas, de formatos diferentes, e necessita que cada uma tenha o mesmo volume da existente ou o mais próximo possível desse volume. A empresa de construção contratada disponibilizou, para a avaliação desse proprietário, uma proposta com cinco projetos de piscina: três com o formato de cilindro circular reto e duas com o formato de paralelepípedo reto retângulo:\n\n•\t piscina cilíndrica I (C1): 50 m de diâmetro de base e 2 m de profundidade;\n\n•\t piscina cilíndrica II (C2): 40 m de diâmetro de base e 3 m de profundidade;\n\n•\t piscina cilíndrica III (C3): 46 m de diâmetro de base e 2,5 m de profundidade;\n\n•\t piscina em formato de paralelepípedo I (P1): 62 m de comprimento, 24 m de largura e 2 m de profundidade;\n\n•\t piscina em formato de paralelepípedo II (P2): 64 m de comprimento, 30 m de largura e 2 m\nde profundidade.\n\nConsidere 3 como valor aproximado de π.\n\nPara atender às suas necessidades, dentre os projetos propostos, o proprietário desse clube deverá escolher as piscinas",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "C1 e P2. B",
+            "text": "C1 e P2.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "C1 e C3. C",
+            "text": "C1 e C3.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "C2 e P1. D",
+            "text": "C2 e P1.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "C3 e P2. E",
+            "text": "C3 e P2.",
             "file": null,
             "isCorrect": false
         },

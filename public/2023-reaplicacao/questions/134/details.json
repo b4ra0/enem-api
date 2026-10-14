@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "No manual de bolso sobre a sífilis, disponibilizado\ngratuitamente pelo Ministério da Saúde, é informado que a\nsífilis congênita é resultado da disseminação hematogênica\ndo Treponema pallidum, presente no sangue da gestante\ninfectada. A falta de tratamento ou tratamento inadequado\ndurante o período embrionário causa a transmissão vertical\npor via transplacentária.\n\nManual de bolso — sífilis. Disponível em: http://bvsms.saude.gov.br.\n\nAcesso em: 10 fev. 2012 (adaptado).\n\nConsidere uma gestante que descobre, no primeiro mês\nde gravidez, estar contaminada por essa bactéria. Para\ndiminuir a chance de contaminação do feto, a gestante\ndeverá",
+    "context": "No manual de bolso sobre a sífilis, disponibilizado gratuitamente pelo Ministério da Saúde, é informado que a sífilis congênita é resultado da disseminação hematogênica do Treponema pallidum, presente no sangue da gestante infectada. A falta de tratamento ou tratamento inadequado durante o período embrionário causa a transmissão vertical por via transplacentária.\n\nManual de bolso — sífilis. Disponível em: http://bvsms.saude.gov.br.\n\nAcesso em: 10 fev. 2012 (adaptado).\n\nConsidere uma gestante que descobre, no primeiro mês de gravidez, estar contaminada por essa bactéria. Para diminuir a chance de contaminação do feto, a gestante deverá",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "realizar um transplante de placenta. B",
+            "text": "realizar um transplante de placenta.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "tratar por via transplacentária o embrião. C",
+            "text": "tratar por via transplacentária o embrião.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "fazer exames sorológicos durante a gestação. D",
+            "text": "fazer exames sorológicos durante a gestação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "eliminar o quanto antes o parasita de seu sangue. E",
+            "text": "eliminar o quanto antes o parasita de seu sangue.",
             "file": null,
             "isCorrect": true
         },

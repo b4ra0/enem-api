@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "A Caatinga está em risco: estudo revela que 59% da\nvegetação natural desse bioma já sofreram algum tipo\nde modificação por atividades humanas. Um problema\nque esse bioma enfrenta é o fenômeno da desertificação.\nSegundo cientistas, à medida que a agricultura avança\nna região, esse fenômeno ganha maiores proporções.\nPara os cientistas, essa constatação evidencia a grande\nnecessidade de medidas urgentes para a preservação\nda Caatinga, que hoje só tem 1% de sua área inclusa em\nunidades de conservação.\n\nFERRAZ, M. Caatinga, muito prazer. Ciência Hoje, n. 251, 2008 (adaptado).",
+    "context": "A Caatinga está em risco: estudo revela que 59% da vegetação natural desse bioma já sofreram algum tipo de modificação por atividades humanas. Um problema que esse bioma enfrenta é o fenômeno da desertificação. Segundo cientistas, à medida que a agricultura avança na região, esse fenômeno ganha maiores proporções. Para os cientistas, essa constatação evidencia a grande necessidade de medidas urgentes para a preservação da Caatinga, que hoje só tem 1% de sua área inclusa em unidades de conservação.\n\nFERRAZ, M. Caatinga, muito prazer. Ciência Hoje, n. 251, 2008 (adaptado).",
     "files": [],
     "correctAlternative": "E",
-    "alternativesIntroduction": "A Caatinga pode ser considerada um ambiente frágil, onde a desertificação A",
+    "alternativesIntroduction": "A Caatinga pode ser considerada um ambiente frágil, onde a desertificação",
     "alternatives": [
         {
             "letter": "A",
-            "text": "ocorre devido à presença de solos ricos em nutrientes, porém rasos. B",
+            "text": "ocorre devido à presença de solos ricos em nutrientes, porém rasos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "ocorre devido à presença de um lençol freático extenso, porém raso. C",
+            "text": "ocorre devido à presença de um lençol freático extenso, porém raso.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "deverá regredir nos próximos anos devido ao regime de chuvas da região. D",
+            "text": "deverá regredir nos próximos anos devido ao regime de chuvas da região.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "é um problema de pouca importância, pois atinge poucas regiões do bioma. E",
+            "text": "é um problema de pouca importância, pois atinge poucas regiões do bioma.",
             "file": null,
             "isCorrect": false
         },

@@ -7,29 +7,29 @@
     "context": null,
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "Os aeroportos apresentam regras rígidas para despacho de bagagem. No caso de embarque nacional, algumas companhias aéreas ainda não cobravam, até 2017, por unidade de bagagem despachada, limitada a 23 kg por passageiro. Uma pessoa irá viajar com uma única mala. Como não quer pagar por “excesso de peso” e dispõe, em casa, de uma balança de pêndulo que apresenta um erro máximo de 8% a mais em relação à massa real do objeto que nela for verificada, conferirá qual a massa de sua mala antes de ir para o aeroporto. O valor máximo, em quilograma, indicado em sua balança deverá ser A",
+    "alternativesIntroduction": "Os aeroportos apresentam regras rígidas para despacho de bagagem. No caso de embarque nacional, algumas companhias aéreas ainda não cobravam, até 2017, por unidade de bagagem despachada, limitada a 23 kg por passageiro. Uma pessoa irá viajar com uma única mala. Como não quer pagar por “excesso de peso” e dispõe, em casa, de uma balança de pêndulo que apresenta um erro máximo de 8% a mais em relação à massa real do objeto que nela for verificada, conferirá qual a massa de sua mala antes de ir para o aeroporto. O valor máximo, em quilograma, indicado em sua balança deverá ser",
     "alternatives": [
         {
             "letter": "A",
-            "text": "21,16. B",
+            "text": "21,16.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "22,08. C",
+            "text": "22,08.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "23,92. D",
+            "text": "23,92.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "24,84. E",
+            "text": "24,84.",
             "file": null,
             "isCorrect": true
         },

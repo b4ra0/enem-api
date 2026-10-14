@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "linguagens",
-    "context": "A animação Vida Maria\n\nProduzido em computação gráfica 3D e finalizado\nem 35 mm, o curta-metragem mostra personagens e\ncenários modelados com texturas e cores pesquisadas\ne capturadas no sertão cearense, no Nordeste do Brasil,\ncriando uma atmosfera realista e humanizada.\n\nO filme nos mostra a história da rotina da personagem\nMaria José, uma menina de cinco anos de idade que\nse diverte aprendendo a escrever o nome, mas que é\nobrigada pela mãe a abandonar os estudos e começar a\ncuidar dos afazeres domésticos e trabalhar na roça.\n\nEnquanto trabalha, ela cresce, casa e tem filhos e\ndepois envelhece, e o ciclo continua a se reproduzir nas\noutras Marias suas filhas, netas e bisnetas.\n\nDisponível em: www.revistaprosaversoearte.com. Acesso em: 1 nov. 2021.",
+    "context": "A animação Vida Maria\n\nProduzido em computação gráfica 3D e finalizado em 35 mm, o curta-metragem mostra personagens e cenários modelados com texturas e cores pesquisadas e capturadas no sertão cearense, no Nordeste do Brasil, criando uma atmosfera realista e humanizada.\n\nO filme nos mostra a história da rotina da personagem Maria José, uma menina de cinco anos de idade que se diverte aprendendo a escrever o nome, mas que é obrigada pela mãe a abandonar os estudos e começar a cuidar dos afazeres domésticos e trabalhar na roça.\n\nEnquanto trabalha, ela cresce, casa e tem filhos e depois envelhece, e o ciclo continua a se reproduzir nas outras Marias suas filhas, netas e bisnetas.\n\nDisponível em: www.revistaprosaversoearte.com. Acesso em: 1 nov. 2021.",
     "files": [],
     "correctAlternative": "B",
-    "alternativesIntroduction": "Esse fragmento é caracterizado como gênero sinopse, pois apresenta A",
+    "alternativesIntroduction": "Esse fragmento é caracterizado como gênero sinopse, pois apresenta",
     "alternatives": [
         {
             "letter": "A",
-            "text": "posicionamento da revista sobre a produção da animação. B",
+            "text": "posicionamento da revista sobre a produção da animação.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "relato da história abordada no curta-metragem. C",
+            "text": "relato da história abordada no curta-metragem.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "C",
-            "text": "acontecimentos do cotidiano de uma família. D",
+            "text": "acontecimentos do cotidiano de uma família.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "história sucinta com poucos personagens. E",
+            "text": "história sucinta com poucos personagens.",
             "file": null,
             "isCorrect": false
         },

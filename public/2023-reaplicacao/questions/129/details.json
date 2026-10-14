@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Fatores como introdução de espécies exóticas,\ndestruição de hábitats e caça predatória têm como\nimpacto a perda de biodiversidade. Isso tem como possível\nconsequência a redução do potencial para gerar alimentos\ne produzir medicamentos.\n\nUma medida efetiva para a redução desse impacto é o(a)",
+    "context": "Fatores como introdução de espécies exóticas, destruição de hábitats e caça predatória têm como impacto a perda de biodiversidade. Isso tem como possível consequência a redução do potencial para gerar alimentos e produzir medicamentos.\n\nUma medida efetiva para a redução desse impacto é o(a)",
     "files": [],
     "correctAlternative": "A",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "plantio de espécies nativas. B",
+            "text": "plantio de espécies nativas.",
             "file": null,
             "isCorrect": true
         },
         {
             "letter": "B",
-            "text": "promoção de endocruzamentos. C",
+            "text": "promoção de endocruzamentos.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "criação de espécies em cativeiro. D",
+            "text": "criação de espécies em cativeiro.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "isolamento de fragmentos de matas nativas. E",
+            "text": "isolamento de fragmentos de matas nativas.",
             "file": null,
             "isCorrect": false
         },

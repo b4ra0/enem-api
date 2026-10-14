@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Com o objetivo de demonstrar a transferência\nde energia de um sistema para outro, um professor\nsolicitou a seus alunos que determinassem o calor\nde combustão de alguns alimentos e, para auxiliar\nnessa tarefa, forneceu um quadro que apresenta cinco\nalimentos identificados por números e seus respectivos\ncalores de combustão.\n\nAlimento\nCalor de combustão (cal/g)\n\nI\n15\n\nII\n120\n\nIII\n160\n\nIV\n240\n\nV\n400\n\nPosteriormente, entregou uma amostra de 0,5 g de\num alimento indeterminado a um dos estudantes, que\nrealizou o seguinte procedimento experimental: colocou\n4 mL de água em um tubo de ensaio e mediu a temperatura,\nencontrando 20 °C. Em seguida, o estudante queimou o\nalimento recebido, abaixo do tubo de ensaio contendo a\nágua, o que elevou a temperatura da água para 50 °C.\nConsidere que, nas condições do experimento, a perda de\ncalor para o ambiente é desprezível e o calor específico\nda água e sua densidade são, respectivamente,\n1 cal/(g °C) e 1 g/mL.\n\nQual alimento do quadro o estudante recebeu do professor?",
+    "context": "Com o objetivo de demonstrar a transferência de energia de um sistema para outro, um professor solicitou a seus alunos que determinassem o calor de combustão de alguns alimentos e, para auxiliar nessa tarefa, forneceu um quadro que apresenta cinco alimentos identificados por números e seus respectivos calores de combustão.\n\nAlimento\nCalor de combustão (cal/g)\n\nI\n15\n\nII\n120\n\nIII\n160\n\nIV\n240\n\nV\n400\n\nPosteriormente, entregou uma amostra de 0,5 g de um alimento indeterminado a um dos estudantes, que realizou o seguinte procedimento experimental: colocou 4 mL de água em um tubo de ensaio e mediu a temperatura, encontrando 20 °C. Em seguida, o estudante queimou o alimento recebido, abaixo do tubo de ensaio contendo a água, o que elevou a temperatura da água para 50 °C. Considere que, nas condições do experimento, a perda de calor para o ambiente é desprezível e o calor específico da água e sua densidade são, respectivamente, 1 cal/(g °C) e 1 g/mL.\n\nQual alimento do quadro o estudante recebeu do professor?",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "I B",
+            "text": "I",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "II C",
+            "text": "II",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "III D",
+            "text": "III",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "IV E",
+            "text": "IV",
             "file": null,
             "isCorrect": true
         },

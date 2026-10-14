@@ -4,7 +4,7 @@
     "year": 2019,
     "language": null,
     "discipline": "matematica",
-    "context": "Uma empresa divide o balanço anual de vendas de\nseus produtos em duas partes, calculando o número de\nvendas dos produtos ao final de cada semestre do ano.\nApós o balanço do primeiro semestre, foram realizadas\nações de marketing para os cinco produtos menos vendidos\nda empresa. A tabela mostra a evolução das vendas desses\nprodutos, do primeiro para o segundo semestre.\n\nNúmero de unidades\n\nNúmero de unidades\n\nProduto\n\nvendidas no\nprimeiro semestre\n\nvendidas no\nsegundo semestre\n\nI\n350\n600\n\nII\n1 000\n1 100\n\nIII\n4 000\n4 500\n\nIV\n850\n1 200\n\nV\n2 000\n2 600",
+    "context": "Uma empresa divide o balanço anual de vendas de seus produtos em duas partes, calculando o número de vendas dos produtos ao final de cada semestre do ano. Após o balanço do primeiro semestre, foram realizadas ações de marketing para os cinco produtos menos vendidos da empresa. A tabela mostra a evolução das vendas desses produtos, do primeiro para o segundo semestre.\n\nNúmero de unidades\n\nNúmero de unidades\n\nProduto\n\nvendidas no\nprimeiro semestre\n\nvendidas no\nsegundo semestre\n\nI\n350\n600\n\nII\n1 000\n1 100\n\nIII\n4 000\n4 500\n\nIV\n850\n1 200\n\nV\n2 000\n2 600",
     "files": [],
     "correctAlternative": "A",
     "alternativesIntroduction": "O sucesso de uma ação de marketing de um produto é medido pelo aumento percentual do número de unidades vendidas desse produto, do primeiro para o segundo semestre. A ação de marketing mais bem-sucedida foi para o produto",

@@ -4,32 +4,32 @@
     "year": 2023,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "A incapacidade de perceber certas cores é\ndenominada daltonismo. Um tipo raro é classificado\nde tritanomalia e corresponde a um defeito nos cones\nsensíveis à cor azul. O gene responsável pela herança\nsitua-se no cromossomo 7, permitindo que homens e\nmulheres sejam igualmente afetados. Além disso, casais\nsem tritanomalia podem ter crianças com a herança.\n\nO padrão dessa herança rara é",
+    "context": "A incapacidade de perceber certas cores é denominada daltonismo. Um tipo raro é classificado de tritanomalia e corresponde a um defeito nos cones sensíveis à cor azul. O gene responsável pela herança situa-se no cromossomo 7, permitindo que homens e mulheres sejam igualmente afetados. Além disso, casais sem tritanomalia podem ter crianças com a herança.\n\nO padrão dessa herança rara é",
     "files": [],
     "correctAlternative": "D",
-    "alternativesIntroduction": "A",
+    "alternativesIntroduction": null,
     "alternatives": [
         {
             "letter": "A",
-            "text": "ligado ao X e recessivo. B",
+            "text": "ligado ao X e recessivo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "B",
-            "text": "ligado ao Y e recessivo. C",
+            "text": "ligado ao Y e recessivo.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "C",
-            "text": "ligado ao X e dominante. D",
+            "text": "ligado ao X e dominante.",
             "file": null,
             "isCorrect": false
         },
         {
             "letter": "D",
-            "text": "autossômico e recessivo. E",
+            "text": "autossômico e recessivo.",
             "file": null,
             "isCorrect": true
         },
