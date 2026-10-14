@@ -46,3 +46,7 @@ export const SubjectSchema = z
     });
 
 export const subjects = z.array(SubjectSchema).parse(taxonomy);
+
+export const DisciplineValues = Array.from(
+    new Set(taxonomy.map(subject => subject.discipline)),
+) as [string, ...string[]];
