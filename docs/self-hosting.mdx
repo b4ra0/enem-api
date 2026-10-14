@@ -83,3 +83,22 @@ Você pode clonar o repositório deste projeto e fazer o deploy da API com um cl
 
 Pronto! Agora você pode acessar a API em `http://localhost:3000`.
 
+## Docker
+
+O repositório inclui um `Dockerfile` (Next.js em modo *standalone*, sem banco de dados). Para construir e executar:
+
+```bash
+docker build -t enem-api .
+docker run --rm -p 3000:3000 -e RATE_LIMIT_DISABLED=true enem-api
+```
+
+Variáveis de ambiente úteis:
+
+| Variável | Padrão | Descrição |
+|---|---|---|
+| `RATE_LIMIT_MAX_REQUESTS` | `10` | Requisições permitidas por janela, por rota e por IP (`0` desliga) |
+| `RATE_LIMIT_WINDOW_MS` | `10000` | Tamanho da janela, em milissegundos |
+| `RATE_LIMIT_DISABLED` | — | `true` desliga o limite por completo |
+| `DATABASE_URL` | — | Opcional. Sem ela, o registro de logs de acesso é desativado |
+
+> O script `pnpm build` executa `prisma migrate deploy` e exige um banco de dados. O `Dockerfile` usa `prisma generate && next build`, sem migrações.
