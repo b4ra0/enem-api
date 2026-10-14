@@ -4,7 +4,7 @@
     "year": 2022,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "Os combustíveis são materiais utilizados na produção de energia que, dependendo da sua composição, podem produzir diferentes substâncias. Por exemplo, numa queima completa, o hidrogênio se transforma em H2O; e o carbono, em CO2.\n\nO quadro apresenta as entalpias de combustão de alguns combustíveis nas condições padrão.\n\nmol\n\nkJ\n\nCombustível\nFórmula\nEntalpia padrão de\n\n\u001b\u001a\n\ncombustão\n\nCarbono\nC\n-394\n\nEtino\nC2H2\n-1 300\n\nPropano\nC3H8\n-2 220\n\nButano\nC4H10\n-2 878\n\nOctano\nC8H18\n-5 471\n\nATKINS, P.; JONES, L.; LAVERMAN, L. Princípios de química: questionando a vida\n\nmoderna e o meio ambiente. São Paulo: Bookman, 2018 (adaptado).\n\nVisando a redução do impacto ambiental, qual dos combustíveis listados libera maior quantidade de energia com menor produção de CO2?",
+    "context": "Os combustíveis são materiais utilizados na produção de energia que, dependendo da sua composição, podem produzir diferentes substâncias. Por exemplo, numa queima completa, o hidrogênio se transforma em H2O; e o carbono, em CO2.\n\nO quadro apresenta as entalpias de combustão de alguns combustíveis nas condições padrão.\n\nmol\n\nkJ\n\nCombustível\nFórmula\nEntalpia padrão de\n\ncombustão\n\nCarbono\nC\n-394\n\nEtino\nC2H2\n-1 300\n\nPropano\nC3H8\n-2 220\n\nButano\nC4H10\n-2 878\n\nOctano\nC8H18\n-5 471\n\nATKINS, P.; JONES, L.; LAVERMAN, L. Princípios de química: questionando a vida\n\nmoderna e o meio ambiente. São Paulo: Bookman, 2018 (adaptado).\n\nVisando a redução do impacto ambiental, qual dos combustíveis listados libera maior quantidade de energia com menor produção de CO2?",
     "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": null,
@@ -35,7 +35,7 @@
         },
         {
             "letter": "E",
-            "text": "Octano. 4 CN - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "text": "Octano.",
             "file": null,
             "isCorrect": false
         }

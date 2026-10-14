@@ -493,12 +493,6 @@
             "language": null
         },
         {
-            "title": "Questão 73 - ENEM 2023",
-            "index": 73,
-            "discipline": "ciencias-humanas",
-            "language": null
-        },
-        {
             "title": "Questão 75 - ENEM 2023",
             "index": 75,
             "discipline": "ciencias-humanas",
@@ -663,12 +657,6 @@
         {
             "title": "Questão 102 - ENEM 2023",
             "index": 102,
-            "discipline": "ciencias-natureza",
-            "language": null
-        },
-        {
-            "title": "Questão 103 - ENEM 2023",
-            "index": 103,
             "discipline": "ciencias-natureza",
             "language": null
         },
@@ -853,12 +841,6 @@
             "language": null
         },
         {
-            "title": "Questão 136 - ENEM 2023",
-            "index": 136,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 137 - ENEM 2023",
             "index": 137,
             "discipline": "matematica",
@@ -885,12 +867,6 @@
         {
             "title": "Questão 141 - ENEM 2023",
             "index": 141,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 142 - ENEM 2023",
-            "index": 142,
             "discipline": "matematica",
             "language": null
         },
@@ -925,18 +901,6 @@
             "language": null
         },
         {
-            "title": "Questão 150 - ENEM 2023",
-            "index": 150,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 151 - ENEM 2023",
-            "index": 151,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 153 - ENEM 2023",
             "index": 153,
             "discipline": "matematica",
@@ -955,12 +919,6 @@
             "language": null
         },
         {
-            "title": "Questão 158 - ENEM 2023",
-            "index": 158,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 160 - ENEM 2023",
             "index": 160,
             "discipline": "matematica",
@@ -969,12 +927,6 @@
         {
             "title": "Questão 161 - ENEM 2023",
             "index": 161,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 162 - ENEM 2023",
-            "index": 162,
             "discipline": "matematica",
             "language": null
         },
@@ -1033,18 +985,6 @@
             "language": null
         },
         {
-            "title": "Questão 172 - ENEM 2023",
-            "index": 172,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 173 - ENEM 2023",
-            "index": 173,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 174 - ENEM 2023",
             "index": 174,
             "discipline": "matematica",
@@ -1065,18 +1005,6 @@
         {
             "title": "Questão 177 - ENEM 2023",
             "index": 177,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 178 - ENEM 2023",
-            "index": 178,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 179 - ENEM 2023",
-            "index": 179,
             "discipline": "matematica",
             "language": null
         }

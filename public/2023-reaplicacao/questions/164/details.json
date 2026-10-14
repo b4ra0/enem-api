@@ -4,7 +4,7 @@
     "year": 2023,
     "language": null,
     "discipline": "matematica",
-    "context": "Para o tratamento de uma doença específica, existem disponíveis no mercado somente quatro medicamentos, que são comercializados em versões diferentes.\n\n•\t Medicamento I: caixa com 25 comprimidos, com preço de R$ 50,00.\n\n•\t Medicamento II: caixa com 30 comprimidos, com preço de R$ 48,00.\n\n•\t Medicamento III: caixa com 40 comprimidos, com preço de R$ 60,00.\n\n•\t Medicamento IV: caixa com 60 comprimidos, com preço de R$ 100,00.\n\nUm laboratório lançou um novo medicamento, chamado Z, para o tratamento dessa doença. Visando tornar esse medicamento competitivo economicamente, o laboratório decidiu fixar um preço que apresente o menor valor por comprimido em relação aos medicamentos já existentes.\n\nO preço máximo, por comprimido, do medicamento Z será",
+    "context": "Para o tratamento de uma doença específica, existem disponíveis no mercado somente quatro medicamentos, que são comercializados em versões diferentes.\n\n• Medicamento I: caixa com 25 comprimidos, com\npreço de R$ 50,00.\n\n• Medicamento II: caixa com 30 comprimidos, com preço de R$ 48,00.\n\n• Medicamento III: caixa com 40 comprimidos, com preço de R$ 60,00.\n\n• Medicamento IV: caixa com 60 comprimidos, com preço de R$ 100,00.\n\nUm laboratório lançou um novo medicamento, chamado Z, para o tratamento dessa doença. Visando tornar esse medicamento competitivo economicamente, o laboratório decidiu fixar um preço que apresente o menor valor por comprimido em relação aos medicamentos já existentes.\n\nO preço máximo, por comprimido, do medicamento Z será",
     "files": [],
     "correctAlternative": "B",
     "alternativesIntroduction": null,

@@ -775,12 +775,6 @@
             "language": null
         },
         {
-            "title": "Questão 121 - ENEM 2024",
-            "index": 121,
-            "discipline": "ciencias-natureza",
-            "language": null
-        },
-        {
             "title": "Questão 122 - ENEM 2024",
             "index": 122,
             "discipline": "ciencias-natureza",
@@ -961,12 +955,6 @@
             "language": null
         },
         {
-            "title": "Questão 154 - ENEM 2024",
-            "index": 154,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 155 - ENEM 2024",
             "index": 155,
             "discipline": "matematica",
@@ -1039,18 +1027,6 @@
             "language": null
         },
         {
-            "title": "Questão 170 - ENEM 2024",
-            "index": 170,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 171 - ENEM 2024",
-            "index": 171,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 172 - ENEM 2024",
             "index": 172,
             "discipline": "matematica",
@@ -1083,12 +1059,6 @@
         {
             "title": "Questão 178 - ENEM 2024",
             "index": 178,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 179 - ENEM 2024",
-            "index": 179,
             "discipline": "matematica",
             "language": null
         }

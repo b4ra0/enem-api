@@ -439,12 +439,6 @@
             "language": null
         },
         {
-            "title": "Questão 64 - ENEM 2018",
-            "index": 64,
-            "discipline": "ciencias-humanas",
-            "language": null
-        },
-        {
             "title": "Questão 65 - ENEM 2018",
             "index": 65,
             "discipline": "ciencias-humanas",
@@ -649,12 +643,6 @@
             "language": null
         },
         {
-            "title": "Questão 100 - ENEM 2018",
-            "index": 100,
-            "discipline": "ciencias-natureza",
-            "language": null
-        },
-        {
             "title": "Questão 101 - ENEM 2018",
             "index": 101,
             "discipline": "ciencias-natureza",
@@ -675,18 +663,6 @@
         {
             "title": "Questão 104 - ENEM 2018",
             "index": 104,
-            "discipline": "ciencias-natureza",
-            "language": null
-        },
-        {
-            "title": "Questão 105 - ENEM 2018",
-            "index": 105,
-            "discipline": "ciencias-natureza",
-            "language": null
-        },
-        {
-            "title": "Questão 106 - ENEM 2018",
-            "index": 106,
             "discipline": "ciencias-natureza",
             "language": null
         },
@@ -865,18 +841,6 @@
             "language": null
         },
         {
-            "title": "Questão 136 - ENEM 2018",
-            "index": 136,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 137 - ENEM 2018",
-            "index": 137,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 141 - ENEM 2018",
             "index": 141,
             "discipline": "matematica",
@@ -885,12 +849,6 @@
         {
             "title": "Questão 143 - ENEM 2018",
             "index": 143,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 144 - ENEM 2018",
-            "index": 144,
             "discipline": "matematica",
             "language": null
         },
@@ -915,12 +873,6 @@
         {
             "title": "Questão 148 - ENEM 2018",
             "index": 148,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 150 - ENEM 2018",
-            "index": 150,
             "discipline": "matematica",
             "language": null
         },
@@ -979,12 +931,6 @@
             "language": null
         },
         {
-            "title": "Questão 161 - ENEM 2018",
-            "index": 161,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 162 - ENEM 2018",
             "index": 162,
             "discipline": "matematica",
@@ -1027,20 +973,8 @@
             "language": null
         },
         {
-            "title": "Questão 173 - ENEM 2018",
-            "index": 173,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
             "title": "Questão 174 - ENEM 2018",
             "index": 174,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 175 - ENEM 2018",
-            "index": 175,
             "discipline": "matematica",
             "language": null
         },
@@ -1053,12 +987,6 @@
         {
             "title": "Questão 178 - ENEM 2018",
             "index": 178,
-            "discipline": "matematica",
-            "language": null
-        },
-        {
-            "title": "Questão 179 - ENEM 2018",
-            "index": 179,
             "discipline": "matematica",
             "language": null
         },
