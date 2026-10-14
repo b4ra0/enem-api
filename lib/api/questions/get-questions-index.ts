@@ -36,7 +36,7 @@ function compareEntries(a: QuestionIndexEntry, b: QuestionIndexEntry) {
 async function loadQuestionsIndex(): Promise<QuestionsIndex> {
     const exams = await getExams();
     const details = await Promise.all(
-        exams.map(exam => getExamDetails(exam.year)),
+        exams.map(exam => getExamDetails({ year: exam.year })),
     );
 
     const entries = details

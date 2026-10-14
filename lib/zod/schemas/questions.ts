@@ -4,6 +4,7 @@ import {
     SubjectValues,
     TopicValues,
 } from '@/lib/zod/schemas/subjects';
+import { ApplicationQuerySchema } from '@/lib/zod/schemas/application';
 
 export const QuestionIndexPath = z.string().openapi({
     ref: 'index',
@@ -177,6 +178,7 @@ export const GetQuestionsQuerySchema = z.object({
         .optional()
         .describe('Filtrar por tópico')
         .openapi({ example: 'progressao-aritmetica' }),
+    application: ApplicationQuerySchema,
 });
 
 export const GetQuestionDetailsQuerySchema = z.object({
@@ -185,6 +187,7 @@ export const GetQuestionDetailsQuerySchema = z.object({
         .optional()
         .describe('O idioma desejado da questão')
         .openapi({ example: 'ingles' }),
+    application: ApplicationQuerySchema,
 });
 
 export const QuestionLanguageValues = ['ingles', 'espanhol'] as const;
