@@ -18,10 +18,18 @@ export function writeJson(filePath, data) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 4));
 }
 
+// Pasta de uma prova em `public/`: `2024` ou `2024-reaplicacao`.
+export const DATASET_PATTERN = /^\d{4}(-reaplicacao)?$/;
+
+export function datasetDir(year, application = 'regular') {
+    return application === 'reaplicacao' ? `${year}-reaplicacao` : `${year}`;
+}
+
+// Todas as provas, incluindo as reaplicações.
 export function listYears() {
     return fs
         .readdirSync(PUBLIC_DIR)
-        .filter(dir => /^\d{4}$/.test(dir))
+        .filter(dir => DATASET_PATTERN.test(dir))
         .sort();
 }
 
@@ -42,15 +50,16 @@ export function listQuestionFiles(year) {
 // primeiro dia começava por Natureza; de 2010 a 2016, por Humanas; a partir
 // de 2017 Linguagens passou para o primeiro dia.
 export function examSection(year, index) {
+    const examYear = parseInt(year, 10);
     const order =
-        Number(year) === 2009
+        examYear === 2009
             ? [
                   'ciencias-natureza',
                   'ciencias-humanas',
                   'linguagens',
                   'matematica',
               ]
-            : Number(year) <= 2016
+            : examYear <= 2016
               ? [
                     'ciencias-humanas',
                     'ciencias-natureza',
@@ -67,9 +76,16 @@ export function examSection(year, index) {
     return order[Math.min(3, Math.floor((index - 1) / 45))];
 }
 
-export function questionFilePath(year, index, language) {
+// `dataset` é a pasta da prova (ex.: 2024 ou 2024-reaplicacao).
+export function questionFilePath(dataset, index, language) {
     const dir = language ? `${index}-${language}` : `${index}`;
-    return path.join(PUBLIC_DIR, `${year}`, 'questions', dir, 'details.json');
+    return path.join(
+        PUBLIC_DIR,
+        `${dataset}`,
+        'questions',
+        dir,
+        'details.json',
+    );
 }
 
 // Retorna uma mensagem de erro se a classificação não seguir a taxonomia.
@@ -124,14 +140,14 @@ export function writeQuestionClassification(filePath, classification) {
     );
 }
 
-// Copia a classificação das questões para a lista em `public/{ano}/details.json`.
-export function updateExamDetails(year) {
-    const examPath = path.join(PUBLIC_DIR, `${year}`, 'details.json');
+// Copia a classificação das questões para a lista em `public/{prova}/details.json`.
+export function updateExamDetails(dataset) {
+    const examPath = path.join(PUBLIC_DIR, `${dataset}`, 'details.json');
     const exam = readJson(examPath);
 
     const classifications = new Map();
 
-    for (const filePath of listQuestionFiles(`${year}`)) {
+    for (const filePath of listQuestionFiles(`${dataset}`)) {
         const question = readJson(filePath);
 
         if (question.subject) {
@@ -156,7 +172,12 @@ export function updateExamDetails(year) {
 }
 
 export function writeReport(report) {
-    report.sort((a, b) => a.year - b.year || a.index - b.index);
+    report.sort(
+        (a, b) =>
+            a.year - b.year ||
+            (a.application ?? '').localeCompare(b.application ?? '') ||
+            a.index - b.index,
+    );
 
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
     const reportPath = path.join(

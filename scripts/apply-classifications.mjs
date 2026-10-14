@@ -11,6 +11,7 @@
 //   [
 //     {
 //       "year": 2020,
+//       "application": "regular",
 //       "index": 150,
 //       "language": null,
 //       "subject": "matematica",
@@ -20,11 +21,13 @@
 //     }
 //   ]
 //
+// `application` é opcional: "regular" (padrão) ou "reaplicacao".
 // `confidence` e `reason` são opcionais e vão só para o relatório.
 
 import fs from 'node:fs';
 import {
     readJson,
+    datasetDir,
     questionFilePath,
     validateClassification,
     subjectDiscipline,
@@ -44,19 +47,27 @@ if (inputFiles.length === 0) {
 
 const entries = inputFiles.flatMap(file => readJson(file));
 const report = [];
-const years = new Set();
+const datasets = new Set();
 
 for (const entry of entries) {
     const language = entry.language ?? null;
-    const label = `${entry.year} #${entry.index}${language ? ` (${language})` : ''}`;
-    const filePath = questionFilePath(entry.year, entry.index, language);
+    const application = entry.application ?? 'regular';
+    const dataset = datasetDir(entry.year, application);
+    const label = `${dataset} #${entry.index}${language ? ` (${language})` : ''}`;
+    const filePath = questionFilePath(dataset, entry.index, language);
 
     const error = !fs.existsSync(filePath)
         ? 'questão não encontrada'
         : validateClassification(entry);
 
     if (error) {
-        report.push({ year: entry.year, index: entry.index, language, error });
+        report.push({
+            year: entry.year,
+            application,
+            index: entry.index,
+            language,
+            error,
+        });
         console.error(`${label}: ERRO ${error}`);
         continue;
     }
@@ -66,11 +77,12 @@ for (const entry of entries) {
 
     if (!dryRun) {
         writeQuestionClassification(filePath, entry);
-        years.add(entry.year);
+        datasets.add(dataset);
     }
 
     report.push({
         year: entry.year,
+        application,
         index: entry.index,
         language,
         discipline: question.discipline,
@@ -88,8 +100,8 @@ for (const entry of entries) {
     }
 }
 
-for (const year of years) {
-    updateExamDetails(year);
+for (const dataset of datasets) {
+    updateExamDetails(dataset);
 }
 
 writeReport(report);

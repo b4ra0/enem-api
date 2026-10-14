@@ -3,6 +3,7 @@
 // Uso:
 //   node scripts/classify-questions.mjs 2020            # uma prova
 //   node scripts/classify-questions.mjs 2019 2020       # várias provas
+//   node scripts/classify-questions.mjs 2024-reaplicacao  # uma reaplicação
 //   node scripts/classify-questions.mjs --all           # todas as provas
 //
 // Opções:
@@ -28,6 +29,7 @@ import {
     TAXONOMY,
     readJson,
     examSection,
+    DATASET_PATTERN,
     listYears,
     listQuestionFiles,
     subjectDiscipline,
@@ -75,7 +77,7 @@ function parseArgs(argv) {
         else if (arg === '--concurrency') args.concurrency = Number(argv[++i]);
         else if (arg === '--model') args.model = argv[++i];
         else if (arg === '--effort') args.effort = argv[++i];
-        else if (/^\d{4}$/.test(arg)) args.years.push(arg);
+        else if (DATASET_PATTERN.test(arg)) args.years.push(arg);
         else throw new Error(`Argumento desconhecido: ${arg}`);
     }
 
