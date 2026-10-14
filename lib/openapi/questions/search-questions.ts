@@ -9,7 +9,7 @@ export const searchQuestions: ZodOpenApiOperationObject = {
     operationId: 'searchQuestions',
     summary: 'Buscar questões',
     description:
-        'Listar questões de todas as provas, filtrando por ano, disciplina, matéria, tópico e idioma, ou por uma lista de ids. Suporta ordem aleatória determinística (`random` + `seed`) e paginação por `limit`/`offset` sobre a lista filtrada.',
+        'Listar questões de todas as provas (aplicação regular e reaplicação), filtrando por ano, aplicação, disciplina, matéria, tópico e idioma, ou por uma lista de ids. Suporta ordem aleatória determinística (`random` + `seed`) e paginação por `limit`/`offset` sobre a lista filtrada.',
     requestParams: {
         query: SearchQuestionsQuerySchema,
     },

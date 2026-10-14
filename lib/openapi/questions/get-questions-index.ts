@@ -6,7 +6,7 @@ export const getQuestionsIndex: ZodOpenApiOperationObject = {
     operationId: 'getQuestionsIndex',
     summary: 'Índice de questões',
     description:
-        'Listar o índice de todas as questões de todas as provas, com seus metadados (ano, número, disciplina, idioma, matéria e tópicos), sem o enunciado',
+        'Listar o índice de todas as questões de todas as provas, incluindo as reaplicações, com seus metadados (ano, aplicação, número, disciplina, idioma, matéria e tópicos), sem o enunciado',
     responses: {
         '200': {
             description: 'Índice de questões',

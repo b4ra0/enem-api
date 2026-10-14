@@ -2,6 +2,7 @@ import z from '@/lib/zod';
 import { getExams } from '@/lib/api/exams/get-exams';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { QuestionIndexEntrySchema } from '@/lib/zod/schemas/questions';
+import { Application, ApplicationValues } from '@/lib/zod/schemas/application';
 
 export type QuestionIndexEntry = z.infer<typeof QuestionIndexEntrySchema>;
 
@@ -19,15 +20,20 @@ export function buildQuestionId(
     year: number,
     index: number,
     language: string | null,
+    application: Application = 'regular',
 ) {
-    return language ? `${year}-${index}-${language}` : `${year}-${index}`;
+    const exam =
+        application === 'reaplicacao' ? `${year}-reaplicacao` : `${year}`;
+    return language ? `${exam}-${index}-${language}` : `${exam}-${index}`;
 }
 
-// Ano decrescente, número crescente, variantes de idioma adjacentes
-// (sem idioma < espanhol < inglês).
+// Ano decrescente, aplicação regular antes da reaplicação, número
+// crescente e variantes de idioma adjacentes (sem idioma < espanhol < inglês).
 function compareEntries(a: QuestionIndexEntry, b: QuestionIndexEntry) {
     return (
         b.year - a.year ||
+        ApplicationValues.indexOf(a.application) -
+            ApplicationValues.indexOf(b.application) ||
         a.index - b.index ||
         languageRank(a.language) - languageRank(b.language)
     );
@@ -35,12 +41,22 @@ function compareEntries(a: QuestionIndexEntry, b: QuestionIndexEntry) {
 
 async function loadQuestionsIndex(): Promise<QuestionsIndex> {
     const exams = await getExams();
+    const sources = exams.flatMap(exam =>
+        ApplicationValues.map(application => ({
+            year: exam.year,
+            application,
+        })),
+    );
+    // Reaplicações inexistentes voltam como null e são ignoradas.
     const details = await Promise.all(
-        exams.map(exam => getExamDetails({ year: exam.year })),
+        sources.map(async source => ({
+            application: source.application,
+            exam: await getExamDetails(source),
+        })),
     );
 
     const entries = details
-        .flatMap(exam =>
+        .flatMap(({ application, exam }) =>
             exam
                 ? exam.questions.map(question =>
                       QuestionIndexEntrySchema.parse({
@@ -48,8 +64,10 @@ async function loadQuestionsIndex(): Promise<QuestionsIndex> {
                               exam.year,
                               question.index,
                               question.language,
+                              application,
                           ),
                           year: exam.year,
+                          application,
                           index: question.index,
                           discipline: question.discipline,
                           language: question.language,

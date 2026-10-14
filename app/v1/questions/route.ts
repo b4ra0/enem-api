@@ -16,6 +16,7 @@ import {
     generateSeed,
     seededShuffle,
 } from '@/lib/api/questions/seeded-shuffle';
+import { Application } from '@/lib/zod/schemas/application';
 import { RateLimiter } from '@/lib/api/rate-limit';
 import { logger } from '@/lib/api/logger';
 
@@ -77,6 +78,7 @@ export async function GET(request: NextRequest) {
         } else {
             const {
                 year,
+                application,
                 discipline,
                 subject,
                 topic,
@@ -100,6 +102,7 @@ export async function GET(request: NextRequest) {
             }
 
             const years = year && new Set(year);
+            const applications = application && new Set(application);
             const disciplines = discipline && new Set(discipline);
             const subjects = subject && new Set(subject);
             const topics = topic && new Set(topic);
@@ -107,6 +110,7 @@ export async function GET(request: NextRequest) {
             let filtered = entries.filter(
                 entry =>
                     (!years || years.has(entry.year)) &&
+                    (!applications || applications.has(entry.application)) &&
                     (!disciplines ||
                         (entry.discipline !== null &&
                             disciplines.has(entry.discipline))) &&
@@ -135,25 +139,29 @@ export async function GET(request: NextRequest) {
             };
         }
 
-        const questions: Array<z.infer<typeof QuestionDetailSchema>> =
-            await Promise.all(
-                selected.map(async entry => {
-                    const details = await getQuestionDetails({
-                        year: entry.year,
-                        index: entry.index,
-                        language: entry.language,
+        const questions: Array<
+            z.infer<typeof QuestionDetailSchema> & {
+                application: Application;
+            }
+        > = await Promise.all(
+            selected.map(async entry => {
+                const details = await getQuestionDetails({
+                    year: entry.year,
+                    index: entry.index,
+                    language: entry.language,
+                    application: entry.application,
+                });
+
+                if (!details) {
+                    throw new EnemApiError({
+                        code: 'internal_server_error',
+                        message: `Failed to fetch question ${entry.id}`,
                     });
+                }
 
-                    if (!details) {
-                        throw new EnemApiError({
-                            code: 'internal_server_error',
-                            message: `Failed to fetch question ${entry.id}`,
-                        });
-                    }
-
-                    return details;
-                }),
-            );
+                return { ...details, application: entry.application };
+            }),
+        );
 
         const cacheControl =
             query.random && !query.seed

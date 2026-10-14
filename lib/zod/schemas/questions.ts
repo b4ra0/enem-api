@@ -4,7 +4,11 @@ import {
     SubjectValues,
     TopicValues,
 } from '@/lib/zod/schemas/subjects';
-import { ApplicationQuerySchema } from '@/lib/zod/schemas/application';
+import {
+    ApplicationQuerySchema,
+    ApplicationSchema,
+    ApplicationValues,
+} from '@/lib/zod/schemas/application';
 
 export const QuestionIndexPath = z.string().openapi({
     ref: 'index',
@@ -194,9 +198,12 @@ export const QuestionLanguageValues = ['ingles', 'espanhol'] as const;
 
 export const QuestionIdSchema = z
     .string()
-    .regex(/^\d{4}-\d{1,3}(?:-(?:ingles|espanhol))?$/, 'Invalid question id')
+    .regex(
+        /^\d{4}(?:-reaplicacao)?-\d{1,3}(?:-(?:ingles|espanhol))?$/,
+        'Invalid question id',
+    )
     .describe(
-        'Identificador da questão: `{ano}-{numero}`, ou `{ano}-{numero}-{idioma}` para questões de língua estrangeira',
+        'Identificador da questão: `{ano}-{numero}`, com `-reaplicacao` depois do ano para a reaplicação e `-{idioma}` no fim para questões de língua estrangeira (ex.: `2024-reaplicacao-1-ingles`)',
     )
     .openapi({ example: '2020-1-ingles' });
 
@@ -209,6 +216,7 @@ export const QuestionIndexEntrySchema = z
             .positive()
             .describe('O ano em que a prova foi aplicada')
             .openapi({ example: 2020 }),
+        application: ApplicationSchema,
         index: z
             .number()
             .int()
@@ -292,6 +300,11 @@ export const SearchQuestionsQuerySchema = z.object({
             'Filtrar por tópico(s), separados por vírgula: a questão é incluída se abordar ao menos um deles',
         )
         .openapi({ example: 'progressao-aritmetica' }),
+    application: csvParam(z.enum(ApplicationValues))
+        .describe(
+            'Filtrar por aplicação, separadas por vírgula: `regular` e/ou `reaplicacao`',
+        )
+        .openapi({ example: 'regular' }),
     language: z
         .enum(QuestionLanguageValues)
         .default('espanhol')
@@ -341,6 +354,10 @@ export const SearchQuestionsResponseSchema = z.object({
             .openapi({ example: 'abc123' }),
     }),
     questions: z
-        .array(QuestionDetailSchema)
+        .array(
+            QuestionDetailSchema.extend({
+                application: ApplicationSchema,
+            }),
+        )
         .describe('As questões encontradas'),
 });
