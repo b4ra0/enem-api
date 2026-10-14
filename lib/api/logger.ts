@@ -3,7 +3,8 @@ import { ipAddress, geolocation } from '@vercel/functions';
 import { PrismaClient } from '@prisma/client';
 
 export async function logger(request: NextRequest) {
-    if (process.env.NODE_ENV === 'development') {
+    // Sem `DATABASE_URL` (ex.: self-hosting via Docker) o log é desativado.
+    if (process.env.NODE_ENV === 'development' || !process.env.DATABASE_URL) {
         return;
     }
 
